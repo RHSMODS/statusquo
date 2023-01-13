@@ -10,6 +10,7 @@
 * [RHS: Status Quo](arma-reforger/rhs-status-quo.md)
 * [EULA](arma-reforger/eula.md)
 * [Installation](arma-reforger/installation.md)
+* [Feedback](arma-reforger/feedback.md)
 * [Changelog](arma-reforger/changelog.md)
 * [BLUFOR](arma-reforger/blufor/README.md)
   * [What is BLUFOR?](arma-reforger/blufor/what-is-blufor.md)
