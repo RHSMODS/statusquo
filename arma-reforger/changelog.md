@@ -1,13 +1,13 @@
 # Changelog
 
 ```html
-<!--- comments syntax --->
+<!--- comments syntax1 --->
 ```
 
-<!--- hidden comments syntax --->
+<!--- hidden comments syntax3 --->
 
 ```html
-<!--- comments check --->
+<!--- comments check2 --->
 ```
 
 ## 0.2.336
