@@ -4,6 +4,12 @@
 <!--- comments syntax --->
 ```
 
+<!--- hidden comments syntax --->
+
+```html
+<!--- comments check --->
+```
+
 ## 0.2.336
 
 ### Added
