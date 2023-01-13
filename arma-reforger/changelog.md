@@ -1,10 +1,10 @@
 # Changelog
 
 ```html
-<!--- comments syntax1 --->
+<!--- comments syntax5 --->
 ```
 
-<!--- hidden comments syntax3 --->
+<!-- hidden comments syntax3 -->
 
 ```html
 <!--- comments check2 --->
