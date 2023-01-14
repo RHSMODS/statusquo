@@ -18,7 +18,7 @@ Now the recruitment bit 🙂 To make this happen we certainly need more new tale
 
 **Writers**: do you have some experience in developing exciting stories? Especially if you have experience in writing for games.
 
-**Web developers**: a new project begs to have a proper new web home. We are looking specifically for front end UI/UX experts that can design as well as implement. Tech is not so important but naturally HTML and CSS is a must with probable Javascript/Typescript knowledge. But things like Blazor are also cool. There will be a chance to collaborate on the backend which will probably be written in C# ASP NET Core.
+**Documentalist**: do you enjoy technical documentation? Help us keep the mod translated and documented on this site.&#x20;
 
 &#x20;
 
