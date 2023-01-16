@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # Team
 
 Throughout its 20 year of existence many have passed through the gates of RHS. Red Hammer Studios was established in 2003. Since then a lot of things have happened and this page shows and tells something about the people that made it happen and the events that they have been through.
@@ -93,6 +89,8 @@ In order of appearance...
 **SatisfactioN**
 
 **Vergy**
+
+**SpaceStrider**
 
 ## Historic
 
@@ -290,7 +288,6 @@ Paquito
 
 uralaz
 
-
 And many many more. Sadly, too much time has passed to remember everyone who has contributed to this project.
 
 ## Contributors And Testers
@@ -339,7 +336,7 @@ TEHGAM
 
 \[MCT]Stelz
 
-\[MCT]Suffer Cat 
+\[MCT]Suffer Cat
 
 \[SO]vosur
 
@@ -363,9 +360,9 @@ Kiory
 
 \[\~HA\~]Nyama
 
-\[\~HA\~]foxtrot 
+\[\~HA\~]foxtrot
 
-\[\~HA\~]Bandit 
+\[\~HA\~]Bandit
 
 \[\~HA\~]DeNis
 
@@ -411,7 +408,7 @@ Cleggy
 
 3CB
 
--Sapper-
+\-Sapper-
 
 пионер
 
