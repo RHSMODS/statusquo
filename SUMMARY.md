@@ -17,7 +17,14 @@
   * [Uniforms](arma-reforger/blufor/uniforms.md)
   * [Gadgets](arma-reforger/blufor/gadgets/README.md)
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
-* [REDFOR](arma-reforger/redfor.md)
+  * [Weapons](arma-reforger/blufor/weapons.md)
+  * [Vehicles](arma-reforger/blufor/vehicles.md)
+* [REDFOR](arma-reforger/redfor/README.md)
+  * [What is REDFOR?](arma-reforger/redfor/what-is-redfor.md)
+  * [Uniforms](arma-reforger/redfor/uniforms.md)
+  * [Gadgets](arma-reforger/redfor/gadgets.md)
+  * [Weapons](arma-reforger/redfor/weapons.md)
+  * [Vehicles](arma-reforger/redfor/vehicles.md)
 
 ## Arma 3
 
