@@ -1,16 +1,24 @@
+---
+description: >-
+  This document is regenerated automatically from our systems at a time of a
+  release.
+---
+
 # Changelog
 
-```html
-<!--- comments syntax5 --->
-```
+## 0.2.336
 
-<!-- hidden comments syntax3 -->
+{% hint style="info" %}
+### **Release Meta Information**
 
-```html
-<!--- comments check2 --->
-```
+_<mark style="color:red;">Built from Revision</mark>_<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 336
 
-## 0.2.336a
+_<mark style="color:red;">Date</mark>_<mark style="color:red;">:</mark> January 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 43
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 1 improvements, 1 fixes and 0 deletions. <mark style="color:red;"></mark>&#x20;
+{% endhint %}
 
 ### Added
 
