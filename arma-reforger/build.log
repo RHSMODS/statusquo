@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[2/1/2023 10:37:39 AM UTC | Revision 407 | spacestrider]
+
+[Added] 3UOF8 HEI Ammo to the K17
+
+[Added] Reload function to switch between HEI and APDSFS-T on K17
+
+[Improved] Lights on the K17
+
+[Removed] Epoch Commander seat to prevent crashes
+
+[Other] Fixed inheritance issues on K17 Turrets
+
+
+
 [1/31/2023 6:47:06 AM UTC | Revision 406 | Soul_Assassin]
 
 [Fixed] Fixed changelog stuff
