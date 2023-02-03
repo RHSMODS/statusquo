@@ -8,6 +8,151 @@ description: >-
 
 <!-- changelog insert -->
 
+## 0.2.411
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision</mark>_<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 411
+
+_<mark style="color:red;">Date</mark>_<mark style="color:red;">:</mark> Friday, February 3, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 61
+
+_<mark style="color:red;">Changes:</mark>_ 26 additions, 23 improvements, 7 fixes and 1 deletions. <mark style="color:red;"></mark>&#x20;
+{% endhint %}
+
+### Added
+
+
+[Added] Added WIP FROG Trousers, XOB files and textures. Built prefab for testing & added to Showcase_full scenario
+
+[Added] K17 Vehicle Prefab
+
+[Added] Simple vehicle testsite
+
+[Added] AGS-30 to K17
+
+[Added] Case ejection particle to 2A42
+
+[Added] Get in actions for hatches on K17
+
+[Added] Placeholder exhaust effect for K17
+
+[Added] Added WIP USMC Combat Boots, XOB files and WIP textures. Built prefab for testing.
+
+[Added] Added LODs to FROG_Trousers
+
+[Added] K17 Epoch Turret
+
+[Added] Added 3M PELTOR ComTac VI
+
+[Added] LShZ textures
+
+[Added] High cut LShZ
+
+[Added] LShZ with 3M
+
+[Added] Lights to K17
+
+[Added] Balaclava for LShZ
+
+[Added] K17 to GameMaster
+
+[Added] Peltor arc adapter
+
+[Added] Added black Peltor texture
+
+[Added] LShZ 1+ mod2 with peltors
+
+[Added] Black peltor version prefab
+
+[Added] Camo ural
+
+[Added] K17 placeholder interior
+
+[Added] Position lights to il-76
+
+[Added] 3UOF8 HEI Ammo to the K17
+
+[Added] Reload function to switch between HEI and APDSFS-T on K17
+
+
+### Improved
+
+
+[Improved] Improved FROG Trousers(new belt/belt loops)
+
+[Improved] Updated FROG Trousers textures
+
+[Improved] K17 Engine torque and power
+
+[Improved] K17 Buoyancy Simulation
+
+[Improved] Improved FROG Trousers weights
+
+[Improved] M8541 Textures update thanks to @sabre
+
+[Improved] AI targeting in K17 turrets
+
+[Improved] Added backup sights to SU230
+
+[Improved] Hide Peltor in 1st person view
+
+[Improved] LShZ model
+
+[Improved] Color of emr
+
+[Improved] K17 Buoyancy simulation
+
+[Improved] Damage of 2A42 APDSFS rounds
+
+[Improved] Various LShZ fixes and improvements
+
+[Improved] Added most of the new goodies to appropriate arsenal boxes
+
+[Improved] EMR troops now use Azart radios
+
+[Improved] Peltor proportions on LShZ
+
+[Improved] Ratnik gear textures
+
+[Improved] Improved Marine Combat Boots texture/prefab
+
+[Improved] Lights on the K17
+
+[Improved] Improved PDU4 reticle; closes [#194](https://github.com/RHSMODS/statusquo/issues/194)
+
+[Improved] K17 Suspension
+
+[Improved] K17 Tire settings
+
+
+### Fixed
+
+
+[Fixed] K17 Fire Geometry
+
+[Fixed] Fixed vector material overrides
+
+[Fixed] Material instances on LShZ HC
+
+[Fixed] Brake lights on K-17
+
+[Fixed] Fixed changelog stuff
+
+[Fixed] PDU-4 now uses advanced rangefinder script; closes [#62](https://github.com/RHSMODS/statusquo/issues/62)
+
+[Fixed] K17 Wheel Diameter
+
+
+### Deleted
+
+
+[Removed] Epoch Commander seat to prevent crashes
+
+
+
 ## 0.2.410
   
 {% hint style="info" %}
