@@ -8,6 +8,39 @@ description: >-
 
 <!-- changelog insert -->
 
+## 0.2.414
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision</mark>_<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 414
+
+_<mark style="color:red;">Date</mark>_<mark style="color:red;">:</mark> Saturday, February 4, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 0 fixes and 0 deletions. <mark style="color:red;"></mark>&#x20;
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] Testing in game advertisement system
+
+
+### Fixed
+
+
+
+### Deleted
+
+
+
+
 ## 0.2.413
   
 {% hint style="info" %}
