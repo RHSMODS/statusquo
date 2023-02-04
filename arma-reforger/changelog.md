@@ -8,6 +8,53 @@ description: >-
 
 <!-- changelog insert -->
 
+## 0.2.413
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision</mark>_<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> 413
+
+_<mark style="color:red;">Date</mark>_<mark style="color:red;">:</mark> Saturday, February 4, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 1 improvements, 0 fixes and 4 deletions. <mark style="color:red;"></mark>&#x20;
+{% endhint %}
+
+### Added
+
+
+[Added] Added Leopard 2A4
+
+[Added] Added Polish Army faction (with full gear and plenty of weapons)
+
+[Added] Added T64BV
+
+
+### Improved
+
+
+[Improved] Improved game performance by 10% by optimizing certain scripts with AI technology
+
+
+### Fixed
+
+
+
+### Deleted
+
+
+[Removed] Removed Leopard 2A4
+
+[Removed] Removed Polish Army
+
+[Removed] Removed T64BV
+
+[Removed] Removed all optimizations
+
+
+
 ## 0.2.411
   
 {% hint style="info" %}
