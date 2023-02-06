@@ -1,6 +1,10 @@
 # Vector 21
 
-Vector 21 is a laser distance and azimuth measurement gadget.
+{% hint style="info" %}
+Introduced in **0.2.414**
+{% endhint %}
+
+Vector 21 is a binocular rangefinder with day optics, an integrated 3-dimensional, 360° digital compass and a precise class 1 eye-safe laser rangefinder. It provides distance measurements up to 12 km. It provides 7x magnification.
 
 While looking through the binocular view you can perform the following actions:
 
