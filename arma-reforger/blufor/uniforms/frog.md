@@ -1,5 +1,5 @@
 ---
-description: Fighting Utility Uniform, Green
+description: Flame Resistant Organizational Gear
 ---
 
 # FROG
@@ -8,7 +8,7 @@ description: Fighting Utility Uniform, Green
 Introduced in **0.2.414**
 {% endhint %}
 
-FROG stands for "Fighting Utility Uniform, Green." It is the official uniform of the United States Marine Corps. It was introduced in the 1990s as a replacement for the woodland camouflage pattern uniform and is now used as the standard combat uniform of the USMC. The FROG uniform consists of a green shirt and trousers made from a durable, rip-stop fabric, and features multiple pockets for carrying equipment. It is designed to provide Marines with a functional and practical uniform for use in various combat situations.
+FROG stands for "Flame Resistant Organizational Gear" It is the official uniform of the United States Marine Corps. It was introduced in the 1990s as a replacement for the woodland camouflage pattern uniform and is now used as the standard combat uniform of the USMC. The FROG uniform consists of a green shirt and trousers made from a durable, rip-stop fabric, and features multiple pockets for carrying equipment. It is designed to provide Marines with a functional and practical uniform for use in various combat situations.
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>FROG Shirt</p></figcaption></figure>
 
