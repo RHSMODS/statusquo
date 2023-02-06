@@ -16,4 +16,10 @@ The horseshoe reticle is sighted for 5,45 round and hits center at 100m. The top
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>1 Meter Wide Object at 100 Meters = 10 mils  </p></figcaption></figure>
 
+The tritium ensures that the horseshoe and the top of the bullet drop scale are clearely visible in the dark.
+
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Bullet Drop</p></figcaption></figure>
+
+Using the ARD significantly reduces the amount of light that enters the scope, effectively dimming the image (compare with previous image.
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>ARD Dimming (Compare With Previous Image)</p></figcaption></figure>
