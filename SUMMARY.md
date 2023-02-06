@@ -24,6 +24,7 @@
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
   * [Weapons](arma-reforger/blufor/weapons.md)
     * [Attachments](arma-reforger/blufor/weapons/attachments/README.md)
+      * [SU-230/PVS](arma-reforger/blufor/weapons/attachments/su-230-pvs.md)
       * [ACOG TA31RCO 4x32](arma-reforger/blufor/weapons/attachments/acog-ta31rco-4x32.md)
   * [Vehicles](arma-reforger/blufor/vehicles.md)
 * [REDFOR](arma-reforger/redfor/README.md)

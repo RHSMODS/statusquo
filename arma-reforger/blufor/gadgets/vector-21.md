@@ -10,7 +10,7 @@ Vector 21 is a binocular rangefinder with day optics, an integrated 3-dimensiona
 
 The engraved reticle has a line spacing of 10 mils and line-dot spacing of 5 mils. 1 mil corresponds to 1 m spacing at a distance of 1 km. In the image below you can see a 1 m cube being sighted at 100 m being exactly 10 mils.
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Sighting of a 1 m wide cube at a distance of 100 m with Vector 21</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Sighting of a 1 m wide cube at a distance of 100 m with Vector 21</p></figcaption></figure>
 
 While looking through the binocular view you can perform the following actions:
 
