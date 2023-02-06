@@ -4,9 +4,13 @@ description: Advanced Combat Optical Gunsight
 
 # ACOG TA31RCO 4x32
 
+{% hint style="info" %}
+Introduced in **0.2.414**
+{% endhint %}
+
 The TA31RCO is a 4x always-on optical sight that uses a combination of optical fiber and tritium for illumination.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>TA31RCO Variants</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>TA31RCO Variants</p></figcaption></figure>
 
 Available in both the Army (M150 RCO) and USMC (M7 RCO, distinguishable by its metal instruction band and LaRue Tactical LT799 Mount) variants. Both can also be found fitted with the Anti Reflective Device (ARD).
 
@@ -18,7 +22,7 @@ The horseshoe reticle is sighted for 5,45 round and hits center at 100m. The top
 
 The tritium ensures that the horseshoe and the top of the bullet drop scale are clearely visible in the dark.
 
-<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Bullet Drop</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Bullet Drop</p></figcaption></figure>
 
 Using the ARD significantly reduces the amount of light that enters the scope, effectively dimming the image (compare with previous image.
 
