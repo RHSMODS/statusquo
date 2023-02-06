@@ -17,6 +17,7 @@
     * [USMC](arma-reforger/blufor/what-is-blufor/usmc.md)
   * [Uniforms](arma-reforger/blufor/uniforms.md)
     * [Helmets](arma-reforger/blufor/uniforms/helmets/README.md)
+      * [3M™ PELTOR™ ComTac™ VI](arma-reforger/blufor/uniforms/helmets/3m-tm-peltor-tm-comtac-tm-vi.md)
       * [CVC](arma-reforger/blufor/uniforms/helmets/cvc.md)
     * [FROG](arma-reforger/blufor/uniforms/frog.md)
   * [Gadgets](arma-reforger/blufor/gadgets/README.md)
