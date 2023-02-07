@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/7/2023 6:06:11 AM UTC | Revision 419 | PUDDY300]
+
+[Removed] Fixed wandering reticle on m8541
+
+[Removed] M8541 Reticle now scales with zoom at least in PiP
+
+
+
 [2/6/2023 1:53:09 PM UTC | Revision 418 | reyhard]
 
 [Improved] Tweaked AK74M textures
