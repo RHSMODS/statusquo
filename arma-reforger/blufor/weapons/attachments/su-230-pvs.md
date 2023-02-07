@@ -4,7 +4,7 @@
 Introduced in **0.2.414**
 {% endhint %}
 
-The SU-230/PVS is a 1x-4x variable zoom optic sight designed for the 5,45mm round.
+The SU-230/PVS is a 1x-4x variable zoom optic sight designed for the 5,56 mm round.
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>SU-230/PVS Variants</p></figcaption></figure>
 
