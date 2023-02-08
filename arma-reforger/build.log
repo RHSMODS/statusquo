@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/8/2023 11:29:06 AM UTC | Revision 427 | reyhard]
+
+[Fixed] Removed duplicated entries in InventoryItemComponent of scopes
+
+[Improved] Configured red dot on SU230 with MRDS - close #197
+
+[Improved] Tweaked collimator script so fake red dot is disabled by default
+
+
+
 [2/8/2023 8:22:04 AM UTC | Revision 426 | Ashyl]
 
 [Removed] Not used samples for 2a42 shot sound
