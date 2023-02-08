@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/8/2023 5:58:16 PM UTC | Revision 430 | Mihail]
+
+[Added] Test AK pouches for 6B45
+
+[Improved] Added missing LODs on 6B45 with close neck armor
+
+[Improved] 6B45 textures. optimized size to 2k
+
+
+
 [2/8/2023 12:22:06 PM UTC | Revision 429 | reyhard]
 
 [Fixed] Fixed default camera position on GM showcase mission
