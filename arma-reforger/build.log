@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/8/2023 12:22:06 PM UTC | Revision 429 | reyhard]
+
+[Fixed] Fixed default camera position on GM showcase mission
+
+[Fixed] SU230 reticle is no longer changing scale with zoom - close  #198
+
+
+
 [2/8/2023 11:36:21 AM UTC | Revision 428 | reyhard]
 
 [Improved] Tweaked BUIS recoil behavior on SU230
