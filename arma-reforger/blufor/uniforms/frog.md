@@ -22,4 +22,4 @@ The FROG uniform uses the Marine Corps Combat Utility Uniform (MCCUU) camouflage
 
 The FROG uniform is also commonly known as the MARPAT (Marine Pattern) uniform, in reference to its distinctive camouflage pattern, which is known as the Marine Pattern (MARPAT). This name emphasizes the unique and proprietary nature of the uniform and its camouflage pattern, which were developed specifically for use by the United States Marine Corps. The MARPAT uniform is an important symbol of the USMC and its heritage, and is worn with pride by Marines around the world.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FROG Uniform</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>FROG Uniform</p></figcaption></figure>
