@@ -32,7 +32,7 @@ So unfortunately there's nothing we can do in our end, it's up to other mod team
 
 #### I found a bug! What should I do?
 
-Please read the [Feedback](arma-reforger/feedback.md) page.
+Please read the [Feedback](arma-reforger/feedback/) page.
 
 #### I wanna make a request. You interested?
 

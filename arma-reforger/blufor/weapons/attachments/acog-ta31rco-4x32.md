@@ -26,4 +26,4 @@ The tritium ensures that the horseshoe and the top of the bullet drop scale are 
 
 Using the ARD significantly reduces the amount of light that enters the scope, effectively dimming the image (compare with previous).
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>ARD Dimming (Compare With Previous Image)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>ARD Dimming (Compare With Previous Image)</p></figcaption></figure>
