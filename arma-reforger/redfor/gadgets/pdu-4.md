@@ -12,7 +12,7 @@ The engraved reticle has a long line spacing of 10 mils and short line spacing o
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>PDU-4 Reticle Sighting a 1m Box at 100m</p></figcaption></figure>
 
-Due to unavailability of documentation, the functionality of the PDi in game is identical to that of [Vector-21](../../blufor/gadgets/vector-21.md). We suspect that in rel life it is also close.
+Due to unavailability of documentation, the functionality of the PDi in game is identical to that of [Vector-21](../../blufor/gadgets/vector-21.md). We suspect that in real life it is also close.
 
 While looking through the binocular view you can perform the following actions:
 
