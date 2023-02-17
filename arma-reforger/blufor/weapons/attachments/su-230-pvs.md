@@ -12,6 +12,10 @@ It comes with backup irons sights and MRDS red dot sight.
 
 <figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
-Use Alt+Ms.Wheel to switch between the 1x and 4x zoom. The reticle is to be used only with the 4x setting.
+Use **`Alt+MWheel`** to switch between the 1x and 4x zoom. The reticle is to be used only with the 4x setting.
 
 <figure><img src="../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+
+Use **`Ctrl+RMB`** to switch to alternative MRDS sight on the version that has it.
+
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Sighting Through the MRDS</p></figcaption></figure>
