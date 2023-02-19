@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[2/19/2023 2:47:26 PM UTC | Revision 447 | Mihail, Mihail, PUDDY300, PUDDY300, Tactical_Toxic]
+
+[Improved] Name and description for new items
+
+[Added] 3 pouches for azart radio, vog rounds, first aid med pouch and 6B45 presets for it
+
+[Improved] 6B45 separated into vest and collar, improved rig
+
+[Fixed] Ak pouches rig and size, add lods and colliders
+
+[Added] 1P87 with 1PN138
+
+[Other] Fixed backwards collision on Vz. 52
+
+[Other] Fixed collision on AK-74M
+
+[Other] Fixed collision on AN-94 & AN-94 Custom
+
+
+
 [2/18/2023 2:08:05 PM UTC | Revision 442 | Tactical_Toxic]
 
 [Other] Changed k17 icons
