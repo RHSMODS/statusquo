@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/27/2023 12:07:26 PM UTC | Revision 450 | reyhard]
+
+[Fixed] Fixed AK74M skeleton - removed some weird second skeleton, _end bones and other weird things
+
+[Improved] Tweaked AK74M fire geo - added weapon_plastic material to the stock
+
+
+
 [2/26/2023 2:17:23 PM UTC | Revision 449 | Tactical_Toxic]
 
 [Fixed] Azart localization
