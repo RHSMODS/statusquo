@@ -13,6 +13,8 @@
 * [Feedback](arma-reforger/feedback/README.md)
   * [How to help us fixing a bug](arma-reforger/feedback/how-to-help-us-fixing-a-bug.md)
 * [Changelog](arma-reforger/changelog.md)
+* [General Systems](arma-reforger/general-systems/README.md)
+  * [EARS](arma-reforger/general-systems/ears.md)
 * [BLUFOR](arma-reforger/blufor/README.md)
   * [What is BLUFOR?](arma-reforger/blufor/what-is-blufor.md)
     * [USMC](arma-reforger/blufor/what-is-blufor/usmc.md)
