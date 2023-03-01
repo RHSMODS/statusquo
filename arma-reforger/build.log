@@ -1,5 +1,31 @@
 <!-- buildlog insert -->
 
+[3/1/2023 8:47:13 PM UTC | Revision 451 | odkupiciel375]
+
+[Added] Added ANPRC152 Eng localization strings
+
+[Added] Added compatibility list to attachment type and checks for that to storage and action scripts
+
+[Added] Added ability to turn on/off the radio through [G]+[R]
+
+[Added] Added ability to change knob position through [G]+[Scrollwheel]
+
+[Added] Added ability to set encryption key for each preset separately
+
+[Added] Added ability to add more presets
+
+[Added] Added ability to set radio frequency by inputting it with radio keyboard
+
+[Fixed] Fixed radio turning off when player is teleported over long distance
+
+[Improved] Radio will be ON by default unless it was loaded with the map
+
+[Improved] Improved frequency presets handling between players
+
+[Other] Tweaked 152 screen layout
+
+
+
 [2/27/2023 12:07:26 PM UTC | Revision 450 | reyhard]
 
 [Fixed] Fixed AK74M skeleton - removed some weird second skeleton, _end bones and other weird things
