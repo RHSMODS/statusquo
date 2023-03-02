@@ -24,6 +24,8 @@
       * [CVC](arma-reforger/blufor/uniforms/helmets/cvc.md)
     * [FROG](arma-reforger/blufor/uniforms/frog.md)
   * [Gadgets](arma-reforger/blufor/gadgets/README.md)
+    * [AN / PRC 117](arma-reforger/blufor/gadgets/an-prc-117.md)
+    * [AN / PRC 152](arma-reforger/blufor/gadgets/an-prc-152.md)
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
   * [Weapons](arma-reforger/blufor/weapons.md)
     * [Attachments](arma-reforger/blufor/weapons/attachments/README.md)
