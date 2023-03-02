@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/2/2023 2:22:44 PM UTC | Revision 452 | reyhard]
+
+[Improved] Changed GUIDs of 6b45 and 6b45 (rifleman) vests so they are matching previously created prefabs - this way backward compatibility with already existing assets was maintained and some of the errors were also fixed during that process
+
+[Fixed] Fixed wrong gamemats on 2 M1151 colliders
+
+[Fixed] Fixed duplicated signals manager component on 1P63
+
+
+
 [3/1/2023 8:47:13 PM UTC | Revision 451 | odkupiciel375]
 
 [Added] Added ANPRC152 Eng localization strings
