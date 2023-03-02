@@ -9,6 +9,167 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.458
+
+<!-- revision 458 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 458
+
+_<mark style="color:red;">Date:</mark>_ Thursday, March 2, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 44 (414)
+
+_<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fixes and 6 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] 30mm HE hit effect
+
+[Added] 30mm 3UOF8 warhead
+
+[Added] 1P90
+
+[Added] Test AK pouches for 6B45
+
+[Added] Integrated EARS functionality into RHS
+
+[Added] Casing for 2a42
+
+[Added] Test map TestingTerrRedline/Terrain
+
+[Added] Added 1P86 localization
+
+[Added] 3 pouches for azart radio, vog rounds, first aid med pouch and 6B45 presets for it
+
+[Added] 1P87 with 1PN138
+
+[Added] Added ANPRC152 Eng localization strings
+
+[Added] Added compatibility list to attachment type and checks for that to storage and action scripts
+
+[Added] Added ability to turn on/off the radio through [G]+[R]
+
+[Added] Added ability to change knob position through [G]+[Scrollwheel]
+
+[Added] Added ability to set encryption key for each preset separately
+
+[Added] Added ability to add more presets
+
+[Added] Added ability to set radio frequency by inputting it with radio keyboard
+
+[Added] Radio unhide script
+
+
+### Improved
+
+
+[Improved] Il76 sounds
+
+[Improved] 30mm ballistic
+
+[Improved] Azart textures
+
+[Improved] Tweaked AK74M textures
+
+[Improved] New reticle for Sig Bravo 4; closes [#200](https://github.com/RHSMODS/statusquo/issues/200)
+
+[Improved] SP81 Muzzle flash
+
+[Improved] Configured red dot on SU230 with MRDS - close [#197](https://github.com/RHSMODS/statusquo/issues/197)
+
+[Improved] Tweaked collimator script so fake red dot is disabled by default
+
+[Improved] Tweaked BUIS recoil behavior on SU230
+
+[Improved] Added missing LODs on 6B45 with close neck armor
+
+[Improved] 6B45 textures. optimized size to 2k
+
+[Improved] Improved incoming radio transmission detection (compared to the latest EARS version)
+
+[Improved] PDU-4 now has more accurate 7x zoom
+
+[Improved] Weapons_HeavyWeapons_2a42_Shot.acp
+
+[Improved] HIT_30mm_HE.ptc
+
+[Improved] Smoke_2a42.ptc
+
+[Improved] Tweaked 6M2 item LOD switching
+
+[Improved] Name and description for new items
+
+[Improved] 6B45 separated into vest and collar, improved rig
+
+[Improved] Tweaked AK74M fire geo - added weapon_plastic material to the stock
+
+[Improved] Radio will be ON by default unless it was loaded with the map
+
+[Improved] Improved frequency presets handling between players
+
+[Improved] Changed GUIDs of 6b45 and 6b45 (rifleman) vests so they are matching previously created prefabs - this way backward compatibility with already existing assets was maintained and some of the errors were also fixed during that process
+
+[Improved] Added compatibility with community RIS optics
+
+[Improved] Auto transform enabled for radio slot on ratnik SL vest
+
+
+### Fixed
+
+
+[Fixed] 9M113 not firing
+
+[Fixed] K17 top speed
+
+[Fixed] Removed duplicated entries in InventoryItemComponent of scopes
+
+[Fixed] Fixed default camera position on GM showcase mission
+
+[Fixed] SU230 reticle is no longer changing scale with zoom - close  [#198](https://github.com/RHSMODS/statusquo/issues/198)
+
+[Fixed] LShZ normals
+
+[Fixed] IL76UN_running.et sounds
+
+[Fixed] Fixed 1P86 PIP reticle
+
+[Fixed] Ak pouches rig and size, add lods and colliders
+
+[Fixed] Azart localization
+
+[Fixed] Fixed AK74M skeleton - removed some weird second skeleton, _end bones and other weird things
+
+[Fixed] Fixed radio turning off when player is teleported over long distance
+
+[Fixed] Fixed wrong gamemats on 2 M1151 colliders
+
+[Fixed] Fixed duplicated signals manager component on 1P63
+
+[Fixed] Fixed RHS GM Showcase scenario was loading wrong world
+
+
+### Deleted
+
+
+[Removed] Fixed wandering reticle on m8541
+
+[Removed] M8541 Reticle now scales with zoom at least in PiP
+
+[Removed] Not used samples for 2a42 shot sound
+
+[Removed] Dynamic light for HIT_30mm_HE.ptc
+
+[Removed] Not used audio files
+
+[Removed] All cinematic stuff
+
+
+
 ## 0.2.414
 
 <!-- revision 414 -->
