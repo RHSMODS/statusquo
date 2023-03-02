@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/2/2023 2:38:05 PM UTC | Revision 453 | reyhard]
+
+[Fixed] Fixed RHS GM Showcase scenario was loading wrong world
+
+[Other] Added simple colliders to placeholder frog ground holders
+
+
+
 [3/2/2023 2:22:44 PM UTC | Revision 452 | reyhard]
 
 [Improved] Changed GUIDs of 6b45 and 6b45 (rifleman) vests so they are matching previously created prefabs - this way backward compatibility with already existing assets was maintained and some of the errors were also fixed during that process
