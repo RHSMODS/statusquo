@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/3/2023 7:57:03 AM UTC | Revision 459 | reyhard]
+
+[Fixed] Fixed reference to non existing material in Jacket 6B51 VKPO
+
+[Fixed] Fixed wrong model was assigned in MeshObject of balaclava base prefab
+
+
+
 [3/2/2023 9:27:13 PM UTC | Revision 458 | odkupiciel375]
 
 [Improved] Auto transform enabled for radio slot on ratnik SL vest
