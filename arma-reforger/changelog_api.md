@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.471
+
+<!-- revision 471 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 471
+
+_<mark style="color:red;">Date:</mark>_ Friday, March 3, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (468)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] NVG grain effect
+
+[Improved] Regenerated preview images
+
+
+### Fixed
+
+
+[Fixed] Fixed K17 Berezhok crashing dedicated server
+
+[Fixed] Fixed EMR infantry loadouts
+
+
+### Deleted
+
+
+
+
 ## 0.2.468
 
 <!-- revision 468 -->
