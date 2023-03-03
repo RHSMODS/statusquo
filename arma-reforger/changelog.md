@@ -9,6 +9,41 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.468
+
+<!-- revision 468 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 468
+
+_<mark style="color:red;">Date:</mark>_ Friday, March 3, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (467)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+
+### Fixed
+
+
+[Fixed] Fixed OPFOR Arsenal crate had wrong GUID
+
+
+### Deleted
+
+
+
+
 ## 0.2.467
 
 <!-- revision 467 -->
