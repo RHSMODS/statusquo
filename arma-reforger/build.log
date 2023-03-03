@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/3/2023 8:07:05 AM UTC | Revision 460 | reyhard]
+
+[Other] Added simple collider to balaclava item model
+
+[Other] Yet another minor prefab fix of balaclava
+
+
+
 [3/3/2023 7:57:03 AM UTC | Revision 459 | reyhard]
 
 [Fixed] Fixed reference to non existing material in Jacket 6B51 VKPO
