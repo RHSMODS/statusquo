@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/3/2023 10:24:18 AM UTC | Revision 463 | odkupiciel375]
+
+[Fixed] Fixed NPE when game tried to load VONDisplay for AI Unit
+
+[Fixed] Fixed potential conflict with standalone EARS (EARS side fix also already up on workshop)
+
+
+
 [3/3/2023 10:22:16 AM UTC | Revision 462 | reyhard]
 
 [Other] Fixed duplicated things
