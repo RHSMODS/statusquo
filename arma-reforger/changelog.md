@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.467
+
+<!-- revision 467 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 467
+
+_<mark style="color:red;">Date:</mark>_ Friday, March 3, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 9 (458)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] Azart position on 6b45
+
+
+### Fixed
+
+
+[Fixed] Fixed reference to non existing material in Jacket 6B51 VKPO
+
+[Fixed] Fixed wrong model was assigned in MeshObject of balaclava base prefab
+
+[Fixed] Fixed NPE when game tried to load VONDisplay for AI Unit
+
+[Fixed] Fixed potential conflict with standalone EARS (EARS side fix also already up on workshop)
+
+[Fixed] IL-76 Missing audio
+
+
+### Deleted
+
+
+
+
 ## 0.2.458
 
 <!-- revision 458 -->
