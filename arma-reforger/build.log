@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/4/2023 4:50:25 PM UTC | Revision 479 | reyhard]
+
+[Fixed] Ultimate fix for laser range finder (PDU-4/Vector) blocking ADS
+
+
+
 [3/4/2023 4:29:49 PM UTC | Revision 478 | reyhard]
 
 [Other] Added m27 placeholder with initially calibrated ironsights
