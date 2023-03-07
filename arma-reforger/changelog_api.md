@@ -9,6 +9,89 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.497
+
+<!-- revision 497 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 497
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 7, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 26 (471)
+
+_<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes and 1 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] 6b47 version with balaclava
+
+[Added] Added FROG Trousers Ground model
+
+[Added] Added placeholder USMC faction
+
+[Added] K17 Added GM Preview
+
+[Added] Added USMC Boonie
+
+[Added] Added USMC spawn points
+
+[Added] PVS14 model
+
+
+### Improved
+
+
+[Improved] K17 Get in positions
+
+[Improved] Flashlight position on 6b45
+
+[Improved] Tweaked R187P1 preview image in loadout menu
+
+[Improved] Tweaked Suharka preview image and structure
+
+[Improved] L4G24 Item Renderer
+
+
+### Fixed
+
+
+[Fixed] Ultimate fix for laser range finder (PDU-4/Vector) blocking ADS
+
+[Fixed] K17 Sights positions
+
+[Fixed] Hiding ManPacks
+
+[Fixed] Floating pouch on 6b45
+
+[Fixed] USMC clothing localization
+
+[Fixed] Added missing items to arsenal
+
+[Fixed] Fixed FROG Combat Shirt clipping
+
+[Fixed] Fixed EMR MG group editor icon
+
+[Fixed] Fixed AN94 skeleton contained _end bones
+
+[Fixed] Fixed inspection actions on AN94
+
+[Fixed] L4G24 Animations
+
+[Fixed] Fixed K17 faction affiliation
+
+
+### Deleted
+
+
+[Removed] K17 Epoch Commander Turret
+
+
+
 ## 0.2.471
 
 <!-- revision 471 -->
