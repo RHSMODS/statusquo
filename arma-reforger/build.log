@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/7/2023 2:55:51 PM UTC | Revision 499 | Punky]
+
+[Added] Wilcox PVS14 Adapter
+
+[Fixed] Way of attaching NightVision devices to Rhino prefabs
+
+[Removed] Unused test prefabs
+
+
+
 [3/7/2023 10:41:26 AM UTC | Revision 498 | reyhard]
 
 [Other] Fixed duplicated flashlight
