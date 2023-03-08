@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/8/2023 9:22:18 AM UTC | Revision 503 | reyhard]
+
+[Fixed] Fixed duplicated gear in various Russian vests
+
+[Improved] Added simple collider for USMC combat boots item model
+
+
+
 [3/7/2023 9:24:04 PM UTC | Revision 502 | PUDDY300]
 
 [Other] Updated M27 prefab
