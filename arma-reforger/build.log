@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/11/2023 7:12:56 PM UTC | Revision 514 | odkupiciel375]
+
+[Improved] Improved NVG handling
+
+[Added] Added MP synchronization of NVG state
+
+[Added] Added automatic hiding of NVG model in FPV + Added NVG post processing effect
+
+
+
 [3/11/2023 5:23:40 PM UTC | Revision 513 | Soul_Assassin]
 
 [Other] Major prefab renaming, PLEASE VERIFY ALL STILL WORKING
