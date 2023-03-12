@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/12/2023 10:57:49 AM UTC | Revision 518 | odkupiciel375]
+
+[Fixed] Fixed NPE when player didnt have RHS_RpcManager component
+
+
+
 [3/12/2023 12:18:43 AM UTC | Revision 517 | Soul_Assassin]
 
 [Other] NVG rename
