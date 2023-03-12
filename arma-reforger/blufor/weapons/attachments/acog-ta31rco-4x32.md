@@ -27,3 +27,7 @@ The tritium ensures that the horseshoe and the top of the bullet drop scale are 
 Using the ARD significantly reduces the amount of light that enters the scope, effectively dimming the image (compare with previous).
 
 <figure><img src="../../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>ARD Dimming (Compare With Previous Image)</p></figcaption></figure>
+
+The army version of the sight, the M150 RCO, has a chevron reticle, the top of which is sighted at 100m. The rest of the markings are similar to the horseshoe.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Chevron Reticle of the M150 RCO</p></figcaption></figure>
