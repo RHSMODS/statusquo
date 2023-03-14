@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[3/14/2023 9:35:11 PM UTC | Revision 530 | odkupiciel375]
+
+[Added] Added White Phosphor variant of NVG
+
+[Added] Added small light source when NVG is ON
+
+[Fixed] Fixed NVG MP synchronization
+
+[Fixed] Fixed bug that would cause film grain effect to disappear when some menus were open
+
+[Improved] Improved HDR material for GP NVG to fix 'black light'
+
+
+
 [3/13/2023 10:48:43 PM UTC | Revision 529 | Soul_Assassin]
 
 [Other] Fixed final renaming
