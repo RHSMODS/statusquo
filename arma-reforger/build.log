@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[3/16/2023 10:31:19 AM UTC | Revision 535 | odkupiciel375]
+
+[Improved] Reenabled RigidBody component for L4G24 mount as it has colliders now
+
+[Improved] More vibrant WP light bleed
+
+[Improved] Handling of entity possession with NVG
+
+[Improved] Set nvg light bleed to be disabled by default to prevent glow when item was spawned
+
+[Fixed] Zeus was able to un/fold nods of previously possessed entity if he had nvg on his main character
+
+[Fixed] Bug that would remove some NVG effects when player would open some menus ie. inventory
+
+[Fixed] Missing gamemat
+
+
+
 [3/16/2023 9:49:12 AM UTC | Revision 534 | Punky]
 
 [Removed] L4G24 Item
