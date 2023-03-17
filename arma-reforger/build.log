@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/17/2023 6:04:16 PM UTC | Revision 545 | reyhard]
+
+[Added] Added boonie hat to the RHS crate
+
+[Improved] Enabled AI driving on K17 & M1151 (without setting an params yet)
+
+
+
 [3/17/2023 12:12:07 PM UTC | Revision 544 | spacestrider]
 
 [Other] Improved suspension
