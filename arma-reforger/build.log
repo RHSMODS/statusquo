@@ -1,5 +1,29 @@
 <!-- buildlog insert -->
 
+[3/17/2023 7:13:26 AM UTC | Revision 540 | spacestrider]
+
+[Other] Added vehicle magazines to arsenals
+
+[Other] Cleaned test world space
+
+[Other] Added localization for magazines
+
+[Other] T14 changes
+
+[Other] Added damage model
+
+[Other] Improved driving simulation
+
+[Other] Added proc anim to make sprockets rotate at same speed as tracks
+
+[Other] Modified damage manager
+
+[Other] Added fueltank and engine hitboxes
+
+[Other] Added HE-Frag-FS
+
+
+
 [3/16/2023 10:56:15 PM UTC | Revision 539 | Ashyl]
 
 [Added] Warhead_Shell_HE_125
