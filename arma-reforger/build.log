@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[3/18/2023 4:44:52 PM UTC | Revision 548 | Ashyl]
+
+[Added] 125mm HE hit effect
+
+[Added] 2a82 Shot effects
+
+[Added] 2a82 Shot Sound
+
+[Added] 3 Variations of shrapnel prefabs for 125mm HE
+
+[Improved] 125mm HE sets
+
+[Added] Armata version with only HE shells (temporary until we got ability to reload shells that we want for testing, doesnt include in arsenal.conf)
+
+[Improved] TestingRedline.ent
+
+
+
 [3/18/2023 4:06:23 PM UTC | Revision 547 | Tactical_Toxic]
 
 [Added] Skirt proc anim for t-14
