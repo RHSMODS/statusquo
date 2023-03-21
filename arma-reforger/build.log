@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[3/21/2023 2:19:19 AM UTC | Revision 555 | spacestrider]
+
+[Other] Fixed tire screech sound on tracks
+
+[Other] Adjusted driving simulation for T14
+
+[Other] Added hatch sounds
+
+[Other] Adjusted projectile properties of APFSDS rounds
+
+[Other] Changed APFSDS Spalling from explosion to fragmentation
+
+
+
 [3/19/2023 6:40:42 PM UTC | Revision 554 | Ashyl]
 
 [Improved] 2a82 effects and sounds
