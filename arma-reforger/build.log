@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[3/28/2023 1:52:18 AM UTC | Revision 583 | spacestrider]
+
+[Improved] Damage for 125mm and 30mm HE
+
+[Improved] T14 damage model
+
+[Fixed] K17 seating positions
+
+[Improved] K17 Action positions
+
+[Added] Rear get in action for driver in K17
+
+[Other] Removed duplicate sound file
+
+[Other] Adjusted placeholder material for inside of K17
+
+[Other] Removed duplicate tank reload sound
+
+
+
 [3/27/2023 8:14:36 PM UTC | Revision 582 | PUDDY300]
 
 [Other] Removed weaponSoundComponent entries that caused errors
