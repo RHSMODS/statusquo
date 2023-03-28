@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[3/28/2023 5:52:03 AM UTC | Revision 584 | PUDDY300]
+
+[Removed] 2A82 HE from T14 turret
+
+[Added] 2A82 recoil animation
+
+[Other] Scripts for recoil animation.
+
+[Other] Adjusted t14 cannon model to have armature
+
+
+
 [3/28/2023 1:52:18 AM UTC | Revision 583 | spacestrider]
 
 [Improved] Damage for 125mm and 30mm HE
