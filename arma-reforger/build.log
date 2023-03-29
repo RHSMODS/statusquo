@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/29/2023 7:27:45 PM UTC | Revision 598 | Tactical_Toxic]
+
+[Fixed] Wrong classnames on RHS_Atoll
+
+[Improved] T-14 Commander reticle
+
+[Other] Removed another ufo from devmap
+
+
+
 [3/29/2023 7:15:27 PM UTC | Revision 597 | reyhard]
 
 [Improved] Added RHS_ tag to tank entity class to avoid clashes with other mods
