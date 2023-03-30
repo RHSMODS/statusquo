@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/30/2023 12:08:54 PM UTC | Revision 603 | reyhard]
+
+[Fixed] Weird workaround for missing signal manager component on T14 after post init
+
+
+
 [3/30/2023 9:51:44 AM UTC | Revision 602 | Tactical_Toxic]
 
 [Improved] Splitted R187P1 model to be able to use with EARS
