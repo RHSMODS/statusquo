@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[3/31/2023 9:44:44 PM UTC | Revision 613 | odkupiciel375]
+
+[Improved] NV system separation to allow for reusability in the future
+
+[Improved] Minor adjustments to NV HDR and film grain effects
+
+[Improved] Changed actions names to prevent any possible conflicts by adding RHS to it
+
+[Improved] Reduced size of interaction sphere on PEQ box to allow for from iron sights manipulation on m27
+
+[Added] Added two modes for PEQ that will be used for IR (WIP - 2 high and 2 low visibility illuminators and lasers)
+
+[Added] Clicking sounds for PEQ mode switching
+
+
+
 [3/31/2023 4:25:54 PM UTC | Revision 612 | reyhard]
 
 [Improved] Added coax MG to T14 gunner
