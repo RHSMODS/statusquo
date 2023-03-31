@@ -30,4 +30,4 @@ Using the ARD significantly reduces the amount of light that enters the scope, e
 
 The army version of the sight, the M150 RCO, has a chevron reticle, the top of which is sighted at 100m. The rest of the markings are similar to the horseshoe.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Chevron Reticle of the M150 RCO</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Chevron Reticle of the M150 RCO</p></figcaption></figure>

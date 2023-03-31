@@ -29,6 +29,7 @@
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
   * [Weapons](arma-reforger/blufor/weapons.md)
     * [Attachments](arma-reforger/blufor/weapons/attachments/README.md)
+      * [AN/PEQ-16A](arma-reforger/blufor/weapons/attachments/an-peq-16a.md)
       * [ACOG TA31RCO 4x32](arma-reforger/blufor/weapons/attachments/acog-ta31rco-4x32.md)
       * [M8541 3-12x50](arma-reforger/blufor/weapons/attachments/m8541-3-12x50.md)
       * [Sig Sauer BRAVO4 4x30](arma-reforger/blufor/weapons/attachments/sig-sauer-bravo4-4x30.md)
