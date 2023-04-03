@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[4/3/2023 6:05:18 AM UTC | Revision 623 | PUDDY300]
+
+[Other] Added bones to 1p86
+
+[Other] Added bones to M8541
+
+[Other] Removed SCR_2DPIPComponent from Optic_Base
+
+[Other] Updated RHS_SCR_2DPIPSightsComponent to include functionality of optics animations
+
+[Other] Added procedural animations for 1p86 & M8541
+
+[Other] Added "changeZoom" signal
+
+
+
 [4/2/2023 4:24:50 PM UTC | Revision 622 | Soul_Assassin]
 
 [Other] Work on AN/PEQ functionality
