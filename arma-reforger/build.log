@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/3/2023 9:44:10 AM UTC | Revision 625 | reyhard]
+
+[Improved] Changed default radio on USMC characters to ANPCR 152
+
+[Other] Some spaghetti code to make HDR on NVG working after turning off
+
+[Other] Added some stuff to crates
+
+
+
 [4/3/2023 8:36:47 AM UTC | Revision 624 | Soul_Assassin]
 
 [Removed] Testing commit message with "quoted text" somewhere
