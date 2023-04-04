@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[4/4/2023 9:16:19 PM UTC | Revision 631 | odkupiciel375]
+
+[Added] ANPEQ16 LED status indicator
+
+[Added] ANPEQ16 knob sounds
+
+[Added] ANPEQ16 procedural animations for its knob
+
+[Improved] ANPEQ16 strobe mode for currently used lights and LED indicator
+
+[Fixed] Removed button click sound when device was turned off by its timer
+
+[Other] Reverted 'Laser_IR_LightEntity' prefab removal and gave it correct name ("PEEQ"->"PEQ")
+
+
+
 [4/4/2023 3:50:24 AM UTC | Revision 630 | PUDDY300]
 
 [Improved] Standing animations for AN-94
