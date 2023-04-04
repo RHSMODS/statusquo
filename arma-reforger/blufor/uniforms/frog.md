@@ -14,7 +14,7 @@ FROG stands for "Flame Resistant Organizational Gear" It is the official uniform
 
 The FROG uniform is made of a lightweight, breathable fabric that is resistant to rips and tears. It is designed to be comfortable to wear in hot and humid environments, while also providing adequate protection in combat situations. The uniform includes several pockets for carrying equipment and ammunition, and is also equipped with Velcro panels for attaching rank insignia, unit patches, and other identifiers. The uniform can be worn with a variety of footwear, including combat boots and desert boots. In addition to its utility and functionality, the FROG uniform is also designed to be aesthetically appealing, with clean lines and a professional appearance. It remains an important part of the USMC's uniform regimen and continues to be updated to meet the changing needs of modern warfare.
 
-<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>FROG Trousers</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>FROG Uniform Set</p></figcaption></figure>
 
 The FROG uniform uses the Marine Corps Combat Utility Uniform (MCCUU) camouflage pattern, which is a green and tan disruptive pattern. The MCCUU camouflage pattern is designed to provide effective concealment in a variety of environments, including desert, woodland, and urban settings. The pattern uses a mix of large and small shapes to break up the wearer's outline, making it more difficult for the enemy to identify the individual. The MCCUU pattern has been in use by the USMC since 2002 and remains the standard camouflage pattern for the USMC's combat uniform.
 
