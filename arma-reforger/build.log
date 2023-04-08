@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[4/8/2023 5:04:14 PM UTC | Revision 644 | Tactical_Toxic]
+
+[Added] Cat eyes to T-14
+
+[Improved] T-14 skirt animation
+
+[Improved] K-17 hitbox
+
+[Improved] T-14 hitbox
+
+[Added] Lods to K17
+
+[Fixed] Minor changes on T-14 an K-17
+
+[Other] Be aware, that current implementation of burning fuel tanks should be either fixed, or removed, for more info, check #redfor
+
+[Other] Be aware, k17 wheels are currently visible only on LOD0, this bug is known, and we're waiting spacestrider to save us
+
+
+
 [4/7/2023 6:55:20 PM UTC | Revision 643 | Tactical_Toxic]
 
 
