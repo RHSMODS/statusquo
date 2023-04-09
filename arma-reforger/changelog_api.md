@@ -9,6 +9,341 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.648
+
+<!-- revision 648 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 648
+
+_<mark style="color:red;">Date:</mark>_ Sunday, April 9, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 151 (497)
+
+_<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fixes and 7 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Wilcox PVS14 Adapter
+
+[Added] M27 Flip Sight Script
+
+[Added] A2 Flash hider Attachment
+
+[Added] Added MP synchronization of NVG state
+
+[Added] Added automatic hiding of NVG model in FPV + Added NVG post processing effect
+
+[Added] Added olive Peltors
+
+[Added] Added White Phosphor variant of NVG
+
+[Added] Added small light source when NVG is ON
+
+[Added] T14
+
+[Added] 3bM69 APFSDS-T for T14
+
+[Added] Warhead_Shell_HE_125
+
+[Added] Ammo_Spall_HE_125.et
+
+[Added] Added boonie hat to the RHS crate
+
+[Added] Skirt proc anim for t-14
+
+[Added] 125mm HE hit effect
+
+[Added] 2a82 Shot effects
+
+[Added] 2a82 Shot Sound
+
+[Added] 3 Variations of shrapnel prefabs for 125mm HE
+
+[Added] Armata version with only HE shells (temporary until we got ability to reload shells that we want for testing, doesnt include in arsenal.conf)
+
+[Added] Added LODs to USMC_Boonie_Hat_Ground
+
+[Added] Placeholder optics for t14
+
+[Added] CombatOps Arland MSV Flora vs USA
+
+[Added] New way to change turret ammo with swap weapon button
+
+[Added] AN/PEQ-16B
+
+[Added] A lot of sounds samples for future
+
+[Added] Tank icon for zeus menu
+
+[Added] T14 Version with destructible ERA armor
+
+[Added] Era destruction on t14 turret
+
+[Added] T-14 Camo version
+
+[Added] New t14 to zeus
+
+[Added] Rear get in action for driver in K17
+
+[Added] 2A82 recoil animation
+
+[Added] LShZ attachment
+
+[Added] Controller key bind for NVG toggle assigned to [Right shoulder]+[Dpad right]
+
+[Added] Light and visible laser to the ANPEQ16
+
+[Added] Inspect mode actions to switch ANPEQ16 mode
+
+[Added] Localization for T-14
+
+[Added] Added two modes for PEQ that will be used for IR (WIP - 2 high and 2 low visibility illuminators and lasers)
+
+[Added] Clicking sounds for PEQ mode switching
+
+[Added] Added USMC groups
+
+[Added] Dynamic light for 30mm hit effect
+
+[Added] More dispersion for 2a42
+
+[Added] Shrapnel for 30mm HE
+
+[Added] ANPEQ16 LED status indicator
+
+[Added] ANPEQ16 knob sounds
+
+[Added] ANPEQ16 procedural animations for its knob
+
+[Added] Decals for 30mm he
+
+[Added] MS-2000
+
+[Added] Subsonic 5.45 ammo and mags
+
+[Added] Cat eyes to T-14
+
+[Added] Lods to K17
+
+[Added] K-17 Wreck model
+
+[Added] New screenshots
+
+
+### Improved
+
+
+[Improved] Rearranged test island layers
+
+[Improved] Added simple collider for USMC combat boots item model
+
+[Improved] M27 Animations
+
+[Improved] Improved NVG shortcut detection
+
+[Improved] Improved NVG handling
+
+[Improved] Tweaked and improved ACOG lods; closes [#57](https://github.com/RHSMODS/statusquo/issues/57)
+
+[Improved] Fixed missing M27 and flashhider strings
+
+[Improved] Army M150 RCO now uses the chevron reticle; closes [#202](https://github.com/RHSMODS/statusquo/issues/202)
+
+[Improved] Changed Peltor to olive on LShZ
+
+[Improved] Improved HDR material for GP NVG to fix 'black light'
+
+[Improved] Reenabled RigidBody component for L4G24 mount as it has colliders now
+
+[Improved] More vibrant WP light bleed
+
+[Improved] Handling of entity possession with NVG
+
+[Improved] Set nvg light bleed to be disabled by default to prevent glow when item was spawned
+
+[Improved] T-14 lights
+
+[Improved] Enabled AI driving on K17 & M1151 (without setting an params yet)
+
+[Improved] 125mm HE sets
+
+[Improved] TestingRedline.ent
+
+[Improved] T14 textures
+
+[Improved] 2a82 effects and sounds
+
+[Improved] 2a82 Particles
+
+[Improved] 2a82 Sounds
+
+[Improved] Track textures
+
+[Improved] T14 dynarmor refactor
+
+[Improved] T14 armor model
+
+[Improved] Increased air drag on HEAT penetrators
+
+[Improved] Damage for 125mm and 30mm HE
+
+[Improved] T14 damage model
+
+[Improved] K17 Action positions
+
+[Improved] Configured T14 Commander Turret
+
+[Improved] Added RHS_ tag to tank entity class to avoid clashes with other mods
+
+[Improved] T-14 Commander reticle
+
+[Improved] Additional attempt to achieve compatibility with other mods
+
+[Improved] Added counter rotation component to T14 commander turret (need to be tested in MP)
+
+[Improved] Splitted R187P1 model to be able to use with EARS
+
+[Improved] Added some experimental spalling to T14 AP shells
+
+[Improved] Added coax MG to T14 gunner
+
+[Improved] NV system separation to allow for reusability in the future
+
+[Improved] Minor adjustments to NV HDR and film grain effects
+
+[Improved] Changed actions names to prevent any possible conflicts by adding RHS to it
+
+[Improved] Reduced size of interaction sphere on PEQ box to allow for from iron sights manipulation on m27
+
+[Improved] Railed AN-94 can mount front rail devices like AN/PEQ-16
+
+[Improved] Tweaked T-14 GM integration
+
+[Improved] Added localization for IL-76
+
+[Improved] HE shells can now be reloaded in T14 (changed magazine well)
+
+[Improved] Changed default radio on USMC characters to ANPCR 152
+
+[Improved] 2a42 camera shake
+
+[Improved] 30mms Tracer
+
+[Improved] Standing animations for AN-94
+
+[Improved] ANPEQ16 strobe mode for currently used lights and LED indicator
+
+[Improved] Renamed T-14 Prefabs
+
+[Improved] File structure
+
+[Improved] 2A42 light from particles
+
+[Improved] Epoch and Berezhok hud
+
+[Improved] T-14 skirt animation
+
+[Improved] K-17 hitbox
+
+[Improved] T-14 hitbox
+
+[Improved] T-14 Wreck model
+
+[Improved] T-14 LODs
+
+
+### Fixed
+
+
+[Fixed] Way of attaching NightVision devices to Rhino prefabs
+
+[Fixed] USMC Boonie hat localization
+
+[Fixed] Fixed duplicated gear in various Russian vests
+
+[Fixed] L4G24 Texture & folding script
+
+[Fixed] Fixed NPE when player didnt have RHS_RpcManager component
+
+[Fixed] Wrong material overrides on worn black LShZ with Peltor
+
+[Fixed] Fixed NVG MP synchronization
+
+[Fixed] Fixed bug that would cause film grain effect to disappear when some menus were open
+
+[Fixed] L4G24 Colliders & Lods
+
+[Fixed] PVS14 Colliders & Lods
+
+[Fixed] Wilc0x adapter Colliders & Lods
+
+[Fixed] Zeus was able to un/fold nods of previously possessed entity if he had nvg on his main character
+
+[Fixed] Bug that would remove some NVG effects when player would open some menus ie. inventory
+
+[Fixed] Missing gamemat
+
+[Fixed] Fixed duplicate emats
+
+[Fixed] 30mm configs
+
+[Fixed] 125MM configs
+
+[Fixed] Error spam cause by era
+
+[Fixed] K17 seating positions
+
+[Fixed] 2A82 procedural animation
+
+[Fixed] Collider on LShZ_attachment
+
+[Fixed] Wrong classnames on RHS_Atoll
+
+[Fixed] T-14 AmmoRack collider config
+
+[Fixed] Weird workaround for missing signal manager component on T14 after post init
+
+[Fixed] Removed button click sound when device was turned off by its timer
+
+[Fixed] 30mm he bebryanka ((pelmen) warhead)
+
+[Fixed] RPG-7 now able to attach nvg optics
+
+[Fixed] Minor changes on T-14 an K-17
+
+[Fixed] Temporal fix for fuel tanks
+
+[Fixed] K-17 LODs
+
+[Fixed] Added some missing stuff to arsenal
+
+[Fixed] Minor fixes in characters
+
+
+### Deleted
+
+
+[Removed] Unused test prefabs
+
+[Removed] L4G24 Item
+
+[Removed] Old t14 from zeus
+
+[Removed] 2A82 HE from T14 turret
+
+[Removed] HE barrel from t14
+
+[Removed] PKT from gunner
+
+[Removed] Removed NVG test helmet from Arsenal - for now NVG is only available in showcase mission till it is further tweaked
+
+
+
 ## 0.2.497
 
 <!-- revision 497 -->
