@@ -9,6 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.656
+
+<!-- revision 656 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 656
+
+_<mark style="color:red;">Date:</mark>_ Friday, April 14, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (648)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Commander turret to K17 Epoch
+
+[Added] Missiles to K17 Epoch
+
+[Added] NV Layout system for limiting wearer view with additional images of dual and quad layout masks
+
+
+### Improved
+
+
+[Improved] Removed obsolete attachment classes
+
+[Improved] NVG IR lights support
+
+[Improved] Proper IR lights that are only visible in night vision
+
+
+### Fixed
+
+
+[Fixed] Fixed wrong editor preview link in T14 base
+
+[Fixed] NV flickering when using higher power scopes
+
+[Fixed] MS2000 Bones for animation.
+
+[Fixed] T-14 Turret lod 2 and 3 were missing skinning
+
+
+### Deleted
+
+
+
+
 ## 0.2.648
 
 <!-- revision 648 -->
