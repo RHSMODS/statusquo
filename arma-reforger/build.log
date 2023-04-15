@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[4/15/2023 1:06:45 PM UTC | Revision 657 | odkupiciel375]
+
+[Added] MS2000 visible and IR functionality
+
+[Added] MS2000 animations
+
+[Added] ANPEQ16 High power modes
+
+[Improved] Strobe effect when switching NV
+
+[Fixed] IR lights were not visible to NV rifle scopes
+
+[Fixed] Some IR lights would not be visible for authority
+
+[Fixed] Desaturation of HDR material of rifle scopes
+
+
+
 [4/14/2023 7:31:22 AM UTC | Revision 656 | Tactical_Toxic]
 
 [Fixed] T-14 Turret lod 2 and 3 were missing skinning
