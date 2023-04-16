@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/16/2023 8:30:02 PM UTC | Revision 663 | odkupiciel375]
+
+[Fixed] NPE when IR device was deleted from the map
+
+[Fixed] NPE when light device was deleted when strobe effect was active
+
+[Fixed] Issue when having NVG would prevent IR capable scopes from seeing IR light
+
+
+
 [4/16/2023 4:29:32 PM UTC | Revision 662 | Tactical_Toxic]
 
 [Fixed] Skinning on MS2K
