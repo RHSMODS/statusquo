@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/16/2023 9:10:46 PM UTC | Revision 664 | Punky]
+
+[Added] Dual PVS14 adapter with bones and full lods and textures & colliders
+
+[Other] Dual pvs14 for first nvg binos, they are prepared to be animated.
+
+
+
 [4/16/2023 8:30:02 PM UTC | Revision 663 | odkupiciel375]
 
 [Fixed] NPE when IR device was deleted from the map
