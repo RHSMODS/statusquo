@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[4/17/2023 3:31:21 PM UTC | Revision 670 | odkupiciel375]
+
+[Fixed] HDR application when swapping NVG to a set that is turned on
+
+[Added] NVG Blemishes system
+
+[Improved] Dual NVG general prefab improvements
+
+[Removed] Unused components from Puncox, Wilcox, L4G24, PVS14
+
+[Other] Corrected 'temprary' typo
+
+
+
 [4/17/2023 2:53:59 PM UTC | Revision 669 | Mihail]
 
 [Improved] Vkpo boots - add lods
