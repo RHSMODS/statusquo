@@ -14,6 +14,7 @@
   * [How to help us fixing a bug](arma-reforger/feedback/how-to-help-us-fixing-a-bug.md)
 * [Changelog](arma-reforger/changelog.md)
 * [General Systems](arma-reforger/general-systems/README.md)
+  * [Radial Menu](arma-reforger/general-systems/radial-menu.md)
   * [EARHS](arma-reforger/general-systems/earhs.md)
 * [BLUFOR](arma-reforger/blufor/README.md)
   * [What is BLUFOR?](arma-reforger/blufor/what-is-blufor.md)
