@@ -9,6 +9,159 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.2.697
+
+<!-- revision 697 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 697
+
+_<mark style="color:red;">Date:</mark>_ Friday, April 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 41 (656)
+
+_<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fixes and 3 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] MS2000 visible and IR functionality
+
+[Added] MS2000 animations
+
+[Added] ANPEQ16 High power modes
+
+[Added] Attribute that allow scopes to see IR light
+
+[Added] Dual PVS14 adapter with bones and full lods and textures & colliders
+
+[Added] Subsonic 5.45 ammo to arsenal
+
+[Added] VKPO summer field pants and undershirt (layer 1)
+
+[Added] NVG Blemishes system
+
+[Added] Summer VKPO pants and underwear to arsenal
+
+[Added] Balaclava to arsenal
+
+[Added] Loadouts to LoadoutManager_Editor.et
+
+[Added] AKS-74U
+
+[Added] AKS-74UN to arsenal
+
+[Added] Crewman kit
+
+[Added] Kits with AN-94
+
+
+### Improved
+
+
+[Improved] Strobe effect when switching NV
+
+[Improved] MS2K Collider
+
+[Improved] VKPO demiseason jacket - textures, add lods, fix rig
+
+[Improved] VKPO demiseason pants - textures
+
+[Improved] Faradey boots size adjusted
+
+[Improved] Binos Layout + fixes for positioning entities
+
+[Improved] Vkpo boots - add lods
+
+[Improved] Vkpo cap - were fixed proportions for all vanilla heads, add lods, upd textures
+
+[Improved] Names for new things
+
+[Improved] Dual NVG general prefab improvements
+
+[Improved] 1pn93 filmgrain effect
+
+[Improved] Added LODs to Peltor Item model
+
+[Improved] Vkpo inv preview
+
+[Improved] K17 textures
+
+[Improved] Vkpo textures
+
+[Improved] Vkpo textures 2
+
+[Improved] EMR texture on VKPO
+
+[Improved] Vkpo 6b51 textures 3
+
+[Improved] Added AKS74UN base prefab
+
+[Improved] Textures for vkpo items
+
+[Improved] Localization for equipment kits
+
+[Improved] Localization for AKS-74UN
+
+
+### Fixed
+
+
+[Fixed] IR lights were not visible to NV rifle scopes
+
+[Fixed] Some IR lights would not be visible for authority
+
+[Fixed] Desaturation of HDR material of rifle scopes
+
+[Fixed] MS2000 Collider
+
+[Fixed] Various NVG stuff collider fixes
+
+[Fixed] Skinning on MS2K
+
+[Fixed] NPE when IR device was deleted from the map
+
+[Fixed] NPE when light device was deleted when strobe effect was active
+
+[Fixed] Issue when having NVG would prevent IR capable scopes from seeing IR light
+
+[Fixed] K17 Wheel lods
+
+[Fixed] HDR application when swapping NVG to a set that is turned on
+
+[Fixed] Body invisibility after wearing vkpo
+
+[Fixed] 6B45 Item Renderer
+
+[Fixed] Weird shadow on K17 Wheels
+
+[Fixed] A2 Flashhider now has temp black material
+
+[Fixed] Normal map on 6b51 elbows
+
+[Fixed] Optic position on AK-74N
+
+[Fixed] Optic position on AKS-74UN
+
+[Fixed] Fixed PGS64 not being reattach function
+
+[Fixed] Fixed AKS74U inheritance
+
+
+### Deleted
+
+
+[Removed] Old version of 1pn138
+
+[Removed] Unused components from Puncox, Wilcox, L4G24, PVS14
+
+[Removed] Obsolete vkpo materials
+
+
+
 ## 0.2.656
 
 <!-- revision 656 -->
