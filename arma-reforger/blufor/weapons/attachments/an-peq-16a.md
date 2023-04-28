@@ -14,6 +14,10 @@ A green LED on the back of the device will indicate that the device is turned on
 
 ## Modes
 
+{% hint style="info" %}
+**Note:** IR lasers and illuminators can only be seen with appropriate optical devices, such as night vision goggles and scopes.
+{% endhint %}
+
 The AN/PEQ-16 can be set to the following modes:
 
 | Mode | Name        | Description                                                                                  |
