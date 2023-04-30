@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/30/2023 9:05:33 AM UTC | Revision 708 | Tactical_Toxic]
+
+[Removed] -----------0.98----------
+
+[Fixed] Missing hierarchy component on t14 armor and pieces
+
+[Removed] Camo ural prefab, since its vanilla now
+
+
+
 [4/30/2023 7:10:40 AM UTC | Revision 707 | reyhard]
 
 [Other] Empty Scripts/Game folder for 0.9.8 compatible scripts
