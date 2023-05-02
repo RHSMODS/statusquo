@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/2/2023 1:28:26 AM UTC | Revision 723 | odkupiciel375]
+
+[Fixed] EARHS for 0.9.8; fixes #227
+
+[Fixed] Missing Hierarchy components in battery and antenna prefabs of ANPRC152
+
+[Fixed] IR illuminator were not visible in NV sights; fixes #222
+
+[Fixed] NVG for 0.9.8; fixes #224
+
+[Improved] EARHS backlight handling
+
+
+
 [5/1/2023 10:17:23 PM UTC | Revision 722 | Soul_Assassin]
 
 [Fixed] Fixed and improved time changer in the showcase world; fixes #221
