@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/3/2023 2:35:18 PM UTC | Revision 728 | odkupiciel375]
+
+[Fixed] Goggles were visible when ADS while in TPP after repossessing entity; fixed #217
+
+[Fixed] HDR_Regular had reference to no longer existing class
+
+[Fixed] NV would remain ON when player would stop possessing entity by holding Y
+
+
+
 [5/3/2023 5:14:17 AM UTC | Revision 727 | PUDDY300]
 
 [Fixed] AK-74M Animations and reload sounds
