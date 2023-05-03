@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/3/2023 4:03:27 PM UTC | Revision 729 | PUDDY300]
+
+[Fixed] AKS-74U Animations and reload sounds
+
+[Fixed] AN-94 Reload Sounds
+
+[Fixed] M27 Animations and reload sounds
+
+[Fixed] Vz52 Magazine (incorrect magazine well)
+
+[Other] Vz.52 Reload Animation broken. Doesn't Allow gun to reload when empty
+
+
+
 [5/3/2023 2:35:18 PM UTC | Revision 728 | odkupiciel375]
 
 [Fixed] Goggles were visible when ADS while in TPP after repossessing entity; fixed #217
