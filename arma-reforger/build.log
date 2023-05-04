@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/4/2023 6:12:54 AM UTC | Revision 733 | Soul_Assassin]
+
+[Fixed] Removed 0.9.8 error spam from MS2000, 1PN93 and 1P78
+
+
+
 [5/3/2023 10:20:06 PM UTC | Revision 732 | Soul_Assassin]
 
 [Fixed] Fixed reload anim playing during ranging with Vector or PDU; fixes #225
