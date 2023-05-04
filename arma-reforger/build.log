@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/4/2023 1:00:59 PM UTC | Revision 736 | Tactical_Toxic]
+
+[Fixed] Pgs64 localization; fixes #244
+
+[Fixed] Rifleman localization; fixes #243
+
+[Fixed] RF MSV EMR loadouts; fixes #242
+
+[Fixed] Possible fix to 2a42 missing tracer model; fixes #262
+
+[Fixed] Sukharka RU localization; fixes #260
+
+
+
 [5/4/2023 9:49:37 AM UTC | Revision 735 | Soul_Assassin]
 
 [Improved] Reorganized loadouts of RF EMR prefabs
