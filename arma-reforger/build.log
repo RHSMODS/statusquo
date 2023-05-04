@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/4/2023 7:55:06 AM UTC | Revision 734 | Soul_Assassin]
+
+[Fixed] Fixed error spam due to missing CharacterWeaponComponent, now primary weapon selected at start; fixes #235
+
+
+
 [5/4/2023 6:12:54 AM UTC | Revision 733 | Soul_Assassin]
 
 [Fixed] Removed 0.9.8 error spam from MS2000, 1PN93 and 1P78
