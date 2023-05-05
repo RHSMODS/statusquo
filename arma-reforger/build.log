@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[5/5/2023 11:21:53 AM UTC | Revision 740 | Tactical_Toxic]
+
+[Improved] Complete factions and arsenals refactor; fixes #236; fixes #234
+
+[Fixed] No attachment slots were shown in inspection menu; fixes #259
+
+[Added] MSV arsenal
+
+[Added] USMC arsenal
+
+[Added] SVD with 1pn93 prefab
+
+[Added] PKM with 1pn93 prefab
+
+[Added] MSV vS USMC LoadoutManager
+
+[Other] Oh my god, it took almost 3 hours, and was very painful
+
+
+
 [5/5/2023 10:27:55 AM UTC | Revision 739 | odkupiciel375]
 
 [Fixed] Removed unused params from ANPRC152 prefab; fixed 265
