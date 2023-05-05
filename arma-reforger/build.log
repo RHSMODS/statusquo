@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/5/2023 10:27:55 AM UTC | Revision 739 | odkupiciel375]
+
+[Fixed] Removed unused params from ANPRC152 prefab; fixed 265
+
+[Fixed] Updated radio OnCapture and OnReceive methods to comply with their respective 0.9.8 ScriptInvokers
+
+[Fixed] Incorrectly added IR HP laser for ANPEQ16 prefab
+
+
+
 [5/5/2023 10:25:13 AM UTC | Revision 738 | reyhard]
 
 [Other] Changed screenshots from png to jpg to reduce their file size
