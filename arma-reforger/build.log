@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/5/2023 3:22:26 PM UTC | Revision 742 | PUDDY300]
+
+[Other] Added signalManager check to SetZoomAnimation to avoid errors when no procedural animation is defined on optic
+
+
+
 [5/5/2023 2:53:10 PM UTC | Revision 741 | Tactical_Toxic]
 
 [Added] IT-1TWS-315A (temporary NV)
