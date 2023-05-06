@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/6/2023 10:46:50 AM UTC | Revision 743 | Tactical_Toxic]
+
+[Fixed] Reticle on t14 and k17 optics
+
+
+
 [5/5/2023 3:22:26 PM UTC | Revision 742 | PUDDY300]
 
 [Other] Added signalManager check to SetZoomAnimation to avoid errors when no procedural animation is defined on optic
