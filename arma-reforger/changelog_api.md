@@ -9,6 +9,179 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.745
+
+<!-- revision 745 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 745
+
+_<mark style="color:red;">Date:</mark>_ Saturday, May 6, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 48 (697)
+
+_<mark style="color:red;">Changes:</mark>_ 10 additions, 9 improvements, 48 fixes and 3 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Radial menu for AN/PEQ-16 and 1P63 (early trials)
+
+[Added] AKS74U with LTSU Attachment
+
+[Added] Deep shadow under vehicle for k17 and t14
+
+[Added] Vkpo 1 layer undershorts
+
+[Added] MSV arsenal
+
+[Added] USMC arsenal
+
+[Added] SVD with 1pn93 prefab
+
+[Added] PKM with 1pn93 prefab
+
+[Added] MSV vS USMC LoadoutManager
+
+[Added] IT-1TWS-315A (temporary NV)
+
+
+### Improved
+
+
+[Improved] Some back functionality for radial menu implemented
+
+[Improved] Adjusted character prefabs to 0.9.8 update
+
+[Improved] !!! CHANGED ATTACHEMNT TYPE FROM RHS RIS TO VANILLA RIS1913 !!!
+
+[Improved] Summer vkpo pants rig
+
+[Improved] EARHS backlight handling
+
+[Improved] Change PEQ-16 preview image to be from top
+
+[Improved] Reorganized loadouts of RF EMR prefabs
+
+[Improved] AKS74U Hand Animations
+
+[Improved] Complete factions and arsenals refactor; fixes [#236](https://github.com/RHSMODS/statusquo/issues/236); fixes [#234](https://github.com/RHSMODS/statusquo/issues/234)
+
+
+### Fixed
+
+
+[Fixed] 1pn93 grain effect
+
+[Fixed] Fixed radial not opening on first go
+
+[Fixed] L5 Skirt on t14 was not moving
+
+[Fixed] Missing hierarchy component on t14 armor and pieces
+
+[Fixed] Missing hierarchy on collimator base
+
+[Fixed] Missing hierarchy on vz52 magazine
+
+[Fixed] Fixed nonexistent ref in inputs context
+
+[Fixed] Missing hierarchy component on many stuff
+
+[Fixed] Missing SignalManagerComponent on many stuff
+
+[Fixed] PGS64 name
+
+[Fixed] T14 Lights
+
+[Fixed] AN-94 railed now uses AttachmentRIS1913Short slot
+
+[Fixed] Vkpo undershirt collar that conflict into the neck on some vanilla heads, and lowered shine on mat
+
+[Fixed] 1P86 eye point
+
+[Fixed] K17 Lights
+
+[Fixed] Fixed an94 and m27 wrong attachment type used for optics
+
+[Fixed] Fixed and improved time changer in the showcase world; fixes [#221](https://github.com/RHSMODS/statusquo/issues/221)
+
+[Fixed] EARHS for 0.9.8; fixes [#227](https://github.com/RHSMODS/statusquo/issues/227)
+
+[Fixed] Missing Hierarchy components in battery and antenna prefabs of ANPRC152
+
+[Fixed] IR illuminator were not visible in NV sights; fixes [#222](https://github.com/RHSMODS/statusquo/issues/222)
+
+[Fixed] NVG for 0.9.8; fixes [#224](https://github.com/RHSMODS/statusquo/issues/224)
+
+[Fixed] Fixed AN/PEQ-16 and 2A42 0.9.8 sound errors; closes [#253](https://github.com/RHSMODS/statusquo/issues/253) [#250](https://github.com/RHSMODS/statusquo/issues/250)
+
+[Fixed] AK-74M Animations and reload sounds
+
+[Fixed] Goggles were visible when ADS while in TPP after repossessing entity; fixed [#217](https://github.com/RHSMODS/statusquo/issues/217)
+
+[Fixed] HDR_Regular had reference to no longer existing class
+
+[Fixed] NV would remain ON when player would stop possessing entity by holding Y
+
+[Fixed] AKS-74U Animations and reload sounds
+
+[Fixed] AN-94 Reload Sounds
+
+[Fixed] M27 Animations and reload sounds
+
+[Fixed] Vz52 Magazine (incorrect magazine well)
+
+[Fixed] AN-94 Inspection Animations
+
+[Fixed] Fixed error spam on 6B7, R187, optics, melee components and mags
+
+[Fixed] Fixed reload anim playing during ranging with Vector or PDU; fixes [#225](https://github.com/RHSMODS/statusquo/issues/225)
+
+[Fixed] Fixed rangfinder second point indicator not clearing
+
+[Fixed] Removed 0.9.8 error spam from MS2000, 1PN93 and 1P78
+
+[Fixed] Fixed error spam due to missing CharacterWeaponComponent, now primary weapon selected at start; fixes [#235](https://github.com/RHSMODS/statusquo/issues/235)
+
+[Fixed] Pgs64 localization; fixes [#244](https://github.com/RHSMODS/statusquo/issues/244)
+
+[Fixed] Rifleman localization; fixes [#243](https://github.com/RHSMODS/statusquo/issues/243)
+
+[Fixed] RF MSV EMR loadouts; fixes [#242](https://github.com/RHSMODS/statusquo/issues/242)
+
+[Fixed] Possible fix to 2a42 missing tracer model; fixes [#262](https://github.com/RHSMODS/statusquo/issues/262)
+
+[Fixed] Sukharka RU localization; fixes [#260](https://github.com/RHSMODS/statusquo/issues/260)
+
+[Fixed] Removed unused params from ANPRC152 prefab; fixed 265
+
+[Fixed] Updated radio OnCapture and OnReceive methods to comply with their respective 0.9.8 ScriptInvokers
+
+[Fixed] Incorrectly added IR HP laser for ANPEQ16 prefab
+
+[Fixed] No attachment slots were shown in inspection menu; fixes [#259](https://github.com/RHSMODS/statusquo/issues/259)
+
+[Fixed] Reticle on t14 and k17 optics
+
+[Fixed] Fixed RHS showcase mission by removing Editor Faction Manager from the world
+
+[Fixed] Fixed position of fire mode switch action in weapon inspection mode on AK74M
+
+
+### Deleted
+
+
+[Removed] -----------0.98----------
+
+[Removed] Camo ural prefab, since its vanilla now
+
+[Removed] Obsolete stuff from testmap
+
+
+
 ## 0.2.697
 
 <!-- revision 697 -->
