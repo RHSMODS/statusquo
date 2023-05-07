@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/7/2023 2:07:38 PM UTC | Revision 750 | odkupiciel375]
+
+[Improved] Spotlight angle adjustment action changed to be adjustable with scroll wheel like BTR hatches
+
+[Improved] Handling of equipping used NV set
+
+[Improved] Handling of NV ADS to prevent NVG being visible in FPP
+
+
+
 [5/7/2023 12:58:23 PM UTC | Revision 749 | Tactical_Toxic]
 
 [Other] Placeholder textures for 1pn138, 1p90, npz universal rail, npz ak dovetail rail
