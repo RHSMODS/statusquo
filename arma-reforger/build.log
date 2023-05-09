@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/9/2023 9:10:44 PM UTC | Revision 767 | Soul_Assassin]
+
+[Fixed] Fix APS sound errors; fixes #249
+
+[Fixed] Fix 2a82 sound errors; fixes #252
+
+[Fixed] Fix 2a42 sound errors
+
+
+
 [5/9/2023 8:49:22 PM UTC | Revision 766 | Soul_Assassin]
 
 [Fixed] T14 horn sound; fixes #251
