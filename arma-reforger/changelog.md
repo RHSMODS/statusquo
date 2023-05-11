@@ -4,7 +4,7 @@ description: >-
   release.
 ---
 
-# Changelog
+# Changelogs
 
 <!-- reset point -->
 <!-- changelog insert -->
