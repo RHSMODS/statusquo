@@ -1,6 +1,6 @@
 # RHS: Status Quo
 
-## Welcome!
+## Welcome to RHS!
 
 Welcome to the user documentation of the RHS: Status Quo modification for Arma Reforger.
 
