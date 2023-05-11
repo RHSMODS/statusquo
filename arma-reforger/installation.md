@@ -1,8 +1,6 @@
 # Installation
 
-<figure><img src="../.gitbook/assets/изображение_2023-02-27_195725835.png" alt=""><figcaption></figcaption></figure>
-
-## Reforger Workshop
+Reforger Workshop
 
 ### Stable
 
@@ -16,7 +14,7 @@ The changelog of all stable versions can be found in [Changelog](changelog.md) s
 
 The Dev version of the mod is considered unstable releases for multiplayer and user testing and can be found here:
 
-{% embed url="https://reforger.armaplatform.com/workshop/5CF4A61BE1D960C6-RHS-StatusQuoExperimental" %}
+{% embed url="https://reforger.armaplatform.com/workshop/5CF4A61BE1D960C6-RHS-StatusQuoDev" %}
 
 The Dev version is primarily intended for the RHS team to perform MP playability tests before stable releases and thus, at the moment, do not have official changelogs published.&#x20;
 
