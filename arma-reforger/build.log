@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/12/2023 10:44:19 AM UTC | Revision 795 | Tactical_Toxic]
+
+[Fixed] T14 turret no longer disappears after hitting a mine
+
+[Fixed] T14 was resistant to mines; fixes #277
+
+
+
 [5/12/2023 7:10:32 AM UTC | Revision 794 | reyhard]
 
 [Other] Renamed snap_magazine to slot_magazine on AKS74UN
