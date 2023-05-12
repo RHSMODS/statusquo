@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/12/2023 7:06:12 AM UTC | Revision 793 | reyhard]
+
+[Fixed] Fixed console log error about missing camo truck from MSV faction
+
+[Fixed] Fixed T14 commander remap error
+
+[Other] Renamed RPG7 prefab
+
+
+
 [5/12/2023 6:40:49 AM UTC | Revision 792 | reyhard]
 
 [Other] Removed non existing camo truck
