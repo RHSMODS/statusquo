@@ -6,7 +6,7 @@ Introduced in **0.2.414**
 
 Vector 21 is a binocular rangefinder with day optics, an integrated 3-dimensional, 360° digital compass and a precise class 1 eye-safe laser rangefinder. It provides distance measurements up to 12 km with 7x magnification.
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Vector 21</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Vector 21</p></figcaption></figure>
 
 The engraved reticle has a line spacing of 10 mils and line-dot spacing of 5 mils. 1 mil corresponds to 1 m spacing at a distance of 1 km. In the image below you can see a 1 m cube being sighted at 100 m being exactly 10 mils.
 

@@ -24,4 +24,4 @@ The Dev version can contain features that can cause serious problem and should n
 
 The Dev version is a preview of the next stable version and follows the same linear development branch.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
