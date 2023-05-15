@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/15/2023 7:31:18 AM UTC | Revision 805 | reyhard]
+
+[Fixed] Fixed collimator grass flattening
+
+[Improved] Tweaked ironsights behavior on M27IAR
+
+[Improved] Tweaked collimator behavior on SU230 (still glitchy)
+
+
+
 [5/14/2023 9:28:40 AM UTC | Revision 804 | Tactical_Toxic]
 
 [Other] Attachments config v2
