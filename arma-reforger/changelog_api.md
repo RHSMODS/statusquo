@@ -9,6 +9,75 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.804
+
+<!-- revision 804 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 804
+
+_<mark style="color:red;">Date:</mark>_ Monday, May 15, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 17 (787)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] New 1p87
+
+[Added] Dry AK reload to AKS-74U
+
+
+### Improved
+
+
+[Improved] Improved PC_Gen_III prefab storage
+
+[Improved] T1 localization
+
+[Improved] T1 reticle
+
+[Improved] Positioning of ACOG and SU-230 on rails; fixes [#279](https://github.com/RHSMODS/statusquo/issues/279)
+
+[Improved] ECH textures
+
+
+### Fixed
+
+
+[Fixed] Fixed PC_Gen_III name and description
+
+[Fixed] T1 was missing from arsenal
+
+[Fixed] Fixed console log error about missing camo truck from MSV faction
+
+[Fixed] Fixed T14 commander remap error
+
+[Fixed] T14 turret no longer disappears after hitting a mine
+
+[Fixed] T14 was resistant to mines; fixes [#277](https://github.com/RHSMODS/statusquo/issues/277)
+
+[Fixed] AKS74U Bullet Shell Origin
+
+[Fixed] AKS74U Handguard typo
+
+[Fixed] Lights on ik76 running
+
+[Fixed] Possible fix to azart radio
+
+[Fixed] Wrong attachments config
+
+
+### Deleted
+
+
+
+
 ## 0.3.787
 
 <!-- revision 787 -->
