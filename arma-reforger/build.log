@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[5/15/2023 7:49:16 PM UTC | Revision 809 | Soul_Assassin]
+
+[Improved] Added Depth of Field effect to PiP sights like TA31, SU-230, 1P86 and Bravo 4 to simulate blurry front sight
+
+[Improved] Radial menu can ow be used to interact with weapon actions
+
+[Improved] M27 IAR iron sight folding can be done via radial
+
+[Removed] Buggy Bravo 4 from test world
+
+
+
 [5/15/2023 2:24:08 PM UTC | Revision 808 | Soul_Assassin]
 
 [Improved] Moved gamepad controls for radial menu to RB+LB+DUp to testing
