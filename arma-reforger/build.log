@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/16/2023 8:27:57 AM UTC | Revision 814 | reyhard]
+
+[Fixed] Added low res navmesh - fixes #248
+
+
+
 [5/16/2023 8:22:55 AM UTC | Revision 813 | reyhard]
 
 [Other] Added missing layer
