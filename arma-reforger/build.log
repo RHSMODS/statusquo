@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/16/2023 1:15:48 PM UTC | Revision 815 | Soul_Assassin]
+
+[Other] Changed radial mapping to RB+X hold for controllers.
+
+
+
 [5/16/2023 8:27:57 AM UTC | Revision 814 | reyhard]
 
 [Fixed] Added low res navmesh - fixes #248
