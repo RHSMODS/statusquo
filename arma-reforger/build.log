@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/22/2023 2:36:02 PM UTC | Revision 841 | reyhard]
+
+[Improved] Tweaked ANPEQ actions visibility (not available when on ground)
+
+[Improved] Updated Combat Ops scenario
+
+[Improved] Added AK74UN with laser to Arsenal
+
+
+
 [5/22/2023 10:01:27 AM UTC | Revision 840 | reyhard]
 
 [Other] Added small regex for mass replacing units in folder
