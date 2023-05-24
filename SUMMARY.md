@@ -32,6 +32,7 @@
     * [AN / PRC 152](arma-reforger/blufor/gadgets/an-prc-152.md)
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
   * [Weapons](arma-reforger/blufor/weapons.md)
+    * [M27 IAR](arma-reforger/blufor/weapons/m27-iar.md)
     * [Attachments](arma-reforger/blufor/weapons/attachments/README.md)
       * [AN/PEQ-16A](arma-reforger/blufor/weapons/attachments/an-peq-16a.md)
       * [ACOG TA31RCO 4x32](arma-reforger/blufor/weapons/attachments/acog-ta31rco-4x32.md)
@@ -54,6 +55,7 @@
     * [PDU-4](arma-reforger/redfor/gadgets/pdu-4.md)
   * [Weapons](arma-reforger/redfor/weapons/README.md)
     * [Attachments](arma-reforger/redfor/weapons/attachments/README.md)
+      * [INFRATECH TWS-1](arma-reforger/redfor/weapons/attachments/infratech-tws-1.md)
       * [1P21](arma-reforger/redfor/weapons/attachments/1p21.md)
       * [1P63](arma-reforger/redfor/weapons/attachments/1p63.md)
       * [1P78](arma-reforger/redfor/weapons/attachments/1p78.md)
@@ -65,6 +67,7 @@
     * [AN-94](arma-reforger/redfor/weapons/an-94.md)
   * [Vehicles](arma-reforger/redfor/vehicles/README.md)
     * [K-17 Boomerang](arma-reforger/redfor/vehicles/k-17-boomerang.md)
+    * [T-14](arma-reforger/redfor/vehicles/t-14.md)
 
 ## Arma 3
 
