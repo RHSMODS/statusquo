@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/29/2023 2:57:31 PM UTC | Revision 862 | Soul_Assassin]
+
+[Other] Dropping helmet with NVG on should remove NVG functions now
+
+
+
 [5/29/2023 1:48:59 PM UTC | Revision 861 | Soul_Assassin]
 
 [Added] Added NVG mounting system (mount while wearing compatible helmet and remove with Radial)
