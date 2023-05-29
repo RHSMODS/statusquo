@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/29/2023 1:48:59 PM UTC | Revision 861 | Soul_Assassin]
+
+[Added] Added NVG mounting system (mount while wearing compatible helmet and remove with Radial)
+
+[Added] Added AN/PVS-14 mono
+
+[Improved] Supporting helmets can mount NVGs
+
+[Improved] Radial now supports helmet attachment actions
+
+[Fixed] Fixed some radial menu problems
+
+
+
 [5/29/2023 12:51:55 PM UTC | Revision 860 | Tactical_Toxic]
 
 [Added] Summer vkpo jacket and underpants to arsenal
