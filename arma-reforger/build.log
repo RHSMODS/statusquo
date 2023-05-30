@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[5/30/2023 8:53:23 PM UTC | Revision 874 | Soul_Assassin]
+
+[Added] Added RHS_ItemActionGlobal class to be used for actions that propagate in MP
+
+[Improved] Sight flipping actions should work over MP now
+
+[Other] FILBE pack collision gamemat fixed
+
+[Other] Removed bad reference to a deleted xob in LShZ helmet
+
+
+
 [5/30/2023 8:18:36 PM UTC | Revision 873 | odkupiciel375]
 
 [Fixed] ANPEQ16 actions MP synchronization
