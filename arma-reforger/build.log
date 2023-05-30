@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[5/30/2023 12:02:59 PM UTC | Revision 867 | Soul_Assassin]
+
+[Improved] Added some missing localizations
+
+[Improved] VIP Strobe and battery pack now attachable to helmets with back velcro
+
+[Improved] Helmet mounting system now supports more area types than just NVG
+
+[Added] Added helmet back velcro area type for mounting attachments
+
+[Improved] Refactored helmet mounting actions
+
+[Other] Removed balaclava ECH versions for now.
+
+
+
 [5/29/2023 9:39:03 PM UTC | Revision 866 | Soul_Assassin]
 
 [Other] Some playing with other attachment
