@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/31/2023 4:01:04 PM UTC | Revision 884 | reyhard]
+
+[Other] Removed some empty entries in USMC EntityCatalog
+
+
+
 [5/31/2023 3:49:02 PM UTC | Revision 883 | odkupiciel375]
 
 [Other] Removed unused ClothNodeStorageComponent from NVG to make it visible when attached to the helmet
