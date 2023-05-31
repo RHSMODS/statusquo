@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/31/2023 7:23:31 AM UTC | Revision 875 | Punky]
+
+[Added] Dual PVS14 Variant
+
+[Other] Included blend file for NVG assets
+
+
+
 [5/30/2023 8:53:23 PM UTC | Revision 874 | Soul_Assassin]
 
 [Added] Added RHS_ItemActionGlobal class to be used for actions that propagate in MP
