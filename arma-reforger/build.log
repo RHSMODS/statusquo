@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/31/2023 10:37:18 PM UTC | Revision 891 | Soul_Assassin]
+
+[Improved] Added MS2000 to inventory; fixes #291
+
+[Other] Fixed wrong arsenal config placement
+
+[Other] Tried adding InventoryItemComponent to LShZ_attachment.et but it did not help
+
+
+
 [5/31/2023 10:03:51 PM UTC | Revision 890 | Soul_Assassin]
 
 [Fixed] AN/PEQ-16 AH mode was missing from radial menu; fixes #296
