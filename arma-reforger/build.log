@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/31/2023 7:58:02 AM UTC | Revision 876 | Punky]
+
+[Other] Just changed the way that PVS14Dual inherits from base PVS
+
+
+
 [5/31/2023 7:23:31 AM UTC | Revision 875 | Punky]
 
 [Added] Dual PVS14 Variant
