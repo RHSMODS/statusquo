@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/31/2023 3:49:02 PM UTC | Revision 883 | odkupiciel375]
+
+[Other] Removed unused ClothNodeStorageComponent from NVG to make it visible when attached to the helmet
+
+
+
 [5/31/2023 3:30:21 PM UTC | Revision 882 | Vergy]
 
 [Fixed] Fixed Open top pouch collider
