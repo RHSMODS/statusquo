@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[6/3/2023 5:30:11 PM UTC | Revision 893 | Tactical_Toxic]
+
+[Added] More weapon presets (railed ak with 1p87, m27 with su230)
+
+[Fixed] Missing radio from RU presets
+
+[Improved] Changed gear in RU presets
+
+[Other] Fix for npz rail
+
+
+
 [6/3/2023 2:47:46 AM UTC | Revision 892 | Mihail]
 
 [Improved] Corrected emr-pattern for VKPO stuff - scale, color
