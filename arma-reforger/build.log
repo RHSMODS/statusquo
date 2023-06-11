@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/11/2023 8:32:53 PM UTC | Revision 907 | odkupiciel375]
+
+[Fixed] Adjusted NVG mask to prevent it from covering other ui elements
+
+
+
 [6/11/2023 8:14:59 PM UTC | Revision 906 | odkupiciel375]
 
 [Other] Added bone called 'AttachmentPoint' to MS2000
