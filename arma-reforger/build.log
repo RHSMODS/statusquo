@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/11/2023 8:14:59 PM UTC | Revision 906 | odkupiciel375]
+
+[Other] Added bone called 'AttachmentPoint' to MS2000
+
+[Other] Changed helmets that have BackVelcro slot to use its pivot ID 'Head' and child pivot ID 'AttachmentPoint' for attached object positioning
+
+
+
 [6/11/2023 1:55:03 PM UTC | Revision 905 | Tactical_Toxic]
 
 [Fixed] Missing missle prefab
