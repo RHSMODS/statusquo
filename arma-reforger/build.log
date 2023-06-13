@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/13/2023 7:23:25 PM UTC | Revision 910 | odkupiciel375]
+
+[Fixed] NPE when player dies with ANPRC152 in his inventory
+
+
+
 [6/12/2023 1:07:41 PM UTC | Revision 909 | reyhard]
 
 [Improved] Added hierarchy to 6L23 magazine
