@@ -9,6 +9,285 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.910
+
+<!-- revision 910 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 910
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, June 14, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 106 (804)
+
+_<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fixes and 1 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Added PC_Gen_III open top pouches
+
+[Added] Created PC_Gen_III Rifleman variant
+
+[Added] Added PC_Gen_III Rifleman to USMC Arsenal
+
+[Added] KAC_FLASHHIDER (TEX WIP)
+
+[Added] NT4_QDSS (TEX WIP)
+
+[Added] Added FILBE Hydration Pouch
+
+[Added] Added FILBE Hydration Pouch to USMC Arsenal
+
+[Added] NT4 Lods and colliders
+
+[Added] Added PC_Gen_III_light (side plate pouches removed)
+
+[Added] Rotated bands version of PMAG Pouch
+
+[Added] Added Enhanced Modular Admin Pouch
+
+[Added] Added Admin Pouch to PC Gen III Rifleman & Light variants
+
+[Added] Added WIP M27 IAR Textures
+
+[Added] M8541 Reticle Illumination
+
+[Added] New M27 reload animation
+
+[Added] Black balaclava
+
+[Added] RHS 20 patch to various gear
+
+[Added] AN PRC 152A Radio
+
+[Added] Vkpo summer field jacket
+
+[Added] RHS20 Patch to summer VKPO
+
+[Added] AN/PRC-152A To arsenal
+
+[Added] Summer vkpo jacket and underpants to arsenal
+
+[Added] Added NVG mounting system (mount while wearing compatible helmet and remove with Radial)
+
+[Added] Added AN/PVS-14 mono
+
+[Added] Added helmet back velcro area type for mounting attachments
+
+[Added] Added RHS_ItemActionGlobal class to be used for actions that propagate in MP
+
+[Added] Dual PVS14 Variant
+
+[Added] Ability to attach MS2000 to the helmet
+
+[Added] New item model for summer field vkpo
+
+[Added] More weapon presets (railed ak with 1p87, m27 with su230)
+
+[Added] Kac rail covers
+
+[Added] Point shooting feature to anpeq16
+
+[Added] 6X9-1 bayonet for ratnik gear
+
+[Added] 1PN138 Nvg
+
+
+### Improved
+
+
+[Improved] Tweaked ironsights behavior on M27IAR
+
+[Improved] Tweaked collimator behavior on SU230 (still glitchy)
+
+[Improved] Increased NVG eye adaptation after disabling NVG
+
+[Improved] Moved gamepad controls for radial menu to RB+LB+DUp to testing
+
+[Improved] Added Depth of Field effect to PiP sights like TA31, SU-230, 1P86 and Bravo 4 to simulate blurry front sight
+
+[Improved] Radial menu can ow be used to interact with weapon actions
+
+[Improved] M27 IAR iron sight folding can be done via radial
+
+[Improved] RPG-7 iron sight folding can be done via radial
+
+[Improved] Slightly updated USMC faction with some placeholder assets
+
+[Improved] Adjusted USMC loadouts (readded magazines after changing vests)
+
+[Improved] Improved Open Top pouch textures
+
+[Improved] Improved FILBE hydration pack textures
+
+[Improved] NT4 Textures 2K set
+
+[Improved] NT4 Textures
+
+[Improved] Tweaked ANPEQ actions visibility (not available when on ground)
+
+[Improved] Updated Combat Ops scenario
+
+[Improved] Added AK74UN with laser to Arsenal
+
+[Improved] NT4 Model & Textures
+
+[Improved] USMC is now friendly to US and AFRF is now friendly to USSR
+
+[Improved] Tweaked SPC vest configuration (stilly buggy) - any kind of magazine can be now visible on the vest
+
+[Improved] Regenerated Eden pictures
+
+[Improved] Tweaks to USMC loadouts
+
+[Improved] T1 Localization
+
+[Improved] Summer pants textures
+
+[Improved] Added name/description for sum vkpo. jacket prefab placed on test map
+
+[Improved] Small mesh geometry fixes and rig
+
+[Improved] Final textures for valdai rail
+
+[Improved] Supporting helmets can mount NVGs
+
+[Improved] Radial now supports helmet attachment actions
+
+[Improved] NVG storage detection
+
+[Improved] Added some missing localizations
+
+[Improved] VIP Strobe and battery pack now attachable to helmets with back velcro
+
+[Improved] Helmet mounting system now supports more area types than just NVG
+
+[Improved] Refactored helmet mounting actions
+
+[Improved] Sight flipping actions should work over MP now
+
+[Improved] UI for cloth storage system to allow for manipulation of slotted items (like NVG, earpro, patches etc) through the inventory screen
+
+[Improved] Added PVS to arsenal
+
+[Improved] Added RU helmet battery pack and strobe to arsenal
+
+[Improved] Enabled MS2000 action to be visible in radial menu
+
+[Improved] Assigned correct mask to dual NVG
+
+[Improved] Added MS2000 to inventory; fixes [#291](https://github.com/RHSMODS/statusquo/issues/291)
+
+[Improved] Corrected emr-pattern for VKPO stuff - scale, color
+
+[Improved] Clothing position on inventory preview icons
+
+[Improved] Changed gear in RU presets
+
+[Improved] 2a42 and 2a82 Sound
+
+[Improved] Removed Penetration Density override from M929
+
+[Improved] T14 armor rework
+
+[Improved] Vkpo field jacket add lods
+
+[Improved] 6x9-1 textures (resize for 1k)
+
+[Improved] Bayonet position on ak74m
+
+[Improved] 1p90 and 1pn138 localization
+
+[Improved] Added hierarchy to 6L23 magazine
+
+
+### Fixed
+
+
+[Fixed] Fixed collimator grass flattening
+
+[Fixed] CVCs were missing from USMC arsenal catalogue
+
+[Fixed] Fixed wrong compression, ratio and naming of 30mm decal
+
+[Fixed] Added low res navmesh - fixes [#248](https://github.com/RHSMODS/statusquo/issues/248)
+
+[Fixed] T14 turret was not disappearing after destruction
+
+[Fixed] Fixed PC_Gen_III_Light name and description
+
+[Fixed] Fixed PC_Gen_III_Rifleman name and description
+
+[Fixed] Added Missing stuff to arsenal
+
+[Fixed] Russian nvg scopes were missing from arsenal
+
+[Fixed] M8541 Reticle
+
+[Fixed] Fixed SU230 PIP near plane being too far and clipping the AN/PEQ16
+
+[Fixed] M27 Localization
+
+[Fixed] Casing ejection on m27
+
+[Fixed] NT4 Was missing hierarchy component
+
+[Fixed] Duplicated guid on pcgen3
+
+[Fixed] Ru localization of anprc152 an 152A
+
+[Fixed] Fixed some radial menu problems
+
+[Fixed] Various T14 and K17 inventory fixes
+
+[Fixed] Inventory size of PVS14
+
+[Fixed] Inventory size of LShZ_attachment
+
+[Fixed] ECH now uses fabric_military_plastic.gamemat for surface properties
+
+[Fixed] NVG HDR fix
+
+[Fixed] ANPEQ16 actions MP synchronization
+
+[Fixed] Fixed Open top pouch collider
+
+[Fixed] Picatinny Rail for AK is no longer detachable; fixes [#287](https://github.com/RHSMODS/statusquo/issues/287)
+
+[Fixed] FILBE hydration pack localizations; fixes [#295](https://github.com/RHSMODS/statusquo/issues/295)
+
+[Fixed] AN/PEQ-16 AH mode was missing from radial menu; fixes [#296](https://github.com/RHSMODS/statusquo/issues/296)
+
+[Fixed] Missing radio from RU presets
+
+[Fixed] Various item size volume and inventory type fixes
+
+[Fixed] 30mm rounds tracer error
+
+[Fixed] Potential fix for R187P1 issues in MP
+
+[Fixed] Fixed some US character in USMC groups
+
+[Fixed] Missing missle prefab
+
+[Fixed] Link to missing prefab in 6x9
+
+[Fixed] Adjusted NVG mask to prevent it from covering other ui elements
+
+[Fixed] NPE when player dies with ANPRC152 in his inventory
+
+
+### Deleted
+
+
+[Removed] Buggy Bravo 4 from test world
+
+
+
 ## 0.3.804
 
 <!-- revision 804 -->
