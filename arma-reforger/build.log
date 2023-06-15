@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[6/15/2023 9:52:54 PM UTC | Revision 913 | odkupiciel375]
+
+[Improved] Added missing and improved existing NV ui masks
+
+[Improved] Refactored NV ui mask effect
+
+[Fixed] Colored tint on image portion of NV ui mask
+
+[Fixed] Missing ui masks properties from NVG prefabs
+
+[Fixed] Ability to turn on NVG when using scopes that shouldn't allow for it
+
+
+
 [6/15/2023 1:50:05 PM UTC | Revision 912 | odkupiciel375]
 
 [Improved] AN/PRC - 152 BEEP option is no OFF by default
