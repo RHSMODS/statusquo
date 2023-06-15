@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/15/2023 10:03:31 PM UTC | Revision 914 | Tactical_Toxic]
+
+[Fixed] Scabbard was visible in vicinity; Fixes #311
+
+[Other] All RF MSV EMR units are using demiseasonal gear again
+
+
+
 [6/15/2023 9:52:54 PM UTC | Revision 913 | odkupiciel375]
 
 [Improved] Added missing and improved existing NV ui masks
