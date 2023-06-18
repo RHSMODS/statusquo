@@ -9,6 +9,81 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.924
+
+<!-- revision 924 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 924
+
+_<mark style="color:red;">Date:</mark>_ Sunday, June 18, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 14 (910)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 9 improvements, 11 fixes and 1 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] 1PN138 localization
+
+[Improved] KAC rail covers localization
+
+[Improved] Filmgrain filter
+
+[Improved] AN/PRC - 152 BEEP option is no OFF by default
+
+[Improved] Added missing and improved existing NV ui masks
+
+[Improved] Refactored NV ui mask effect
+
+[Improved] Improved NVG hdrs
+
+[Improved] NV UI mask animation
+
+[Improved] NV distortion and vignette adjustments
+
+
+### Fixed
+
+
+[Fixed] VIP pack position
+
+[Fixed] Colored tint on image portion of NV ui mask
+
+[Fixed] Missing ui masks properties from NVG prefabs
+
+[Fixed] Ability to turn on NVG when using scopes that shouldn't allow for it
+
+[Fixed] Scabbard was visible in vicinity; Fixes [#311](https://github.com/RHSMODS/statusquo/issues/311)
+
+[Fixed] Fixed SPC-III vest magazines visibility & USMC loadouts
+
+[Fixed] T14 skirt anim
+
+[Fixed] Fixed USMC rifleman was using wrong pouch for storage of magazines
+
+[Fixed] Fixed wrong GUID in some of the USMC character loadouts which caused disconnects on dedicated server
+
+[Fixed] Fixed USMC sniper wrong GUID reference
+
+[Fixed] Map was missing from RF MSV EMR kits
+
+
+### Deleted
+
+
+[Removed] RPG warhead and penetrator override
+
+
+
 ## 0.3.910
 
 <!-- revision 910 -->
