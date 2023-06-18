@@ -14,6 +14,8 @@ So what is it going to be about? Well after quite some internal discussions and 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://youtu.be/DmWAHs1G6Y8" %}
+
 {% hint style="warning" %}
 This documentation is constantly under construction. Please be patient with us!
 {% endhint %}
