@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/19/2023 7:08:48 PM UTC | Revision 932 | odkupiciel375]
+
+[Fixed] Being able to see IR lights after removing NVG from the helmet
+
+[Fixed] NV UI mask would persist after removing NVG from the helmet
+
+
+
 [6/19/2023 6:38:34 PM UTC | Revision 931 | odkupiciel375]
 
 [Improved] Modified attach action script to show name of object that item will be attached to
