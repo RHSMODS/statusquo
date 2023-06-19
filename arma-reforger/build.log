@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/19/2023 10:52:06 AM UTC | Revision 928 | odkupiciel375]
+
+[Other] Xcf files of NVG ui masks
+
+[Other] Renamed m_iAnimationLength to m_fAnimationLength to reflect its actual type
+
+[Other] Added light slit to all NVG ui masks
+
+
+
 [6/18/2023 8:46:47 PM UTC | Revision 927 | Tactical_Toxic]
 
 [Added] PBS 4
