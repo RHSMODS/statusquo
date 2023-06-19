@@ -1,5 +1,31 @@
 <!-- buildlog insert -->
 
+[6/19/2023 6:38:34 PM UTC | Revision 931 | odkupiciel375]
+
+[Improved] Modified attach action script to show name of object that item will be attached to
+
+[Improved] Adjusted M27 and ANPEQ16 interaction radius to prevent ANPEQ16 from obstructing flip action of M27 front iron sight
+
+[Improved] Added new and changed few existing NVG related strings
+
+[Added] Added White Phosphor variant of PVS14 NVG (in single and dual variant)
+
+[Added] WP NVG variants can be found in USMC arsenal and can be distinguished from GP by their names and the fact that their inventory item preview is mirrored
+
+[Added] Added WP NVG variants to RHS Showcase scenario
+
+[Fixed] Missing NVG animations
+
+[Other] Moved NVG_BluePhosphor_HDR.emat to 1pn138 data folder
+
+[Other] Changed NVG_WhitePhosphor_HDR.emat to be visual representation of real life WP NVG
+
+[Other] Added single bone to 1pn138 and PVS14 item model - all nvg item models will need that from now on
+
+[Other] Removed 'sharp' version of NVG ui mask as its unused and contained in xcf file if needed
+
+
+
 [6/19/2023 11:30:35 AM UTC | Revision 930 | Tactical_Toxic]
 
 [Fixed] T14 turret storage colliders
