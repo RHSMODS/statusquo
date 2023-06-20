@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/20/2023 10:08:44 AM UTC | Revision 934 | odkupiciel375]
+
+[Improved] Adjusted film grain effect to have scintillation effect
+
+[Other] Increased infratech1tws base zoom by 0.001 to 2.001 to exceed max allowed zoom level for usage with NVG
+
+[Other] Moved ANPEQ16 up a bit in showcase full as its interaction point was slightly obstructed as it was clipping the 'table'
+
+
+
 [6/19/2023 8:52:23 PM UTC | Revision 933 | odkupiciel375]
 
 [Fixed] Missing flip up/down animation for 1pn138 NVG
