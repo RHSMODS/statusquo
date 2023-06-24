@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[6/24/2023 9:09:24 PM UTC | Revision 939 | odkupiciel375]
+
+[Fixed] Not being able to attach clothing components that are already attached to other objects (fe. NVG that were attached to a helmet would not attach to users helmet when he would use theirs 'attach' action)
+
+[Fixed] MS2000 animation wouldn't play when attached to the helmet
+
+[Fixed] MS2000 animation would play only after user would remove IR cover for the second time
+
+[Fixed] Missing NVG lights
+
+[Improved] Ability to attach and detach masks (fe. balaclava), headsets and other components from helmets
+
+[Other] If radial menu component wont have specified name then it will use name provided in InventoryItemComponent -> UiInfo -> Name
+
+[Other] Added attachment point to rhs20.fbx to make it ready for use with clothing attachment system - currently works with helmets
+
+[Other] Moved all helmets names and descriptions from InventoryItemComponent to ClothNodeStorageComponent
+
+[Other] Tried to adjust PreviewRenderAttributes and it seems to be working but will require second opinion
+
+
+
 [6/23/2023 8:10:28 AM UTC | Revision 938 | Tactical_Toxic]
 
 [Fixed] Possible nvg scope HDR fix
