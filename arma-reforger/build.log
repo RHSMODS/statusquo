@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/24/2023 11:20:13 PM UTC | Revision 940 | Tactical_Toxic]
+
+[Fixed] Patch position on VKPO
+
+[Fixed] Various headgear attachemnts inventory size
+
+
+
 [6/24/2023 9:09:24 PM UTC | Revision 939 | odkupiciel375]
 
 [Fixed] Not being able to attach clothing components that are already attached to other objects (fe. NVG that were attached to a helmet would not attach to users helmet when he would use theirs 'attach' action)
