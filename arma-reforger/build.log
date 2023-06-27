@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[6/27/2023 7:47:11 PM UTC | Revision 947 | odkupiciel375]
+
+[Fixed] If user that had NVG ON when he enterd arma vision or zeus mode then he would retain ability to see IR lights without NV
+
+[Fixed] Headsets and masks could be placed in incorrect slots helmet
+
+[Improved] Attach and replace cloth attachment actions now display manipulated subjects names
+
+[Other] New class structure for Velcro slots
+
+[Other] Renamed RHS_LoadoutHelmetBackVelcroSlotArea.c to RHS_LoadoutVelcroSlotArea.c which contains all Velcro slot classes
+
+[Other] Item model for MS2k to test visibility in FPP when attached to the helmet
+
+
+
 [6/27/2023 11:30:21 AM UTC | Revision 946 | odkupiciel375]
 
 [Fixed] VIP Strobe visible in FPP
