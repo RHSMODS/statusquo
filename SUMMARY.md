@@ -14,7 +14,7 @@
   * [How to help us fixing a bug](arma-reforger/feedback/how-to-help-us-fixing-a-bug.md)
 * [Changelog](arma-reforger/changelog.md)
 * [General Systems](arma-reforger/general-systems/README.md)
-  * [RHS IR and NV](arma-reforger/general-systems/rhs-ir-and-nv.md)
+  * [RHS IR, NV and Thermals](arma-reforger/general-systems/rhs-ir-and-nv.md)
   * [Radial Menu](arma-reforger/general-systems/radial-menu.md)
   * [EARHS](arma-reforger/general-systems/earhs.md)
 * [BLUFOR](arma-reforger/blufor/README.md)
