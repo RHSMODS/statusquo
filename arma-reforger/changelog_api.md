@@ -9,6 +9,139 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.951
+
+<!-- revision 951 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 951
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, June 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 27 (924)
+
+_<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fixes and 1 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] RPK74N with rail
+
+[Added] 6L26 45 round mag
+
+[Added] PBS 4
+
+[Added] Zenit b18 rail
+
+[Added] AKSU versions with PBS4 and Zenit b18 rail
+
+[Added] AN-94 with valday rail
+
+[Added] Infratech 1tws with T1 mounted on side
+
+[Added] Added White Phosphor variant of PVS14 NVG (in single and dual variant)
+
+[Added] WP NVG variants can be found in USMC arsenal and can be distinguished from GP by their names and the fact that their inventory item preview is mirrored
+
+[Added] Added WP NVG variants to RHS Showcase scenario
+
+[Added] Zenitco B51 rail
+
+[Added] PKM With B51 rail
+
+[Added] Name and description for RHS 20 patch
+
+
+### Improved
+
+
+[Improved] New temp interior for k17
+
+[Improved] Localization for 1pn138
+
+[Improved] Modified attach action script to show name of object that item will be attached to
+
+[Improved] Adjusted M27 and ANPEQ16 interaction radius to prevent ANPEQ16 from obstructing flip action of M27 front iron sight
+
+[Improved] Added new and changed few existing NVG related strings
+
+[Improved] Adjusted film grain effect to have scintillation effect
+
+[Improved] Ability to attach and detach masks (fe. balaclava), headsets and other components from helmets
+
+[Improved] Attach and replace cloth attachment actions now display manipulated subjects names
+
+[Improved] Ru localization for actions
+
+[Improved] Shorter item names for actions that attach and replace cloth items
+
+
+### Fixed
+
+
+[Fixed] KAC rail covers were missing from arsenal
+
+[Fixed] T14 turret storage colliders
+
+[Fixed] 6X9 colliders
+
+[Fixed] Minor 1pn138 fixes
+
+[Fixed] Missing NVG animations
+
+[Fixed] Being able to see IR lights after removing NVG from the helmet
+
+[Fixed] NV UI mask would persist after removing NVG from the helmet
+
+[Fixed] Missing flip up/down animation for 1pn138 NVG
+
+[Fixed] Visible attach action when inspecting weapon while NVG are attached to the helmet
+
+[Fixed] Possible nvg scope HDR fix
+
+[Fixed] Not being able to attach clothing components that are already attached to other objects (fe. NVG that were attached to a helmet would not attach to users helmet when he would use theirs 'attach' action)
+
+[Fixed] MS2000 animation wouldn't play when attached to the helmet
+
+[Fixed] MS2000 animation would play only after user would remove IR cover for the second time
+
+[Fixed] Missing NVG lights
+
+[Fixed] Patch position on VKPO
+
+[Fixed] Various headgear attachemnts inventory size
+
+[Fixed] Rhs20™ patch size
+
+[Fixed] Balaclava item position
+
+[Fixed] Lshz normals
+
+[Fixed] Lowered 6x9-1 metalness
+
+[Fixed] VIP Strobe visible in FPP
+
+[Fixed] If user that had NVG ON when he enterd arma vision or zeus mode then he would retain ability to see IR lights without NV
+
+[Fixed] Headsets and masks could be placed in incorrect slots helmet
+
+[Fixed] VIP strobe position on black lshz
+
+[Fixed] LSHZ localization
+
+[Fixed] Visibility of attach and replace actions which shouldn't be there
+
+
+### Deleted
+
+
+[Removed] Old NVG prefabs
+
+
+
 ## 0.3.924
 
 <!-- revision 924 -->
