@@ -15,6 +15,7 @@
 * [Changelog](arma-reforger/changelog.md)
 * [General Systems](arma-reforger/general-systems/README.md)
   * [RHS IR, NV and Thermals](arma-reforger/general-systems/rhs-ir-and-nv.md)
+  * [RHS Extended Inventory System](arma-reforger/general-systems/rhs-extended-inventory-system.md)
   * [RHS Radial Menu](arma-reforger/general-systems/radial-menu.md)
   * [EARHS](arma-reforger/general-systems/earhs.md)
 * [BLUFOR](arma-reforger/blufor/README.md)

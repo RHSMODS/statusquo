@@ -10,7 +10,7 @@ PDU-4 is a Russian binocular rangefinder with day optics with a 360° digital co
 
 The engraved reticle has a long line spacing of 10 mils and short line spacing of 5 mils. 1 mil corresponds to 1 m spacing at a distance of 1 km. In the image below you can see a 1 m cube being sighted at 100 m being exactly 10 mils.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>PDU-4 Reticle Sighting a 1m Box at 100m</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>PDU-4 Reticle Sighting a 1m Box at 100m</p></figcaption></figure>
 
 Due to unavailability of documentation, the functionality of the PDi in game is identical to that of [Vector-21](../../blufor/gadgets/vector-21.md). We suspect that in real life it is also close.
 

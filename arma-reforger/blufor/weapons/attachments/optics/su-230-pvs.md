@@ -10,7 +10,7 @@ The SU-230/PVS is a 1x-4x variable zoom optic sight designed for the 5,56 mm rou
 
 It comes with backup irons sights and MRDS red dot sight.
 
-<figure><img src="../../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Use **`Alt+MWheel`** to switch between the 1x and 4x zoom. The reticle is to be used only with the 4x setting.
 
