@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/28/2023 5:29:03 PM UTC | Revision 951 | odkupiciel375]
+
+[Improved] Shorter item names for actions that attach and replace cloth items
+
+[Fixed] Visibility of attach and replace actions which shouldn't be there
+
+[Added] Name and description for RHS 20 patch
+
+
+
 [6/28/2023 5:58:07 AM UTC | Revision 950 | Soul_Assassin]
 
 [Other] Some rearrangements for attachment testing
