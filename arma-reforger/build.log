@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/30/2023 5:03:33 PM UTC | Revision 956 | reyhard]
+
+[Fixed] Hotfixed 6X9 - prefab is not being shown correctly but at least you can place character in game
+
+
+
 [6/30/2023 4:51:10 PM UTC | Revision 955 | reyhard]
 
 [Fixed] Fixed name of component in RHS_Character_Base.et - USMC characters can now be loaded in game (EMR is still broken)
