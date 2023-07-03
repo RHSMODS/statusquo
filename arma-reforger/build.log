@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/3/2023 10:48:22 AM UTC | Revision 960 | Tactical_Toxic]
+
+[Fixed] Vest_Ratnik_6B45.et was using wrong slot
+
+[Removed] Unused and test 6b45 prefabs
+
+[Other] Added bodyarmor material configs
+
+
+
 [7/3/2023 12:31:18 AM UTC | Revision 959 | Tactical_Toxic]
 
 [Improved] Changed slot type from vest to armored vest on 6b45 and pc gen3
