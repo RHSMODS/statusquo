@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/3/2023 12:31:18 AM UTC | Revision 959 | Tactical_Toxic]
+
+[Improved] Changed slot type from vest to armored vest on 6b45 and pc gen3
+
+[Improved] Added actual armor to pcgen3 and 6b45
+
+[Other] //Todo we need proper material settings for 5A class armor for 6b45 and PCGEN3
+
+[Other] Changed characters loadouts to have armor vests in proper slot
+
+
+
 [7/2/2023 3:29:34 PM UTC | Revision 958 | Tactical_Toxic]
 
 [Fixed] Part 1 of vehicle fixes
