@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/4/2023 1:29:23 PM UTC | Revision 971 | odkupiciel375]
+
+[Improved] MS2000 localization strings
+
+[Fixed] NVG eye splash lights; fixes #330
+
+[Fixed] MS2000 visible in FPP when attached to the helmet
+
+[Fixed] NPE when screen effects manager was missing
+
+
+
 [7/4/2023 11:04:06 AM UTC | Revision 970 | odkupiciel375]
 
 [Fixed] Light devices would continue to emit light/s when put inside containers like backpack; fixes #332
