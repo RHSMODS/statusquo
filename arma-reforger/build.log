@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/4/2023 11:04:06 AM UTC | Revision 970 | odkupiciel375]
+
+[Fixed] Light devices would continue to emit light/s when put inside containers like backpack; fixes #332
+
+[Fixed] Wrong model referenced in MS2000 pap file
+
+[Fixed] Wrong back Velcro offset in ECH_Base prefab
+
+
+
 [7/4/2023 12:06:59 AM UTC | Revision 969 | Mihail]
 
 [Added] Deflated jacket with 6b51
