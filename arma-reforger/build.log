@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/6/2023 3:18:27 PM UTC | Revision 986 | odkupiciel375]
+
+[Improved] VIP emissive material improvements
+
+[Improved] VIP Strobe now has ability to emit short IR pulses; fixes #328
+
+[Improved] Better handling when light device is placed in container
+
+[Other] Created generic TurnON/OFF and toggle actions for LaserLightDeviceComponents - both MS2k and VIP use it - RHS_LightDeviceAction.c
+
+[Other] Disabled NVG blems as they are not working :(
+
+
+
 [7/6/2023 2:58:05 PM UTC | Revision 985 | Tactical_Toxic]
 
 [Fixed] BRAVO4 pip camera position
