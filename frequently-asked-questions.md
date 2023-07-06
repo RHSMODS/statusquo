@@ -40,7 +40,7 @@ We get requests almost daily. Please believe us when we tell you that almost cer
 
 #### 9. I am a mod maker and I would like to collaborate. You interested?
 
-If you would like to join the team please consider looking at [Recruitment](recruitment.md) page. If you are a mod maker and wish to discuss team collaborations please find Soul\_Assassin#0912 on Discord.
+If you would like to join the team please consider looking at [Recruitment](recruitment.md) page. If you are a mod maker and wish to discuss team collaborations please find <mark style="color:red;">**soul\_assassin**</mark> on Discord.
 
 **10. Will RHS: Status Quo be split into several packs?**
 
