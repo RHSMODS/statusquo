@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2023 8:01:12 PM UTC | Revision 989 | Tactical_Toxic]
+
+[Fixed] Wrong camera position on SU230; fixes #353
+
+
+
 [7/7/2023 5:20:06 PM UTC | Revision 988 | odkupiciel375]
 
 [Fixed] Missing default key binds in Settings -> Controls -> RHS
