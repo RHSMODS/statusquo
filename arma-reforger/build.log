@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/8/2023 7:39:15 AM UTC | Revision 990 | odkupiciel375]
+
+[Added] Toggle illuminator action to 1PN138
+
+[Improved] Changed 'toggle <nvg_name>' action name to reflect that its turning ON/OFF its ir illuminator
+
+[Fixed] Missing light prefab
+
+
+
 [7/7/2023 8:01:12 PM UTC | Revision 989 | Tactical_Toxic]
 
 [Fixed] Wrong camera position on SU230; fixes #353
