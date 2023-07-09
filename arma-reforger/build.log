@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[7/9/2023 2:29:24 AM UTC | Revision 991 | odkupiciel375]
+
+[Other] Added localized strings for putting ON/OFF visible light cover of MS2000
+
+[Other] Added ability to set if LightDevice should be turned on when world is loaded and additionally added option to decide which light should be used
+
+[Other] Changed light slots from SCR_LightSlot to BaseLightSlot as it was triggering methods that were not used by us
+
+[Other] Changed and moved last RHS_MS2000Action which was responsible for light type change to RHS_LightDeviceAction.c as its now more general action for handling all LightDevices 'selected light types'
+
+[Other] Changed the logic that is responsible for keeping track of IR devices so it wont be stored in each character prefab and now is stored in SCR_PlayerController
+
+[Other] Moved most of the logic that is responsible for determining if user should be able to see IR light to SCR_PlayerController from RHS_RpcManager
+
+[Other] Moved and changed RHS_VIPStrobePackComponent to RHS_StrobeDeviceComponent.c as it was pretty much simpler version of RHS_MS2000Component which now inherits from it (RHS_MS2000Component : RHS_StrobeDeviceComponent : RHS_LightDevice)
+
+[Other] Enabled dynamic light and casting shadows for NVG_Illuminator_IR_light.et
+
+[Other] Known bug: ANPEQ16 when set to turn on when world is loaded will only work if mode is
+
+
+
 [7/8/2023 7:39:15 AM UTC | Revision 990 | odkupiciel375]
 
 [Added] Toggle illuminator action to 1PN138
