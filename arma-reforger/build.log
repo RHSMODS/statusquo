@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/9/2023 5:47:38 PM UTC | Revision 992 | odkupiciel375]
+
+[Fixed] ANPEQ16 wouldn't be ON when spawned if the prefab had option to turn ON when spawned and selected visible light; fixes #358
+
+[Other] Localization strings for ANPEQ16 and its actions
+
+[Other] Renamed m_bSelectedLightType to m_eSelectedLightType to reflect its actual type
+
+
+
 [7/9/2023 2:29:24 AM UTC | Revision 991 | odkupiciel375]
 
 [Other] Added localized strings for putting ON/OFF visible light cover of MS2000
