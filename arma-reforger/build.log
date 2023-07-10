@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/10/2023 2:38:31 PM UTC | Revision 993 | spacestrider]
+
+[Fixed] T14 Suspension; Fixed issue #342
+
+[Fixed] T14 and K17 Sights; Fixed issue #346, #290
+
+[Fixed] Ammo for AGS; Fixed issue #213
+
+
+
 [7/9/2023 5:47:38 PM UTC | Revision 992 | odkupiciel375]
 
 [Fixed] ANPEQ16 wouldn't be ON when spawned if the prefab had option to turn ON when spawned and selected visible light; fixes #358
