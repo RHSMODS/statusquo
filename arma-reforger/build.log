@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/11/2023 12:46:58 PM UTC | Revision 997 | reyhard]
+
+[Improved] Tweaked Su-230 optic configuration and tweaked more or less 2D view (WIP)
+
+[Other] Eye on basic SU230 was rotated by 90 degrees to the side, which resulted in rather weird behavior when socket was used
+
+[Other] Removed mip maps from SU-230 reticle
+
+
+
 [7/11/2023 11:26:26 AM UTC | Revision 996 | reyhard]
 
 [Improved] Added SightsPriority parameter to Bravo4 & M8541
