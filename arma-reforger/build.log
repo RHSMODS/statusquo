@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/11/2023 11:26:26 AM UTC | Revision 996 | reyhard]
+
+[Improved] Added SightsPriority parameter to Bravo4 & M8541
+
+[Other] Moved sight component to base ANPEQ prefab
+
+
+
 [7/11/2023 7:42:58 AM UTC | Revision 995 | reyhard]
 
 [Other] Cleaned up classes
