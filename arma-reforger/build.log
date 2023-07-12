@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/12/2023 9:19:32 PM UTC | Revision 1003 | Tactical_Toxic]
+
+[Improved] Added proper mine collider for k17; Closes #333
+
+[Fixed] Broken UI on k17 and t14
+
+
+
 [7/12/2023 3:25:32 AM UTC | Revision 1002 | PUDDY300]
 
 [Fixed] 1p87 w/ Magnifiers & NVG excessive reticle sway during movement
