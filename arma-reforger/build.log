@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[7/15/2023 11:08:56 PM UTC | Revision 1007 | odkupiciel375]
+
+[Fixed] Issue where where PEQ IR lights would remain enabled after changing mode
+
+[Improved] Changed PVS14 WP HDR to look more like irl
+
+[Improved] Changed PVS14 GP HDR to compensate for 0.99 HDR changes
+
+[Improved] Reduced PVS14 film grain effect
+
+[Improved] Reduced NVG IR illuminator strength
+
+[Other] Created separate film grain effect for 1PN138 to allow for more flexibility between different nods
+
+
+
 [7/15/2023 9:49:54 PM UTC | Revision 1006 | odkupiciel375]
 
 [Fixed] NVG eye splash effect would be always visible for proxy
