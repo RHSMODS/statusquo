@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/15/2023 9:49:54 PM UTC | Revision 1006 | odkupiciel375]
+
+[Fixed] NVG eye splash effect would be always visible for proxy
+
+[Fixed] Proxy would sometimes be able to see IR lights without NV due to latency to the host
+
+[Added] NVG built in illuminator functionality for PVS14 and 1PN138
+
+[Other] Removed unused components from NVG_Illuminator_IR_light.et
+
+
+
 [7/13/2023 9:40:59 PM UTC | Revision 1005 | Tactical_Toxic]
 
 [Added] Zenitco Perst "Klassika" V4
