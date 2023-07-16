@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/16/2023 10:03:33 PM UTC | Revision 1011 | Tactical_Toxic]
+
+[Improved] 2A42 now uses 3UBR6 ammo
+
+[Other] Minor 1pn138 texture improvement
+
+[Other] Previously, our 2a42 had a weird mix of belgian 30mm and 3ubr8, i tried to recreate a 3ubr6 aaand it works kiiinda good, at least i got proper pen values (6odeg 200m ~35mm of pen).
+
+[Other] Generated proper aibt for 30mm 3ubr6
+
+[Other] Fixed 30mm he box (for some reason 565 ammos was mapped instead of 500)
+
+
+
 [7/16/2023 9:31:31 PM UTC | Revision 1010 | Soul_Assassin]
 
 [Fixed] Resurrecting radial menu; fixes #334
