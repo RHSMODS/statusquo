@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/16/2023 1:01:46 PM UTC | Revision 1008 | Tactical_Toxic]
+
+[Improved] 6B47 textures
+
+[Improved] NV HDR; Fixes #363
+
+[Other] Improved NVG_Effect_Distortion_RHS.emat, so it no longer causes visibility issues
+
+
+
 [7/15/2023 11:08:56 PM UTC | Revision 1007 | odkupiciel375]
 
 [Fixed] Issue where where PEQ IR lights would remain enabled after changing mode
