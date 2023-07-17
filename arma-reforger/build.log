@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/17/2023 5:54:08 AM UTC | Revision 1012 | odkupiciel375]
+
+[Fixed] Not working NVG key bind
+
+[Fixed] Too powerful NVG 'eye light'
+
+[Improved] RHS_LightDevice item transfer handling
+
+[Other] NVG are once again OFF by default
+
+[Other] Added key bind for illuminator but code for it is too WIP to push it
+
+
+
 [7/16/2023 10:03:33 PM UTC | Revision 1011 | Tactical_Toxic]
 
 [Improved] 2A42 now uses 3UBR6 ammo
