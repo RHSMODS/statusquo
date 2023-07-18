@@ -32,6 +32,7 @@
   * [Gadgets](arma-reforger/blufor/gadgets/README.md)
     * [AN / PRC 117](arma-reforger/blufor/gadgets/an-prc-117.md)
     * [AN / PRC 152](arma-reforger/blufor/gadgets/an-prc-152.md)
+    * [AN/PVS-14](arma-reforger/blufor/gadgets/an-pvs-14.md)
     * [Vector 21](arma-reforger/blufor/gadgets/vector-21.md)
   * [Weapons](arma-reforger/blufor/weapons.md)
     * [M27 IAR](arma-reforger/blufor/weapons/m27-iar.md)

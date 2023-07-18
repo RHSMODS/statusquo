@@ -10,7 +10,7 @@ Introduced in 0.3.951
 
 You can use the inventory system and actions to attach and swap compatible items to clothing that you are wearing.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>ECH helmet with attachments</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>ECH helmet with attachments</p></figcaption></figure>
 
 If you are wearing an item of clothing that has slots compatible with an item that is available to pick up either from the ground or Arsenal simply approach it and use the actions that pop up or use the inventory and drag and drop them into the item of clothing.
 
@@ -27,7 +27,7 @@ Currently compatible item types (attachment slots vary):
 |               | NVG Battery Packs |
 |               | Velcro Patches    |
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Action to replace one balaclava with another</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Action to replace one balaclava with another</p></figcaption></figure>
 
 You can even add patches to appropriate velcro areas. Also, using quick actions you can grab items that are attached to clothing items that are laying on the ground (e.g. grabbing NVG directly off another helmet).
 

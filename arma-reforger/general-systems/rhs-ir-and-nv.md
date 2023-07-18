@@ -34,7 +34,7 @@ Using NV devices during day time is stupid.
 
 Night Vision (NV) comes in the forms of goggles (e.g., AN/PVS-14) and scopes (e.g., 1PN93). It is used to amplify vision at night and enable viewing of light sources in infrared spectrum.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Binocular AN/PVS-14 with white phosphorus tubes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Binocular AN/PVS-14 with white phosphorus tubes</p></figcaption></figure>
 
 Different types are available for both factions, and can come in different colors and quality levels based on the technology used.
 
