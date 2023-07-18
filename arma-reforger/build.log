@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/18/2023 7:53:55 PM UTC | Revision 1015 | Soul_Assassin]
+
+[Fixed] Bravo4 color reticle misalignment
+
+[Fixed] Fixed keybinding issues in NVGs and LRFs; fixes #351
+
+[Fixed] Revive PDU and Vector21 functionality; fixes #350
+
+[Improved] Radial entry now has text over preview instead of other way around
+
+
+
 [7/17/2023 8:55:03 PM UTC | Revision 1014 | Tactical_Toxic]
 
 [Improved] Pseudo flir for 1TWS
