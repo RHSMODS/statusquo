@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/19/2023 9:23:22 PM UTC | Revision 1023 | Tactical_Toxic]
+
+[Improved] Added more items and medicine to k17 trunk
+
+[Other] Slightly improved nvg hdr
+
+
+
 [7/19/2023 5:20:16 PM UTC | Revision 1022 | odkupiciel375]
 
 [Added] Added working key bind for turning ON/OFF NVG IR illuminator - default hold [N] but can be changed in Settings->Controls->RHS->NVG built in illuminator; fixes #362
