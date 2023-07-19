@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/19/2023 1:04:01 PM UTC | Revision 1020 | Tactical_Toxic]
+
+[Removed] T14 From zeus due critical errors causing gamecrash
+
+[Improved] T14 muzzle and smoke particles
+
+[Other] Removed some obsolete test maps and worlds
+
+[Other] Added testmap set on arland
+
+
+
 [7/19/2023 12:29:13 PM UTC | Revision 1019 | Soul_Assassin]
 
 [Fixed] Fixed typo in 6B7-1M localization; fixes #357
