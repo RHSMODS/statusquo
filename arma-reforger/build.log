@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[7/19/2023 5:20:16 PM UTC | Revision 1022 | odkupiciel375]
+
+[Added] Added working key bind for turning ON/OFF NVG IR illuminator - default hold [N] but can be changed in Settings->Controls->RHS->NVG built in illuminator; fixes #362
+
+[Fixed] PEQ IR Laser would remain ON for player which had NVG ON when he died; fixes #372
+
+[Fixed] Cant turn off NVG that was picked up from dead body; fixes #371
+
+[Fixed] NVG UI mask wouldn't show after switching to entity that didn't have NVG
+
+[Improved] NVG UI mask wont play 'Turn ON' animation when going back to controlling character from Game Master mode (and few other instances)
+
+[Other] Refactor of how Night Vision handles change to possession of entity
+
+[Other] Moved modded SCR_PlayerController from RHS_RpcManager.c to SCR_PlayerController_Modded.c and removed no longer used methods
+
+
+
 [7/19/2023 1:27:42 PM UTC | Revision 1021 | Soul_Assassin]
 
 [Fixed] T14 returned to GM
