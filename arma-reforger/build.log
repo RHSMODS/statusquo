@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/19/2023 12:22:19 PM UTC | Revision 1018 | Soul_Assassin]
+
+[Fixed] Fixed all ActionContext related error log spam from T14, K17 and M1151; fixes #360
+
+
+
 [7/19/2023 5:56:07 AM UTC | Revision 1017 | Soul_Assassin]
 
 [Other] Hunted down some error log issues
