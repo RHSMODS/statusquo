@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/19/2023 12:29:13 PM UTC | Revision 1019 | Soul_Assassin]
+
+[Fixed] Fixed typo in 6B7-1M localization; fixes #357
+
+
+
 [7/19/2023 12:22:19 PM UTC | Revision 1018 | Soul_Assassin]
 
 [Fixed] Fixed all ActionContext related error log spam from T14, K17 and M1151; fixes #360
