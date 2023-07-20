@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/20/2023 9:52:37 AM UTC | Revision 1024 | odkupiciel375]
+
+[Added] Checkbox to set if sights should be folded by default; fixes #323
+
+[Improved] M27 with scopes will have iron sights folded by default
+
+
+
 [7/19/2023 9:23:22 PM UTC | Revision 1023 | Tactical_Toxic]
 
 [Improved] Added more items and medicine to k17 trunk
