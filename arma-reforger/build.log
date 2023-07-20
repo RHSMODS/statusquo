@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/20/2023 9:24:04 PM UTC | Revision 1030 | odkupiciel375]
+
+[Improved] Increase brightness in place where two IR illuminators overlap (from Dual set of NVG)
+
+[Improved] Refactor of synchronization of NVG state
+
+[Fixed] NVG UI mask changing when other player attaches different type; fixes #378
+
+[Fixed] Game master can control NVG illuminator after leaving control of that entity; fixes #379
+
+[Other] Removed no longer used methods form RHS_RpcManager.c and RHS_NightVisionComponent.c which were responsible for synchronization of NV state as right now it uses vanilla method
+
+
+
 [7/20/2023 7:03:08 PM UTC | Revision 1029 | Soul_Assassin]
 
 [Fixed] Small bug in radial that would sometimes display weapon name in helmet slot
