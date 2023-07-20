@@ -61,6 +61,7 @@
       * [6B47](arma-reforger/redfor/uniforms/helmets/6b47.md)
   * [Gadgets](arma-reforger/redfor/gadgets/README.md)
     * [R-187-P1E Azart](arma-reforger/redfor/gadgets/r-187-p1e-azart.md)
+    * [1PN138](arma-reforger/redfor/gadgets/1pn138.md)
     * [PDU-4](arma-reforger/redfor/gadgets/pdu-4.md)
   * [Weapons](arma-reforger/redfor/weapons/README.md)
     * [Attachments](arma-reforger/redfor/weapons/attachments/README.md)
