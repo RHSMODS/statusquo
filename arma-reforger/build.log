@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/20/2023 7:03:08 PM UTC | Revision 1029 | Soul_Assassin]
+
+[Fixed] Small bug in radial that would sometimes display weapon name in helmet slot
+
+[Improved] Improved LTSU preview icon in radial
+
+
+
 [7/20/2023 6:59:04 PM UTC | Revision 1028 | Tactical_Toxic]
 
 [Fixed] Su230Mrds was missing priority
