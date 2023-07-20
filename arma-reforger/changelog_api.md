@@ -9,6 +9,237 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.3.1026
+
+<!-- revision 1026 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1026
+
+_<mark style="color:red;">Date:</mark>_ Thursday, July 20, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 75 (951)
+
+_<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fixes and 4 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Deflated jacket for vkpo
+
+[Added] Deflated jacket with 6b51
+
+[Added] Toggle illuminator action to 1PN138
+
+[Added] Camo version of AK74M
+
+[Added] Camo version of AN-94
+
+[Added] Camo version of 6L23 Plastic mag
+
+[Added] Eject action for T14
+
+[Added] RPM Based AI perceivability to T14
+
+[Added] Configuration for T14 inventory
+
+[Added] Zenitco Perst "Klassika" V4
+
+[Added] NVG built in illuminator functionality for PVS14 and 1PN138
+
+[Added] Added working key bind for turning ON/OFF NVG IR illuminator - default hold [N] but can be changed in Settings->Controls->RHS->NVG built in illuminator; fixes [#362](https://github.com/RHSMODS/statusquo/issues/362)
+
+[Added] Checkbox to set if sights should be folded by default; fixes [#323](https://github.com/RHSMODS/statusquo/issues/323)
+
+[Added] Functionality of IR laser for LTSU; fixes [#309](https://github.com/RHSMODS/statusquo/issues/309)
+
+[Added] Localization of LTSU name and description
+
+
+### Improved
+
+
+[Improved] 1PN93 hdr
+
+[Improved] Changed slot type from vest to armored vest on 6b45 and pc gen3
+
+[Improved] Added actual armor to pcgen3 and 6b45
+
+[Improved] Converted collimators to new tech
+
+[Improved] Tweaked action contexts on M27 + its accessories
+
+[Improved] Adjusted 1P78 and TA31RCO FOV in 2D mode
+
+[Improved] Added sights priority to TA31RCO
+
+[Improved] Tweaked default brightness of collimators
+
+[Improved] MS2000 localization strings
+
+[Improved] Added NVG key bind to the controls menu - located in Equipment category
+
+[Improved] Tweaked red dot size on T1
+
+[Improved] Some rough setup of 1p87 zeroing
+
+[Improved] Created separate category in control menu to contain all RHS key binds
+
+[Improved] VIP emissive material improvements
+
+[Improved] VIP Strobe now has ability to emit short IR pulses; fixes [#328](https://github.com/RHSMODS/statusquo/issues/328)
+
+[Improved] Better handling when light device is placed in container
+
+[Improved] Changed 'toggle <nvg_name>' action name to reflect that its turning ON/OFF its ir illuminator
+
+[Improved] Added SightsPriority parameter to Bravo4 & M8541
+
+[Improved] Tweaked Su-230 optic configuration and tweaked more or less 2D view (WIP)
+
+[Improved] Added proper mine collider for k17; Closes [#333](https://github.com/RHSMODS/statusquo/issues/333)
+
+[Improved] Changed PVS14 WP HDR to look more like irl
+
+[Improved] Changed PVS14 GP HDR to compensate for 0.99 HDR changes
+
+[Improved] Reduced PVS14 film grain effect
+
+[Improved] Reduced NVG IR illuminator strength
+
+[Improved] 6B47 textures
+
+[Improved] NV HDR; Fixes [#363](https://github.com/RHSMODS/statusquo/issues/363)
+
+[Improved] 2A42 now uses 3UBR6 ammo
+
+[Improved] RHS_LightDevice item transfer handling
+
+[Improved] Pseudo flir for 1TWS
+
+[Improved] Radial entry now has text over preview instead of other way around
+
+[Improved] T14 muzzle and smoke particles
+
+[Improved] NVG UI mask wont play 'Turn ON' animation when going back to controlling character from Game Master mode (and few other instances)
+
+[Improved] Added more items and medicine to k17 trunk
+
+[Improved] M27 with scopes will have iron sights folded by default
+
+[Improved] RPG7 with 1PN93 sight will have its iron sights folded by default
+
+
+### Fixed
+
+
+[Fixed] Plastic 45 rounders were missing from arsenal
+
+[Fixed] Disabled dozens of scripts and did some hectic updates to some of them (look IKS_DE ifdef)
+
+[Fixed] Fixed name of component in RHS_Character_Base.et - USMC characters can now be loaded in game (EMR is still broken)
+
+[Fixed] Hotfixed 6X9 - prefab is not being shown correctly but at least you can place character in game
+
+[Fixed] Finished fix of 6X9 bayonet
+
+[Fixed] Part 1 of vehicle fixes
+
+[Fixed] Vest_Ratnik_6B45.et was using wrong slot
+
+[Fixed] Fixed showcase scenario spawn
+
+[Fixed] Light devices would continue to emit light/s when put inside containers like backpack; fixes [#332](https://github.com/RHSMODS/statusquo/issues/332)
+
+[Fixed] Wrong model referenced in MS2000 pap file
+
+[Fixed] Wrong back Velcro offset in ECH_Base prefab
+
+[Fixed] NVG eye splash lights; fixes [#330](https://github.com/RHSMODS/statusquo/issues/330)
+
+[Fixed] MS2000 visible in FPP when attached to the helmet
+
+[Fixed] NPE when screen effects manager was missing
+
+[Fixed] NVG mask opacity issue
+
+[Fixed] Fixed T1 aimpoint collimator dot
+
+[Fixed] BRAVO4 pip camera position
+
+[Fixed] Missing default key binds in Settings -> Controls -> RHS
+
+[Fixed] Wrong camera position on SU230; fixes [#353](https://github.com/RHSMODS/statusquo/issues/353)
+
+[Fixed] Missing light prefab
+
+[Fixed] ANPEQ16 wouldn't be ON when spawned if the prefab had option to turn ON when spawned and selected visible light; fixes [#358](https://github.com/RHSMODS/statusquo/issues/358)
+
+[Fixed] T14 Suspension; Fixed issue [#342](https://github.com/RHSMODS/statusquo/issues/342)
+
+[Fixed] T14 and K17 Sights; Fixed issue [#346](https://github.com/RHSMODS/statusquo/issues/346), [#290](https://github.com/RHSMODS/statusquo/issues/290)
+
+[Fixed] Ammo for AGS; Fixed issue [#213](https://github.com/RHSMODS/statusquo/issues/213)
+
+[Fixed] 1p87 w/ Magnifiers & NVG excessive reticle sway during movement
+
+[Fixed] Broken UI on k17 and t14
+
+[Fixed] T14 Driver HUD ; Fixed issue [#365](https://github.com/RHSMODS/statusquo/issues/365)
+
+[Fixed] NVG eye splash effect would be always visible for proxy
+
+[Fixed] Proxy would sometimes be able to see IR lights without NV due to latency to the host
+
+[Fixed] Issue where where PEQ IR lights would remain enabled after changing mode
+
+[Fixed] Resurrecting radial menu; fixes [#334](https://github.com/RHSMODS/statusquo/issues/334)
+
+[Fixed] Not working NVG key bind
+
+[Fixed] Too powerful NVG 'eye light'
+
+[Fixed] Fixed Vector and PDU reticles
+
+[Fixed] Bravo4 color reticle misalignment
+
+[Fixed] Fixed keybinding issues in NVGs and LRFs; fixes [#351](https://github.com/RHSMODS/statusquo/issues/351)
+
+[Fixed] Revive PDU and Vector21 functionality; fixes [#350](https://github.com/RHSMODS/statusquo/issues/350)
+
+[Fixed] 1TWS reticle misalignment
+
+[Fixed] Fixed all ActionContext related error log spam from T14, K17 and M1151; fixes [#360](https://github.com/RHSMODS/statusquo/issues/360)
+
+[Fixed] Fixed typo in 6B7-1M localization; fixes [#357](https://github.com/RHSMODS/statusquo/issues/357)
+
+[Fixed] T14 returned to GM
+
+[Fixed] PEQ IR Laser would remain ON for player which had NVG ON when he died; fixes [#372](https://github.com/RHSMODS/statusquo/issues/372)
+
+[Fixed] Cant turn off NVG that was picked up from dead body; fixes [#371](https://github.com/RHSMODS/statusquo/issues/371)
+
+[Fixed] NVG UI mask wouldn't show after switching to entity that didn't have NVG
+
+[Fixed] Bug that would prevent LightDevice from being brought back from suspension when taken out of storage container (fe. backpack)
+
+
+### Deleted
+
+
+[Removed] Unused and test 6b45 prefabs
+
+[Removed] Unused ak material
+
+[Removed] Old vehicle components from T14
+
+[Removed] T14 From zeus due critical errors causing gamecrash
+
+
+
 ## 0.3.951
 
 <!-- revision 951 -->
