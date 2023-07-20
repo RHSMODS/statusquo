@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/20/2023 10:03:57 AM UTC | Revision 1025 | odkupiciel375]
+
+[Improved] RPG7 with 1PN93 sight will have its iron sights folded by default
+
+
+
 [7/20/2023 9:52:37 AM UTC | Revision 1024 | odkupiciel375]
 
 [Added] Checkbox to set if sights should be folded by default; fixes #323
