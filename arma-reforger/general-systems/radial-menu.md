@@ -24,11 +24,13 @@ You can change the key and controller bindings in the game options.
 
 Currently compatible devices with actions:
 
-| Device    |
-| --------- |
-| AN/PEQ-16 |
-| 1P63      |
-| M27       |
-| RPG7      |
+| Device                        |
+| ----------------------------- |
+| AN/PEQ-16                     |
+| Zenitco Perst "Klassika" V4.0 |
+| LTSU (AKS-74U)                |
+| 1P63                          |
+| M27                           |
+| RPG7                          |
 
 As of version 0.3.951 item added to your inventory using the **RHS Extended Inventory System** can also show up in the menu and can be take off without going to the inventory.
