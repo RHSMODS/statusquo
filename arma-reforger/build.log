@@ -1,5 +1,45 @@
 <!-- buildlog insert -->
 
+[7/21/2023 11:41:04 PM UTC | Revision 1036 | Tactical_Toxic]
+
+[Improved] Added functionality to 1P87 + 1P90
+
+[Improved] Added functionality to 1P87 + 1P138
+
+[Fixed] 1p87 + 1p90 localization
+
+[Fixed] 1p87 + 1p138 localization
+
+[Added] PO4X24
+
+[Fixed] 6B7 Collider
+
+[Fixed] ECH Collider
+
+[Fixed] 6B47 Collider
+
+[Fixed] LShZ Collider
+
+[Added] RPK-74 with 1P87 + 1P90 Prefab
+
+[Added] AK-74M with 1P87 + 1P90 Prefab
+
+[Added] AN-94 with 1P87 + 1P90 Prefab
+
+[Fixed] Zenitco Perst "Klassika" V 4.0 was using green light instead of red
+
+[Improved] Added new medicine to RU arsenal
+
+[Improved] Added new medicine to USMC arsenal
+
+[Improved] Localization
+
+[Improved] Added NO filter and NO resize to all reticles
+
+[Other] I guess this is biggest single commit changelog lol
+
+
+
 [7/21/2023 7:47:21 PM UTC | Revision 1035 | reyhard]
 
 [Fixed] Fixed colliders on 6B45
