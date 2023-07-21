@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/21/2023 7:47:21 PM UTC | Revision 1035 | reyhard]
+
+[Fixed] Fixed colliders on 6B45
+
+[Improved] ...and added stalinium temporary GOST gamemats to it
+
+[Improved] Changed configuration of 6B45 vest - pouches are now in harness slot, so weapon is no longer clipping with the pouches. Beware that similar to Susharka backpack, those pouches might hang in air if you are not wearing 6B45 vest.
+
+
+
 [7/21/2023 6:36:43 PM UTC | Revision 1034 | reyhard]
 
 [Other] Bump version
