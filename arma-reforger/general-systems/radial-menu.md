@@ -28,7 +28,7 @@ Currently compatible devices with actions:
 | ----------------------------- |
 | AN/PEQ-16                     |
 | Zenitco Perst "Klassika" V4.0 |
-| LTSU (AKS-74U)                |
+| LTSU-1                        |
 | 1P63                          |
 | M27                           |
 | RPG7                          |
