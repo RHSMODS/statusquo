@@ -1,4 +1,4 @@
-# RHS IR, NV and Thermals
+# RHS IR, NV and "Thermals"
 
 {% hint style="info" %}
 Introduced in 0.3.910
@@ -62,6 +62,6 @@ These sights create images by differentiating the temperature of the object bein
 
 Thermal sights are commonly used in a variety of applications such as in military or law enforcement scenarios for identifying human targets, in wildlife observation for nocturnal animal watching, and in some industrial contexts for detecting heat leaks in insulation or overheating components in machinery.
 
-Currently the base game does not offer any possibility to create realisticly functioning thermals. For the time being any "thermals" you see in the mod are white-colored NV sights as placeholders.
+Currently the base game does not offer any possibility to create realisticly functioning thermals. For the time being any "thermals" you see in the mod are white-colored NV sights with extremely high contrast as placeholders.
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Fake thermals</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/thermals.png" alt=""><figcaption></figcaption></figure>
