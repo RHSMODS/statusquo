@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/21/2023 9:24:31 AM UTC | Revision 1031 | odkupiciel375]
+
+[Fixed] Changed LTSU laser from being IR to being visible laser of orange color
+
+
+
 [7/20/2023 9:24:04 PM UTC | Revision 1030 | odkupiciel375]
 
 [Improved] Increase brightness in place where two IR illuminators overlap (from Dual set of NVG)
