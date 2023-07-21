@@ -9,6 +9,67 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.4.1034
+
+<!-- revision 1034 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1034
+
+_<mark style="color:red;">Date:</mark>_ Friday, July 21, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1026)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 7 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] Improved LTSU preview icon in radial
+
+[Improved] Increase brightness in place where two IR illuminators overlap (from Dual set of NVG)
+
+[Improved] Refactor of synchronization of NVG state
+
+[Improved] Added Perst Classic into arsenal
+
+[Improved] Added Perst localizations
+
+[Improved] Finalized Perst functionality; fixes [#374](https://github.com/RHSMODS/statusquo/issues/374)
+
+[Improved] Bumped version to 0.4
+
+
+### Fixed
+
+
+[Fixed] Made folded sights by default for M27 IAR variant with M7 RCO and SU-230 scope
+
+[Fixed] Su230Mrds was missing priority
+
+[Fixed] Small bug in radial that would sometimes display weapon name in helmet slot
+
+[Fixed] NVG UI mask changing when other player attaches different type; fixes [#378](https://github.com/RHSMODS/statusquo/issues/378)
+
+[Fixed] Game master can control NVG illuminator after leaving control of that entity; fixes [#379](https://github.com/RHSMODS/statusquo/issues/379)
+
+[Fixed] Changed LTSU laser from being IR to being visible laser of orange color
+
+[Fixed] Radial on Xbox controller, behavior is now also press to open, no need to hold
+
+
+### Deleted
+
+
+
+
 ## 0.3.1026
 
 <!-- revision 1026 -->
