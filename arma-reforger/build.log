@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/21/2023 2:13:30 PM UTC | Revision 1033 | Soul_Assassin]
+
+[Improved] Added Perst Classic into arsenal
+
+[Fixed] Radial on Xbox controller, behavior is now also press to open, no need to hold
+
+[Improved] Added Perst localizations
+
+[Improved] Finalized Perst functionality; fixes #374
+
+[Improved] Bumped version to 0.4
+
+
+
 [7/21/2023 11:56:11 AM UTC | Revision 1032 | odkupiciel375]
 
 [Other] Sights Switch Skip for AKS74-UN set to true - applies to all variants
