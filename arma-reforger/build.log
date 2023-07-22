@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/22/2023 2:15:29 PM UTC | Revision 1045 | odkupiciel375]
+
+[Fixed] Replace action doesnt work in MP; fixes #326
+
+
+
 [7/22/2023 1:25:02 PM UTC | Revision 1044 | odkupiciel375]
 
 [Fixed] Log message spam from Perst
