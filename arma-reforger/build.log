@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/22/2023 10:45:49 AM UTC | Revision 1040 | Tactical_Toxic]
+
+[Added] More character accessories
+
+[Other] I will configure this thing properly after reyhard vests/armors refactor
+
+
+
 [7/22/2023 10:34:32 AM UTC | Revision 1039 | odkupiciel375]
 
 [Added] Functionality to use key binds to toggle, cycle through modes and hold for temporary activation of ANPEQ16, Perst and LTSU (LTSU has only toggle) - by default set to [`] but can be changed via Settings => Control => RHS; fixes #331
