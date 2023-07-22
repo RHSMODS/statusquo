@@ -77,6 +77,7 @@
       * [1P86](arma-reforger/redfor/weapons/attachments/1p86.md)
       * [1P87](arma-reforger/redfor/weapons/attachments/1p87.md)
       * [1PN93](arma-reforger/redfor/weapons/attachments/1pn93.md)
+    * [Page 1](arma-reforger/redfor/weapons/page-1.md)
     * [SP-81](arma-reforger/redfor/weapons/sp-81.md)
     * [VSS Vintorez / AS Val](arma-reforger/redfor/weapons/vss-vintorez-as-val.md)
     * [APS](arma-reforger/redfor/weapons/aps.md)

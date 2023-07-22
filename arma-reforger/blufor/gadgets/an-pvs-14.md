@@ -16,7 +16,7 @@ The device also comes with a IR illuminator that enchances vision n very dark en
 
 ### Default key binds
 
-| Default keyboard bind                          | Default gamepad bind                           | Description                                   |
-| ---------------------------------------------- | ---------------------------------------------- | --------------------------------------------- |
-| ![](<../../../.gitbook/assets/image (13).png>) | ![](<../../../.gitbook/assets/image (15).png>) | Toggle currently used night vision device     |
-| ![](<../../../.gitbook/assets/image (24).png>) | ![](<../../../.gitbook/assets/image (26).png>) | Toggle illuminator for currently equipped NVG |
+| Label                    | Keyboard                                       | Gamepad                                        | Description                                   |
+| ------------------------ | ---------------------------------------------- | ---------------------------------------------- | --------------------------------------------- |
+| Night vision device      | ![](<../../../.gitbook/assets/image (13).png>) | ![](<../../../.gitbook/assets/image (15).png>) | Toggle ON/OFF the device                      |
+| NVG built in illuminator | ![](<../../../.gitbook/assets/image (24).png>) | ![](<../../../.gitbook/assets/image (26).png>) | Toggle illuminator for currently equipped NVG |

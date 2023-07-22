@@ -26,5 +26,5 @@ Default key binds for all light devices such as but not limmited to ANPEQ-16&#x2
 | Label                                   | Keyboard                                    | Gamepad                                     | Description                                                          |
 | --------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------- |
 | Toggle light device                     | ![](<../../.gitbook/assets/image (3).png>)  | ![](<../../.gitbook/assets/image (21).png>) | Toggle currently used light devices                                  |
-| Cycle through light device modes        | ![](<../../.gitbook/assets/image (8).png>)  | ![](<../../.gitbook/assets/image (5).png>)  | Cycle thgrough avaiable mods of currently used light devices         |
+| Cycle through light device modes        | ![](<../../.gitbook/assets/image (8).png>)  | ![](<../../.gitbook/assets/image (5).png>)  | Cycle through available modes of currently used light devices        |
 | Hold to momentarly turn ON light device | ![](<../../.gitbook/assets/image (16).png>) | ![](<../../.gitbook/assets/image (18).png>) | Will turn ON light device when pressed and turn it OFF when released |
