@@ -1,8 +1,8 @@
-# Default key binds
+# Default Key Bindings
 
 RHS contains more than a few key binds and this pages is here to give generic description of what each of them do. Note that in some cases their beahviour might differ depending on the device and in such case its respevtive page should have information about that.
 
-### Night Vison bindings
+### Night Vison Bindings
 
 Default key binds for all night vision elements like fe. NVG such as PVS-14
 
