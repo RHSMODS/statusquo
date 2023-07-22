@@ -76,7 +76,7 @@
       * [1P63](arma-reforger/redfor/weapons/attachments/1p63.md)
       * [1P78](arma-reforger/redfor/weapons/attachments/1p78.md)
       * [1P86](arma-reforger/redfor/weapons/attachments/1p86.md)
-      * [1P87](arma-reforger/redfor/weapons/attachments/1p87/README.md)
+      * [1P87](arma-reforger/redfor/weapons/attachments/1p87.md)
         * [1P87 + 1P90](arma-reforger/redfor/weapons/attachments/1p87/1p87-+-1p90.md)
         * [1P87 + 1PN138](arma-reforger/redfor/weapons/attachments/1p87/1p87-+-1pn138.md)
       * [1PN93](arma-reforger/redfor/weapons/attachments/1pn93.md)

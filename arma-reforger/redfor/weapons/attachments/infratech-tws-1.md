@@ -11,5 +11,5 @@ Introduced in **0.3.787**
 
 
 {% hint style="info" %}
-Read more about "pseudo thermals" here: [https://docs.rhsmods.org/rhs-status-quo-user-documentation/arma-reforger/general-systems/rhs-ir-and-nv](https://docs.rhsmods.org/rhs-status-quo-user-documentation/arma-reforger/general-systems/rhs-ir-and-nv)
+Read more about "pseudo thermals" [Here](../../../general-systems/rhs-ir-and-nv.md#thermals)
 {% endhint %}
