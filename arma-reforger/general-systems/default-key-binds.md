@@ -1,6 +1,6 @@
 # Default key binds
 
-RHS contains more than a few key binds and this pages is to give generic description of what each of them do. Note that in some cases their beahviour might differ depending on the device and in such case its respe page should have information about that.
+RHS contains more than a few key binds and this pages is here to give generic description of what each of them do. Note that in some cases their beahviour might differ depending on the device and in such case its respevtive page should have information about that.
 
 ### Night Vison bindings
 
