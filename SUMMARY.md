@@ -18,7 +18,7 @@
   * [RHS Extended Inventory System](arma-reforger/general-systems/rhs-extended-inventory-system.md)
   * [RHS Radial Menu](arma-reforger/general-systems/radial-menu.md)
   * [EARHS](arma-reforger/general-systems/earhs.md)
-  * [Default Key Bindings](arma-reforger/general-systems/default-key-bindings.md)
+  * [Default Key Bindings](arma-reforger/general-systems/default-key-binds.md)
 * [BLUFOR](arma-reforger/blufor/README.md)
   * [What is BLUFOR?](arma-reforger/blufor/what-is-blufor.md)
     * [USMC](arma-reforger/blufor/what-is-blufor/usmc.md)

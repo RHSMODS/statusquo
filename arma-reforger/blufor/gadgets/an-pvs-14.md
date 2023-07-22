@@ -14,7 +14,7 @@ The device comes in single or dual tube configuration in both Green and White Ph
 
 The device also comes with a IR illuminator that enchances vision n very dark environments and can be turned on via the [radial-menu.md](../../general-systems/radial-menu.md "mention").
 
-### Default key binds
+### Default Key Bindings
 
 | Label                    | Keyboard                                       | Gamepad                                        | Description                                   |
 | ------------------------ | ---------------------------------------------- | ---------------------------------------------- | --------------------------------------------- |
