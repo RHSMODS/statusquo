@@ -13,3 +13,11 @@ The device comes in single or dual tube configuration in both Green and White Ph
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>AN/PVS-14 Dual White Phosphorus</p></figcaption></figure>
 
 The device also comes with a IR illuminator that enchances vision n very dark environments and can be turned on via the [radial-menu.md](../../general-systems/radial-menu.md "mention").
+
+### Default key binds
+
+| Default keyboard bind                         | Default gamepad bind                          | Description                                                  |
+| --------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+| ![](../../../.gitbook/assets/image.png)       | ![](<../../../.gitbook/assets/image (3).png>) | Toggle currently used night vision device                    |
+| ![](<../../../.gitbook/assets/image (1).png>) | ![](<../../../.gitbook/assets/image (2).png>) | Toggle illuminator for currently equipped NVG (if available) |
+|                                               |                                               |                                                              |
