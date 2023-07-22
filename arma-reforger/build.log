@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/22/2023 2:43:32 PM UTC | Revision 1046 | odkupiciel375]
+
+[Other] Removed no longer needed Print from RHS_ReplaceClothAction
+
+
+
 [7/22/2023 2:15:29 PM UTC | Revision 1045 | odkupiciel375]
 
 [Fixed] Replace action doesnt work in MP; fixes #326
