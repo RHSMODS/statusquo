@@ -14,7 +14,7 @@ You can use the inventory system and actions to attach and swap compatible items
 
 If you are wearing an item of clothing that has slots compatible with an item that is available to pick up either from the ground or Arsenal simply approach it and use the actions that pop up or use the inventory and drag and drop them into the item of clothing.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Attached ECH items visible in the inventory</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Attached ECH items visible in the inventory</p></figcaption></figure>
 
 Currently compatible item types (attachment slots vary):
 
@@ -35,4 +35,4 @@ You can even add patches to appropriate velcro areas. Also, using quick actions 
 
 To remove the items, simply remove them from the inventory slots of the clothing item, or alternatively use the [radial menu](radial-menu.md) to detach quickly.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Detaching items through radial menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Detaching items through radial menu</p></figcaption></figure>

@@ -20,7 +20,7 @@ Infrared (IR) laser pointers, illuminators and strobes cannot be seen by naked e
 
 When using the IR enabled devices, the light sources will become visible.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>IR laser visible through NVG</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>IR laser visible through NVG</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>IR illuminator visible through NVG</p></figcaption></figure>
 
