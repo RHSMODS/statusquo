@@ -22,7 +22,7 @@ When using the IR enabled devices, the light sources will become visible.
 
 <figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>IR laser visible through NVG</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>IR illuminator visible through NVG</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>IR illuminator visible through NVG</p></figcaption></figure>
 
 When playing in multiplayer, other people's device light sources should display correctly as well.
 
@@ -38,7 +38,7 @@ Night Vision (NV) comes in the forms of goggles (e.g., AN/PVS-14) and scopes (e.
 
 Different types are available for both factions, and can come in different colors and quality levels based on the technology used.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>NVG attached to helmet</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>NVG attached to helmet</p></figcaption></figure>
 
 Goggles have to be equipped to the helmet using the **RHS Extended Inventory System** and once applied to the helmet can be activated using the **`N`** key.0
 

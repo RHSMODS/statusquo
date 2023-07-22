@@ -33,7 +33,7 @@ The AN/PEQ-16 can be set to the following modes:
 
 You can use the selector to set the mode before turning the device ON or during operation.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## IR Illuminator Frequency
 
