@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/23/2023 2:19:29 PM UTC | Revision 1049 | odkupiciel375]
+
+[Fixed] NVG illuminator 'sticks' to player camera
+
+[Fixed] Potential NPE
+
+
+
 [7/23/2023 12:59:47 PM UTC | Revision 1048 | Tactical_Toxic]
 
 [Improved] Kac rail cover texture
