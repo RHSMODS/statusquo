@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/23/2023 9:02:43 PM UTC | Revision 1051 | odkupiciel375]
+
+[Fixed] NVG UI mask wont work if player is bleeding; fixes ;390
+
+[Other] Removed one useless (debug) line from RHS_ClothBaseAction.c
+
+
+
 [7/23/2023 3:08:58 PM UTC | Revision 1050 | Soul_Assassin]
 
 [Fixed] KAC rail covers not displaying correctly in inventory
