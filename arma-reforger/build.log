@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/24/2023 2:26:41 PM UTC | Revision 1055 | Soul_Assassin]
+
+[Fixed] Fixed 1PN138 radial menu entry name; fixes #392
+
+[Fixed] Helmet radial was not working if player had no weapon selected; fixes #393
+
+
+
 [7/24/2023 1:40:42 PM UTC | Revision 1054 | PUDDY300]
 
 [Fixed] APS animations
