@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/24/2023 6:25:03 AM UTC | Revision 1052 | reyhard]
+
+[Fixed] Disabled emissivity on M150 fiber cable
+
+
+
 [7/23/2023 9:02:43 PM UTC | Revision 1051 | odkupiciel375]
 
 [Fixed] NVG UI mask wont work if player is bleeding; fixes ;390
