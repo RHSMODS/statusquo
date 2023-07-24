@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/24/2023 6:58:18 PM UTC | Revision 1059 | reyhard]
+
+[Fixed] Reworked collider on 6B47
+
+
+
 [7/24/2023 4:19:03 PM UTC | Revision 1058 | odkupiciel375]
 
 [Fixed] Drag and drop can place items in incorrect slots; fixes #327
