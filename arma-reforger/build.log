@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/25/2023 11:03:40 PM UTC | Revision 1064 | Punky]
+
+[Added] PVS31 with L4G24 model & prefab in 3 variants
+
+[Added] Norotos shroud mount model & prefab (as attachment)
+
+[Added] Norotos rhino model & prefab
+
+[Other] Rhino component should be adjusted as in issue #401
+
+
+
 [7/25/2023 2:55:12 PM UTC | Revision 1063 | odkupiciel375]
 
 [Fixed] Light device keybinds wouldn't work for visible light; fixes #391
