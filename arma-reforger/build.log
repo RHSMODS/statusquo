@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/25/2023 2:55:12 PM UTC | Revision 1063 | odkupiciel375]
+
+[Fixed] Light device keybinds wouldn't work for visible light; fixes #391
+
+[Fixed] Light device cycle keybind would skip one of ANPEQ-16 modes (L)
+
+[Other] Changed prints to Debug.Error for indication of incorrectly configured light device prefab
+
+
+
 [7/25/2023 1:58:24 PM UTC | Revision 1062 | reyhard]
 
 [Other] WIP template for RHS Conflict
