@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/26/2023 6:40:05 PM UTC | Revision 1076 | odkupiciel375]
+
+[Improved] Potential improvement that will prevent AI from spotting player because of NVG eye splash light
+
+
+
 [7/26/2023 4:21:44 PM UTC | Revision 1075 | odkupiciel375]
 
 [Fixed] IR lights would become visible before NVV effect would be applied
