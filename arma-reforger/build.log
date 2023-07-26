@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/26/2023 1:55:26 PM UTC | Revision 1073 | reyhard]
+
+[Fixed] Missing vest base prefab which was breaking EMR vests
+
+
+
 [7/26/2023 1:05:00 PM UTC | Revision 1072 | odkupiciel375]
 
 [Improved] AN/PVS-31 IR illuminator
