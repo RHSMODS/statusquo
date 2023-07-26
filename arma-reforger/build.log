@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/26/2023 7:47:51 PM UTC | Revision 1078 | odkupiciel375]
+
+[Other] Temporarily changed in RHS_LightDevice.EOnInit throwing Error when there is no light entity in corresponding BaseLightManagerComponents slot to use Print
+
+
+
 [7/26/2023 6:56:04 PM UTC | Revision 1077 | reyhard]
 
 [Improved] Added RHS AI groups to RHS variant of Conflict
