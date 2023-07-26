@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/26/2023 4:21:44 PM UTC | Revision 1075 | odkupiciel375]
+
+[Fixed] IR lights would become visible before NVV effect would be applied
+
+[Fixed] NV Effect would be applied before UI mask would finish its animation
+
+[Improved] NVG IR illuminators will turn off when NVG is turned OFF
+
+[Improved] NVG IR illuminator is impossible to turn ON while NVG is oFF
+
+
+
 [7/26/2023 2:57:53 PM UTC | Revision 1074 | odkupiciel375]
 
 [Fixed] Wrong light entity used as NVG eye splash light
