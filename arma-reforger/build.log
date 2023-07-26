@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/26/2023 2:57:53 PM UTC | Revision 1074 | odkupiciel375]
+
+[Fixed] Wrong light entity used as NVG eye splash light
+
+
+
 [7/26/2023 1:55:26 PM UTC | Revision 1073 | reyhard]
 
 [Fixed] Missing vest base prefab which was breaking EMR vests
