@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[7/26/2023 11:31:15 AM UTC | Revision 1069 | odkupiciel375]
+
+[Removed] Unused xob files of NVG adapters
+
+[Added] AN/PVS-31 localization
+
+[Added] AN/PVS-31 added to the USMC arsenal
+
+[Improved] AN/PVS-31 configuration (black version with multicam and tan version now have proper materials)
+
+[Other] Changed file structure of PVS31
+
+[Other] Simplified logic responsible for detecting if object with RHS_ClothNodeStorageComponent should be used for storage
+
+[Other] Improvement to RHS_SGC_RadialMenuCoponent logic that fills object name when m_sDisplayName is empty
+
+
+
 [7/26/2023 10:47:22 AM UTC | Revision 1068 | reyhard]
 
 [Fixed] Ooops, not all files were committed
