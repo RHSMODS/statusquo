@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/27/2023 1:42:27 PM UTC | Revision 1082 | odkupiciel375]
+
+[Fixed] Player was able to control light device which was attached to the weapon which was his back; fixes #402
+
+[Fixed] NPE in OnControlledByPlayer on dedicated server
+
+
+
 [7/27/2023 9:26:50 AM UTC | Revision 1081 | Soul_Assassin]
 
 [Improved] Improved resolution of M40A5 ambient occlusion and fixed some bake errors
