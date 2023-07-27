@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/27/2023 5:05:43 AM UTC | Revision 1079 | PUDDY300]
+
+[Other] Separated M40A5 from its magazine
+
+[Other] Created Animation workspace for M40A5
+
+
+
 [7/26/2023 7:47:51 PM UTC | Revision 1078 | odkupiciel375]
 
 [Other] Temporarily changed in RHS_LightDevice.EOnInit throwing Error when there is no light entity in corresponding BaseLightManagerComponents slot to use Print
