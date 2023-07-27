@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/27/2023 7:27:59 AM UTC | Revision 1080 | odkupiciel375]
+
+[Fixed] Potential bug which would allow for enabling NV effect to another player
+
+
+
 [7/27/2023 5:05:43 AM UTC | Revision 1079 | PUDDY300]
 
 [Other] Separated M40A5 from its magazine
