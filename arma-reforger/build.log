@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/27/2023 9:26:50 AM UTC | Revision 1081 | Soul_Assassin]
+
+[Improved] Improved resolution of M40A5 ambient occlusion and fixed some bake errors
+
+[Fixed] M40A5 collider import settings
+
+
+
 [7/27/2023 7:27:59 AM UTC | Revision 1080 | odkupiciel375]
 
 [Fixed] Potential bug which would allow for enabling NV effect to another player
