@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/29/2023 7:23:59 AM UTC | Revision 1090 | odkupiciel375, odkupiciel375]
+
+[Fixed] Player was able to attach different hats (including helmets) to currently worn helmet
+
+[Other] R1089 was not fixing it completely and this should
+
+
+
 [7/28/2023 8:14:39 PM UTC | Revision 1088 | reyhard]
 
 [Fixed] Fixed SPC-3 light vest
