@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[8/2/2023 11:25:19 PM UTC | Revision 1098 | Tactical_Toxic]
+
+[Improved] Added magnetic heading display to t14
+
+[Improved] Added elevation display to t14
+
+[Improved] Added traverse display to t14
+
+[Improved] Added turret indicator to t14
+
+[Fixed] T14 Magnetic heading calculation
+
+[Other] More monkey coding
+
+
+
 [8/2/2023 11:52:30 AM UTC | Revision 1097 | Tactical_Toxic]
 
 [Fixed] T14 Colliders
