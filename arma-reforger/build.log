@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/3/2023 8:06:53 PM UTC | Revision 1101 | reyhard]
+
+[Fixed] Fixed T14 commander get in action
+
+[Improved] Readded counter rotation animation - skeleton need to be fixed again
+
+[Improved] Added some brighter interior placeholder to T14
+
+
+
 [8/3/2023 8:05:30 PM UTC | Revision 1100 | odkupiciel375]
 
 [Improved] Reduced t14 sight text refresh rate to 10fps
