@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[8/3/2023 5:46:17 PM UTC | Revision 1099 | Punky]
+
+[Added] T14 Elevation and Rotation miliradian indicators for Gunner and Commander
+
+[Added] T14 Gunner/Commander independent absolute rot and elev calculation
+
+[Improved] RHS_2DSightsComponent cleanup and refactor
+
+[Other] Red was shouting at me all the time - but without him shouting nothing will be done there.
+
+
+
 [8/2/2023 11:25:19 PM UTC | Revision 1098 | Tactical_Toxic]
 
 [Improved] Added magnetic heading display to t14
