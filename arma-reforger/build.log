@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/3/2023 8:05:30 PM UTC | Revision 1100 | odkupiciel375]
+
+[Improved] Reduced t14 sight text refresh rate to 10fps
+
+[Fixed] Changed milliradians calculation to NATO/WARSAW Pact calculation method
+
+
+
 [8/3/2023 5:46:17 PM UTC | Revision 1099 | Punky]
 
 [Added] T14 Elevation and Rotation miliradian indicators for Gunner and Commander
