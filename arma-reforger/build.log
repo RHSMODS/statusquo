@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[8/4/2023 10:13:23 PM UTC | Revision 1111 | Tactical_Toxic]
+
+[Fixed] ECH helmets were missing skinning
+
+[Improved] Added lods for ECH helmets
+
+[Improved] 2A82 Ballistics
+
+[Improved] 2a82 HE and APSDFS Localization
+
+
+
 [8/4/2023 6:29:39 PM UTC | Revision 1110 | Tactical_Toxic]
 
 [Fixed] Wrong load in HE mag for T14 2A82
