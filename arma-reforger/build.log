@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/4/2023 9:08:11 AM UTC | Revision 1107 | reyhard]
+
+[Other] Fixed minor issues in ECH blend file
+
+[Other] Added collections for batch FBX export
+
+
+
 [8/4/2023 7:50:00 AM UTC | Revision 1106 | reyhard]
 
 [Other] Updated ECH with skinning and correct material/layer preset for colliders
