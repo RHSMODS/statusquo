@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[8/5/2023 1:29:58 PM UTC | Revision 1118 | spacestrider]
+
+[Fixed] Open turret action covering switch seats action in t14
+
+[Improved] HE Frag explosion simulation for 3OF36
+
+[Improved] Open hatch for t14 driver
+
+[Other] Fixed inheritance for 125mm projectiles to inherit from base projectile
+
+
+
 [8/5/2023 12:13:52 PM UTC | Revision 1117 | Tactical_Toxic]
 
 [Removed] Obsolete commander ui
