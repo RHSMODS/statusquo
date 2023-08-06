@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/6/2023 10:52:48 PM UTC | Revision 1135 | Soul_Assassin]
+
+[Fixed] Controller NVG keybind improvement. should work every time. To not raise hand try holding DR before pressing RShoulder; fixes #409
+
+[Fixed] NVG illuminator toggle is now DR hold for 1 second on controller.
+
+
+
 [8/6/2023 10:04:26 PM UTC | Revision 1134 | Tactical_Toxic]
 
 [Other] Minor but important 2s1 fix
