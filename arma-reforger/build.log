@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/6/2023 11:41:46 AM UTC | Revision 1122 | odkupiciel375]
+
+[Fixed] ShowVehiclePositionWidgets for T14 was not set to true
+
+[Other] Changed in T14 layout Pitch and Roll widgets names by changing from using word Tank to Vehicle - HUD_TankHorizon_IMG => HUD_VehicleHorizon_IMG
+
+[Other] Added null checks in RHS_2DSightsComponent.c to prevent calling functions from variables that are null
+
+
+
 [8/6/2023 11:28:27 AM UTC | Revision 1121 | spacestrider]
 
 [Other] Fixed missing warhead for HE frag
