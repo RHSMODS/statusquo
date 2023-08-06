@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/6/2023 9:05:43 PM UTC | Revision 1131 | Soul_Assassin]
+
+[Fixed] Fixed bad mesh positioning and broken UVs on ECH helmets
+
+[Other] Removed funky custom CVC
+
+
+
 [8/6/2023 7:15:30 PM UTC | Revision 1130 | Tactical_Toxic]
 
 [Other] Updated 6b7 and cvc colliders
