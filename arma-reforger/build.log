@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/6/2023 9:55:21 PM UTC | Revision 1133 | Soul_Assassin]
+
+[Fixed] Fixed Vector/PDU azimuth not updating from initial reading unless ADSing out
+
+
+
 [8/6/2023 9:34:06 PM UTC | Revision 1132 | Tactical_Toxic]
 
 [Other] Minor t14 comparment pos fixes
