@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/7/2023 10:48:08 PM UTC | Revision 1151 | odkupiciel375]
+
+[Other] Made RHS_2DSightsComponent.c fully configurable
+
+[Other] Updated T14 turret and commander turret to new RHS_2DSightsComponent.c configuration
+
+[Other] Changed one text widget that was previously used to display turret heading to now display random numbers
+
+
+
 [8/7/2023 9:58:29 PM UTC | Revision 1150 | Vergy]
 
 [Other] Improved FROG Arid Textures
