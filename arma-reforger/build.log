@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/7/2023 6:34:25 AM UTC | Revision 1137 | reyhard]
+
+[Improved] Vests are now using regular ClothNodeStorageComponent so you are no longer able to detach pouches from them
+
+
+
 [8/7/2023 4:47:56 AM UTC | Revision 1136 | PUDDY300]
 
 [Other] Created M40A5 prefab & animation workspace
