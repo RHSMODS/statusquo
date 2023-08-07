@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[8/7/2023 8:17:03 PM UTC | Revision 1149 | Tactical_Toxic]
+
+[Improved] Added destructible parts to 2s1
+
+[Improved] Added engine, gearbox and ammo rack colliders to 2s1
+
+[Improved] 2S1 Related localization
+
+[Improved] Added 2s1 Wreck model
+
+[Fixed] Tweaked 2s1 texture brightness
+
+[Fixed] Broken roll/pitch indicators on 2s1
+
+[Improved] 2S1 UI
+
+[Fixed] Brightened HDG, Elev, and traverse in k17 hud
+
+[Other] Added VehiclePart_Base_RHS.et
+
+
+
 [8/7/2023 8:01:46 PM UTC | Revision 1148 | Blackburn]
 
 [Other] Fixed DAGR mesh, rendertarget moved above display backlight
