@@ -9,6 +9,325 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.4.1149
+
+<!-- revision 1149 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1149
+
+_<mark style="color:red;">Date:</mark>_ Monday, August 7, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 115 (1034)
+
+_<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fixes and 3 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] PO4X24
+
+[Added] RPK-74 with 1P87 + 1P90 Prefab
+
+[Added] AK-74M with 1P87 + 1P90 Prefab
+
+[Added] AN-94 with 1P87 + 1P90 Prefab
+
+[Added] FROG baclava
+
+[Added] Gray FROG balaclava
+
+[Added] Functionality to use key binds to toggle, cycle through modes and hold for temporary activation of ANPEQ16, Perst and LTSU (LTSU has only toggle) - by default set to [`] but can be changed via Settings => Control => RHS; fixes [#331](https://github.com/RHSMODS/statusquo/issues/331)
+
+[Added] More character accessories
+
+[Added] Added Arid FROG Shirt and Trousers
+
+[Added] Aksu with LTSU and B18 prefab
+
+[Added] PVS31 with L4G24 model & prefab in 3 variants
+
+[Added] Norotos shroud mount model & prefab (as attachment)
+
+[Added] Norotos rhino model & prefab
+
+[Added] Conflict scenario (RHS)
+
+[Added] AN/PVS-31 localization
+
+[Added] AN/PVS-31 added to the USMC arsenal
+
+[Added] Added more Conflict scenarios
+
+[Added] Colliders for PVS31
+
+[Added] T14 Elevation and Rotation miliradian indicators for Gunner and Commander
+
+[Added] T14 Gunner/Commander independent absolute rot and elev calculation
+
+[Added] Smoke dispensers to t14
+
+[Added] 2S1 Gvozdika
+
+[Added] New firing audio for M27IAR, AK74M, AKS74U [AN-94 uses RHS AK74M sounds for now]
+
+[Added] M4A1 Rifle (Baked Textures Only)
+
+[Added] Added AN94 new firing sounds
+
+[Added] Added 5.45 calibre suppressed sounds [AK74M, AKS74U]
+
+
+### Improved
+
+
+[Improved] ...and added stalinium temporary GOST gamemats to it
+
+[Improved] Changed configuration of 6B45 vest - pouches are now in harness slot, so weapon is no longer clipping with the pouches. Beware that similar to Susharka backpack, those pouches might hang in air if you are not wearing 6B45 vest.
+
+[Improved] Added functionality to 1P87 + 1P90
+
+[Improved] Added functionality to 1P87 + 1P138
+
+[Improved] Added new medicine to RU arsenal
+
+[Improved] Added new medicine to USMC arsenal
+
+[Improved] Localization
+
+[Improved] Added NO filter and NO resize to all reticles
+
+[Improved] Improve sharpness on downscaled Acog and Spectre textures
+
+[Improved] Kac rail cover texture
+
+[Improved] Aksu textures
+
+[Improved] Basic RHS Conflict scenario setup
+
+[Improved] Zenit B51 textures
+
+[Improved] AN/PVS-31 configuration (black version with multicam and tan version now have proper materials)
+
+[Improved] PVS31 Model and it's position
+
+[Improved] AN/PVS-31 IR illuminator
+
+[Improved] NVG IR illuminators will turn off when NVG is turned OFF
+
+[Improved] NVG IR illuminator is impossible to turn ON while NVG is oFF
+
+[Improved] Potential improvement that will prevent AI from spotting player because of NVG eye splash light
+
+[Improved] Added RHS AI groups to RHS variant of Conflict
+
+[Improved] Tweaked weapon appearance on weapon racks
+
+[Improved] Improved resolution of M40A5 ambient occlusion and fixed some bake errors
+
+[Improved] Refactored vests
+
+[Improved] Added sitting mat to arsenal
+
+[Improved] Merged fixed version of M4A1 CH + GBFS
+
+[Improved] Added magnetic heading display to t14
+
+[Improved] Added elevation display to t14
+
+[Improved] Added traverse display to t14
+
+[Improved] Added turret indicator to t14
+
+[Improved] RHS_2DSightsComponent cleanup and refactor
+
+[Improved] Reduced t14 sight text refresh rate to 10fps
+
+[Improved] Readded counter rotation animation - skeleton need to be fixed again
+
+[Improved] Added some brighter interior placeholder to T14
+
+[Improved] T14 reticle
+
+[Improved] T14 Hud
+
+[Improved] Updated ECH helmets with new fire geo
+
+[Improved] Added lods for ECH helmets
+
+[Improved] 2A82 Ballistics
+
+[Improved] 2a82 HE and APSDFS Localization
+
+[Improved] Functionality to some vehicle sight elements fe. ammo type
+
+[Improved] Changed displayed ammotype for 2a42
+
+[Improved] K17 UI
+
+[Improved] VOG30 Ballistics
+
+[Improved] HE Frag explosion simulation for 3OF36
+
+[Improved] Open hatch for t14 driver
+
+[Improved] Functionality for T14 Pitch and Roll indicator
+
+[Improved] K17 and T14 HUD font
+
+[Improved] Vests are now using regular ClothNodeStorageComponent so you are no longer able to detach pouches from them
+
+[Improved] Added destructible parts to 2s1
+
+[Improved] Added engine, gearbox and ammo rack colliders to 2s1
+
+[Improved] 2S1 Related localization
+
+[Improved] Added 2s1 Wreck model
+
+[Improved] 2S1 UI
+
+
+### Fixed
+
+
+[Fixed] Fixed colliders on 6B45
+
+[Fixed] 1p87 + 1p90 localization
+
+[Fixed] 1p87 + 1p138 localization
+
+[Fixed] 6B7 Collider
+
+[Fixed] ECH Collider
+
+[Fixed] 6B47 Collider
+
+[Fixed] LShZ Collider
+
+[Fixed] Zenitco Perst "Klassika" V 4.0 was using green light instead of red
+
+[Fixed] Spelling error in key bind label
+
+[Fixed] Mp sync of turning NVG ON/OFF
+
+[Fixed] Log message spam from Perst
+
+[Fixed] Replace action doesnt work in MP; fixes [#326](https://github.com/RHSMODS/statusquo/issues/326)
+
+[Fixed] Frog balaclava localization
+
+[Fixed] NVG illuminator 'sticks' to player camera
+
+[Fixed] Potential NPE
+
+[Fixed] KAC rail covers not displaying correctly in inventory
+
+[Fixed] NVG UI mask wont work if player is bleeding; fixes ;390
+
+[Fixed] Disabled emissivity on M150 fiber cable
+
+[Fixed] Removed sights component from LTSU-1
+
+[Fixed] APS animations
+
+[Fixed] Fixed 1PN138 radial menu entry name; fixes [#392](https://github.com/RHSMODS/statusquo/issues/392)
+
+[Fixed] Helmet radial was not working if player had no weapon selected; fixes [#393](https://github.com/RHSMODS/statusquo/issues/393)
+
+[Fixed] Drag and drop can place items in incorrect slots; fixes [#327](https://github.com/RHSMODS/statusquo/issues/327)
+
+[Fixed] Reworked collider on 6B47
+
+[Fixed] Light device keybinds wouldn't work for visible light; fixes [#391](https://github.com/RHSMODS/statusquo/issues/391)
+
+[Fixed] Light device cycle keybind would skip one of ANPEQ-16 modes (L)
+
+[Fixed] Ooops, not all files were committed
+
+[Fixed] Wrong references of GUID of ANPVS31 .xob file
+
+[Fixed] Missing vest base prefab which was breaking EMR vests
+
+[Fixed] Wrong light entity used as NVG eye splash light
+
+[Fixed] IR lights would become visible before NVV effect would be applied
+
+[Fixed] NV Effect would be applied before UI mask would finish its animation
+
+[Fixed] Potential bug which would allow for enabling NV effect to another player
+
+[Fixed] M40A5 collider import settings
+
+[Fixed] Player was able to control light device which was attached to the weapon which was his back; fixes [#402](https://github.com/RHSMODS/statusquo/issues/402)
+
+[Fixed] NPE in OnControlledByPlayer on dedicated server
+
+[Fixed] Wrong xob GUID for pvs31 BLK MC and Tan version
+
+[Fixed] Fixed SPC-3 light vest
+
+[Fixed] Player was able to attach different hats (including helmets) to currently worn helmet
+
+[Fixed] Reticles mip mapping
+
+[Fixed] T14 Colliders
+
+[Fixed] T14 Magnetic heading calculation
+
+[Fixed] Changed milliradians calculation to NATO/WARSAW Pact calculation method
+
+[Fixed] Fixed T14 commander get in action
+
+[Fixed] Eye position on 1p87 new
+
+[Fixed] Fixed T14 driver action
+
+[Fixed] Fixed NPE when using K17 turret
+
+[Fixed] Wrong load in HE mag for T14 2A82
+
+[Fixed] ECH helmets were missing skinning
+
+[Fixed] ECH helmet had broken texture
+
+[Fixed] Open turret action covering switch seats action in t14
+
+[Fixed] ShowVehiclePositionWidgets for T14 was not set to true
+
+[Fixed] Commander's turret
+
+[Fixed] AGS was using Tucha smoke grenades
+
+[Fixed] Fixed bad mesh positioning and broken UVs on ECH helmets
+
+[Fixed] Fixed Vector/PDU azimuth not updating from initial reading unless ADSing out
+
+[Fixed] Controller NVG keybind improvement. should work every time. To not raise hand try holding DR before pressing RShoulder; fixes [#409](https://github.com/RHSMODS/statusquo/issues/409)
+
+[Fixed] NVG illuminator toggle is now DR hold for 1 second on controller.
+
+[Fixed] Tweaked 2s1 texture brightness
+
+[Fixed] Broken roll/pitch indicators on 2s1
+
+[Fixed] Brightened HDG, Elev, and traverse in k17 hud
+
+
+### Deleted
+
+
+[Removed] LRF actions from RHS controls tab
+
+[Removed] Unused xob files of NVG adapters
+
+[Removed] Obsolete commander ui
+
+
+
 ## 0.4.1034
 
 <!-- revision 1034 -->
