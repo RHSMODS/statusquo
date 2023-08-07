@@ -89,6 +89,7 @@
   * [Vehicles](arma-reforger/redfor/vehicles/README.md)
     * [K-17 Boomerang](arma-reforger/redfor/vehicles/k-17-boomerang.md)
     * [T-14](arma-reforger/redfor/vehicles/t-14.md)
+    * [2S1](arma-reforger/redfor/vehicles/2s1.md)
 
 ## Arma 3
 
