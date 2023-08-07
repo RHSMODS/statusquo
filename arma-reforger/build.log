@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/7/2023 7:32:21 AM UTC | Revision 1138 | spacestrider]
+
+[Added] 2S1 Gvozdika
+
+
+
 [8/7/2023 6:34:25 AM UTC | Revision 1137 | reyhard]
 
 [Improved] Vests are now using regular ClothNodeStorageComponent so you are no longer able to detach pouches from them
