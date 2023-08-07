@@ -1,15 +1,15 @@
 # Default Key Bindings
 
-RHS contains more than a few key binds and this pages is here to give generic description of what each of them do. Note that in some cases their beahviour might differ depending on the device and in such case its respevtive page should have information about that.
+RHS contains more than a few key binds and this pages is here to give generic description of what each of them do. Note that in some cases their behavior might differ depending on the device and in such case its respective page should have information about that.
 
 ### Night Vison Bindings
 
-Default key binds for all night vision elements like fe. NVG such as PVS-14
+Default key binds for all night vision elements like fe. NVG such as PVS-14.
 
 | Label                    | Keyboard                                    | Gamepad                                     | Description                                              |
 | ------------------------ | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------------- |
 | Night vision device      | ![](<../../.gitbook/assets/image (13).png>) | ![](<../../.gitbook/assets/image (15).png>) | Toggle On/Off currently used night vision device         |
-| NVG built in illuminator | ![](<../../.gitbook/assets/image (24).png>) | ![](<../../.gitbook/assets/image (26).png>) | Toggle On/Off built in illuminator of currently used NVG |
+| NVG built in illuminator | ![](<../../.gitbook/assets/image (24).png>) | ![](<../../.gitbook/assets/image (29).png>) | Toggle On/Off built in illuminator of currently used NVG |
 
 ### Radial Menu
 
@@ -21,7 +21,7 @@ Default key binds for RHS radial menu which is used to interact with equipment t
 
 ### Light Devices
 
-Default key binds for all light devices such as but not limmited to ANPEQ-16&#x20;
+Default key binds for all light devices such as but not limited to ANPEQ-16.
 
 | Label                                   | Keyboard                                    | Gamepad                                     | Description                                                          |
 | --------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------- |

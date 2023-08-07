@@ -40,13 +40,13 @@ Different types are available for both factions, and can come in different color
 
 <figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>NVG attached to helmet</p></figcaption></figure>
 
-Goggles have to be equipped to the helmet using the **RHS Extended Inventory System** and once applied to the helmet can be activated using the **`N`** key.0
+Goggles have to be equipped to the helmet using the **RHS Extended Inventory System** and once applied to the helmet can be activated using the **`N`** key (hold **`RShoulder+DPadRight`**).
 
 {% hint style="info" %}
 If you ADS with a weapon that has a mounted scope, it might automatically disengage the NVGs as they would be in the way.
 {% endhint %}
 
-Some Night vision scopes come with built in IR illuminators. They can be activated and disactivated by pressing and holding the **`N`** key by default.&#x20;
+Some Night vision scopes come with built in IR illuminators. They can be activated and disactivated by pressing and holding the **`N`** key by default (hold **`DPadRight`**).
 
 Night vision sights do not require any special operation other than mounting them on the weapon and aiming.
 
