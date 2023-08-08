@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/8/2023 7:12:06 PM UTC | Revision 1158 | PUDDY300]
+
+[Other] Fixed M4 Armature
+
+[Other] Replaced m16_weapon.asi with M27_player.asi in WeaponAnimationComponent > Anim Injection > Anim Instance
+
+
+
 [8/8/2023 6:41:39 PM UTC | Revision 1157 | reyhard]
 
 [Other] Fixed gamemat on invisible harness holder
