@@ -1,5 +1,31 @@
 <!-- buildlog insert -->
 
+[8/8/2023 9:14:00 PM UTC | Revision 1159 | Tactical_Toxic]
+
+[Fixed] Wrong 6b45 prefab used on EMR rifleman
+
+[Fixed] Missing map from EMR kits
+
+[Fixed] Missing advanced medicine from EMR kits
+
+[Fixed] Missing advanced medicine from USMC kits
+
+[Improved] 2S1 Hud
+
+[Removed] Temporary disabled EARHS component on PRC152
+
+[Added] Smoke launchers to K17 Berezhok
+
+[Added] USMC Boonie hat with peltors
+
+[Added] Destructible optics to t14
+
+[Fixed] Wrong t14 turret era collider
+
+[Improved] Slightly increased R187P1 Range
+
+
+
 [8/8/2023 7:12:06 PM UTC | Revision 1158 | PUDDY300]
 
 [Other] Fixed M4 Armature
