@@ -9,6 +9,67 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.4.1161
+
+<!-- revision 1161 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1161
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, August 9, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 12 (1149)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes and 2 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Smoke launchers to K17 Berezhok
+
+[Added] USMC Boonie hat with peltors
+
+[Added] Destructible optics to t14
+
+
+### Improved
+
+
+[Improved] 2S1 Hud
+
+[Improved] Slightly increased R187P1 Range
+
+[Improved] Model and Textures of M4A1
+
+
+### Fixed
+
+
+[Fixed] Weapon deployment for RHS weapons
+
+[Fixed] Wrong 6b45 prefab used on EMR rifleman
+
+[Fixed] Missing map from EMR kits
+
+[Fixed] Missing advanced medicine from EMR kits
+
+[Fixed] Missing advanced medicine from USMC kits
+
+[Fixed] Wrong t14 turret era collider
+
+
+### Deleted
+
+
+[Removed] Temporary disabled EARHS component on PRC152
+
+[Removed] Carryhandle for M4A1 and other leftovers
+
+
+
 ## 0.4.1149
 
 <!-- revision 1149 -->
