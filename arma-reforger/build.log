@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/10/2023 4:26:09 PM UTC | Revision 1165 | odkupiciel375]
+
+[Other] Fixed in RHS_2DSightsComponent.c m_iRefreshRate that had assigned value when it meant to be adjustable through Object Properties window
+
+[Other] Fixed in RHS_2DSightsComponent.c some const values were not properly named
+
+
+
 [8/9/2023 9:35:55 PM UTC | Revision 1164 | Tactical_Toxic]
 
 [Added] NPP Klass "TOR" Low cut
