@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/10/2023 8:16:59 PM UTC | Revision 1166 | Soul_Assassin]
+
+[Other] Final ECH blendfile. Do not duplicate!
+
+
+
 [8/10/2023 4:26:09 PM UTC | Revision 1165 | odkupiciel375]
 
 [Other] Fixed in RHS_2DSightsComponent.c m_iRefreshRate that had assigned value when it meant to be adjustable through Object Properties window
