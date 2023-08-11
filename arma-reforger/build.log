@@ -1,5 +1,33 @@
 <!-- buildlog insert -->
 
+[8/11/2023 9:25:38 PM UTC | Revision 1172 | Tactical_Toxic]
+
+[Removed] Destructible optics from T-14
+
+[Fixed] PDU4 Optics
+
+[Fixed] Vector 21 Optics; fixes #447
+
+[Fixed] T-14 Optics
+
+[Fixed] K-17 Optics
+
+[Fixed] 2S1 Optics
+
+[Improved] Added NPP "TOR" helmet series to arsenal
+
+[Improved] Added NPP "Strelok" glasses to arsenal
+
+[Improved] Added NPP "Kondor" glasses to arsenal
+
+[Fixed] Reworked T14 ERA component (CrashFree now.... perhaps)
+
+[Other] Fixed wrong slot in tor cover
+
+[Other] Removed old cvc shroud prefab (was using Toxic's cringe custom cvc)
+
+
+
 [8/11/2023 3:06:05 PM UTC | Revision 1171 | Soul_Assassin]
 
 [Other] T14 external pieces retargeted to GenericEntity and derive from Vehicle_Part_base now. Bad components removed and HitZoneContainerComponent added BUT NOT SETUP YET!
