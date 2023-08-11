@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/11/2023 3:06:05 PM UTC | Revision 1171 | Soul_Assassin]
+
+[Other] T14 external pieces retargeted to GenericEntity and derive from Vehicle_Part_base now. Bad components removed and HitZoneContainerComponent added BUT NOT SETUP YET!
+
+
+
 [8/11/2023 1:25:04 PM UTC | Revision 1170 | Soul_Assassin]
 
 [Fixed] Fixed wrong GUID on FROG trousers blood texture
