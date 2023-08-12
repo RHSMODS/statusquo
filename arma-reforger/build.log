@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/12/2023 3:57:55 PM UTC | Revision 1175 | Blackburn]
+
+[Other] Modified DAGR data structure
+
+[Other] Added basic DAGR functionality
+
+
+
 [8/12/2023 12:06:12 AM UTC | Revision 1174 | Soul_Assassin]
 
 [Fixed] Fixed SP81 Animation graph errors; fixes #446
