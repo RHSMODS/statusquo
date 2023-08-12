@@ -9,6 +9,83 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.4.1174
+
+<!-- revision 1174 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1174
+
+_<mark style="color:red;">Date:</mark>_ Saturday, August 12, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 13 (1161)
+
+_<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes and 2 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Lods for M4A1
+
+[Added] NPP Klass "TOR" Low cut
+
+[Added] NPP Klass "TOR" Meduim cut
+
+[Added] NPP Klass "TOR" High cut
+
+[Added] NPP Klass "Kondor"
+
+[Added] NPP Klass "Strelok"
+
+
+### Improved
+
+
+[Improved] M4A1 Animation .asi file
+
+[Improved] Added NPP "TOR" helmet series to arsenal
+
+[Improved] Added NPP "Strelok" glasses to arsenal
+
+[Improved] Added NPP "Kondor" glasses to arsenal
+
+
+### Fixed
+
+
+[Fixed] Fixed wrong GUID on FROG trousers blood texture
+
+[Fixed] PDU4 Optics
+
+[Fixed] Vector 21 Optics; fixes [#447](https://github.com/RHSMODS/statusquo/issues/447)
+
+[Fixed] T-14 Optics
+
+[Fixed] K-17 Optics
+
+[Fixed] 2S1 Optics
+
+[Fixed] Reworked T14 ERA component (CrashFree now.... perhaps)
+
+[Fixed] Wrong weapon position on PC GEN3
+
+[Fixed] Fixed SP81 Animation graph errors; fixes [#446](https://github.com/RHSMODS/statusquo/issues/446)
+
+[Fixed] Fixed AN/SU-230 reticle scale; fixes [#442](https://github.com/RHSMODS/statusquo/issues/442)
+
+
+### Deleted
+
+
+[Removed] Obsolete files
+
+[Removed] Destructible optics from T-14
+
+
+
 ## 0.4.1161
 
 <!-- revision 1161 -->
