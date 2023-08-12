@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[8/12/2023 4:35:23 PM UTC | Revision 1176 | Soul_Assassin]
+
+[Added] Added alternative green 2S1 (Clean)
+
+[Improved] Tweaked metalness and roughness values for 2S1
+
+[Fixed] 2S1 tracks have transparency now
+
+[Added] Added DAGR to Arsenal
+
+
+
 [8/12/2023 3:57:55 PM UTC | Revision 1175 | Blackburn]
 
 [Other] Modified DAGR data structure
