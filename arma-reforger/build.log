@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/12/2023 12:06:12 AM UTC | Revision 1174 | Soul_Assassin]
+
+[Fixed] Fixed SP81 Animation graph errors; fixes #446
+
+[Fixed] Fixed AN/SU-230 reticle scale; fixes #442
+
+[Other] Removed old KAC flashhider files; fixes #445
+
+
+
 [8/11/2023 10:35:18 PM UTC | Revision 1173 | Tactical_Toxic]
 
 [Fixed] Wrong weapon position on PC GEN3
