@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/14/2023 12:58:54 PM UTC | Revision 1193 | spacestrider]
+
+[Fixed] T14 Fire Geo
+
+[Other] Updated T14 Era to prevent double collision issue of side armor and prevent ignoring of firegeo inside other fire geo
+
+
+
 [8/13/2023 10:32:29 PM UTC | Revision 1192 | Tactical_Toxic]
 
 [Improved] TWS1 UI
