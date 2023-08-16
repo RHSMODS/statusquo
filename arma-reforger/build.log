@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/16/2023 8:49:11 AM UTC | Revision 1195 | reyhard]
+
+[Improved] Tweaked body armor game materials - NIJ4 class was using placeholder values which resulted in rather very high protection level
+
+
+
 [8/15/2023 4:47:55 PM UTC | Revision 1194 | Blackburn]
 
 [Other] Corrected error in naming
