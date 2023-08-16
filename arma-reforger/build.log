@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/16/2023 1:35:45 PM UTC | Revision 1196 | odkupiciel375]
+
+[Other] Added missing screen component to DAGR prefab after it was renamed
+
+
+
 [8/16/2023 8:49:11 AM UTC | Revision 1195 | reyhard]
 
 [Improved] Tweaked body armor game materials - NIJ4 class was using placeholder values which resulted in rather very high protection level
