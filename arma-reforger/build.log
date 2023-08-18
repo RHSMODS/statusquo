@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/18/2023 6:55:56 PM UTC | Revision 1200 | Tactical_Toxic]
+
+[Improved] K-17 Berezhok now uses its own custom HUD
+
+[Other] Added glock textures and blendfile. Be careful, for some unkown reason, blender crashes when im trying to merge glock meshes, some kind of weird curse i guess?
+
+
+
 [8/18/2023 5:21:26 PM UTC | Revision 1199 | Tactical_Toxic]
 
 [Improved] AGS angles on K-17 berezhok
