@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/24/2023 1:03:50 PM UTC | Revision 1213 | odkupiciel375]
+
+[Other] Fix for missing EOnFrame - change that was made to MuzzleEffectComponent in e0.9.9.83
+
+
+
 [8/24/2023 5:52:59 AM UTC | Revision 1212 | spacestrider]
 
 [Improved] Inventory for T14
