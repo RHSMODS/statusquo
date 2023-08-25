@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/25/2023 11:06:41 AM UTC | Revision 1215 | odkupiciel375]
+
+[Fixed] NVG mask would be displayed on wrong layer making it cover other UI elements
+
+
+
 [8/24/2023 10:35:23 PM UTC | Revision 1214 | Tactical_Toxic]
 
 [Improved] Added DayTime switch to TWS-1
