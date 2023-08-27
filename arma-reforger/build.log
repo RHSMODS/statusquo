@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/27/2023 5:36:54 AM UTC | Revision 1222 | odkupiciel375]
+
+[Fixed] Recursive loop of decal system was checking wrong entity
+
+[Other] Disabled BumpMe to prevent log spam
+
+
+
 [8/27/2023 12:33:57 AM UTC | Revision 1221 | Tactical_Toxic]
 
 [Other] Damaged rhs logo
