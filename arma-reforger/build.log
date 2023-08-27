@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/27/2023 7:07:47 AM UTC | Revision 1223 | odkupiciel375]
+
+[Improved] MP sync for decal system
+
+
+
 [8/27/2023 5:36:54 AM UTC | Revision 1222 | odkupiciel375]
 
 [Fixed] Recursive loop of decal system was checking wrong entity
