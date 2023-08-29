@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/29/2023 7:30:17 PM UTC | Revision 1226 | odkupiciel375]
+
+[Improved] Night vision sight compatibility logic refactor
+
+[Fixed] Being able to use NVg while using vehicle turrets (fe. T14 turret)
+
+
+
 [8/27/2023 5:46:10 PM UTC | Revision 1225 | odkupiciel375]
 
 [Added] Manual gain control for night vision devices
