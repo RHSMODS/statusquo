@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[8/30/2023 9:40:48 PM UTC | Revision 1233 | odkupiciel375]
+
+[Fixed] Fixed EARHS; fixes #443
+
+[Improved] Added a piece of glass to the AN/PRC-152 that must have fallen out during shipping
+
+[Improved] Changed AN/PRC-152 on screen font
+
+[Fixed] Radial radio menu now properly shows when second transmitter is disabled
+
+[Improved] User wont be able to select AN/PRC-152 second transmitter with radial radio menu
+
+[Added] Added AN/PRC-152 to the USMC arsenal
+
+[Fixed] Bugged item preview of AN-PRC-152
+
+
+
 [8/30/2023 8:35:54 PM UTC | Revision 1232 | odkupiciel375]
 
 [Improved] Adjusted NV manual gain values
