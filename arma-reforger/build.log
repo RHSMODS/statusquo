@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/30/2023 7:51:14 PM UTC | Revision 1231 | Soul_Assassin]
+
+[Improved] Added NVG Gain controls for controller (RB+DUp/RB+DDown and RB+DLeft to reset); fixes #454
+
+
+
 [8/30/2023 12:00:51 PM UTC | Revision 1230 | odkupiciel375]
 
 [Other] Removed unnecessary print from NightVisionComponent
