@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/31/2023 1:05:18 PM UTC | Revision 1236 | Soul_Assassin]
+
+[Other] Fix compiling error on scopes. But everything broken visually again :(
+
+
+
 [8/30/2023 10:01:27 PM UTC | Revision 1235 | Soul_Assassin]
 
 [Improved] Greatly improved consistency of zoom in 4x optics in both PiP and 2D; fixes #448
