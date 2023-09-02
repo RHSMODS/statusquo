@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[9/2/2023 11:01:27 AM UTC | Revision 1238 | Tactical_Toxic]
+
+[Added] Ural 4320 camo versions
+
+[Improved] Localization
+
+[Improved] Added proper reticle to PO4x24P
+
+[Other] Added proper dial to garmin tactix bravo
+
+[Other] Converted rhs atoll to new enfusion file structure
+
+
+
 [8/31/2023 4:52:51 PM UTC | Revision 1237 | odkupiciel375]
 
 [Other] Removed m_fMaxGainValue from NVG_Base.et prefab as it doesn't exist anymore in the script
