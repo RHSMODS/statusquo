@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[9/6/2023 10:00:32 PM UTC | Revision 1248 | Soul_Assassin]
+
+[Improved] 2S1 decal size is now smaller
+
+[Improved] Removed decals from T14 hull and added label decal to turret. Closer to how older tanks are painted.
+
+[Improved] T14 and K17 sights updated to use screen texture and removed vignette
+
+[Other] Added small label decal prefab
+
+[Other] Removed old layouts
+
+[Other] Added Sosna screen template layout to inherit from
+
+
+
 [9/6/2023 7:16:25 PM UTC | Revision 1247 | Tactical_Toxic]
 
 [Other] Le screen vignette
