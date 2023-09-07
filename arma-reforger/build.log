@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/7/2023 8:43:40 PM UTC | Revision 1251 | odkupiciel375]
+
+[Improved] Ability to hold [Arrow left] / [Arrow right] button (radio keyboard) to quickly jump through frequency of AN/PRC-152
+
+[Fixed] Displayed frequency wouldn't update for peers on AN/PRC-152 screen
+
+[Other] Radio networking refactor
+
+[Other] Radio user interactions refactor
+
+
+
 [9/7/2023 4:23:59 PM UTC | Revision 1250 | Tactical_Toxic]
 
 [Improved] Digital optics HUD
