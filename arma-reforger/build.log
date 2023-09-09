@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/9/2023 7:47:19 AM UTC | Revision 1253 | odkupiciel375]
+
+[Fixed] The sound of pressing and releasing the button for radio continuous action would only be played for the user who used that action
+
+
+
 [9/8/2023 4:45:49 PM UTC | Revision 1252 | Tactical_Toxic]
 
 [Fixed] Wrong optic position on m40
