@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[9/9/2023 2:59:30 PM UTC | Revision 1256 | odkupiciel375]
+
+[Other] Removed .RenderTarget.emat as it wasn't used and was throwing errors due to wrong file format
+
+[Other] Removed ANPRC152A_OFF.emat as its no longer needed
+
+[Other] Renamed ANPRC152A_ON.emat to ANPRC152A.emat
+
+[Other] Renamed all .xob, .fbx and .blend files from "AN PRC 152A_..." to "ANPRC_152A_..."
+
+[Other] Reimported ANPRC_152A (4) models to use ANPRC152A.emat instead of ANPRC152A_OFF.emat
+
+[Other] Adjusted ANPRC152A.emat emissive color and emissive lv value to work with ParametricMaterialInstanceComponent that is used to switch radio backlight ON/OFF
+
+[Other] Added switch that will determine if battery can be rotated
+
+[Other] Disabled switch that determines if battery can be rotated for AN/PRC-152A battery as it is offset slightly
+
+
+
 [9/9/2023 9:49:56 AM UTC | Revision 1255 | odkupiciel375]
 
 [Fixed] Removed duplicates of pickup and equip actions on AN/PRC-152 radio
