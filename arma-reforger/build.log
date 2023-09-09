@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/9/2023 9:25:32 AM UTC | Revision 1254 | odkupiciel375]
+
+[Fixed] Radio and its attachments animations would stop playing if radio was no longer being held in hand
+
+[Other] Fixed multiple insertions of same methods for the same object to VoNComponent OnReceive and OnCapture script invokers
+
+[Other] Fixed naming of enums of ERHS_AttachmentType to be composed of all capital letters
+
+
+
 [9/9/2023 7:47:19 AM UTC | Revision 1253 | odkupiciel375]
 
 [Fixed] The sound of pressing and releasing the button for radio continuous action would only be played for the user who used that action
