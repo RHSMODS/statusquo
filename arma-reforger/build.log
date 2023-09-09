@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/9/2023 4:57:11 PM UTC | Revision 1257 | odkupiciel375]
+
+[Fixed] Adjusted AN/PRC-152 layout to make menu text fit
+
+
+
 [9/9/2023 2:59:30 PM UTC | Revision 1256 | odkupiciel375]
 
 [Other] Removed .RenderTarget.emat as it wasn't used and was throwing errors due to wrong file format
