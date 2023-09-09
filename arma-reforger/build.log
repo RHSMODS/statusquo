@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[9/9/2023 9:49:56 AM UTC | Revision 1255 | odkupiciel375]
+
+[Fixed] Removed duplicates of pickup and equip actions on AN/PRC-152 radio
+
+[Fixed] Removed ability to fold not foldable AN/PRC-152 short antenna
+
+[Other] Added ANPRC152A enum and made it so both AN/PRC-152 and AN/PRC-152A antenna can be attached to either while their batteries are not due to size difference
+
+[Other] Fixed AN/PRC-152A prefab as it had two MeshComponents due to change in prefab inheritance of AN/PRC-152
+
+[Other] Renamed few battery and antenna related actions
+
+
+
 [9/9/2023 9:25:32 AM UTC | Revision 1254 | odkupiciel375]
 
 [Fixed] Radio and its attachments animations would stop playing if radio was no longer being held in hand
