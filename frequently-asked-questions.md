@@ -18,7 +18,7 @@ When it is ready. We do not disclose release dates, mainly because we do not kno
 
 #### 4. Is it for free?
 
-Yes. When you install the addons you have to agree to the [End User License Agreement](arma-reforger/eula.md).
+Yes. When you install the addons you have to agree to the [End User License Agreement](arma-reforger/rhs-status-quo/eula.md).
 
 #### 5. Will there be tank interiors?
 
@@ -32,7 +32,7 @@ So unfortunately there's nothing we can do in our end, it's up to other mod team
 
 #### 7. I found a bug! What should I do?
 
-Please read the [Feedback](arma-reforger/feedback/) page.
+Please read the [Feedback](arma-reforger/rhs-status-quo/feedback/) page.
 
 #### 8. I wanna make a request. You interested?
 
