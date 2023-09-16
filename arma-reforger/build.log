@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[9/16/2023 6:44:38 AM UTC | Revision 1268 | odkupiciel375]
+
+[Other] ANPRC152.layout adjustments
+
+[Other] Updated ANPRC-Digital-7x5 fonts
+
+[Other] Disabled PATROL_IR/Thermal_PatrolIr.et toggle IR illumination action
+
+[Other] Disabled PATROL_IR/Thermal_PatrolIr.et RHS_NVGIlluminatorComponent (since BaseLightManager was disabled)
+
+[Other] Small fix for RHS_NightVisionComponent
+
+
+
 [9/15/2023 9:38:27 PM UTC | Revision 1267 | Tactical_Toxic]
 
 [Removed] Ground fire effect for destoyed vehicles
