@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/18/2023 7:19:49 AM UTC | Revision 1278 | reyhard]
+
+[Improved] Reduced previous placeholder capacity of plate carriers
+
+[Fixed] Reduced PC Gen III non plate protection, so it only protects from shrapnel. Protection of plates itself remained the same
+
+
+
 [9/17/2023 10:07:14 PM UTC | Revision 1277 | blackburn]
 
 [Other] Partially added waypoint list
