@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/22/2023 7:48:59 PM UTC | Revision 1294 | odkupiciel375]
+
+[Fixed] Inspect action of AN/PRC-152 that is used for changing frequency could get stuck if player would hold for too long
+
+
+
 [9/22/2023 5:54:11 PM UTC | Revision 1293 | blackburn]
 
 [Added] Boot and Power Down pages for DAGR
