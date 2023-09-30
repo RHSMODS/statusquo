@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[9/30/2023 12:02:18 AM UTC | Revision 1304 | odkupiciel375]
+
+[Added] Night vision for T14 (gunner and commander)
+
+[Improved] Available action hits for night vision will now disappear after 10 seconds (after each appearance)
+
+[Other] Moved unnecessary code from RHS_NightVisionComponent.c to RHS_RhinoAttachmentComponent.c
+
+[Other] Reworked logic responsible for finding currently used night vision component for available actions condition RHS_CharacterHasNightVisionCondition.c
+
+[Other] Updated all ANPRC-Digital-7x5 fonts
+
+
+
 [9/29/2023 10:56:21 PM UTC | Revision 1303 | PUDDY300]
 
 [Other] Added stock bones to skeleton for AK-74M & AN-94
