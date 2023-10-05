@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/5/2023 7:14:00 PM UTC | Revision 1320 | reyhard]
+
+[Fixed] Removed obsolete param from RHS groups which was spamming console log
+
+
+
 [10/5/2023 5:55:13 PM UTC | Revision 1319 | Tactical_Toxic]
 
 [Improved] Changed 3UBR6 damage
