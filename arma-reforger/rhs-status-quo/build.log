@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[10/6/2023 7:43:57 PM UTC | Revision 1339 | odkupiciel375]
+
+[Improved] Added Tourniquet to the USMC arsenal
+
+[Fixed] Wrong version of PC GEN III in USMC arsenal
+
+[Improved] Added AT, AR, GL loadouts to the Combat Ops USMC vs MSV scenario
+
+[Other] Added missing Campaign/RHS/Campaign_US_USMC_Player_Corpsman.et loadout
+
+[Other] Added campaign variants of AT, AR and GL loadouts
+
+[Other] Reverted USMCvsMSV Coop scenario to vanila task prefabs
+
+
+
 [10/6/2023 6:46:32 PM UTC | Revision 1338 | odkupiciel375]
 
 [Fixed] Fixed RHS USMC vs MSV Combat Ops scenario
