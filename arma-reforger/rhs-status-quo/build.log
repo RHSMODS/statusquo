@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/7/2023 9:05:45 AM UTC | Revision 1344 | odkupiciel375]
+
+[Fixed] Old user action class on some M27IAR variants
+
+
+
 [10/7/2023 7:56:18 AM UTC | Revision 1343 | odkupiciel375]
 
 [Fixed] DAGR hold actions wouldn't trigger if user held for too long
