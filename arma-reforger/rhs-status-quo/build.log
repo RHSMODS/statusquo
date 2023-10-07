@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/7/2023 10:22:31 AM UTC | Revision 1349 | odkupiciel375]
+
+[Added] Added information about ammo type to inventory items; fixes #495
+
+
+
 [10/7/2023 10:19:10 AM UTC | Revision 1348 | reyhard]
 
 [Improved] Ammo type is now visible in the UI
