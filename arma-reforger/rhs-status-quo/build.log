@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/7/2023 5:56:32 PM UTC | Revision 1356 | odkupiciel375]
+
+[Fixed] Plate state indicator would be visible for other items
+
+
+
 [10/7/2023 4:31:46 PM UTC | Revision 1355 | odkupiciel375]
 
 [Added] Plate degradation indicator (when hovering over that plate); fixes #496
