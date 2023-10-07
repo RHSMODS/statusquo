@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/7/2023 9:21:47 AM UTC | Revision 1346 | odkupiciel375]
+
+[Improved] Added ammunition type to the magazine name for ones that use M855A1, M995, 7N13 or 7N14
+
+[Improved] Changed magazine preview for ones that use M855A1, M995, 7N13 or 7N14 ammunition
+
+
+
 [10/7/2023 9:06:46 AM UTC | Revision 1345 | odkupiciel375]
 
 [Fixed] Wrong ammunition used by some USMC loadouts
