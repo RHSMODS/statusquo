@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/7/2023 10:43:13 AM UTC | Revision 1351 | reyhard]
+
+[Improved] Changed Combat Ops MSV scenario to use EMR units by default
+
+[Improved] Small tweak to available inventory items
+
+
+
 [10/7/2023 10:29:50 AM UTC | Revision 1350 | reyhard]
 
 [Improved] Changed orientation of the magazines in inventory UI to be in line with rest of the items
