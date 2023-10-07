@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[10/7/2023 4:31:46 PM UTC | Revision 1355 | odkupiciel375]
+
+[Added] Plate degradation indicator (when hovering over that plate); fixes #496
+
+[Improved] Ability to detach and attach plates to armored vests
+
+[Improved] Temporary model and names for armor plates
+
+[Other] Restructured PC Gen III and Ratnik armored vests - now all armor vests should use RHS_Vest_Base.et rather than Vest_Base.et
+
+[Other] New loadout areas for plates
+
+[Other] File to override item info layout
+
+[Other] Localization for plate degradation indicator
+
+
+
 [10/7/2023 4:13:22 PM UTC | Revision 1354 | Soul_Assassin]
 
 [Other] Fix pesky polygon RPK-74M (fbx now true source)
