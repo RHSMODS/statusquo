@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/8/2023 7:40:21 AM UTC | Revision 1359 | odkupiciel375]
+
+[Other] Fixed: Arma Reforger - 50cal tracer box was missing hash sign in front of localized Ammo Type text (bug report: https://feedback.bistudio.com/T176048)
+
+
+
 [10/8/2023 7:28:19 AM UTC | Revision 1358 | odkupiciel375]
 
 [Fixed] Wrong name and description for 'heavy' PC GEN III
