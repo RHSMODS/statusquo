@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/8/2023 8:52:47 AM UTC | Revision 1361 | reyhard]
+
+[Improved] Corrected rail type on NPZ weapon of variants (from long to medium RIS optic rail)
+
+[Improved] Added snap_weapon transform to optic slots
+
+[Improved] Added NPZ variant of RPK74M
+
+
+
 [10/8/2023 8:36:24 AM UTC | Revision 1360 | reyhard]
 
 [Fixed] Fixed wrong attachment type for RPK74M
