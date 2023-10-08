@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/8/2023 2:20:31 PM UTC | Revision 1367 | Soul_Assassin]
+
+[Fixed] Possible NPE when enabling radial for a weapon
+
+
+
 [10/8/2023 1:06:27 PM UTC | Revision 1366 | reyhard]
 
 [Other] Resaved scenarios
