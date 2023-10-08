@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/8/2023 7:28:19 AM UTC | Revision 1358 | odkupiciel375]
+
+[Fixed] Wrong name and description for 'heavy' PC GEN III
+
+[Other] Added disabled side slots to RHS_Vest_Base.et and enabled them for Vest_PCGen_III.et
+
+
+
 [10/8/2023 7:18:20 AM UTC | Revision 1357 | odkupiciel375]
 
 [Fixed] In some cases ammo type information wouldn't fit inventory item slot
