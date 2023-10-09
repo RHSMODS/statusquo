@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/9/2023 3:49:42 PM UTC | Revision 1385 | odkupiciel375]
+
+[Other] Reworked TouristSeat.et prefab to inherit from RHS_AttachableClothing_Base.et - fixes the fact that Tourist set had inventory and actions that were inherited from backpack prefab (but still can be worn as backpack)
+
+
+
 [10/9/2023 3:35:05 PM UTC | Revision 1384 | odkupiciel375]
 
 [Improved] Adjusted weight for armor plates and plate carriers
