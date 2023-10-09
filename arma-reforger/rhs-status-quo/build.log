@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/9/2023 2:50:18 PM UTC | Revision 1382 | odkupiciel375]
+
+[Other] Reduced neck armor 'max inventory capacity' to (temporarily) fix issue where it would allow for storing small items (like mags) in it (and those items were invisible when in such storage)
+
+[Other] Removed double space from DestructibleArmorPlate_6B45_Granit_Front.et name
+
+
+
 [10/9/2023 2:45:58 PM UTC | Revision 1381 | odkupiciel375]
 
 [Other] Pouch_OpenTop_M27_1_pouch_r.et now inherits from Pouch_OpenTop_M27_1_pouch.et
