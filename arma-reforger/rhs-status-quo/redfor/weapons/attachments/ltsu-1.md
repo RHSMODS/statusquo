@@ -4,7 +4,7 @@
 Introduced in **0.4.1026**
 {% endhint %}
 
-Laser device that is capable of emmiting visible lase of orange collor.
+Laser device that is capable of emitting visible laser of orange color and is mountable on the AKS-74U.
 
 <figure><img src="../../../../../.gitbook/assets/ltsu.png" alt=""><figcaption></figcaption></figure>
 
