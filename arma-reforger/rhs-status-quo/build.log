@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/9/2023 3:35:05 PM UTC | Revision 1384 | odkupiciel375]
+
+[Improved] Adjusted weight for armor plates and plate carriers
+
+[Other] Removed unnecessary components from 6B45 neck armor prefabs
+
+[Other] Replaced 6B45 neck armor prefabs SCR_UniversalInventoryStorageComponent with InventoryItemComponent
+
+[Other] Added SCR_ArmoredClothItemData to 6B45 neck armor (unfolded - Vest_Ratnik_6B45/Vest_Ratnik_6B45_neck_armor.et)
+
+[Other] Unified Destructible Armor Plate preview renderer properties (1x1, front, rotated 90deg counter clockwise)
+
+
+
 [10/9/2023 2:55:59 PM UTC | Revision 1383 | odkupiciel375]
 
 [Other] Removed SCR_UniversalInventoryStorageComponent from RHS_Vest_Base.et as it wasn't used
