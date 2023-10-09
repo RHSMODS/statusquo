@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[10/9/2023 1:12:55 PM UTC | Revision 1378 | Tactical_Toxic]
+
+[Fixed] "Srachnik" Position on character
+
+[Fixed] Wrong attachment type and size of PO4X24P
+
+[Fixed] Wrong inventory size of 1P86
+
+[Fixed] Wrong inventory size of Infratech 1TWS
+
+[Fixed] Wrong NPZ rail position on RPK-74M
+
+[Improved] Added proper localization for armor plates
+
+[Other] No more panties instead of plates
+
+
+
 [10/9/2023 11:36:23 AM UTC | Revision 1377 | Soul_Assassin]
 
 [Fixed] Cleaned up some log errors related to outdated properties
