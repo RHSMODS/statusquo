@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/10/2023 4:13:55 PM UTC | Revision 1401 | odkupiciel375]
+
+[Fixed] Removed armor plate integrity indicator from items that are not armor plates
+
+[Other] Changed localized string of a indicator "Plate state" to "Plate integrity"
+
+
+
 [10/10/2023 4:09:11 PM UTC | Revision 1400 | odkupiciel375]
 
 [Improved] Adjusted item slot layout to better fit ammo type information
