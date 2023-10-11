@@ -9,6 +9,261 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.5.1409
+
+<!-- revision 1409 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1409
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 11, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 144 (1265)
+
+_<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fixes and 3 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] DD12.5 model & textures
+
+[Added] Boot and Power Down pages for DAGR
+
+[Added] Night vision for T14 (gunner and commander)
+
+[Added] Night vision for K17 (Berezok - gunner - and Epoch - gunner and commander); fixes [#373](https://github.com/RHSMODS/statusquo/issues/373)
+
+[Added] Added RPK-74M
+
+[Added] Added armor plate degradation to 6B45
+
+[Added] Added plate degradation to PC Gen III vest
+
+[Added] New modern ammo for both USMC & AFRF (WIP)
+
+[Added] Added information about ammo type to inventory items; fixes [#495](https://github.com/RHSMODS/statusquo/issues/495)
+
+[Added] Plate degradation indicator (when hovering over that plate); fixes [#496](https://github.com/RHSMODS/statusquo/issues/496)
+
+[Added] 5.56 STANAG 30 with Plastic puller
+
+[Added] 5.56 STANAG 30 WITH Rubber puller
+
+[Added] Added armor plates to both USMC and MSV arsenals
+
+[Added] Inspect Animations to RPK-74M
+
+[Added] WIP AKS-74U with Grenade Launcher
+
+[Added] "Sukharka" backpack Type 3 with MPL-50 shovel
+
+
+### Improved
+
+
+[Improved] Reduced burning time for 122 and 125 HE traccer
+
+[Improved] Slightly improved collimator on 1p63
+
+[Improved] Reduced previous placeholder capacity of plate carriers
+
+[Improved] Added proper preview images for 2s1
+
+[Improved] Added NO 2D warning sign for scopes that dont support 2d optics
+
+[Improved] Changed number of spalling for 3UBR6
+
+[Improved] Changed turret rotation speed on 2s1
+
+[Improved] M4A1 Barrel materials
+
+[Improved] DD rails textures
+
+[Improved] Way of adding new pages and scalability of DAGR layout
+
+[Improved] Available action hits for night vision will now disappear after 10 seconds (after each appearance)
+
+[Improved] RPK-74M now uses plastic mag instead of bakelite one by default
+
+[Improved] Changed 3UBR6 damage
+
+[Improved] Changed 3UOF8 damage
+
+[Improved] Better nightvision for vehicles
+
+[Improved] Tweaked armor plates properties
+
+[Improved] Changed default magazines on M4 & M27IAR
+
+[Improved] Added ability to change reticle color on T-14 and K-17
+
+[Improved] Tweaked AFRF EMR loadouts to include new magazines (WIP)
+
+[Improved] Added new magazines to Arsenal
+
+[Improved] Tweaked durability of armor plates
+
+[Improved] More loadouts tweaks
+
+[Improved] Added "Fold stock" action to AK-74M
+
+[Improved] Added "Fold stock" action to AKS-74UN
+
+[Improved] Added "Fold stock" action to AN-94
+
+[Improved] Added Tourniquet to the USMC arsenal
+
+[Improved] Added AT, AR, GL loadouts to the Combat Ops USMC vs MSV scenario
+
+[Improved] Added ammunition type to the magazine name for ones that use M855A1, M995, 7N13 or 7N14
+
+[Improved] Changed magazine preview for ones that use M855A1, M995, 7N13 or 7N14 ammunition
+
+[Improved] Ammo type is now visible in the UI
+
+[Improved] Changed orientation of the magazines in inventory UI to be in line with rest of the items
+
+[Improved] Changed Combat Ops MSV scenario to use EMR units by default
+
+[Improved] Small tweak to available inventory items
+
+[Improved] Another batch of minor tweaks to new magazines
+
+[Improved] Ability to detach and attach plates to armored vests
+
+[Improved] Temporary model and names for armor plates
+
+[Improved] Corrected rail type on NPZ weapon of variants (from long to medium RIS optic rail)
+
+[Improved] Added snap_weapon transform to optic slots
+
+[Improved] Added NPZ variant of RPK74M
+
+[Improved] Increased maximum number of player for Coop Combat Ops USMC vs MSV scenario
+
+[Improved] Changed diversity settings in USMC vs MSV Combat Ops scenario
+
+[Improved] Adjusted red dot size on SU-230 with MRDS
+
+[Improved] Added 6B45 neck armor localization; fixes [#497](https://github.com/RHSMODS/statusquo/issues/497)
+
+[Improved] Srachnik can now be attached to the vests to protect players butt
+
+[Improved] Added proper localization for armor plates
+
+[Improved] Improved consistency in magazine naming for standard AK, STANAG, PKM and RPK mags
+
+[Improved] Adjusted weight for armor plates and plate carriers
+
+[Improved] 6B7 was split into helmet itself and covers for it
+
+[Improved] Changed "Brzht" sound to electronic "Boop" on R-187P1 Azart
+
+[Improved] Icon to indicate approximated armor plate state
+
+[Improved] Assigned new SAPI plate model
+
+[Improved] Adjusted item slot layout to better fit ammo type information
+
+[Improved] Slightly calibrated RPK74M sights on 200 & 300m range
+
+
+### Fixed
+
+
+[Fixed] Wrong PSO position on AKS-74UN
+
+[Fixed] Missing dovetail slot on AKS-74UN + B18
+
+[Fixed] Scale of Berezhok turret
+
+[Fixed] Reduced PC Gen III non plate protection, so it only protects from shrapnel. Protection of plates itself remained the same
+
+[Fixed] Fixed Mag sticking out of 2s1 turret
+
+[Fixed] Tucha smoke better Sync
+
+[Fixed] Inspect action of AN/PRC-152 that is used for changing frequency could get stuck if player would hold for too long
+
+[Fixed] Removed obsolete param from RHS groups which was spamming console log
+
+[Fixed] Fixed 6X9-1 console log error
+
+[Fixed] Fixed weapon resting on AK74M
+
+[Fixed] Fixed default RPK74 bipod state
+
+[Fixed] Fixed rogue US Army soldier in USMC squad
+
+[Fixed] Wrong "on sling" weapon position on 6b45
+
+[Fixed] Fixed RHS MSV Combat Ops scenario
+
+[Fixed] Fixed RHS USMC vs MSV Combat Ops scenario
+
+[Fixed] Wrong version of PC GEN III in USMC arsenal
+
+[Fixed] DAGR hold actions wouldn't trigger if user held for too long
+
+[Fixed] Old user action class on some M27IAR variants
+
+[Fixed] Wrong ammunition used by some USMC loadouts
+
+[Fixed] Plate state indicator would be visible for other items
+
+[Fixed] In some cases ammo type information wouldn't fit inventory item slot
+
+[Fixed] Wrong name and description for 'heavy' PC GEN III
+
+[Fixed] Fixed wrong attachment type for RPK74M
+
+[Fixed] Possible NPE when enabling radial for a weapon
+
+[Fixed] RPK-74M name in replace action items was wrong
+
+[Fixed] Fixed wrong ANPEQ16 laser prefab in USMC inventory items
+
+[Fixed] Cleaned up some log errors related to outdated properties
+
+[Fixed] "Srachnik" Position on character
+
+[Fixed] Wrong attachment type and size of PO4X24P
+
+[Fixed] Wrong inventory size of 1P86
+
+[Fixed] Wrong inventory size of Infratech 1TWS
+
+[Fixed] Wrong NPZ rail position on RPK-74M
+
+[Fixed] Changed custom loadout icon for combat ops scenario
+
+[Fixed] Minor veh. optics fixes
+
+[Fixed] Replaced RPK74 finger anims with AK74 till properly exported finger anims are done
+
+[Fixed] Removed armor plate integrity indicator from items that are not armor plates
+
+[Fixed] 6L23 Plastic mag loaded with tracers had broken localization
+
+[Fixed] Fixed kill officer task in MSV vs FIA version of Combat Patrol
+
+[Fixed] Fixed Exfill task for RHS Combat Patrol versions
+
+
+### Deleted
+
+
+[Removed] Ground fire effect for destoyed vehicles
+
+[Removed] Obsolete versions of 6B7
+
+[Removed] Obsolete versions of helmets from arsenal
+
+
+
 ## 0.5.1265
 
 <!-- revision 1265 -->
