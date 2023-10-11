@@ -68,7 +68,7 @@
       * [PDU-4](arma-reforger/rhs-status-quo/redfor/gadgets/pdu-4.md)
     * [Weapons](arma-reforger/rhs-status-quo/redfor/weapons/README.md)
       * [Attachments](arma-reforger/rhs-status-quo/redfor/weapons/attachments/README.md)
-        * [PO4x24](arma-reforger/rhs-status-quo/redfor/weapons/attachments/po4x24.md)
+        * [PO4x24P](arma-reforger/rhs-status-quo/redfor/weapons/attachments/po4x24.md)
         * [INFRATECH TWS-1](arma-reforger/rhs-status-quo/redfor/weapons/attachments/infratech-tws-1.md)
         * [1PN93](arma-reforger/rhs-status-quo/redfor/weapons/attachments/1pn93.md)
         * [1P21](arma-reforger/rhs-status-quo/redfor/weapons/attachments/1p21.md)
