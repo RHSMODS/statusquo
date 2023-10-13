@@ -9,6 +9,41 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.5.1416
+
+<!-- revision 1416 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1416
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 13, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1415)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+
+### Improved
+
+
+
+### Fixed
+
+
+[Fixed] Fixed levitating AK pouch in last LOD (missing skinning in last LOD)
+
+
+### Deleted
+
+
+
+
 ## 0.5.1415
 
 <!-- revision 1415 -->
