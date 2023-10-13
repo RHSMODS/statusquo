@@ -9,6 +9,61 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1420
+
+<!-- revision 1420 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1420
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 13, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 4 (1416)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 3 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Camo Arsenal URAL-4320
+
+[Added] Camo Engineering URAL-4320
+
+[Added] Camo Ammo URAL-4320
+
+[Added] Camo Repair URAL-4320
+
+
+### Improved
+
+
+[Improved] Made RHS arsenals self sustainable and infinitive
+
+[Improved] Added more wind influence to Tucha smoke particle
+
+[Improved] Removed eyecup from 1p86
+
+
+### Fixed
+
+
+[Fixed] Fixed M27IAR & M4 hand animations in exp build
+
+[Fixed] Fixes to scripts after 1.0 API changes
+
+[Fixed] Minor fix to RHS20 Patch
+
+[Fixed] Urals
+
+
+### Deleted
+
+
+
+
 ## 0.5.1416
 
 <!-- revision 1416 -->
