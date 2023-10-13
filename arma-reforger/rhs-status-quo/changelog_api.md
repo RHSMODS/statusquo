@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.5.1415
+
+<!-- revision 1415 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1415
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 13, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1409)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] BS-1 30mm Grenade
+
+
+### Improved
+
+
+[Improved] Added workaround for PC Gen III magazines being spawned at 0,0,0 in multiplayer
+
+[Improved] Localization of magazines further unified
+
+[Improved] Reduced capacity of Suharka to more realistic values
+
+
+### Fixed
+
+
+[Fixed] Follower on M855A1 stanag is now brown instead of a blue
+
+[Fixed] Hole in APS mesh
+
+
+### Deleted
+
+
+
+
 ## 0.5.1409
 
 <!-- revision 1409 -->
