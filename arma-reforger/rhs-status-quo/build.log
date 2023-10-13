@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/13/2023 5:41:48 PM UTC | Revision 1417 | reyhard]
+
+[Fixed] Fixed M27IAR & M4 hand animations in exp build
+
+[Fixed] Fixes to scripts after 1.0 API changes
+
+[Improved] Made RHS arsenals self sustainable and infinitive
+
+
+
 [10/13/2023 5:16:17 PM UTC | Revision 1416 | reyhard]
 
 [Fixed] Fixed levitating AK pouch in last LOD (missing skinning in last LOD)
