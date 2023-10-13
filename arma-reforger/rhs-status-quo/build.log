@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/13/2023 5:16:17 PM UTC | Revision 1416 | reyhard]
+
+[Fixed] Fixed levitating AK pouch in last LOD (missing skinning in last LOD)
+
+
+
 [10/13/2023 6:46:55 AM UTC | Revision 1415 | reyhard]
 
 [Improved] Reduced capacity of Suharka to more realistic values
