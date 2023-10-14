@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1425
+
+<!-- revision 1425 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1425
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 14, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1420)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+
+[Added] Gray version of MI-8
+
+[Added] "Kalosha" for ak
+
+
+### Improved
+
+
+[Improved] Stock folding is now smooth instead of immediate change of state
+
+[Improved] Improved null pointer safety in LRFs
+
+
+### Fixed
+
+
+[Fixed] Broken PDU4 and Vector 21 prefabs; fixes [#508](https://github.com/RHSMODS/statusquo/issues/508)
+
+[Fixed] Fixed dead PDU and Vector; fixes [#520](https://github.com/RHSMODS/statusquo/issues/520)
+
+[Fixed] Ammo type labels in inventory no longer support long strings; fixes [#509](https://github.com/RHSMODS/statusquo/issues/509)
+
+
+### Deleted
+
+
+
+
 ## 0.6.1420
 
 <!-- revision 1420 -->
