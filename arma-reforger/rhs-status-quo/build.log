@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/14/2023 2:42:35 PM UTC | Revision 1424 | Soul_Assassin]
+
+[Fixed] Fixed dead PDU and Vector; fixes #520
+
+[Improved] Improved null pointer safety in LRFs
+
+
+
 [10/14/2023 10:54:06 AM UTC | Revision 1423 | Tactical_Toxic]
 
 [Added] "Kalosha" for ak
