@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/14/2023 9:04:44 PM UTC | Revision 1426 | Soul_Assassin]
+
+[Improved] Radial menu now works on scenario restart in Workbench, possibly improving stability in other use-cases as well
+
+[Other] Renamed some files to indicate MODDED
+
+
+
 [10/14/2023 5:15:48 PM UTC | Revision 1425 | odkupiciel375]
 
 [Fixed] Ammo type labels in inventory no longer support long strings; fixes #509
