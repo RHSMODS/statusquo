@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/14/2023 9:22:48 AM UTC | Revision 1422 | odkupiciel375]
+
+[Fixed] Broken PDU4 and Vector 21 prefabs; fixes #508
+
+
+
 [10/13/2023 11:50:25 PM UTC | Revision 1421 | Tactical_Toxic]
 
 [Improved] Stock folding is now smooth instead of immediate change of state
