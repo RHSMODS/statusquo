@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/14/2023 5:15:48 PM UTC | Revision 1425 | odkupiciel375]
+
+[Fixed] Ammo type labels in inventory no longer support long strings; fixes #509
+
+
+
 [10/14/2023 2:42:35 PM UTC | Revision 1424 | Soul_Assassin]
 
 [Fixed] Fixed dead PDU and Vector; fixes #520
