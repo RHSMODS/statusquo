@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/16/2023 7:54:23 PM UTC | Revision 1447 | odkupiciel375]
+
+[Fixed] NPE when user would try to adjust NV gain
+
+
+
 [10/16/2023 4:40:47 PM UTC | Revision 1446 | odkupiciel375]
 
 [Fixed] Spelling error in NV gain reset button display name
