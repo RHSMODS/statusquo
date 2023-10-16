@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/16/2023 2:09:35 AM UTC | Revision 1440 | spacestrider]
+
+[Fixed] K17 for 1.0 release; fixes #499, fixes #504, fixes #518
+
+
+
 [10/15/2023 11:54:15 PM UTC | Revision 1439 | spacestrider]
 
 [Fixed] T14 for 1.0; fixes #493, #501, #505, #517, #522
