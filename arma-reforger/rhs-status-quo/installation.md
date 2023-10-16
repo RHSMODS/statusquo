@@ -24,4 +24,14 @@ The Dev version can contain features that can cause serious problem and should n
 
 The Dev version is a preview of the next stable version and follows the same linear development branch.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+### Stable on Reforger Experimental
+
+The third branch of RHS: Status Quo is located on in the workshop of Arma: Reforger Experimental. This workshop is separate from the normal Arma: Reforger workshop and releases of RHS can be made there independently. The diagram below demonstrates the various release streams.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
+
+### Versioning
+
+The version numbers are in the format xx.yy.cc where **cc** always represents the commit revision number from which the release is made. The major **xx** and minor **yy** version numbers are updated at the behest of the team, with the minor number usually being updated when API changes are introduced or when Arma: Reforger opens a new experimental stream. The major number will be incremented at significant milestones in the development. The numbers in very position can be incremented indefinitely, thus a version 0.137.35294 is perfectly valid.

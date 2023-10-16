@@ -35,4 +35,4 @@ You can even add patches to appropriate velcro areas. Also, using quick actions 
 
 To remove the items, simply remove them from the inventory slots of the clothing item, or alternatively use the [radial menu](radial-menu.md) to detach quickly.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Detaching items through radial menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Detaching items through radial menu</p></figcaption></figure>
