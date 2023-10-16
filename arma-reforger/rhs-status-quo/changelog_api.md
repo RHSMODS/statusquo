@@ -26,9 +26,9 @@ _<mark style="color:red;">Changes:</mark>_ 8 additions, 3 improvements, 5 fixes 
 {% endhint %}
 
 
-{ { "{" } }% hint style="danger" %}
+{% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
-{ { "{" } }% endhint %}
+{% endhint %}
 
 
 ### Added
