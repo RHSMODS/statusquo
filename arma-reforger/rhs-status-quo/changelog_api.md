@@ -9,6 +9,77 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1443
+
+<!-- revision 1443 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1443
+
+_<mark style="color:red;">Date:</mark>_ Monday, October 16, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 18 (1425)
+
+_<mark style="color:red;">Changes:</mark>_ 8 additions, 3 improvements, 5 fixes and 0 deletions.
+{% endhint %}
+
+
+{ { "{" } }% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{ { "{" } }% endhint %}
+
+
+### Added
+
+
+[Added] Covered ACH & MICH base models and textures
+
+[Added] Added ACH and MICH covered helmets
+
+[Added] Added placeholders for remaining ACH and MICH variants (lacking texture for OCP and M81 Early variants.)
+
+[Added] Added DCU, M81 and UCP versions of covered ACH
+
+[Added] Added Desert MARPAT version of MICH
+
+[Added] Sounds to T14 commander turret
+
+[Added] Stock Fold Animation to AN-94 Railed
+
+[Added] Stock Fold Animation RPK-74M
+
+
+### Improved
+
+
+[Improved] Radial menu now works on scenario restart in Workbench, possibly improving stability in other use-cases as well
+
+[Improved] T-14 Turret armor split into multiple destructible pieces
+
+[Improved] Updated RHS Conflict scenario (WIP)
+
+
+### Fixed
+
+
+[Fixed] Fixed weird AO overruns on T14 textures; fixes [#458](https://github.com/RHSMODS/statusquo/issues/458)
+
+[Fixed] Fixed RPK-74M falling through the ground; fixes [#519](https://github.com/RHSMODS/statusquo/issues/519)
+
+[Fixed] Reverted specialized headphone helmets back into the Arsenal to recover loadout saving
+
+[Fixed] T14 for 1.0; fixes [#493](https://github.com/RHSMODS/statusquo/issues/493), [#501](https://github.com/RHSMODS/statusquo/issues/501), [#505](https://github.com/RHSMODS/statusquo/issues/505), [#517](https://github.com/RHSMODS/statusquo/issues/517), [#522](https://github.com/RHSMODS/statusquo/issues/522)
+
+[Fixed] K17 for 1.0 release; fixes [#499](https://github.com/RHSMODS/statusquo/issues/499), fixes [#504](https://github.com/RHSMODS/statusquo/issues/504), fixes [#518](https://github.com/RHSMODS/statusquo/issues/518)
+
+
+### Deleted
+
+
+
+
 ## 0.6.1425
 
 <!-- revision 1425 -->
