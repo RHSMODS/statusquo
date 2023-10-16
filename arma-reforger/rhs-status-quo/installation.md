@@ -1,6 +1,6 @@
 # Installation
 
-Reforger Workshop
+The are various versions of RHS: Status Quo available for download. Please read carefully below.
 
 ### Stable
 
@@ -26,7 +26,13 @@ The Dev version is a preview of the next stable version and follows the same lin
 
 ### Stable on Reforger Experimental
 
-The third branch of RHS: Status Quo is located on in the workshop of Arma: Reforger Experimental. This workshop is separate from the normal Arma: Reforger workshop and releases of RHS can be made there independently. The diagram below demonstrates the various release streams.
+The third branch of RHS: Status Quo is located on in the workshop of Arma: Reforger Experimental. This workshop is separate from the normal Arma: Reforger workshop and releases of RHS can be made there independently.
+
+Experimental releases are indicated in the [Changelog](changelog.md) using the following info box:
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The diagram below demonstrates the various release streams.
 
 <figure><img src="../../.gitbook/assets/versioning.jpg" alt=""><figcaption><p>Release Streams</p></figcaption></figure>
 
