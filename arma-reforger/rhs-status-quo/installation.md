@@ -28,7 +28,7 @@ The Dev version is a preview of the next stable version and follows the same lin
 
 The third branch of RHS: Status Quo is located on in the workshop of Arma: Reforger Experimental. This workshop is separate from the normal Arma: Reforger workshop and releases of RHS can be made there independently. The diagram below demonstrates the various release streams.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/versioning.jpg" alt=""><figcaption><p>Release Streams</p></figcaption></figure>
 
 If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
 
