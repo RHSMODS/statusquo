@@ -189,6 +189,30 @@ This release is only available on **Arma: Reforger Experimental**
 
 
 
+## 0.5.1417
+
+{% hint style="info" %}
+#### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1417
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, October 17, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1416)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+### Added
+
+### Improved
+
+### Fixed
+
+\[Fixed] Fixed radio backpack causing crash on servers
+
+### Deleted
+
 
 ## 0.5.1416
 
