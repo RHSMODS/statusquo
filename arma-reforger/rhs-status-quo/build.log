@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/18/2023 10:08:43 AM UTC | Revision 1458 | odkupiciel375]
+
+[Other] Removed RHS_M4A1_BaseAttachment.et
+
+[Other] Added RHS_WeaponPart_Base.et for base structure of M4A1 lego parts
+
+[Other] Simplified all M4A1 parts to only have mehs, rigidbody and hierarchy
+
+[Other] Configured M4A1 slots to allow for attaching optics and attachments like peqbox or rail covers
+
+[Other] Added M4A1 BLOCK II with preattached RCO, ANPEQ-16 and and rail covers - Rifle_M4A1_BLOCK_II_RCO.et
+
+
+
 [10/18/2023 9:27:51 AM UTC | Revision 1457 | reyhard]
 
 [Fixed] One layer too much in Arland RHS Conflict
