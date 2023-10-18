@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[10/18/2023 11:50:47 AM UTC | Revision 1464 | odkupiciel375]
+
+[Improved] Added M4A1 and M4A1 BLOCK II to the USMC arsenal
+
+[Other] Changed RCO for SU230 on M4A1 Block II
+
+[Other] Renamed Rifle_M4A1_BLOCK_II_RCO.et to Rifle_M4A1_BLOCK_II.et to better reflect optic that it has
+
+[Other] Reimported M4A1 parts to give them proper layers and gamemats
+
+[Other] Added localized strings for M4A1 and M4A1 BLOCK II
+
+[Other] Disabled decals for materials of M4A1 parts
+
+
+
 [10/18/2023 11:33:42 AM UTC | Revision 1463 | reyhard]
 
 [Added] Added mission config file for RHS Arland Conflict scenario
