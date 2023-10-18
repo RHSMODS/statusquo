@@ -9,6 +9,61 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1462
+
+<!-- revision 1462 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1462
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 18, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 7 (1455)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 6 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+### Added
+
+
+[Added] Added Arland version of RHS Conflict (WIP)
+
+
+### Improved
+
+
+[Improved] Updated Everon version of RHS Conflict
+
+[Improved] Tweaked EMR loadouts
+
+[Improved] Configured deployment points on M4A1
+
+[Improved] Updated Vehicle entity catalogs - temporarily removed T14 & K17 from the list
+
+[Improved] Updated Conflict faction configs
+
+[Improved] Updated Conflict faction configs again
+
+
+### Fixed
+
+
+[Fixed] One layer too much in Arland RHS Conflict
+
+
+### Deleted
+
+
+
+
 ## 0.6.1455
 
 <!-- revision 1455 -->
