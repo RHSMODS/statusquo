@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1471
+
+<!-- revision 1471 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1471
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 19, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1466)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] Moved to a brand new server (this is a test message, ignore)
+
+[Improved] Added wrenches to USMC & MSV arsenals
+
+[Improved] Reduced weight of Azart radio
+
+
+### Fixed
+
+
+[Fixed] Removed the ability to attach a picatinny rail scope to the M4A1 (the one with a carry handle).
+
+[Fixed] Fixed duplicated radio on EMR SL loadout
+
+
+### Deleted
+
+
+
+
 ## 0.6.1466
 
 <!-- revision 1466 -->
