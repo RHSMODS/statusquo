@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1482
+
+<!-- revision 1482 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1482
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 19, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 11 (1471)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+### Added
+
+
+
+### Improved
+
+
+[Improved] M4A! Carry handle is now detachable
+
+[Improved] Updated RHS MSV vs FIA Combat Ops scenario
+
+
+### Fixed
+
+
+[Fixed] Removed fault remaps
+
+[Fixed] Fixed (once again) bad remaps on helmets
+
+[Fixed] Fixed SPG-9 Log Console errors
+
+
+### Deleted
+
+
+
+
 ## 0.6.1471
 
 <!-- revision 1471 -->
