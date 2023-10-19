@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[10/19/2023 10:27:22 AM UTC | Revision 1474 | odkupiciel375]
+
+[Improved] M4A! Carry handle is now detachable
+
+[Other] Added m4a1 carry handle to the USMC arsenal to prevent issue with saving loadout (if it wasn't there)
+
+[Other] Removed RHS_M4_CarryhandleIronSight.et
+
+[Other] Added optic m4a1_carry_handle.et
+
+
+
 [10/19/2023 10:04:57 AM UTC | Revision 1473 | Punky]
 
 [Other] Minor carryhandle fixes
