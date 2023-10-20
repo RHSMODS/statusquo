@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/20/2023 2:35:02 PM UTC | Revision 1496 | Tactical_Toxic]
+
+[Fixed] ButtStock position on an-94
+
+[Fixed] ButtStock wrong attachment type
+
+
+
 [10/20/2023 1:53:58 PM UTC | Revision 1495 | odkupiciel375]
 
 [Other] Removed RHS_FlipSightAction.c requirement to have weapon component in order to allow for this action to be useable on detachable sights
