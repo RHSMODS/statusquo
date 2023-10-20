@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1491
+
+<!-- revision 1491 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1491
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 20, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 9 (1482)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] T14 Ammo Rack damage
+
+[Improved] Added Jerry can, repair & first aid kits to MSV & USMC arsenals
+
+
+##### Fixed
+
+
+[Fixed] T14 driver get in getting stuck
+
+[Fixed] Fixed more Log Console errors
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1482
 
 <!-- revision 1482 -->

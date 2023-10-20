@@ -9,12 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1491
+
+<!-- revision 1491 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1491
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 20, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 9 (1482)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] T14 Ammo Rack damage
+
+[Improved] Added Jerry can, repair & first aid kits to MSV & USMC arsenals
+
+
+##### Fixed
+
+
+[Fixed] T14 driver get in getting stuck
+
+[Fixed] Fixed more Log Console errors
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1482
 
 <!-- revision 1482 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1482
 
@@ -63,7 +110,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1471 -->
   
 {% hint style="info" %}
-#### Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1471
 
@@ -112,7 +159,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1466 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1466
 
@@ -155,7 +202,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1463 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1463
 
@@ -196,7 +243,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1462 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1462
 
@@ -251,7 +298,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1455 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1455
 
@@ -318,7 +365,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1443 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1443
 
@@ -389,7 +436,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1425 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1425
 
@@ -440,7 +487,7 @@ This release is only available on **Arma: Reforger Experimental**
 <!-- revision 1420 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1420
 
@@ -496,7 +543,7 @@ This release is only available on **Arma: Reforger Experimental**
 ## 0.5.1417
 
 {% hint style="info" %}
-#### ** Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1417
 
@@ -523,7 +570,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes 
 <!-- revision 1416 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1416
 
@@ -558,7 +605,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes 
 <!-- revision 1415 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1415
 
@@ -603,7 +650,7 @@ _<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 2 fixes 
 <!-- revision 1409 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1409
 
@@ -858,7 +905,7 @@ _<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fix
 <!-- revision 1265 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1265
 
@@ -1069,7 +1116,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 38 improvements, 32 fix
 <!-- revision 1174 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1174
 
@@ -1146,7 +1193,7 @@ _<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes
 <!-- revision 1161 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1161
 
@@ -1207,7 +1254,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes 
 <!-- revision 1149 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1149
 
@@ -1526,7 +1573,7 @@ _<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fix
 <!-- revision 1034 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1034
 
@@ -1587,7 +1634,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 7 improvements, 7 fixes 
 <!-- revision 1026 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1026
 
@@ -1818,7 +1865,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fix
 <!-- revision 951 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 951
 
@@ -1951,7 +1998,7 @@ _<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fix
 <!-- revision 924 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 924
 
@@ -2026,7 +2073,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 9 improvements, 11 fixes
 <!-- revision 910 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 910
 
@@ -2305,7 +2352,7 @@ _<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fix
 <!-- revision 804 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 804
 
@@ -2374,7 +2421,7 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes
 <!-- revision 787 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 787
 
@@ -2641,7 +2688,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 26 improvements, 68 fix
 <!-- revision 697 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 697
 
@@ -2794,7 +2841,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fix
 <!-- revision 656 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 656
 
@@ -2847,7 +2894,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes 
 <!-- revision 648 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 648
 
@@ -3182,7 +3229,7 @@ _<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fix
 <!-- revision 497 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 497
 
@@ -3265,7 +3312,7 @@ _<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes
 <!-- revision 471 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 471
 
@@ -3306,7 +3353,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes 
 <!-- revision 468 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 468
 
@@ -3341,7 +3388,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes 
 <!-- revision 467 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 467
 
@@ -3386,7 +3433,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes 
 <!-- revision 458 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 458
 
@@ -3547,7 +3594,7 @@ _<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fix
 <!-- revision 414 -->
   
 {% hint style="info" %}
-### ** Release Meta Information**
+### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 414
 
