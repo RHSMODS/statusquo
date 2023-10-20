@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1499
+
+<!-- revision 1499 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1499
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 20, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1491)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] ButtStock position on an-94
+
+[Fixed] ButtStock wrong attachment type
+
+[Fixed] Wrong turret armor rig
+
+[Fixed] Fixed M88 Flora & VSR uniforms are now using correct materials even when armored vest is worn
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1491
 
 <!-- revision 1491 -->
