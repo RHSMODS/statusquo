@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/20/2023 3:51:25 PM UTC | Revision 1499 | reyhard]
+
+[Fixed] Fixed M88 Flora & VSR uniforms are now using correct materials even when armored vest is worn
+
+
+
 [10/20/2023 3:19:05 PM UTC | Revision 1498 | Tactical_Toxic]
 
 [Fixed] Wrong turret armor rig
