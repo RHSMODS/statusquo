@@ -31,11 +31,11 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] M4A! Carry handle is now detachable
@@ -43,7 +43,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Updated RHS MSV vs FIA Combat Ops scenario
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Removed fault remaps
@@ -53,7 +53,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] Fixed SPG-9 Log Console errors
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -80,11 +80,11 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] Moved to a brand new server (this is a test message, ignore)
@@ -94,7 +94,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Reduced weight of Azart radio
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Removed the ability to attach a picatinny rail scope to the M4A1 (the one with a carry handle).
@@ -102,7 +102,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] Fixed duplicated radio on EMR SL loadout
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -129,11 +129,11 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] Added M4A1 and M4A1 BLOCK II to the USMC arsenal
@@ -141,11 +141,11 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Added ETool to the USMC and MSV arsenal
 
 
-### Fixed
+##### Fixed
 
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -172,21 +172,21 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 [Added] Added mission config file for RHS Arland Conflict scenario
 
 
-### Improved
+##### Improved
 
 
 
-### Fixed
+##### Fixed
 
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -213,13 +213,13 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 [Added] Added Arland version of RHS Conflict (WIP)
 
 
-### Improved
+##### Improved
 
 
 [Improved] Updated Everon version of RHS Conflict
@@ -235,13 +235,13 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Updated Conflict faction configs again
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] One layer too much in Arland RHS Conflict
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -268,11 +268,11 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] T-14 Turret rotation speed
@@ -284,7 +284,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Added ETool to the USMC and MSV loadouts
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Brought back missing RHS tab in controls section of settings
@@ -308,7 +308,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] T14 Damage manager
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -335,7 +335,7 @@ This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
 
-### Added
+##### Added
 
 
 [Added] Covered ACH & MICH base models and textures
@@ -355,7 +355,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Added] Stock Fold Animation RPK-74M
 
 
-### Improved
+##### Improved
 
 
 [Improved] Radial menu now works on scenario restart in Workbench, possibly improving stability in other use-cases as well
@@ -365,7 +365,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Updated RHS Conflict scenario (WIP)
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed weird AO overruns on T14 textures; fixes [#458](https://github.com/RHSMODS/statusquo/issues/458)
@@ -379,7 +379,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] K17 for 1.0 release; fixes [#499](https://github.com/RHSMODS/statusquo/issues/499), fixes [#504](https://github.com/RHSMODS/statusquo/issues/504), fixes [#518](https://github.com/RHSMODS/statusquo/issues/518)
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -404,7 +404,7 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 2 improvements, 3 fixes 
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Gray version of MI-8
@@ -412,7 +412,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Added] "Kalosha" for ak
 
 
-### Improved
+##### Improved
 
 
 [Improved] Stock folding is now smooth instead of immediate change of state
@@ -420,7 +420,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Improved null pointer safety in LRFs
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Broken PDU4 and Vector 21 prefabs; fixes [#508](https://github.com/RHSMODS/statusquo/issues/508)
@@ -430,7 +430,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] Ammo type labels in inventory no longer support long strings; fixes [#509](https://github.com/RHSMODS/statusquo/issues/509)
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -455,7 +455,7 @@ _<mark style="color:red;">Changes:</mark>_ 4 additions, 3 improvements, 4 fixes 
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Camo Arsenal URAL-4320
@@ -467,7 +467,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Added] Camo Repair URAL-4320
 
 
-### Improved
+##### Improved
 
 
 [Improved] Made RHS arsenals self sustainable and infinitive
@@ -477,7 +477,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Improved] Removed eyecup from 1p86
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed M27IAR & M4 hand animations in exp build
@@ -489,7 +489,7 @@ This release is only available on **Arma: Reforger Experimental**
 [Fixed] Urals
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -507,15 +507,15 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1416)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
-### Improved
+##### Improved
 
-### Fixed
+##### Fixed
 
 \[Fixed] Fixed radio backpack causing crash on servers
 
-### Deleted
+##### Deleted
 
 
 ## 0.5.1416
@@ -534,21 +534,21 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1415)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed levitating AK pouch in last LOD (missing skinning in last LOD)
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -569,13 +569,13 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1409)
 _<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] BS-1 30mm Grenade
 
 
-### Improved
+##### Improved
 
 
 [Improved] Added workaround for PC Gen III magazines being spawned at 0,0,0 in multiplayer
@@ -585,7 +585,7 @@ _<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 2 fixes 
 [Improved] Reduced capacity of Suharka to more realistic values
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Follower on M855A1 stanag is now brown instead of a blue
@@ -593,7 +593,7 @@ _<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 2 fixes 
 [Fixed] Hole in APS mesh
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -614,7 +614,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 144 (1265)
 _<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fixes and 3 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] DD12.5 model & textures
@@ -650,7 +650,7 @@ _<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fix
 [Added] "Sukharka" backpack Type 3 with MPL-50 shovel
 
 
-### Improved
+##### Improved
 
 
 [Improved] Reduced burning time for 122 and 125 HE traccer
@@ -760,7 +760,7 @@ _<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fix
 [Improved] Slightly calibrated RPK74M sights on 200 & 300m range
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Wrong PSO position on AKS-74UN
@@ -842,7 +842,7 @@ _<mark style="color:red;">Changes:</mark>_ 16 additions, 53 improvements, 39 fix
 [Fixed] Fixed Exfill task for RHS Combat Patrol versions
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Ground fire effect for destoyed vehicles
@@ -869,7 +869,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 91 (1174)
 _<mark style="color:red;">Changes:</mark>_ 19 additions, 38 improvements, 32 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Added alternative green 2S1 (Clean)
@@ -911,7 +911,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 38 improvements, 32 fix
 [Added] Ural 4320 camo versions
 
 
-### Improved
+##### Improved
 
 
 [Improved] Tweaked metalness and roughness values for 2S1
@@ -991,7 +991,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 38 improvements, 32 fix
 [Improved] Added lods to 2S1
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] 2S1 tracks have transparency now
@@ -1059,7 +1059,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 38 improvements, 32 fix
 [Fixed] 2S1 Wreck model
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -1080,7 +1080,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 13 (1161)
 _<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes and 2 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Lods for M4A1
@@ -1096,7 +1096,7 @@ _<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes
 [Added] NPP Klass "Strelok"
 
 
-### Improved
+##### Improved
 
 
 [Improved] M4A1 Animation .asi file
@@ -1108,7 +1108,7 @@ _<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes
 [Improved] Added NPP "Kondor" glasses to arsenal
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed wrong GUID on FROG trousers blood texture
@@ -1132,7 +1132,7 @@ _<mark style="color:red;">Changes:</mark>_ 6 additions, 4 improvements, 10 fixes
 [Fixed] Fixed AN/SU-230 reticle scale; fixes [#442](https://github.com/RHSMODS/statusquo/issues/442)
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Obsolete files
@@ -1157,7 +1157,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 12 (1149)
 _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes and 2 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Smoke launchers to K17 Berezhok
@@ -1167,7 +1167,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes 
 [Added] Destructible optics to t14
 
 
-### Improved
+##### Improved
 
 
 [Improved] 2S1 Hud
@@ -1177,7 +1177,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes 
 [Improved] Model and Textures of M4A1
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Weapon deployment for RHS weapons
@@ -1193,7 +1193,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 6 fixes 
 [Fixed] Wrong t14 turret era collider
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Temporary disabled EARHS component on PRC152
@@ -1218,7 +1218,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 115 (1034)
 _<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fixes and 3 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] PO4X24
@@ -1274,7 +1274,7 @@ _<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fix
 [Added] Added 5.45 calibre suppressed sounds [AK74M, AKS74U]
 
 
-### Improved
+##### Improved
 
 
 [Improved] ...and added stalinium temporary GOST gamemats to it
@@ -1384,7 +1384,7 @@ _<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fix
 [Improved] 2S1 UI
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed colliders on 6B45
@@ -1510,7 +1510,7 @@ _<mark style="color:red;">Changes:</mark>_ 26 additions, 53 improvements, 61 fix
 [Fixed] Brightened HDG, Elev, and traverse in k17 hud
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] LRF actions from RHS controls tab
@@ -1537,11 +1537,11 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1026)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 7 improvements, 7 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] Improved LTSU preview icon in radial
@@ -1559,7 +1559,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 7 improvements, 7 fixes 
 [Improved] Bumped version to 0.4
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Made folded sights by default for M27 IAR variant with M7 RCO and SU-230 scope
@@ -1577,7 +1577,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 7 improvements, 7 fixes 
 [Fixed] Radial on Xbox controller, behavior is now also press to open, no need to hold
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -1598,7 +1598,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 75 (951)
 _<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fixes and 4 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Deflated jacket for vkpo
@@ -1632,7 +1632,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fix
 [Added] Localization of LTSU name and description
 
 
-### Improved
+##### Improved
 
 
 [Improved] 1PN93 hdr
@@ -1706,7 +1706,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fix
 [Improved] RPG7 with 1PN93 sight will have its iron sights folded by default
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Plastic 45 rounders were missing from arsenal
@@ -1800,7 +1800,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 35 improvements, 45 fix
 [Fixed] Bug that would prevent LightDevice from being brought back from suspension when taken out of storage container (fe. backpack)
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Unused and test 6b45 prefabs
@@ -1829,7 +1829,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 27 (924)
 _<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fixes and 1 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] RPK74N with rail
@@ -1859,7 +1859,7 @@ _<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fix
 [Added] Name and description for RHS 20 patch
 
 
-### Improved
+##### Improved
 
 
 [Improved] New temp interior for k17
@@ -1883,7 +1883,7 @@ _<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fix
 [Improved] Shorter item names for actions that attach and replace cloth items
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] KAC rail covers were missing from arsenal
@@ -1939,7 +1939,7 @@ _<mark style="color:red;">Changes:</mark>_ 13 additions, 10 improvements, 26 fix
 [Fixed] Visibility of attach and replace actions which shouldn't be there
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Old NVG prefabs
@@ -1962,11 +1962,11 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 14 (910)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 9 improvements, 11 fixes and 1 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] 1PN138 localization
@@ -1988,7 +1988,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 9 improvements, 11 fixes
 [Improved] NV distortion and vignette adjustments
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] VIP pack position
@@ -2014,7 +2014,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 9 improvements, 11 fixes
 [Fixed] Map was missing from RF MSV EMR kits
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] RPG warhead and penetrator override
@@ -2037,7 +2037,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 106 (804)
 _<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fixes and 1 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Added PC_Gen_III open top pouches
@@ -2109,7 +2109,7 @@ _<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fix
 [Added] 1PN138 Nvg
 
 
-### Improved
+##### Improved
 
 
 [Improved] Tweaked ironsights behavior on M27IAR
@@ -2217,7 +2217,7 @@ _<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fix
 [Improved] Added hierarchy to 6L23 magazine
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed collimator grass flattening
@@ -2293,7 +2293,7 @@ _<mark style="color:red;">Changes:</mark>_ 34 additions, 52 improvements, 36 fix
 [Fixed] NPE when player dies with ANPRC152 in his inventory
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Buggy Bravo 4 from test world
@@ -2316,7 +2316,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 17 (787)
 _<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] New 1p87
@@ -2324,7 +2324,7 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes
 [Added] Dry AK reload to AKS-74U
 
 
-### Improved
+##### Improved
 
 
 [Improved] Improved PC_Gen_III prefab storage
@@ -2338,7 +2338,7 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes
 [Improved] ECH textures
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed PC_Gen_III name and description
@@ -2364,7 +2364,7 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 5 improvements, 11 fixes
 [Fixed] Wrong attachments config
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -2385,7 +2385,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 90 (697)
 _<mark style="color:red;">Changes:</mark>_ 19 additions, 26 improvements, 68 fixes and 4 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Radial menu for AN/PEQ-16 and 1P63 (early trials)
@@ -2427,7 +2427,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 26 improvements, 68 fix
 [Added] ALL ECH helmets to arsenal
 
 
-### Improved
+##### Improved
 
 
 [Improved] Some back functionality for radial menu implemented
@@ -2483,7 +2483,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 26 improvements, 68 fix
 [Improved] Moved BaseWeaponManagerComponent to RHS_Character_Base.et to safeguard for future
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] 1pn93 grain effect
@@ -2623,7 +2623,7 @@ _<mark style="color:red;">Changes:</mark>_ 19 additions, 26 improvements, 68 fix
 [Fixed] ANPRC 152 sound amplitude error due to renamed config
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] -----------0.98----------
@@ -2652,7 +2652,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 41 (656)
 _<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fixes and 3 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] MS2000 visible and IR functionality
@@ -2686,7 +2686,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fix
 [Added] Kits with AN-94
 
 
-### Improved
+##### Improved
 
 
 [Improved] Strobe effect when switching NV
@@ -2734,7 +2734,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fix
 [Improved] Localization for AKS-74UN
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] IR lights were not visible to NV rifle scopes
@@ -2778,7 +2778,7 @@ _<mark style="color:red;">Changes:</mark>_ 15 additions, 22 improvements, 20 fix
 [Fixed] Fixed AKS74U inheritance
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Old version of 1pn138
@@ -2805,7 +2805,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 8 (648)
 _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Commander turret to K17 Epoch
@@ -2815,7 +2815,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes 
 [Added] NV Layout system for limiting wearer view with additional images of dual and quad layout masks
 
 
-### Improved
+##### Improved
 
 
 [Improved] Removed obsolete attachment classes
@@ -2825,7 +2825,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes 
 [Improved] Proper IR lights that are only visible in night vision
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed wrong editor preview link in T14 base
@@ -2837,7 +2837,7 @@ _<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 4 fixes 
 [Fixed] T-14 Turret lod 2 and 3 were missing skinning
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -2858,7 +2858,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 151 (497)
 _<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fixes and 7 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Wilcox PVS14 Adapter
@@ -2968,7 +2968,7 @@ _<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fix
 [Added] New screenshots
 
 
-### Improved
+##### Improved
 
 
 [Improved] Rearranged test island layers
@@ -3090,7 +3090,7 @@ _<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fix
 [Improved] T-14 LODs
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Way of attaching NightVision devices to Rhino prefabs
@@ -3158,7 +3158,7 @@ _<mark style="color:red;">Changes:</mark>_ 53 additions, 59 improvements, 32 fix
 [Fixed] Minor fixes in characters
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Unused test prefabs
@@ -3193,7 +3193,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 26 (471)
 _<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes and 1 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] 6b47 version with balaclava
@@ -3211,7 +3211,7 @@ _<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes
 [Added] PVS14 model
 
 
-### Improved
+##### Improved
 
 
 [Improved] K17 Get in positions
@@ -3225,7 +3225,7 @@ _<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes
 [Improved] L4G24 Item Renderer
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Ultimate fix for laser range finder (PDU-4/Vector) blocking ADS
@@ -3253,7 +3253,7 @@ _<mark style="color:red;">Changes:</mark>_ 7 additions, 5 improvements, 12 fixes
 [Fixed] Fixed K17 faction affiliation
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] K17 Epoch Commander Turret
@@ -3276,11 +3276,11 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 3 (468)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] NVG grain effect
@@ -3288,7 +3288,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes 
 [Improved] Regenerated preview images
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed K17 Berezhok crashing dedicated server
@@ -3296,7 +3296,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes 
 [Fixed] Fixed EMR infantry loadouts
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -3317,21 +3317,21 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (467)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed OPFOR Arsenal crate had wrong GUID
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -3352,17 +3352,17 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 9 (458)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes and 0 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 
-### Improved
+##### Improved
 
 
 [Improved] Azart position on 6b45
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed reference to non existing material in Jacket 6B51 VKPO
@@ -3376,7 +3376,7 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes 
 [Fixed] IL-76 Missing audio
 
 
-### Deleted
+##### Deleted
 
 
 
@@ -3397,7 +3397,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 44 (414)
 _<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fixes and 6 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] 30mm HE hit effect
@@ -3437,7 +3437,7 @@ _<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fix
 [Added] Radio unhide script
 
 
-### Improved
+##### Improved
 
 
 [Improved] Il76 sounds
@@ -3491,7 +3491,7 @@ _<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fix
 [Improved] Auto transform enabled for radio slot on ratnik SL vest
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] 9M113 not firing
@@ -3525,7 +3525,7 @@ _<mark style="color:red;">Changes:</mark>_ 18 additions, 25 improvements, 15 fix
 [Fixed] Fixed RHS GM Showcase scenario was loading wrong world
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Fixed wandering reticle on m8541
@@ -3558,7 +3558,7 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 413 (1)
 _<mark style="color:red;">Changes:</mark>_ 137 additions, 179 improvements, 88 fixes and 11 deletions.
 {% endhint %}
 
-### Added
+##### Added
 
 
 [Added] Added some dirty Flora reskins of M88 uniform
@@ -3836,7 +3836,7 @@ _<mark style="color:red;">Changes:</mark>_ 137 additions, 179 improvements, 88 f
 [Added] Reload function to switch between HEI and APDSFS-T on K17
 
 
-### Improved
+##### Improved
 
 
 [Improved] Updated version file for testing
@@ -4198,7 +4198,7 @@ _<mark style="color:red;">Changes:</mark>_ 137 additions, 179 improvements, 88 f
 [Improved] K17 Tire settings
 
 
-### Fixed
+##### Fixed
 
 
 [Fixed] Fixed AK74N dovetails
@@ -4378,7 +4378,7 @@ _<mark style="color:red;">Changes:</mark>_ 137 additions, 179 improvements, 88 f
 [Fixed] K17 Wheel Diameter
 
 
-### Deleted
+##### Deleted
 
 
 [Removed] Removed some obsolete files
