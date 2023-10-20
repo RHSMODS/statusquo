@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[10/20/2023 10:10:04 AM UTC | Revision 1491 | reyhard, reyhard, reyhard, reyhard]
+
+[Other] Moved powershell script to .dev folder
+
+[Other] Removed Screenshots.meta file
+
+[Other] Copy pasted screenshots to .dev folder - old screenshots folder will be removed once packing is moved to new machine
+
+[Other] Added hidden .dev folder containing files relevant for publishing
+
+
+
 [10/20/2023 9:55:04 AM UTC | Revision 1487 | reyhard]
 
 [Improved] Added Jerry can, repair & first aid kits to MSV & USMC arsenals
