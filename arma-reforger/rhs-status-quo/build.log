@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/20/2023 3:19:05 PM UTC | Revision 1498 | Tactical_Toxic]
+
+[Fixed] Wrong turret armor rig
+
+[Other] Seems like EBT batch export exports bones with leafes?
+
+
+
 [10/20/2023 2:40:43 PM UTC | Revision 1497 | Punky]
 
 [Other] Added KAC600 + folding animation.
