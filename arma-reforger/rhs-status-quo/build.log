@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/21/2023 9:12:50 PM UTC | Revision 1502 | odkupiciel375]
+
+[Fixed] Wrong position for bottom attachment on M4A1
+
+[Other] Changed parent prefab of Rifle_M4A1_BLOCK_II.et to inherit from Rifle_M4A1_base.et rather than Rifle_M4A1_RAS.et
+
+
+
 [10/21/2023 5:20:17 PM UTC | Revision 1501 | Punky]
 
 [Other] [Dupe_Check]Added Kac600 from IAR
