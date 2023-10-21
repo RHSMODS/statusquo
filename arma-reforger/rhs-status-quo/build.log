@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/21/2023 5:20:17 PM UTC | Revision 1501 | Punky]
+
+[Other] [Dupe_Check]Added Kac600 from IAR
+
+
+
 [10/21/2023 4:09:15 PM UTC | Revision 1500 | odkupiciel375]
 
 [Fixed] Moved ammo type information to the top left corner in order to accommodate item supply cost (which was presented on top of it since 1.0)
