@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/23/2023 12:34:17 PM UTC | Revision 1514 | odkupiciel375]
+
+[Fixed] Wrong collider configuration of M4A1
+
+[Other] Renamed Rifle_M4A1_M203_BLOCK_II.et.et and Rifle_M4A1_M203_SU230_PEQ_BLOCK_II.et.et by removing double ".et" from their ends
+
+[Other] Removed new attachment slot that had M203 in Rifle_M4A1_M203_BLOCK_II.et, Rifle_M4A1_M203_RAS.et, Rifle_M4A1_M203_RAS_SU230_PEQ.et and Rifle_M4A1_M203_SU230_PEQ_BLOCK_II.et
+
+[Other] Moved M203 gl to existing underbarrel attachment slot and disabled its visibility while inspecting weapon
+
+[Other] Changed parent prefabs of Rifle_M4A1_M203_SU230_PEQ_BLOCK_II.et, Rifle_M4A1_M203_RAS_SU230_PEQ.et and Rifle_M4A1_M203_SU230_PEQ_BLOCK_II.et
+
+
+
 [10/23/2023 11:15:18 AM UTC | Revision 1513 | Soul_Assassin]
 
 [Improved] AN/PEQ-15 mode operations according to conops
