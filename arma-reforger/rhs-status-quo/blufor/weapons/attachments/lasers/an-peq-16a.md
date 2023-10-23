@@ -2,7 +2,7 @@
 
 The AN/PEQ-15, also known as the PEQ-15, is a military laser aiming device used by the U.S. Army and Navy. It incorporates visible and infrared lasers along with an infrared illuminator to enhance firearm accuracy, particularly in low-light and nighttime conditions. The visible laser aids daytime aiming, while the infrared components are utilized with night vision gear for precise targeting in complete darkness. The AN/PEQ-15 is commonly mounted on firearms for military and law enforcement applications, where accuracy and low-light performance are critical.
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>AN/PEQ-15</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>AN/PEQ-15</p></figcaption></figure>
 
 ## Operations
 
@@ -18,15 +18,7 @@ When turning the device `ON`, the selected illuminator mode will be enabled. Tur
 
 The AN/PEQ-15 can be set to the following modes:
 
-| Mode    | Name             | Description                                                                                   |
-| ------- | ---------------- | --------------------------------------------------------------------------------------------- |
-| O       | Off              | The device is off, and pressing FIRE or ON will do nothing.                                   |
-| AL      | Aim Low          | Visible light laser                                                                           |
-| AL (IR) | Aim Low (IR)     | Low gain IR laser                                                                             |
-| DL      | Dual Low         | Low gain IR laser, low gain IR illuminator (flashing in accordance with frequency setting).   |
-| AH      | Aim High         | High gain IR laser.                                                                           |
-| IH      | Illuminator High | High gain IR illuminator (flashing in accordance with frequency setting).                     |
-| DH      | Dual High        | High gain IR laser, high gain IR illuminator (flashing in accordance with frequency setting). |
+<table><thead><tr><th>Mode</th><th width="492.3333333333333">Name</th><th>Description</th></tr></thead><tbody><tr><td>O</td><td>Off</td><td>The device is off, and pressing FIRE or ON will do nothing.</td></tr><tr><td>AL</td><td>Aim Low</td><td>Visible light laser</td></tr><tr><td>AL (IR)</td><td>Aim Low (IR)</td><td>Low gain IR laser</td></tr><tr><td>DL</td><td>Dual Low</td><td>Low gain IR laser, low gain IR illuminator (flashing in accordance with frequency setting).</td></tr><tr><td>AH</td><td>Aim High</td><td>High gain IR laser.</td></tr><tr><td>IH</td><td>Illuminator High</td><td>High gain IR illuminator (flashing in accordance with frequency setting).</td></tr><tr><td>DH</td><td>Dual High</td><td>High gain IR laser, high gain IR illuminator (flashing in accordance with frequency setting).</td></tr></tbody></table>
 
 You can use the selector to set the mode before turning the device ON or during operation.
 
