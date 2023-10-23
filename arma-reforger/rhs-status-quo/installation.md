@@ -16,7 +16,7 @@ The Dev version of the mod is considered unstable releases for multiplayer and u
 
 {% embed url="https://reforger.armaplatform.com/workshop/5CF4A61BE1D960C6-RHS-StatusQuoDev" %}
 
-The Dev version is primarily intended for the RHS team to perform MP playability tests before stable releases and thus, at the moment, do not have official changelogs published.&#x20;
+The Dev version is primarily intended for the RHS team to perform MP playability tests before stable releases and thus, at the moment, do not have official changelogs published.
 
 {% hint style="danger" %}
 The Dev version can contain features that can cause serious problem and should not be used on servers that want to guarantee stability.
@@ -30,7 +30,7 @@ The third branch of RHS: Status Quo is located on in the workshop of Arma: Refor
 
 Experimental releases are indicated in the [Changelog](changelog.md) using the following info box:
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The diagram below demonstrates the various release streams.
 

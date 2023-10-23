@@ -1,14 +1,16 @@
-# AN/PEQ-15
+# AN/PEQ-16A
 
-The AN/PEQ-15, also known as the PEQ-15, is a military laser aiming device used by the U.S. Army and Navy. It incorporates visible and infrared lasers along with an infrared illuminator to enhance firearm accuracy, particularly in low-light and nighttime conditions. The visible laser aids daytime aiming, while the infrared components are utilized with night vision gear for precise targeting in complete darkness. The AN/PEQ-15 is commonly mounted on firearms for military and law enforcement applications, where accuracy and low-light performance are critical.
+The AN/PEQ-16A is a military-grade laser aiming module designed for use with firearms. It is primarily used by the United States military and law enforcement agencies. The AN/PEQ-16A combines a visible red laser, an infrared laser, and an infrared illuminator into one compact unit, allowing for accurate aiming and target acquisition in a variety of lighting conditions. It also features a remote pressure switch for ease of use and can be mounted to a variety of weapons using its built-in Picatinny rail mount.
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>AN/PEQ-15</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>AN/PEQ-16A</p></figcaption></figure>
 
 ## Operations
 
 The device can be turned on in two ways: `FIRE` and `ON`. When using `FIRE`, the device will turn on momentarily according to the selected mode and will switch off immediately. This can be used to give a quick signal to friendly forces.
 
-When turning the device `ON`, the selected illuminator mode will be enabled. Turning the device `OFF` will disable all the illuminators.
+When turning the device `ON`, the selected illuminator mode will be enabled. The device will always **turn off automatically after 5 minutes**. Turning the device `OFF` will disable all the illuminators.
+
+A green LED on the back of the device will indicate that the device is turned on. The LED will also blink with accordance with the set IR illuminator frequency.
 
 ## Modes
 
@@ -16,17 +18,18 @@ When turning the device `ON`, the selected illuminator mode will be enabled. Tur
 **Note:** IR lasers and illuminators can only be seen with appropriate optical devices, such as night vision goggles and scopes.
 {% endhint %}
 
-The AN/PEQ-15 can be set to the following modes:
+The AN/PEQ-16 can be set to the following modes:
 
-| Mode    | Name             | Description                                                                                   |
-| ------- | ---------------- | --------------------------------------------------------------------------------------------- |
-| O       | Off              | The device is off, and pressing FIRE or ON will do nothing.                                   |
-| AL      | Aim Low          | Visible light laser                                                                           |
-| AL (IR) | Aim Low (IR)     | Low gain IR laser                                                                             |
-| DL      | Dual Low         | Low gain IR laser, low gain IR illuminator (flashing in accordance with frequency setting).   |
-| AH      | Aim High         | High gain IR laser.                                                                           |
-| IH      | Illuminator High | High gain IR illuminator (flashing in accordance with frequency setting).                     |
-| DH      | Dual High        | High gain IR laser, high gain IR illuminator (flashing in accordance with frequency setting). |
+| Mode | Name        | Description                                                                                   |
+| ---- | ----------- | --------------------------------------------------------------------------------------------- |
+| O    | Off         | The device is off, and pressing FIRE or ON will do nothing.                                   |
+| D    | Dual        | Normal flashlight and visible laser.                                                          |
+| L    | White Light | Normal flashlight                                                                             |
+| A    | Aim         | Visible light laser                                                                           |
+| AL   | Aim Low     | Low gain IR laser                                                                             |
+| DL   | Dual Low    | Low gain IR laser, low gain IR illuminator (flashing in accordance with frequency setting).   |
+| AH   | Aim High    | High gain IR laser.                                                                           |
+| DH   | Dual High   | High gain IR laser, high gain IR illuminator (flashing in accordance with frequency setting). |
 
 You can use the selector to set the mode before turning the device ON or during operation.
 
@@ -38,7 +41,6 @@ The IR illuminator can be set to pulse at specific frequencies:
 
 * Continuous
 * 1 Hz
-* 2 Hz
 * 4 Hz
 * 8 Hz
 
