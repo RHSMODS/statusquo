@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/23/2023 12:49:00 PM UTC | Revision 1515 | odkupiciel375]
+
+[Other] Changed layers of firegeo collider to user preset FireGeo instead of Weapon
+
+[Other] Changed M4A1 collider surface materials from metal/plastic.gamemat to weapon_metal.gamemat and weapon_plastic.gamemat
+
+[Other] Enabled (previously disabled) decals in material properties of M4A1 parts
+
+
+
 [10/23/2023 12:34:17 PM UTC | Revision 1514 | odkupiciel375]
 
 [Fixed] Wrong collider configuration of M4A1
