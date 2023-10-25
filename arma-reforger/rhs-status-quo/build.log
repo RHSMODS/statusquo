@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/25/2023 5:32:13 PM UTC | Revision 1527 | odkupiciel375]
+
+[Other] Added bipod_pos bone to the M4A1 lower
+
+[Other] Configured all M4A1 variants to use bipod_pos bone as deploy position
+
+[Other] Added RHS_BipodComponent.c that allows for usage of [Ctrl]+[C] to fold and unfold bipod in order to change deployment position of a rifle (works with M4A1)
+
+[Other] Bipod animations don't work for harris_bipod as there is a vanilla bug which crashes WB when that model is assigned to the procedural animation in Procedural Animation Editor (reported to Bi - as private because it contains Punkys model- bug https://feedback.bistudio.com/T176338 which affects 152 antenna and few other assets that are working fine in stable AR)
+
+[Other] Added user action that allows for folding/unfolding RHS_Bipods
+
+
+
 [10/25/2023 4:36:09 PM UTC | Revision 1526 | Punky]
 
 [Other] [Test] Hariss bibop
