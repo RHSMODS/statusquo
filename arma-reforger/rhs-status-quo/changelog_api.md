@@ -9,6 +9,87 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1523
+
+<!-- revision 1523 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1523
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 25, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 24 (1499)
+
+_<mark style="color:red;">Changes:</mark>_ 10 additions, 5 improvements, 6 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added AN/PEQ-15 in black and tan variants; fixes [#137](https://github.com/RHSMODS/statusquo/issues/137)
+
+[Added] Added tan Spectre-DR; fixes [#534](https://github.com/RHSMODS/statusquo/issues/534)
+
+[Added] M4A1 5.56 Rifle
+
+[Added] M4A1 SOPMOD Block II 5.56 Rifle
+
+[Added] M4A1 5.56 Rifle with M203 GL
+
+[Added] M4A1 SOPMOD Block II 5.56 Rifle with M203 GL
+
+[Added] M4A1 5056 Rifle with KAC iron sights
+
+[Added] Added M713, M715 and M716 marker rounds to the USMC arsenal
+
+[Added] Tan SU230s to USMC arsenal
+
+[Added] Faradey 1085 boots to MSV arsenal
+
+
+##### Improved
+
+
+[Improved] Added AN/PRC-152 parts to arsenal
+
+[Improved] Improved AN/PEQ-15 scale and textures
+
+[Improved] Armed USMC grenadiers with M4A1 w/M203
+
+[Improved] Added 7N25 9x18mm round for APS
+
+[Improved] AN/PEQ-15 mode operations according to conops
+
+
+##### Fixed
+
+
+[Fixed] Moved ammo type information to the top left corner in order to accommodate item supply cost (which was presented on top of it since 1.0)
+
+[Fixed] Wrong position for bottom attachment on M4A1
+
+[Fixed] Temporary fix for arsenal spamming FFA action items missing
+
+[Fixed] Fixed broken AN/PEQ-16 inheritance
+
+[Fixed] Fixed AN/PEQ-15 knob animations
+
+[Fixed] Wrong collider configuration of M4A1
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1499
 
 <!-- revision 1499 -->
