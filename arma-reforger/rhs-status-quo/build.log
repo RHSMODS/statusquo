@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/25/2023 6:38:57 PM UTC | Revision 1531 | reyhard]
+
+[Fixed] Fixed crash of showcase scenario
+
+[Other] Something in decorations layer is causing crash. Please use correct layers instead of throwing stuff into random layers. If someone has time to figure out what is crashing it then feel free to tinker with it
+
+
+
 [10/25/2023 5:58:59 PM UTC | Revision 1530 | reyhard]
 
 [Fixed] One more fix to GM showcase scenario
