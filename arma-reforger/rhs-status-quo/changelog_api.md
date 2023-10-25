@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1530
+
+<!-- revision 1530 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1530
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 25, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 7 (1523)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added Russian flag and plugged it into faction config
+
+
+##### Fixed
+
+
+[Fixed] Fixed game master showcase scenario
+
+[Fixed] One more fix to GM showcase scenario
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1523
 
 <!-- revision 1523 -->
