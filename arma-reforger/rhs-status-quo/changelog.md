@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1533
+
+<!-- revision 1533 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1533
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 26, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1531)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Tweaked T1 dot size
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1531
 
 <!-- revision 1531 -->
