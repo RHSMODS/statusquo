@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/26/2023 8:53:08 AM UTC | Revision 1533 | reyhard]
+
+[Other] Renabled decorations layer after deleting bunch of things from it. No idea which asset exactly was causing that crash
+
+
+
 [10/26/2023 8:42:47 AM UTC | Revision 1532 | reyhard]
 
 [Improved] Tweaked T1 dot size
