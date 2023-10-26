@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1541
+
+<!-- revision 1541 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1541
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 26, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1533)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 1 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Updated RHS Conflict template
+
+
+##### Fixed
+
+
+[Fixed] M713, M715 and M716 will now emit their smoke for about 25s
+
+
+##### Deleted
+
+
+[Removed] Obsolete meta files
+
+
+
 ## 0.6.1533
 
 <!-- revision 1533 -->
