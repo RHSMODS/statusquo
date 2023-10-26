@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/26/2023 4:53:58 PM UTC | Revision 1545 | odkupiciel375]
+
+[Fixed] M4A1 GL would spawn without GL if it was part of a saved loadout; fixes #543
+
+[Other] Changed AttachmentSlotComponent AttachmentType to be the same as M203 AttachmentType
+
+
+
 [10/26/2023 3:18:30 PM UTC | Revision 1544 | blackburn]
 
 [Other] Fixed DAGR power off function not working properly after canceling same action earlier
