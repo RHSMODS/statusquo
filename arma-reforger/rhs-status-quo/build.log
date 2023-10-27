@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/27/2023 1:31:03 PM UTC | Revision 1546 | Soul_Assassin]
+
+[Fixed] Fixed broken IL-76 sound; fixes #542
+
+[Fixed] Fixed broken Icon reference for T14 Smoke Launcher
+
+[Fixed] Removed broken key binding
+
+
+
 [10/26/2023 4:53:58 PM UTC | Revision 1545 | odkupiciel375]
 
 [Fixed] M4A1 GL would spawn without GL if it was part of a saved loadout; fixes #543
