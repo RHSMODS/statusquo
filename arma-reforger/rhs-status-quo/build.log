@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/28/2023 9:21:29 AM UTC | Revision 1550 | reyhard]
+
+[Improved] Changed all accessory items sim state to NONE via overriding vanilla one
+
+
+
 [10/28/2023 9:18:49 AM UTC | Revision 1549 | reyhard]
 
 [Improved] Set armor plates sim to NONE (potential fps improvement)
