@@ -9,6 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1553
+
+<!-- revision 1553 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1553
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (1550)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 4 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Changed NVG illuminator toggle controller binding to 2xDDown; fixes [#511](https://github.com/RHSMODS/statusquo/issues/511)
+
+[Improved] Changed light device on/off toggle controller binding to 2xDLeft
+
+[Improved] Changed light device mode switch controller binding to 2xDRight
+
+[Improved] Changed light device hold for fire controller binding to Hold DLeft
+
+
+##### Fixed
+
+
+[Fixed] Fixed 2S1 for 1.0.0; fixes [#524](https://github.com/RHSMODS/statusquo/issues/524)
+
+[Fixed] 2S1 now facing correct way when placed via GM; fixes [#494](https://github.com/RHSMODS/statusquo/issues/494)
+
+[Fixed] Fixed some physics error span for 2S1 external components
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1550
 
 <!-- revision 1550 -->
