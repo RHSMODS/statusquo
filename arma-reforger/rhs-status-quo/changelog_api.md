@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1550
+
+<!-- revision 1550 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1550
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1548)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Set armor plates sim to NONE (potential fps improvement)
+
+[Improved] Changed all accessory items sim state to NONE via overriding vanilla one
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1548
 
 <!-- revision 1548 -->
