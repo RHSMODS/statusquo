@@ -6,7 +6,7 @@ Introduced in **0.4.1033**
 
 "Perst Classic" gen 4.0 (GREEN+) is designed to indicate the target during observation, inspection and firing from small arms with the "Perst Classic" mounted on, at night in two ranges: green 520 nm and infrared (IR) 850 nm, and also to illuminate the target in IR-range with a wavelenght of 850 nm.
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Perst</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Perst</p></figcaption></figure>
 
 ## Operations
 
@@ -43,8 +43,4 @@ You can also increase and decrease illuminator brightness through inspection.
 
 ### Default key binds
 
-| Label                                    | Keyboard                                                | Gamepad                                                 | Description                                                                                      |
-| ---------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Toggle light device                      | ![](<../../../../../../.gitbook/assets/image (3).png>)  | ![](<../../../../../../.gitbook/assets/image (21).png>) | Toggle ON/OFF device                                                                             |
-| Cycle through light device modes         | ![](<../../../../../../.gitbook/assets/image (8).png>)  | ![](<../../../../../../.gitbook/assets/image (5).png>)  | Cycle through available mods - will skip OFF mode to prevent accidentally turning off the device |
-| Hold to momentarily turn ON light device | ![](<../../../../../../.gitbook/assets/image (16).png>) | ![](<../../../../../../.gitbook/assets/image (18).png>) | Will turn ON the device when pressed and turn it OFF when released                               |
+Refer to [Default Key Bindings ](../../../../general-systems/default-key-binds.md)section.

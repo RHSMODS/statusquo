@@ -30,7 +30,7 @@ The third branch of RHS: Status Quo is located on in the workshop of Arma: Refor
 
 Experimental releases are indicated in the [Changelog](changelog.md) using the following info box:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 The diagram below demonstrates the various release streams.
 

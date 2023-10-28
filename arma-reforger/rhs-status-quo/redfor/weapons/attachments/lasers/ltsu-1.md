@@ -12,6 +12,4 @@ Laser device that is capable of emitting visible laser of orange color and is mo
 
 LTSU only has an option to toggle its visible laser.
 
-| Label               | Keyboard                                               | Gamepad                                                 | Description                        |
-| ------------------- | ------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------- |
-| Toggle light device | ![](<../../../../../../.gitbook/assets/image (3).png>) | ![](<../../../../../../.gitbook/assets/image (21).png>) | Switches ON/OFF LTSU visible laser |
+Refer to [Default Key Bindings ](../../../../general-systems/default-key-binds.md)section.

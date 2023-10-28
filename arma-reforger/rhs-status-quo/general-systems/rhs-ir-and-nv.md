@@ -38,7 +38,7 @@ Night Vision (NV) comes in the forms of goggles (e.g., AN/PVS-14) and scopes (e.
 
 Different types are available for both factions, and can come in different colors and quality levels based on the technology used.
 
-<figure><img src="../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>NVG attached to helmet</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (3) (1).png" alt=""><figcaption><p>NVG attached to helmet</p></figcaption></figure>
 
 Goggles have to be equipped to the helmet using the **RHS Extended Inventory System** and once applied to the helmet can be activated using the **`N`** key (hold **`RShoulder+DPadRight`**).
 
@@ -50,7 +50,7 @@ Some Night vision scopes come with built in IR illuminators. They can be activat
 
 Night vision sights do not require any special operation other than mounting them on the weapon and aiming.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>1PN93-1 NV sight</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>1PN93-1 NV sight</p></figcaption></figure>
 
 ## Thermals
 

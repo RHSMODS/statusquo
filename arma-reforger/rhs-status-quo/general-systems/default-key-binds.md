@@ -4,27 +4,18 @@ RHS contains more than a few key binds and this pages is here to give generic de
 
 ### Night Vison Bindings
 
-Default key binds for all night vision elements like fe. NVG such as PVS-14.
+Default key binds for all night vision elements like fe. NVG such as PVS-14. These can also be applicable to NV devices in vehicle optics.
 
-| Label                    | Keyboard                                       | Gamepad                                        | Description                                              |
-| ------------------------ | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
-| Night vision device      | ![](<../../../.gitbook/assets/image (13).png>) | ![](<../../../.gitbook/assets/image (15).png>) | Toggle On/Off currently used night vision device         |
-| NVG built in illuminator | ![](<../../../.gitbook/assets/image (24).png>) | ![](<../../../.gitbook/assets/image (29).png>) | Toggle On/Off built in illuminator of currently used NVG |
+<table><thead><tr><th>Label</th><th width="127">Keyboard</th><th width="154">Gamepad</th><th>Description</th></tr></thead><tbody><tr><td>Night vision device</td><td><img src="../../../.gitbook/assets/image (13) (1).png" alt=""></td><td><img src="../../../.gitbook/assets/image.png" alt="" data-size="original"></td><td>Toggle On/Off currently used NV device.</td></tr><tr><td>NVG built in illuminator</td><td><img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original"></td><td>Toggle On/Off built in illuminator of currently used NVG.</td></tr><tr><td>Increase NV device gain</td><td><img src="../../../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (6).png" alt="" data-size="original"></td><td>Increases the gain of the NV device, making things appear brighter.</td></tr><tr><td>Reduce NV device gain</td><td><img src="../../../.gitbook/assets/image (7).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (8).png" alt="" data-size="original"></td><td>Reduces the gain of the NV device, making things appear dimmer.</td></tr><tr><td>Set NV device gain to default</td><td><img src="../../../.gitbook/assets/image (9).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (10).png" alt="" data-size="original"></td><td>Resets the gain to default level.</td></tr></tbody></table>
 
 ### Radial Menu
 
-| Label           | Keyboard                                       | Gamepad                                       | Description           |
-| --------------- | ---------------------------------------------- | --------------------------------------------- | --------------------- |
-| RHS Radial Menu | ![](<../../../.gitbook/assets/image (19).png>) | ![](<../../../.gitbook/assets/image (2).png>) | Opens RHS radial menu |
+<table><thead><tr><th>Label</th><th width="152">Keyboard</th><th width="163">Gamepad</th><th>Description</th></tr></thead><tbody><tr><td>RHS Radial Menu</td><td><img src="../../../.gitbook/assets/image (3).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original"></td><td>Opens RHS radial menu</td></tr></tbody></table>
 
 Default key binds for RHS radial menu which is used to interact with equipment that player currently has on him.
 
 ### Light Devices
 
-Default key binds for all light devices such as but not limited to ANPEQ-16.
+Default key binds for all weapon mounted  light devices such as but not limited to AN/PEQ-16.
 
-| Label                                   | Keyboard                                       | Gamepad                                        | Description                                                          |
-| --------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------- |
-| Toggle light device                     | ![](<../../../.gitbook/assets/image (3).png>)  | ![](<../../../.gitbook/assets/image (21).png>) | Toggle currently used light devices                                  |
-| Cycle through light device modes        | ![](<../../../.gitbook/assets/image (8).png>)  | ![](<../../../.gitbook/assets/image (5).png>)  | Cycle through available modes of currently used light devices        |
-| Hold to momentarly turn ON light device | ![](<../../../.gitbook/assets/image (16).png>) | ![](<../../../.gitbook/assets/image (18).png>) | Will turn ON light device when pressed and turn it OFF when released |
+<table><thead><tr><th width="186">Label</th><th width="154">Keyboard</th><th width="174">Gamepad</th><th>Description</th></tr></thead><tbody><tr><td>Toggle light device</td><td><img src="../../../.gitbook/assets/image (3) (1).png" alt=""></td><td><img src="../../../.gitbook/assets/image (11).png" alt="" data-size="original"></td><td>Toggle currently used light devices on/off. If nothing happens, probably the mode is not set correctly.</td></tr><tr><td>Cycle through light device modes</td><td><img src="../../../.gitbook/assets/image (12).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (13).png" alt="" data-size="original"></td><td>Cycle through available modes of currently used light devices.</td></tr><tr><td>Hold to momentarily turn ON light device</td><td><img src="../../../.gitbook/assets/image (14).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (15).png" alt="" data-size="original"></td><td>Will turn ON light device when pressed and turn it OFF when released.</td></tr></tbody></table>

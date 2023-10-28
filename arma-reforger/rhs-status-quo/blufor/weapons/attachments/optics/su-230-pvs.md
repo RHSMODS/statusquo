@@ -18,4 +18,4 @@ Use **`Alt+MWheel`** to switch between the 1x and 4x zoom. The reticle is to be 
 
 Use **`Ctrl+RMB`** to switch to alternative MRDS sight on the version that has it.
 
-<figure><img src="../../../../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Sighting Through the MRDS</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (16) (2) (1).png" alt=""><figcaption><p>Sighting Through the MRDS</p></figcaption></figure>

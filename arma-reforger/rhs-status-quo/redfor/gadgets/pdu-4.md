@@ -6,7 +6,7 @@ Introduced in **0.2.414**
 
 PDU-4 is a Russian binocular rangefinder with day optics with a 360° digital compass and a laser rangefinder. It provides distance measurements up to 9 km with 7x magnification.
 
-<figure><img src="../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>PDU-4</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption><p>PDU-4</p></figcaption></figure>
 
 The engraved reticle has a long line spacing of 10 mils and short line spacing of 5 mils. 1 mil corresponds to 1 m spacing at a distance of 1 km. In the image below you can see a 1 m cube being sighted at 100 m being exactly 10 mils.
 

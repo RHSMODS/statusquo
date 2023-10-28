@@ -8,15 +8,12 @@ The AN/PVS-14 uses light amplification technology to enable the user to see in l
 
 The device comes in single or dual tube configuration in both Green and White Phosphorus elements.
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>AN/PVS-14 Single Green Phosphorus</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption><p>AN/PVS-14 Single Green Phosphorus</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>AN/PVS-14 Dual White Phosphorus</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>AN/PVS-14 Dual White Phosphorus</p></figcaption></figure>
 
 The device also comes with a IR illuminator that enchances vision n very dark environments and can be turned on via the [radial-menu.md](../../general-systems/radial-menu.md "mention").
 
 ### Default Key Bindings
 
-| Label                    | Keyboard                                          | Gamepad                                           | Description                                   |
-| ------------------------ | ------------------------------------------------- | ------------------------------------------------- | --------------------------------------------- |
-| Night vision device      | ![](<../../../../.gitbook/assets/image (13).png>) | ![](<../../../../.gitbook/assets/image (15).png>) | Toggle ON/OFF the device                      |
-| NVG built in illuminator | ![](<../../../../.gitbook/assets/image (24).png>) | ![](<../../../../.gitbook/assets/image (26).png>) | Toggle illuminator for currently equipped NVG |
+Refer to [Default Key Bindings ](../../general-systems/default-key-binds.md)section.

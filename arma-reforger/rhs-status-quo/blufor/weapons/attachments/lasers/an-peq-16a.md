@@ -2,7 +2,7 @@
 
 The AN/PEQ-15, also known as the PEQ-15, is a military laser aiming device used by the U.S. Army and Navy. It incorporates visible and infrared lasers along with an infrared illuminator to enhance firearm accuracy, particularly in low-light and nighttime conditions. The visible laser aids daytime aiming, while the infrared components are utilized with night vision gear for precise targeting in complete darkness. The AN/PEQ-15 is commonly mounted on firearms for military and law enforcement applications, where accuracy and low-light performance are critical.
 
-<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>AN/PEQ-15</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>AN/PEQ-15</p></figcaption></figure>
 
 ## Operations
 
@@ -46,8 +46,4 @@ Due to some limitations action that allows user to adjust illuminator cone angle
 
 ### Default key binds
 
-| Label                                    | Keyboard                                                | Gamepad                                                 | Description                                                                                      |
-| ---------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Toggle light device                      | ![](<../../../../../../.gitbook/assets/image (3).png>)  | ![](<../../../../../../.gitbook/assets/image (21).png>) | Toggle ON/OFF device                                                                             |
-| Cycle through light device modes         | ![](<../../../../../../.gitbook/assets/image (8).png>)  | ![](<../../../../../../.gitbook/assets/image (5).png>)  | Cycle through available mods - will skip OFF mode to prevent accidentally turning off the device |
-| Hold to momentarily turn ON light device | ![](<../../../../../../.gitbook/assets/image (16).png>) | ![](<../../../../../../.gitbook/assets/image (18).png>) | Will turn ON the device when pressed and turn it OFF when released                               |
+Refer to [Default Key Bindings ](../../../../general-systems/default-key-binds.md)section.
