@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[10/28/2023 4:16:58 PM UTC | Revision 1553 | Soul_Assassin]
+
+[Fixed] Fixed 2S1 for 1.0.0; fixes #524
+
+[Fixed] 2S1 now facing correct way when placed via GM; fixes #494
+
+[Fixed] Fixed some physics error span for 2S1 external components
+
+[Improved] Changed NVG illuminator toggle controller binding to 2xDDown; fixes #511
+
+[Improved] Changed light device on/off toggle controller binding to 2xDLeft
+
+[Improved] Changed light device mode switch controller binding to 2xDRight
+
+[Improved] Changed light device hold for fire controller binding to Hold DLeft
+
+
+
 [10/28/2023 10:52:14 AM UTC | Revision 1552 | odkupiciel375]
 
 [Other] Set RigidBody SimState of NVG attachments to None
