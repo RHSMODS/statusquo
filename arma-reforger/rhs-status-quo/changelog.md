@@ -9,6 +9,57 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1548
+
+<!-- revision 1548 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1548
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 28, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1542)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] M27 now uses mag with puller by default
+
+
+##### Fixed
+
+
+[Fixed] M4A1 GL would spawn without GL if it was part of a saved loadout; fixes [#543](https://github.com/RHSMODS/statusquo/issues/543)
+
+[Fixed] Fixed broken IL-76 sound; fixes [#542](https://github.com/RHSMODS/statusquo/issues/542)
+
+[Fixed] Fixed broken Icon reference for T14 Smoke Launcher
+
+[Fixed] Removed broken key binding
+
+[Fixed] Fixed error on looking at K17 through GM camera; fixes [#530](https://github.com/RHSMODS/statusquo/issues/530)
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1542
 
 <!-- revision 1542 -->
