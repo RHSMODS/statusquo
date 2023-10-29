@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/29/2023 9:51:30 PM UTC | Revision 1558 | Soul_Assassin]
+
+[Fixed] Fixed MRDS SU-230 having a different FOV than the normal version
+
+
+
 [10/29/2023 9:15:09 PM UTC | Revision 1557 | Soul_Assassin]
 
 [Improved] Light device shortcuts now on screen; fixes #382
