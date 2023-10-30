@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[10/30/2023 10:54:45 AM UTC | Revision 1559 | Tactical_Toxic]
+
+[Removed] Removed Sukharka type 3
+
+[Improved] Added MPL-50 Carrier to 6b45 Rifleman and 6B45 Officer
+
+[Fixed] Wrong weapon position on back when suharka backpack equipped
+
+[Other] Changed suharka fastex texture from 2k to 512. Rlly, we dont need a 2k texture for a fastex, believe me
+
+
+
 [10/29/2023 9:51:30 PM UTC | Revision 1558 | Soul_Assassin]
 
 [Fixed] Fixed MRDS SU-230 having a different FOV than the normal version
