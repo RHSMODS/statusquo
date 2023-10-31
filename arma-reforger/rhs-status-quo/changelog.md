@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1565
+
+<!-- revision 1565 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1565
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, October 31, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1564)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed missing GUID in definition of parent world of USMC vs MSV Combat Ops scenario
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1564
 
 <!-- revision 1564 -->
