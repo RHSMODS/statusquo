@@ -9,6 +9,65 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1564
+
+<!-- revision 1564 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1564
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, October 31, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 11 (1553)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 6 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Light device shortcuts now on screen; fixes [#382](https://github.com/RHSMODS/statusquo/issues/382)
+
+[Improved] Added MPL-50 Carrier to 6b45 Rifleman and 6B45 Officer
+
+[Improved] Updated USMC vs MSV combat ops scenario
+
+
+##### Fixed
+
+
+[Fixed] Bullets now make hit effect on IL-76 UN; fixes [#276](https://github.com/RHSMODS/statusquo/issues/276)
+
+[Fixed] Fixed RPK-74M falling through ground when dropped
+
+[Fixed] Fixed weapon position on back while wearing 6b45
+
+[Fixed] Fixed MRDS SU-230 having a different FOV than the normal version
+
+[Fixed] Wrong weapon position on back when suharka backpack equipped
+
+[Fixed] Fixed APS sounds (somewhat)
+
+
+##### Deleted
+
+
+[Removed] Removed Sukharka type 3
+
+
+
 ## 0.6.1553
 
 <!-- revision 1553 -->
