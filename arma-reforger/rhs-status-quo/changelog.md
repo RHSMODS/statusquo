@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1568
+
+<!-- revision 1568 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1568
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, November 1, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1566)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed issue that caused RpcErrorspam with laser devices; fixes [#551](https://github.com/RHSMODS/statusquo/issues/551)
+
+
+##### Deleted
+
+
+[Removed] Removed 'point aiming' from laser devices
+
+
+
 ## 0.6.1566
 
 <!-- revision 1566 -->
