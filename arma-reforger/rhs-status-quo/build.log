@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[11/1/2023 9:55:05 AM UTC | Revision 1567 | odkupiciel375]
+
+[Removed] Removed 'point aiming' from laser devices
+
+[Other] Unified structure of all laser devices as now they inherit from WeaponLightDevice_Base.et
+
+[Other] Changed in SightsComponent SCR_FixedFOVInfo with FoV of 40 to SightsFOVInfo which seems to be using FPV FoV setting
+
+[Other] Disabled SightsComponent of laser devices
+
+
+
 [10/31/2023 4:33:16 PM UTC | Revision 1566 | reyhard]
 
 [Improved] Updated RHS AK74M animation graph - work on #506
