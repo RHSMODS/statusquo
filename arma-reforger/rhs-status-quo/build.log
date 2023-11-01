@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/1/2023 10:40:08 AM UTC | Revision 1568 | odkupiciel375]
+
+[Fixed] Fixed issue that caused RpcErrorspam with laser devices; fixes #551
+
+[Other] Message of missing light entity for LightDevice will be now an error that which will be shown only in Workbench - added #ifdef WORKBENCH
+
+
+
 [11/1/2023 9:55:05 AM UTC | Revision 1567 | odkupiciel375]
 
 [Removed] Removed 'point aiming' from laser devices
