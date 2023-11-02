@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/2/2023 5:12:42 PM UTC | Revision 1583 | odkupiciel375]
+
+[Other] RHS_WeaponPart_Base.et RigidBody SimState set to none
+
+[Other] Duplicated in blender firgeo collider of m4a1/RHS_M4A1_LOWER.fbx and used it as a ground collider to prevent it from falling through the map
+
+
+
 [11/2/2023 4:47:56 PM UTC | Revision 1582 | Tactical_Toxic]
 
 [Improved] Improved k-17 armor colliders
