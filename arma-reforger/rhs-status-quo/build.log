@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[11/2/2023 4:47:56 PM UTC | Revision 1582 | Tactical_Toxic]
+
+[Improved] Improved k-17 armor colliders
+
+[Improved] Improved k-17 textures
+
+[Added] Added interior to k-17 (WIP)
+
+[Added] Added more animations to k-17
+
+[Added] Added WaveBreaker animation
+
+[Other] A lot of stuff is still broken, such as char positions, but we're slowly getting there
+
+
+
 [11/2/2023 2:47:34 PM UTC | Revision 1581 | odkupiciel375]
 
 [Other] Fixed another case of RpcError with AN/PRC-152
