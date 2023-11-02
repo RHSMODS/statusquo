@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1578
+
+<!-- revision 1578 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1578
+
+_<mark style="color:red;">Date:</mark>_ Thursday, November 2, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 10 (1568)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed MSV spawn points in Combat Ops
+
+[Fixed] Fixed NPP strelok goggles being present in weapon arsenal crate
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1568
 
 <!-- revision 1568 -->
