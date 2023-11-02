@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1579
+
+<!-- revision 1579 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1579
+
+_<mark style="color:red;">Date:</mark>_ Thursday, November 2, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1578)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] RpcError caused by AN/PRC-152 when item was spawned
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1578
 
 <!-- revision 1578 -->
