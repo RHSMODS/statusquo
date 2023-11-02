@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[11/2/2023 7:14:31 PM UTC | Revision 1584 | Tactical_Toxic]
+
+[Added] Added Turn on interior light action to k-17
+
+[Added] Added Open ramp action to k-17
+
+[Added] Added screens and gauges to k-17 interior
+
+
+
 [11/2/2023 5:12:42 PM UTC | Revision 1583 | odkupiciel375]
 
 [Other] RHS_WeaponPart_Base.et RigidBody SimState set to none
