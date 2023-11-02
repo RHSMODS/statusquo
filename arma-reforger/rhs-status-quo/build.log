@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/2/2023 1:42:10 PM UTC | Revision 1579 | odkupiciel375]
+
+[Fixed] RpcError caused by AN/PRC-152 when item was spawned
+
+
+
 [11/2/2023 12:27:49 AM UTC | Revision 1578 | spacestrider]
 
 [Other] Simplified K17 colliders while making them more accurate
