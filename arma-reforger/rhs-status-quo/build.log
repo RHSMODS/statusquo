@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/2/2023 2:47:34 PM UTC | Revision 1581 | odkupiciel375]
+
+[Other] Fixed another case of RpcError with AN/PRC-152
+
+[Other] Removed unused test method from RHS_RpcManager.c
+
+
+
 [11/2/2023 2:15:11 PM UTC | Revision 1580 | odkupiciel375]
 
 [Other] Removed no longer needed prefab of Lasers/anpeq16/Laser_ANPEQ16_sightTest.et
