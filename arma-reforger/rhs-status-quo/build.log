@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/3/2023 11:57:10 AM UTC | Revision 1590 | odkupiciel375]
+
+[Other] Changed prefab used as custom loadout for USMC on Eden conflict, Arland conflict and Coop USMC vs MSV scenario - there was an error spam if such prefab had initial items in it and additionally saved loadout had same icon as default loadout (not gear icon)
+
+
+
 [11/3/2023 10:31:25 AM UTC | Revision 1589 | odkupiciel375]
 
 [Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes #540
