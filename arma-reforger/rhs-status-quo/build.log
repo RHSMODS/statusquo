@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/3/2023 1:54:36 PM UTC | Revision 1592 | odkupiciel375]
+
+[Other] Reverted change to RHS Conflict loadouts from commit 1590 as it would require more work to ensure that such change is not going to break something :(
+
+
+
 [11/3/2023 1:47:01 PM UTC | Revision 1591 | Tactical_Toxic]
 
 [Improved] Added lock/unlock rear top hatch action to k-17
