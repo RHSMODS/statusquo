@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/3/2023 10:31:25 AM UTC | Revision 1589 | odkupiciel375]
+
+[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes #540
+
+[Other] This fix is temporary as it has HARDOCED sequential enum value which is required by somewhat limited BI code xD
+
+
+
 [11/2/2023 11:55:56 PM UTC | Revision 1588 | Tactical_Toxic]
 
 [Other] Disabled rigidbody on k17 seats
