@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[11/3/2023 1:47:01 PM UTC | Revision 1591 | Tactical_Toxic]
+
+[Improved] Added lock/unlock rear top hatch action to k-17
+
+[Fixed] Player no longer able to open k-17 ramp from outside
+
+[Other] Minor k17 texture improvements
+
+
+
 [11/3/2023 11:57:10 AM UTC | Revision 1590 | odkupiciel375]
 
 [Other] Changed prefab used as custom loadout for USMC on Eden conflict, Arland conflict and Coop USMC vs MSV scenario - there was an error spam if such prefab had initial items in it and additionally saved loadout had same icon as default loadout (not gear icon)
