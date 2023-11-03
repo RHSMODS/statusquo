@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1589
+
+<!-- revision 1589 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1589
+
+_<mark style="color:red;">Date:</mark>_ Friday, November 3, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1584)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added flame on engine start to t-14
+
+[Improved] Added flame on engine start to k-17
+
+
+##### Fixed
+
+
+[Fixed] Wrong roughness on T14 rubber mudflaps; fixes [#553](https://github.com/RHSMODS/statusquo/issues/553)
+
+[Fixed] Hierarchy spam on k17
+
+[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes [#540](https://github.com/RHSMODS/statusquo/issues/540)
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1584
 
 <!-- revision 1584 -->
