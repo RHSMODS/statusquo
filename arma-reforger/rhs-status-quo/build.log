@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/4/2023 9:01:30 AM UTC | Revision 1600 | reyhard]
+
+[Other] Tweaked rotation of vehicle mesh
+
+[Other] Parented all K17 meme points to armature (to make it easier to rotate)
+
+[Other] Turned on backeface culling in viewport setting of scene
+
+[Other] Added collection for mesh
+
+[Other] Renamed Armature.001 (inside of K17Armature) to Armature_K17 - TXA exporter doesn't like .001 for some reason and I constantly push away fix for that issue in EBT
+
+
+
 [11/3/2023 10:10:55 PM UTC | Revision 1599 | Tactical_Toxic]
 
 [Added] Orion GPS
