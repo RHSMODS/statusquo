@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[11/4/2023 11:03:43 PM UTC | Revision 1609 | Tactical_Toxic]
+
+[Removed] Obsolete version of IL-76
+
+[Improved] Added proper naming of IL-76
+
+[Added] Added IL-76 With lights turned on BUT without engine sound
+
+[Improved] Added proper icons for various IL-76; closes #555
+
+
+
 [11/4/2023 6:27:05 PM UTC | Revision 1608 | odkupiciel375]
 
 [Fixed] Fixed broken vehicle night vision
