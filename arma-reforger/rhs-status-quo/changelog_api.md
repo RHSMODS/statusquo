@@ -6,6 +6,10 @@ description: >-
 
 # Changelog
 
+{% hint style="warning" %}
+If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
+{% endhint %}
+
 <!-- reset point -->
 <!-- changelog insert -->
 
