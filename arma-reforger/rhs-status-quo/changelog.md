@@ -9,6 +9,81 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1627
+
+<!-- revision 1627 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1627
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, November 8, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 38 (1589)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 12 improvements, 2 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Orion GPS
+
+[Added] Added IL-76 With lights turned on BUT without engine sound
+
+[Added] Water erase to K17
+
+
+##### Improved
+
+
+[Improved] Added lock/unlock rear top hatch action to k-17
+
+[Improved] Added proper naming of IL-76
+
+[Improved] Added proper icons for various IL-76; closes [#555](https://github.com/RHSMODS/statusquo/issues/555)
+
+[Improved] Improved t-14 explosion particle
+
+[Improved] Improved engine start particle
+
+[Improved] Improved 1P90 texture
+
+[Improved] Improved NPZ Universal mount texture
+
+[Improved] T14 Suspension, Brakes and Engine simulations
+
+[Improved] K17 Suspension and Engine
+
+[Improved] 2S1 Suspension
+
+[Improved] Proc anim for K17 for trim vane and propellers
+
+[Improved] Changed NVG controller key bind to 2xRDpad
+
+
+##### Fixed
+
+
+[Fixed] Player no longer able to open k-17 ramp from outside
+
+[Fixed] Fixed broken vehicle night vision
+
+
+##### Deleted
+
+
+[Removed] Obsolete version of IL-76
+
+
+
 ## 0.6.1589
 
 <!-- revision 1589 -->
