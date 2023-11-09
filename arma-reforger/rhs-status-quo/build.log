@@ -1,5 +1,45 @@
 <!-- buildlog insert -->
 
+[11/9/2023 9:27:03 PM UTC | Revision 1631 | Tactical_Toxic]
+
+[Fixed] Fixed wrong attachment type on 1p21 and 1pn93SVD
+
+[Added] Unarmed K-17
+
+[Other] Driver_idle
+
+[Other] Driver_switch_out
+
+[Other] Driver_dead
+
+[Other] Driver_uncon_idle
+
+[Other] Driver_uncon_in
+
+[Other] Driver_uncon_out
+
+[Other] Gunner_idle
+
+[Other] Gunner_switch_in
+
+[Other] Gunner_dead
+
+[Other] Gunner_uncon_idle
+
+[Other] Gunner_uncon_in
+
+[Other] Gunner_uncon_out
+
+[Other] Passanger_dead
+
+[Other] Passanger_uncon_idle
+
+[Other] Passanger_uncon_in
+
+[Other] Passanger_uncon_out
+
+
+
 [11/9/2023 2:12:31 PM UTC | Revision 1630 | Tactical_Toxic]
 
 [Other] DriverGetIn entpos test
