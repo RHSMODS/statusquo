@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/10/2023 9:22:08 PM UTC | Revision 1638 | odkupiciel375]
+
+[Other] Removed old campaign character prefabs.
+
+[Other] Updated campaign group prefabs to use new ai character prefabs
+
+
+
 [11/10/2023 9:11:05 PM UTC | Revision 1637 | odkupiciel375]
 
 [Other] Created new character prefabs from AR campaign ones to add missing components - Prefabs/Characters/Campaign/RHS/Conflict || Coop
