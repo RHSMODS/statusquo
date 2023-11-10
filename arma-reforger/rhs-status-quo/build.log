@@ -1,5 +1,45 @@
 <!-- buildlog insert -->
 
+[11/10/2023 12:54:51 AM UTC | Revision 1633 | Tactical_Toxic]
+
+[Other] Injected stuff below:
+
+[Other] Driver_idle
+
+[Other] Driver_switch_out
+
+[Other] Driver_dead
+
+[Other] Driver_uncon_idle
+
+[Other] Driver_uncon_in
+
+[Other] Driver_uncon_out
+
+[Other] Gunner_idle
+
+[Other] Gunner_switch_in
+
+[Other] Gunner_dead
+
+[Other] Gunner_uncon_idle
+
+[Other] Gunner_uncon_in
+
+[Other] Gunner_uncon_out
+
+[Other] Passanger_dead
+
+[Other] Passanger_uncon_idle
+
+[Other] Passanger_uncon_in
+
+[Other] Passanger_uncon_out
+
+[Other] K-17 crashes game when trying to enter it...
+
+
+
 [11/9/2023 9:49:58 PM UTC | Revision 1632 | Tactical_Toxic]
 
 [Other] Backup before exporting stuff
