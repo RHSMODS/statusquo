@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/11/2023 4:22:40 PM UTC | Revision 1642 | Soul_Assassin]
+
+[Added] PGO-7V3 sight
+
+[Fixed] Fix possible null pointer exception in LRF
+
+
+
 [11/11/2023 2:07:29 PM UTC | Revision 1641 | Tactical_Toxic]
 
 [Improved] Added wreck model for k-17 epoch
