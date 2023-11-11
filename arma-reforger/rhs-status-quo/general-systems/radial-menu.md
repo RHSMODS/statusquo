@@ -14,7 +14,7 @@ The menu automatically scans the compatible devices and their actions. Use the d
 
 The first menu will let you select the device and drill down to the actions of sub-actions of that device.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Release the hotkey with an action highlighted to engage it. Use the back option to go to the previous menu.
 
