@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/12/2023 5:33:48 PM UTC | Revision 1651 | odkupiciel375]
+
+[Other] Missing RHS_LightEntity.c file
+
+
+
 [11/12/2023 4:00:41 PM UTC | Revision 1650 | odkupiciel375]
 
 [Other] Fixed vks_blue_numbers0-9.emat refs by referencing BCRMap to RHS_MaterialController.m_iOpacityMapID
