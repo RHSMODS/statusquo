@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/12/2023 8:36:57 PM UTC | Revision 1653 | odkupiciel375]
+
+[Fixed] Fixed being able to adjust HDR brightness when NVG was turned off
+
+
+
 [11/12/2023 8:20:16 PM UTC | Revision 1652 | odkupiciel375]
 
 [Other] Smol fix for npe with nvg illuminator
