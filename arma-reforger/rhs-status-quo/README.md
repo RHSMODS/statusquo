@@ -12,7 +12,7 @@ Bear with us, it is a (probably) working title 🙂 but for now it will do. What
 
 So what is it going to be about? Well after quite some internal discussions and based on some polls we settled to remain in the contemporary sphere of things: 2000 - present with the main core around 2017 with US and RF taking center stage. We do intend to put some focus on a story this time around, but for that we need your help (see recruitment below). Also stay tuned for information﻿ on a brand new terrain in development! As of now we have developed a small priority list for what we call **Phase 1** which should bring the mod to 1.0 status hopefully sometime in 2023. But keep in mind that with this new engine our focus is on quality and not quantity, so it will take years, if ever, when we could reach the same amount of assets as we had for Arma 3. What we do not intend to do is bring over assets that do not meet the high standards of the PBR Enfusion workflow from our legacy developments. We are now working out the details also on bringing our development pipeline to fully automated state, and the intent is to have 2 parallel versions of the mod on workshop: a continuously deployed development version and a stable one, much like we had with Arma 3. One other thing that is different is that the aim now is to keep all factions in one mod.﻿
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/DmWAHs1G6Y8" %}
 
