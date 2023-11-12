@@ -13,6 +13,79 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1651
+
+<!-- revision 1651 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1651
+
+_<mark style="color:red;">Date:</mark>_ Sunday, November 12, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 24 (1627)
+
+_<mark style="color:red;">Changes:</mark>_ 8 additions, 6 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Unarmed K-17
+
+[Added] K-17 Berezhok without camo
+
+[Added] K-17 Epoch without camo
+
+[Added] K-17 Unarmed without camo
+
+[Added] K-17 Berezhok tan paint
+
+[Added] K-17 Epoch tan paint
+
+[Added] K-17 Unarmed tan paint
+
+[Added] PGO-7V3 sight
+
+
+##### Improved
+
+
+[Improved] Added wreck model for k-17 epoch
+
+[Improved] Added wreck model for k-17 berezhok
+
+[Improved] Added PGO-7V3 into arsenal; fixes [#568](https://github.com/RHSMODS/statusquo/issues/568)
+
+[Improved] MSV AT guy now has RPG with PGO-7V3 by default
+
+[Improved] Improved gray MI-8 texture and Decals
+
+[Improved] Increasing illuminator cone angle will now reduce its perceived brightness (affects ANPEQ15/16
+
+
+##### Fixed
+
+
+[Fixed] Fixed wrong attachment type on 1p21 and 1pn93SVD
+
+[Fixed] Fixed K-17 suspension
+
+[Fixed] Fix possible null pointer exception in LRF
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1627
 
 <!-- revision 1627 -->
