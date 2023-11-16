@@ -13,6 +13,48 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1657
+
+<!-- revision 1657 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1657
+
+_<mark style="color:red;">Date:</mark>_ Thursday, November 16, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1651)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 1 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added 40mm M585, XM663 and XM664 Star cluster signal rounds
+
+
+##### Improved
+
+
+[Improved] Adjusted position of 40mm round in M203 grenade launcher
+
+
+##### Fixed
+
+
+[Fixed] Fixed being able to adjust HDR brightness when NVG was turned off
+
+[Fixed] Wrong k-17 faction affiliation
+
+
+##### Deleted
+
+
+
+
 ## 0.6.1651
 
 <!-- revision 1651 -->
