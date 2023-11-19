@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/19/2023 11:04:29 AM UTC | Revision 1666 | odkupiciel375]
+
+[Other] Removed prints from RHS_RadioComponent.c that i forgot to remove
+
+
+
 [11/19/2023 11:02:33 AM UTC | Revision 1665 | odkupiciel375]
 
 [Other] Some preliminary optimization of EARHS
