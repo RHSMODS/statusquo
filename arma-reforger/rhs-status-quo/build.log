@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/21/2023 4:05:52 PM UTC | Revision 1685 | odkupiciel375]
+
+[Other] NPE preventions for method that updates MGRS (UTM and 100km square coords) plus Basic Code Formatter pass
+
+
+
 [11/21/2023 3:46:40 PM UTC | Revision 1684 | Punky]
 
 [Other] Fixed Garmim localization position values
