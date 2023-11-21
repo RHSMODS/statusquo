@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[11/21/2023 5:33:59 PM UTC | Revision 1686 | odkupiciel375]
+
+[Improved] Garmin watch can be worn on players wrist (just place it in watch slot)
+
+[Improved] Increased brightness of Garmin display
+
+[Other] Changed collider preset layer to be the same as AR watch PropFireView
+
+[Other] Made it so RHS_WristWatchComponent.IsVisibleEquipped() will return true thus watch will be visible when worn
+
+[Other] Made it so Garmin watch will update its screen for a wearer when put in its watch slot
+
+[Other] Adjusted pivot, position and rotation of watch slot for Character_Base.et
+
+
+
 [11/21/2023 4:05:52 PM UTC | Revision 1685 | odkupiciel375]
 
 [Other] NPE preventions for method that updates MGRS (UTM and 100km square coords) plus Basic Code Formatter pass
