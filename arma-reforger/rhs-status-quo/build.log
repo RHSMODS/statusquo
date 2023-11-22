@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/22/2023 6:36:49 AM UTC | Revision 1692 | odkupiciel375]
+
+[Other] Moved helmet rail slots from each variant to Helmet_PASGT_01_base.et (by default disabled)
+
+[Other] Removed rail_left and rail_right from ECH and LShZ
+
+[Other] Configured Rail_Right and Rail_Left to be exactly like old rail_left and rail_right
+
+[Other] Enabled rail slots for OPSCORE, LShZ, ECH, Kiver and TOR helmets
+
+[Other] Disabled rail slots for ECH variants that dont have rails
+
+
+
 [11/22/2023 5:47:06 AM UTC | Revision 1691 | odkupiciel375]
 
 [Other] Removed Garmin, M585, XM663 and XM664 from RHS_US_USMC.conf and RHS_US_USMC_Campaign.conf and moved those items to USMC_InventoryItems.conf
