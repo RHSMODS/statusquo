@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/22/2023 5:47:06 AM UTC | Revision 1691 | odkupiciel375]
+
+[Other] Removed Garmin, M585, XM663 and XM664 from RHS_US_USMC.conf and RHS_US_USMC_Campaign.conf and moved those items to USMC_InventoryItems.conf
+
+
+
 [11/21/2023 11:06:59 PM UTC | Revision 1690 | Tactical_Toxic]
 
 [Other] Disabled unused component on garmin
