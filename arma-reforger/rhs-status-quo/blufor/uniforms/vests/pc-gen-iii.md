@@ -10,9 +10,9 @@ The USMC Plate Carrier Generation III, commonly known as the PC Gen III, stands 
 
 The pouches are attached separately to the plate carrier into the webbing slot.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 To provide protection the plate carriers must be equipped with plates. Different plates are suitable for different plate pouches and have different protection capabilities. Armor plates also degrade once they take damage even if they are not penetrated. The inventory indicator both as a progress bar with the leter A in the icon as well as in the description tell you the state of the plate integrity.
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
