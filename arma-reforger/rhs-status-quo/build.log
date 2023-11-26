@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/26/2023 1:32:40 PM UTC | Revision 1708 | odkupiciel375]
+
+[Fixed] 40mm Star cluster rounds particle effect could spawn its stars more than once
+
+[Fixed] 40mm Star cluster rounds wouldn't play its particle effect (and emit light) when they were outside of player view
+
+
+
 [11/26/2023 12:02:18 PM UTC | Revision 1707 | Tactical_Toxic]
 
 [Other] Trailerworks
