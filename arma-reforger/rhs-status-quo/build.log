@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[11/28/2023 2:21:58 PM UTC | Revision 1718 | Soul_Assassin]
+
+[Improved] Added Orion localization
+
+[Improved] DAGR and Orion inventory icons
+
+[Added] Added GPS map tool, so if in inventory you are able to call up DAGR or Orion in the map by clicking the globe button
+
+[Other] Abstracted some common GPS gadget stuff to base classes
+
+
+
 [11/28/2023 2:03:35 PM UTC | Revision 1717 | Tactical_Toxic]
 
 [Fixed] Fixed missing "open Hatch" action on t-14
