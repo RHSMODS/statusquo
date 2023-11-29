@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[11/29/2023 10:10:13 PM UTC | Revision 1727 | Soul_Assassin]
+
+[Fixed] Fixed default 6B47 (6M2-1) with balaclava not saving to arsenal; fixes #579
+
+[Fixed] Fixed PGO-7 not showing up on RPG after respawn with saved loadout; fixes #574
+
+[Improved] RPG-7 now configured to have universal dovetail instead of own specific
+
+[Other] Disabled NVG and MeshCover slots in TSh-4
+
+
+
 [11/29/2023 10:01:12 PM UTC | Revision 1726 | Ashyl]
 
 [Improved] Cannons particles
