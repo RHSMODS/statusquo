@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/29/2023 8:50:43 AM UTC | Revision 1721 | reyhard]
+
+[Other] Renamed PGO7V in data (removed _F suffix)
+
+[Other] Removed Launcher_RPG7 prefab and moved it to Launcher_RPG7_base.et
+
+
+
 [11/28/2023 7:09:19 PM UTC | Revision 1720 | Tactical_Toxic]
 
 [Added] M40A5 Sniper rifle
