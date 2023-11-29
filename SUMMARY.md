@@ -12,6 +12,7 @@
   * [Feedback](arma-reforger/rhs-status-quo/feedback/README.md)
     * [How to help us fixing a bug](arma-reforger/rhs-status-quo/feedback/how-to-help-us-fixing-a-bug.md)
   * [Installation](arma-reforger/rhs-status-quo/installation.md)
+  * [Server Setup](arma-reforger/rhs-status-quo/server-setup.md)
   * [Changelog](arma-reforger/rhs-status-quo/changelog/README.md)
     * [0.5](arma-reforger/rhs-status-quo/changelog/0.5.md)
     * [0.4](arma-reforger/rhs-status-quo/changelog/0.4.md)
