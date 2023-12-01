@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/1/2023 10:07:23 PM UTC | Revision 1740 | Soul_Assassin]
+
+[Improved] Improved Peltor color accuracy; fixes #583
+
+[Other] Removed rogue GPSFrame.layout
+
+
+
 [12/1/2023 9:01:54 PM UTC | Revision 1739 | Tactical_Toxic]
 
 [Improved] Added engine sound to F-18 and KH55
