@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/1/2023 11:39:03 PM UTC | Revision 1741 | Tactical_Toxic]
+
+[Fixed] GBU was visible on impact point before impact
+
+[Other] More culling fixes
+
+
+
 [12/1/2023 10:07:23 PM UTC | Revision 1740 | Soul_Assassin]
 
 [Improved] Improved Peltor color accuracy; fixes #583
