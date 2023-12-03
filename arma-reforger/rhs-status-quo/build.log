@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/3/2023 2:44:08 PM UTC | Revision 1745 | odkupiciel375]
+
+[Other] Fixed wrong gamemat of rhs_ach_cov_shroud_item.xob (changed from {4B95F21AD8C57CCE}Hard_aramid_7_CF50027087BA3402.gamemat to {CF50027087BA3402}Common/Materials/Game/PersonalProtection/hard_aramid_7.3mm.gamemat)
+
+
+
 [12/3/2023 6:51:17 AM UTC | Revision 1744 | PUDDY300]
 
 [Other] Fixed SR3M inheritance
