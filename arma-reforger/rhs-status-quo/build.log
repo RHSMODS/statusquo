@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/3/2023 8:44:31 PM UTC | Revision 1746 | Tactical_Toxic]
+
+[Other] Removed unused action from t14
+
+[Other] Added kac600 to usmc arsenal to fix saving loadouts with  m4a1_kac600
+
+
+
 [12/3/2023 2:44:08 PM UTC | Revision 1745 | odkupiciel375]
 
 [Other] Fixed wrong gamemat of rhs_ach_cov_shroud_item.xob (changed from {4B95F21AD8C57CCE}Hard_aramid_7_CF50027087BA3402.gamemat to {CF50027087BA3402}Common/Materials/Game/PersonalProtection/hard_aramid_7.3mm.gamemat)
