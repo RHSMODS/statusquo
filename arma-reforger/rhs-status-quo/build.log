@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[12/4/2023 7:02:14 PM UTC | Revision 1755 | odkupiciel375]
+
+[Other] Fixed issue which would flip light entity of ChargePro backward when in FPP
+
+[Other] Rotated ChargePro.fbx model Z 180
+
+[Other] Rotated all rail slots angle Y 180 (to be the same as NVG)
+
+[Other] Adjusted light entity position for ChargePro.et
+
+[Other] Changed inheritance of ChargePro_lightEntity.et to ANPEQ16_Iluminator_LightEntity.et rather than MS2000_Point_IR_LightEntity.et
+
+
+
 [12/4/2023 6:15:53 PM UTC | Revision 1754 | Tactical_Toxic]
 
 [Other] Flashlight was missing from arsenal (in fact it still is even tho i added it)
