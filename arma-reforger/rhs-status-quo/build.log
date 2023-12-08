@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/8/2023 6:57:16 AM UTC | Revision 1771 | PUDDY300]
+
+[Other] Removed RHS_RPK74M graph
+
+[Other] Made RPK-74M use Base RPK74 graph
+
+[Other] Fixed issue #589
+
+
+
 [12/7/2023 7:57:20 PM UTC | Revision 1770 | Tactical_Toxic]
 
 [Fixed] Fixed MI-8 Physics
