@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/9/2023 10:43:25 PM UTC | Revision 1775 | Tactical_Toxic]
+
+[Improved] Changed 1P63 Reticle to be dimmer
+
+[Fixed] Fixed M4 was firing full auto instead of bursts
+
+
+
 [12/9/2023 7:43:07 AM UTC | Revision 1774 | odkupiciel375]
 
 [Fixed] Fixed: Compass bearing angle was clipped when certain values were displayed
