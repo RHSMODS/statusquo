@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/9/2023 7:43:07 AM UTC | Revision 1774 | odkupiciel375]
+
+[Fixed] Fixed: Compass bearing angle was clipped when certain values were displayed
+
+[Other] Fixed garmin font (BenderBold.ttf) by adding empty character in place of 0x25A1
+
+[Other] Enabled physics merge on M4A1 attachments and removed some unnecessary values from prefabs when such value was inherited from the parent of that prefab
+
+
+
 [12/8/2023 10:59:32 PM UTC | Revision 1773 | Tactical_Toxic]
 
 [Fixed] Fixed wrong ChargePro position on OPSCORE
