@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/10/2023 1:04:57 PM UTC | Revision 1776 | odkupiciel375]
+
+[Other] Slight rework and cleanup of NV, NVG and Vehicle NV components
+
+[Other] Documented all methods in RHS_NightVisionComponent and its derivatives
+
+
+
 [12/9/2023 10:43:25 PM UTC | Revision 1775 | Tactical_Toxic]
 
 [Improved] Changed 1P63 Reticle to be dimmer
