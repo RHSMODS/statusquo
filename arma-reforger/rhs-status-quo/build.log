@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[12/11/2023 9:26:01 AM UTC | Revision 1781 | Tactical_Toxic]
+
+[Added] Added SR-3M "Vikhr"
+
+[Fixed] Fixed Helstar was facing wrong direction
+
+[Other] Fixed 1p86-1
+
+[Other] Removed unsuded materials
+
+[Other] Fixed tor material spam
+
+[Other] Locale improvments
+
+[Other] Phys merge on aksu to prevent it from crazy dancing
+
+
+
 [12/11/2023 5:09:00 AM UTC | Revision 1780 | PUDDY300]
 
 [Other] New WIP animations for SR-3M. Standing inspection and standing reload
