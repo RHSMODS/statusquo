@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/11/2023 8:28:56 PM UTC | Revision 1787 | odkupiciel375]
+
+[Fixed] Fixed: ChargePro was visible in FPP when attached to the helmet
+
+[Improved] Improved: Added IR mode to ChargePro (modes can be switched through radial menu)
+
+[Other] Because of the usage of HeadClipping_A.edds as a opacity map for ChargePro (in 'Prince.emat') front lens is now opaque
+
+
+
 [12/11/2023 6:57:31 PM UTC | Revision 1786 | Tactical_Toxic]
 
 [Fixed] Fixed zeroing on 1p21 and M8541
