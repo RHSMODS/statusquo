@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/11/2023 2:12:32 PM UTC | Revision 1782 | Soul_Assassin]
+
+[Other] Added RHS_CAS_EditableEntityComponent.c that takes care of cleaning up meshes after a configurable time. Solves sound issue.
+
+
+
 [12/11/2023 9:26:01 AM UTC | Revision 1781 | Tactical_Toxic]
 
 [Added] Added SR-3M "Vikhr"
