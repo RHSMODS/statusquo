@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/11/2023 6:57:31 PM UTC | Revision 1786 | Tactical_Toxic]
+
+[Fixed] Fixed zeroing on 1p21 and M8541
+
+[Other] For some reason zeroing on those scopes was inverted. Lol
+
+
+
 [12/11/2023 4:45:43 PM UTC | Revision 1785 | Soul_Assassin]
 
 [Other] CAS slots didn't rename correctly
