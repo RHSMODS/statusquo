@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/13/2023 12:45:43 AM UTC | Revision 1798 | Soul_Assassin]
+
+[Other] Returned colors to sights, now does not require several texture layers
+
+[Other] Fixed some 2D settings of some sights
+
+[Other] Merge physics of sr3
+
+
+
 [12/12/2023 11:57:59 PM UTC | Revision 1797 | Tactical_Toxic]
 
 [Fixed] Fixed loading supplies on k-17 was causing it to dance
