@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/14/2023 9:24:35 PM UTC | Revision 1804 | Tactical_Toxic]
+
+[Fixed] Fixed  user was not able to install 1p21 on svd
+
+[Other] Ak dovetail fuckery (unfucked actually)
+
+[Other] Disabled proc anim component on garmin watches
+
+[Other] Proper dovetail configuration for rpk
+
+
+
 [12/14/2023 1:11:55 AM UTC | Revision 1803 | Tactical_Toxic]
 
 [Other] Tsh-4 rigidbody spam fix
