@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/18/2023 3:36:36 PM UTC | Revision 1816 | reyhard]
+
+[Added] Added new animations for PDU-4
+
+[Improved] Reverted scale changes to PDU-4, which were forced before due to missing anim
+
+
+
 [12/17/2023 11:32:54 PM UTC | Revision 1815 | Soul_Assassin]
 
 [Other] Another try at fixing GBU12
