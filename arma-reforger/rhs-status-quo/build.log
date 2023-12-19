@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[12/19/2023 4:38:51 PM UTC | Revision 1822 | Tactical_Toxic]
+
+[Added] Added TBG-7V
+
+[Added] Added TBG-7VL
+
+[Added] Added OG-7V
+
+[Added] Added PG-7VL
+
+[Added] Added PG-7VR
+
+[Other] Everything is configured. Ballistics is okay, still have small deviation around ~10 meters, not so scary i guess. Textures WIP. Damage - maybe slightly underpowered. Feel free to change
+
+
+
 [12/19/2023 4:35:33 PM UTC | Revision 1821 | odkupiciel375]
 
 [Fixed] Light device keyboard keybinds would conflict with AR Commanding menu as it was [`] (grave) and it was changed to [=] (equals)
