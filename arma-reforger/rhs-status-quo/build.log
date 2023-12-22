@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/22/2023 6:08:10 PM UTC | Revision 1857 | Tactical_Toxic]
+
+[Other] Fixed inheritance of Crye_combat_shirt
+
+[Other] Fixed inheritance of BDU_pants
+
+[Other] Fixed inheritance of Tactical_pants
+
+[Other] Removed unused l5pcu prefab
+
+
+
 [12/22/2023 5:52:08 PM UTC | Revision 1856 | reyhard]
 
 [Fixed] Readded RPK74M custom animation graph in order to fix bipod issue
