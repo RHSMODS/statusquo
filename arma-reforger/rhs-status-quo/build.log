@@ -1,5 +1,59 @@
 <!-- buildlog insert -->
 
+[12/22/2023 10:12:05 PM UTC | Revision 1862 | Ashyl, reyhard, Tactical_Toxic, Soul_Assassin, Tactical_Toxic, Tactical_Toxic, reyhard, Tactical_Toxic, Tactical_Toxic, Ashyl, Tactical_Toxic, Ashyl, reyhard]
+
+[Added] Detachable parts (pallet) APFSDS effect
+
+[Fixed] Accuracy on gvozdika and 2a42
+
+[Improved] Various effects and sounds
+
+[Fixed] Fixed wrong PSO and other dovetail attachments position on RPK-74M
+
+[Improved] New GM CAS icons
+
+[Fixed] Fixed some log error messages
+
+[Fixed] Readded RPK74M custom animation graph in order to fix bipod issue
+
+[Fixed] AKSU muzzle flash
+
+[Removed] Removed ability to install PSO on AKS-74UN
+
+[Added] AKS74U Effects, tweaked sounds
+
+[Added] 2s1 Gvozdika Effects and sounds
+
+[Improved] Tucha effects
+
+[Removed] Vanilla gamemats
+
+[Other] Forgot to commit changes to .aw of rpk74m
+
+[Other] Attempt to fix MP CAS issues
+
+[Other] Removed unused and broken 6x9 material
+
+[Other] Fixed inheritance of Crye_combat_shirt
+
+[Other] Fixed inheritance of BDU_pants
+
+[Other] Fixed inheritance of Tactical_pants
+
+[Other] Removed unused l5pcu prefab
+
+[Other] Fixeritto part2
+
+[Other] Mat override fixes for new items
+
+[Other] Collider fixes for new items
+
+[Other] File structure for my sounds made and proper sounds files names
+
+[Other] Added world for image generation
+
+
+
 [12/22/2023 6:58:12 PM UTC | Revision 1861 | reyhard]
 
 [Other] Forgot to commit changes to .aw of rpk74m
