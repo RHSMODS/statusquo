@@ -13,6 +13,450 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.1868
+
+<!-- revision 1868 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 1868
+
+_<mark style="color:red;">Date:</mark>_ Saturday, December 23, 2023
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 211 (1657)
+
+_<mark style="color:red;">Changes:</mark>_ 103 additions, 49 improvements, 49 fixes and 4 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added LWH helmet [AOR1]
+
+[Added] Added LWH helmet [AOR2]
+
+[Added] Added LWH helmet [MARPAT Desert]
+
+[Added] Added LWH helmet [MARPAT Woodland]
+
+[Added] Garmim Tactix Bravo to USMC arsenal
+
+[Added] Added OPSCORE FAST MT Urban Tan
+
+[Added] Added OPSCORE FAST MT MARPAT
+
+[Added] Added OPSCORE FAST MT Multicam
+
+[Added] Added OPSCORE FAST MT Urban Tan with Peltor headset
+
+[Added] Added OPSCORE FAST MT MARPAT with Peltor headset
+
+[Added] Added OPSCORE FAST MT Multicam with Peltor headset
+
+[Added] Added OPSCORE FAST MT Urban Tan with AMP headset
+
+[Added] Added OPSCORE FAST MT MARPAT with AMP headset
+
+[Added] Added OPSCORE FAST MT Multicam with AMP headset
+
+[Added] Added OPSCORE FAST XP Urban Tan
+
+[Added] Added OPSCORE FAST XP Multicam
+
+[Added] Added OPSCORE FAST XP Foliage green
+
+[Added] Added OPSCORE FAST XP Black
+
+[Added] Added OPSCORE FAST XP Urban Tan with Peltor headset
+
+[Added] Added OPSCORE FAST XP Multicam with Peltor headset
+
+[Added] Added OPSCORE FAST XP Foliage green with Peltor headset
+
+[Added] Added OPSCORE FAST XP Black with Peltor headset
+
+[Added] Added OPSCORE FAST XP Urban Tan with AMP headset
+
+[Added] Added OPSCORE FAST XP Multicam with AMP headset
+
+[Added] Added OPSCORE FAST XP Foliage green with AMP headset
+
+[Added] Added OPSCORE FAST XP Black with AMP headset
+
+[Added] Added OPSCORE Sentry Urban Tan
+
+[Added] Added OPSCORE Sentry Multicam
+
+[Added] Added OPSCORE Sentry Foliage green
+
+[Added] Added OPSCORE Sentry Urban grey
+
+[Added] Added OPSCORE Sentry Urban Tan with AMP headset
+
+[Added] Added OPSCORE Sentry Multicam with AMP headset
+
+[Added] Added OPSCORE Sentry Foliage green with AMP headset
+
+[Added] Added OPSCORE Sentry Urban grey with AMP headset
+
+[Added] Added LWH AOR1 with NVG Shroud
+
+[Added] Added LWH AOR2 with NVG Shroud
+
+[Added] Added LWH MARPAT Desert with NVG Shroud
+
+[Added] Added LWH MARPAT Woodland with NVG Shroud
+
+[Added] Added ACH DCU with NVG Shroud
+
+[Added] Added ACH M81 with NVG Shroud
+
+[Added] Added ACH OEFCP with NVG Shroud
+
+[Added] Added CVC olive with NVG Shroud
+
+[Added] Added CVC tan with NVG Shroud
+
+[Added] Added back T-14 and K-17 to gamemaster
+
+[Added] Brightness adjust possibility to Garmin watch.
+
+[Added] DAGR will now have functional menu tree
+
+[Added] [WIP] Added F/A-18A With GBU-12 as CAS module (available in gamemaster)
+
+[Added] [WIP] Added KH-55 Cruise missle as CAS module (available in gamemaster)
+
+[Added] Added GPS map tool, so if in inventory you are able to call up DAGR or Orion in the map by clicking the globe button
+
+[Added] M40A5 Sniper rifle
+
+[Added] Added MICH helmet with shroud
+
+[Added] Added TSh-4
+
+[Added] K-17 Epoch "EXPO" camo version
+
+[Added] Added REAP-IR
+
+[Added] Added SNIPE-IR
+
+[Added] Added SNIPE-IR + ACOG
+
+[Added] Added PATROL-IR
+
+[Added] Added HELSTAR-6 Strobe
+
+[Added] Added ChargePro helmet mounted flashlight
+
+[Added] Added SVD specific version of 1P21 which should make SVD with it mounted persist in arsenal correctly
+
+[Added] Added Vz52[SKS] Shot
+
+[Added] Added Gascan glasses
+
+[Added] Added Impact sport headphones
+
+[Added] Added TOR with AMP
+
+[Added] Added 1P86-1 (AK)
+
+[Added] 1P21 PiP sight reticle animation
+
+[Added] Added SR-3M "Vikhr"
+
+[Added] Added suppressed SR-3M
+
+[Added] Added M27IAR With suppressor
+
+[Added] Polish locale
+
+[Added] Xmas Deer antlers
+
+[Added] Added Xmas lighs as wearable item
+
+[Added] Added new animations for PDU-4
+
+[Added] Added Beanie (tan)
+
+[Added] Added Beanie (OD)
+
+[Added] Added Beanie (black)
+
+[Added] Added Crye G3 combat shirt (MARPAT)
+
+[Added] Added Crye G3 combat shirt (Multicam)
+
+[Added] Added Crye G3 combat shirt (OD)
+
+[Added] Added Crye G3 combat shirt (ATACS)
+
+[Added] Added Tactical cargo pants (OD)
+
+[Added] Added Tactical cargo pants (ATACS)
+
+[Added] Added Tactical cargo pants (Multicam)
+
+[Added] Added Tactical cargo pants (MARPAT)
+
+[Added] Added Shemagh (Tan)
+
+[Added] Added Shemagh (Green)
+
+[Added] Added TBG-7V
+
+[Added] Added TBG-7VL
+
+[Added] Added OG-7V
+
+[Added] Added PG-7VL
+
+[Added] Added PG-7VR
+
+[Added] 6B48
+
+[Added] Added custom animations to DAGR
+
+[Added] Added Ballcap (Multicam)
+
+[Added] Added Ballcap (OD)
+
+[Added] Added Ballcap (ATACS)
+
+[Added] Added Ballcap (TAN)
+
+[Added] Added Leupold Mark4 6.5-20x50
+
+[Added] Added custom animations for ANPRC152A
+
+[Added] Added Crye Combat Shirt (M81)
+
+[Added] AKS74U Effects, tweaked sounds
+
+[Added] 2s1 Gvozdika Effects and sounds
+
+[Added] Detachable parts (pallet) APFSDS effect
+
+
+##### Improved
+
+
+[Improved] Toggle light device controller binding now Y(Hold) + DLeft (double)
+
+[Improved] Cycle light device modes controller binding now Y(Hold) + DRight (double)
+
+[Improved] Improved Russian locale
+
+[Improved] Garmin watch can be worn on players wrist (just place it in watch slot)
+
+[Improved] Increased brightness of Garmin display
+
+[Improved] Added back tucha launcher
+
+[Improved] Updated AN-94 animation workspace and fixed some of the related issues - work on [#506](https://github.com/RHSMODS/statusquo/issues/506)
+
+[Improved] Tried to resurrect K17 animation workspace
+
+[Improved] Improved LWH inventory description
+
+[Improved] Improved driver get in animation on K17
+
+[Improved] Improved KH-55 and GBU-12 performance
+
+[Improved] Added Orion localization
+
+[Improved] DAGR and Orion inventory icons
+
+[Improved] Improved t14 Ammo rack particle
+
+[Improved] Improved KH-55 Explosion sound
+
+[Improved] Added camo T-14 back to arsenal
+
+[Improved] Cannons particles
+
+[Improved] KH-55 Sound and particle
+
+[Improved] RPG-7 now configured to have universal dovetail instead of own specific
+
+[Improved] Tweaked T-14 roughness values; fixes [#561](https://github.com/RHSMODS/statusquo/issues/561)
+
+[Improved] Added back tucha smoke launcher
+
+[Improved] Improved RPM on M4A1 and M27
+
+[Improved] Added proper lods for 3OUF6 and 3UBR6 particles
+
+[Improved] Added engine sound to F-18 and KH55
+
+[Improved] Improved Peltor color accuracy; fixes [#583](https://github.com/RHSMODS/statusquo/issues/583)
+
+[Improved] Improved 2S1 Explosion particle
+
+[Improved] Refactored and improved functionality of Orion GPS in the map view
+
+[Improved] Improved cockpit lights in RHS MI-8 (Gray)
+
+[Improved] Slightly adjusted BackVelcro attachment point on OPSCORE
+
+[Improved] Improved TOR model
+
+[Improved] Improved K-17 interior textures
+
+[Improved] Changed 1P63 Reticle to be dimmer
+
+[Improved] Improved 1P87 Texture
+
+[Improved] Most optics overhauled in both PiP and in 2D. Some 2D optics will not work pending vanilla bugs.
+
+[Improved] Improved: Added IR mode to ChargePro (modes can be switched through radial menu)
+
+[Improved] Reverted scale changes to PDU-4, which were forced before due to missing anim
+
+[Improved] Added Garmin watches to RU arsenal
+
+[Improved] Improved CAS sounds
+
+[Improved] Removed detach actions from suppressors for now
+
+[Improved] Added proper anims for ORION gps
+
+[Improved] Adjusted NVG HDR materials to comply with bright nights :(
+
+[Improved] Increased lifetime of new RPG rockets
+
+[Improved] Effects for cannons
+
+[Improved] Sounds for cannons
+
+[Improved] Tucha effects
+
+[Improved] New GM CAS icons
+
+[Improved] Various effects and sounds
+
+[Improved] Modified AN94 sound.
+
+[Improved] Changed size of m40 magazine
+
+
+##### Fixed
+
+
+[Fixed] Fixed headclipping on opscore
+
+[Fixed] Wrong nightvision position on opscore
+
+[Fixed] Wrong configuration of garmin watch render target material
+
+[Fixed] Fixed wrong guid in one anim?
+
+[Fixed] DAGR icon in inventory
+
+[Fixed] 40mm Star cluster rounds particle effect could spawn its stars more than once
+
+[Fixed] 40mm Star cluster rounds wouldn't play its particle effect (and emit light) when they were outside of player view
+
+[Fixed] Fixed missing LWH localization
+
+[Fixed] Fixed bad collider material on PGO-7V3
+
+[Fixed] Fixed missing "open Hatch" action on t-14
+
+[Fixed] Fixed KH55 warhead being too powerful
+
+[Fixed] Fixed default 6B47 (6M2-1) with balaclava not saving to arsenal; fixes [#579](https://github.com/RHSMODS/statusquo/issues/579)
+
+[Fixed] Fixed PGO-7 not showing up on RPG after respawn with saved loadout; fixes [#574](https://github.com/RHSMODS/statusquo/issues/574)
+
+[Fixed] Fixed M40 magazine not reloading
+
+[Fixed] Missing particle effect on 3OUF6
+
+[Fixed] GBU was visible on impact point before impact
+
+[Fixed] Fixed 2S1 was using T14 wreck model
+
+[Fixed] Fixed 1P87 wrong retcile behavior
+
+[Fixed] Fixed MI-8 Physics
+
+[Fixed] Fixed wrong ChargePro position on OPSCORE
+
+[Fixed] Fixed: Compass bearing angle was clipped when certain values were displayed
+
+[Fixed] Fixed M4 was firing full auto instead of bursts
+
+[Fixed] Some RU locale fixes
+
+[Fixed] Fixed Helstar was facing wrong direction
+
+[Fixed] Fixed zeroing on 1p21 and M8541
+
+[Fixed] Fixed: ChargePro was visible in FPP when attached to the helmet
+
+[Fixed] Fixed loading supplies on k-17 was causing it to dance
+
+[Fixed] Fixed Tor helmet was visible in first person
+
+[Fixed] Fixed Impact headset was visible in first person
+
+[Fixed] Potential fix for no damage from GBU12 CAS GM module
+
+[Fixed] Fixed  user was not able to install 1p21 on svd
+
+[Fixed] Fixed: laser devices would stop working when would cycle through their modes
+
+[Fixed] Potential fix for incompatibility with bacon's RIS Laser Attachments (he still has to change the binding)
+
+[Fixed] Fixed Kh-55 damage
+
+[Fixed] Light device keyboard keybinds would conflict with AR Commanding menu as it was [`] (grave) and it was changed to [=] (equals)
+
+[Fixed] Fixed Missing k-17 unarmed locale
+
+[Fixed] Fixed geometry for M203
+
+[Fixed] Warheads for 30mm and damage
+
+[Fixed] AKSU muzzle flash
+
+[Fixed] Readded RPK74M custom animation graph in order to fix bipod issue
+
+[Fixed] Fixed some log error messages
+
+[Fixed] Fixed wrong PSO and other dovetail attachments position on RPK-74M
+
+[Fixed] Accuracy on gvozdika and 2a42
+
+[Fixed] Fixed wrong clothing type of Tactical Pants
+
+[Fixed] Fixed wrong clothing type of BDU pants
+
+[Fixed] Fixed wrong deflated model of crye shirt
+
+[Fixed] Fixed missing SNIPE-IR reticle
+
+[Fixed] Fixed weapon on back settings when different combo of items were attached to 6B45
+
+[Fixed] Fixed broken SNIPE IR description
+
+
+##### Deleted
+
+
+[Removed] Temporary removed  K17 (again, sorry)
+
+[Removed] Removed AN/PRC-152 and its attachments from the arsenal until they will be fixed
+
+[Removed] Vanilla gamemats
+
+[Removed] Removed ability to install PSO on AKS-74UN
+
+
+
 ## 0.6.1657
 
 <!-- revision 1657 -->
