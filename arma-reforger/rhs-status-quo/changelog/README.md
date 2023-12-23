@@ -10,15 +10,10 @@ description: >-
 If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
 {% endhint %}
 
-<!-- reset point -->
-<!-- changelog insert -->
-
 ## 0.6.1868
 
-<!-- revision 1868 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1868
 
@@ -29,440 +24,428 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 211 (1657)
 _<mark style="color:red;">Changes:</mark>_ 103 additions, 49 improvements, 49 fixes and 4 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added LWH helmet \[AOR1]
 
+\[Added] Added LWH helmet \[AOR2]
 
-[Added] Added LWH helmet [AOR1]
+\[Added] Added LWH helmet \[MARPAT Desert]
 
-[Added] Added LWH helmet [AOR2]
+\[Added] Added LWH helmet \[MARPAT Woodland]
 
-[Added] Added LWH helmet [MARPAT Desert]
+\[Added] Garmim Tactix Bravo to USMC arsenal
 
-[Added] Added LWH helmet [MARPAT Woodland]
+\[Added] Added OPSCORE FAST MT Urban Tan
 
-[Added] Garmim Tactix Bravo to USMC arsenal
+\[Added] Added OPSCORE FAST MT MARPAT
 
-[Added] Added OPSCORE FAST MT Urban Tan
+\[Added] Added OPSCORE FAST MT Multicam
 
-[Added] Added OPSCORE FAST MT MARPAT
+\[Added] Added OPSCORE FAST MT Urban Tan with Peltor headset
 
-[Added] Added OPSCORE FAST MT Multicam
+\[Added] Added OPSCORE FAST MT MARPAT with Peltor headset
 
-[Added] Added OPSCORE FAST MT Urban Tan with Peltor headset
+\[Added] Added OPSCORE FAST MT Multicam with Peltor headset
 
-[Added] Added OPSCORE FAST MT MARPAT with Peltor headset
+\[Added] Added OPSCORE FAST MT Urban Tan with AMP headset
 
-[Added] Added OPSCORE FAST MT Multicam with Peltor headset
+\[Added] Added OPSCORE FAST MT MARPAT with AMP headset
 
-[Added] Added OPSCORE FAST MT Urban Tan with AMP headset
+\[Added] Added OPSCORE FAST MT Multicam with AMP headset
 
-[Added] Added OPSCORE FAST MT MARPAT with AMP headset
+\[Added] Added OPSCORE FAST XP Urban Tan
 
-[Added] Added OPSCORE FAST MT Multicam with AMP headset
+\[Added] Added OPSCORE FAST XP Multicam
 
-[Added] Added OPSCORE FAST XP Urban Tan
+\[Added] Added OPSCORE FAST XP Foliage green
 
-[Added] Added OPSCORE FAST XP Multicam
+\[Added] Added OPSCORE FAST XP Black
 
-[Added] Added OPSCORE FAST XP Foliage green
+\[Added] Added OPSCORE FAST XP Urban Tan with Peltor headset
 
-[Added] Added OPSCORE FAST XP Black
+\[Added] Added OPSCORE FAST XP Multicam with Peltor headset
 
-[Added] Added OPSCORE FAST XP Urban Tan with Peltor headset
+\[Added] Added OPSCORE FAST XP Foliage green with Peltor headset
 
-[Added] Added OPSCORE FAST XP Multicam with Peltor headset
+\[Added] Added OPSCORE FAST XP Black with Peltor headset
 
-[Added] Added OPSCORE FAST XP Foliage green with Peltor headset
+\[Added] Added OPSCORE FAST XP Urban Tan with AMP headset
 
-[Added] Added OPSCORE FAST XP Black with Peltor headset
+\[Added] Added OPSCORE FAST XP Multicam with AMP headset
 
-[Added] Added OPSCORE FAST XP Urban Tan with AMP headset
+\[Added] Added OPSCORE FAST XP Foliage green with AMP headset
 
-[Added] Added OPSCORE FAST XP Multicam with AMP headset
+\[Added] Added OPSCORE FAST XP Black with AMP headset
 
-[Added] Added OPSCORE FAST XP Foliage green with AMP headset
+\[Added] Added OPSCORE Sentry Urban Tan
 
-[Added] Added OPSCORE FAST XP Black with AMP headset
+\[Added] Added OPSCORE Sentry Multicam
 
-[Added] Added OPSCORE Sentry Urban Tan
+\[Added] Added OPSCORE Sentry Foliage green
 
-[Added] Added OPSCORE Sentry Multicam
+\[Added] Added OPSCORE Sentry Urban grey
 
-[Added] Added OPSCORE Sentry Foliage green
+\[Added] Added OPSCORE Sentry Urban Tan with AMP headset
 
-[Added] Added OPSCORE Sentry Urban grey
+\[Added] Added OPSCORE Sentry Multicam with AMP headset
 
-[Added] Added OPSCORE Sentry Urban Tan with AMP headset
+\[Added] Added OPSCORE Sentry Foliage green with AMP headset
 
-[Added] Added OPSCORE Sentry Multicam with AMP headset
+\[Added] Added OPSCORE Sentry Urban grey with AMP headset
 
-[Added] Added OPSCORE Sentry Foliage green with AMP headset
+\[Added] Added LWH AOR1 with NVG Shroud
 
-[Added] Added OPSCORE Sentry Urban grey with AMP headset
+\[Added] Added LWH AOR2 with NVG Shroud
 
-[Added] Added LWH AOR1 with NVG Shroud
+\[Added] Added LWH MARPAT Desert with NVG Shroud
 
-[Added] Added LWH AOR2 with NVG Shroud
+\[Added] Added LWH MARPAT Woodland with NVG Shroud
 
-[Added] Added LWH MARPAT Desert with NVG Shroud
+\[Added] Added ACH DCU with NVG Shroud
 
-[Added] Added LWH MARPAT Woodland with NVG Shroud
+\[Added] Added ACH M81 with NVG Shroud
 
-[Added] Added ACH DCU with NVG Shroud
+\[Added] Added ACH OEFCP with NVG Shroud
 
-[Added] Added ACH M81 with NVG Shroud
+\[Added] Added CVC olive with NVG Shroud
 
-[Added] Added ACH OEFCP with NVG Shroud
+\[Added] Added CVC tan with NVG Shroud
 
-[Added] Added CVC olive with NVG Shroud
+\[Added] Added back T-14 and K-17 to gamemaster
 
-[Added] Added CVC tan with NVG Shroud
+\[Added] Brightness adjust possibility to Garmin watch.
 
-[Added] Added back T-14 and K-17 to gamemaster
+\[Added] DAGR will now have functional menu tree
 
-[Added] Brightness adjust possibility to Garmin watch.
+\[Added] \[WIP] Added F/A-18A With GBU-12 as CAS module (available in gamemaster)
 
-[Added] DAGR will now have functional menu tree
+\[Added] \[WIP] Added KH-55 Cruise missle as CAS module (available in gamemaster)
 
-[Added] [WIP] Added F/A-18A With GBU-12 as CAS module (available in gamemaster)
+\[Added] Added GPS map tool, so if in inventory you are able to call up DAGR or Orion in the map by clicking the globe button
 
-[Added] [WIP] Added KH-55 Cruise missle as CAS module (available in gamemaster)
+\[Added] M40A5 Sniper rifle
 
-[Added] Added GPS map tool, so if in inventory you are able to call up DAGR or Orion in the map by clicking the globe button
+\[Added] Added MICH helmet with shroud
 
-[Added] M40A5 Sniper rifle
+\[Added] Added TSh-4
 
-[Added] Added MICH helmet with shroud
+\[Added] K-17 Epoch "EXPO" camo version
 
-[Added] Added TSh-4
+\[Added] Added REAP-IR
 
-[Added] K-17 Epoch "EXPO" camo version
+\[Added] Added SNIPE-IR
 
-[Added] Added REAP-IR
+\[Added] Added SNIPE-IR + ACOG
 
-[Added] Added SNIPE-IR
+\[Added] Added PATROL-IR
 
-[Added] Added SNIPE-IR + ACOG
+\[Added] Added HELSTAR-6 Strobe
 
-[Added] Added PATROL-IR
+\[Added] Added ChargePro helmet mounted flashlight
 
-[Added] Added HELSTAR-6 Strobe
+\[Added] Added SVD specific version of 1P21 which should make SVD with it mounted persist in arsenal correctly
 
-[Added] Added ChargePro helmet mounted flashlight
+\[Added] Added Vz52\[SKS] Shot
 
-[Added] Added SVD specific version of 1P21 which should make SVD with it mounted persist in arsenal correctly
+\[Added] Added Gascan glasses
 
-[Added] Added Vz52[SKS] Shot
+\[Added] Added Impact sport headphones
 
-[Added] Added Gascan glasses
+\[Added] Added TOR with AMP
 
-[Added] Added Impact sport headphones
+\[Added] Added 1P86-1 (AK)
 
-[Added] Added TOR with AMP
+\[Added] 1P21 PiP sight reticle animation
 
-[Added] Added 1P86-1 (AK)
+\[Added] Added SR-3M "Vikhr"
 
-[Added] 1P21 PiP sight reticle animation
+\[Added] Added suppressed SR-3M
 
-[Added] Added SR-3M "Vikhr"
+\[Added] Added M27IAR With suppressor
 
-[Added] Added suppressed SR-3M
+\[Added] Polish locale
 
-[Added] Added M27IAR With suppressor
+\[Added] Xmas Deer antlers
 
-[Added] Polish locale
+\[Added] Added Xmas lighs as wearable item
 
-[Added] Xmas Deer antlers
+\[Added] Added new animations for PDU-4
 
-[Added] Added Xmas lighs as wearable item
+\[Added] Added Beanie (tan)
 
-[Added] Added new animations for PDU-4
+\[Added] Added Beanie (OD)
 
-[Added] Added Beanie (tan)
+\[Added] Added Beanie (black)
 
-[Added] Added Beanie (OD)
+\[Added] Added Crye G3 combat shirt (MARPAT)
 
-[Added] Added Beanie (black)
+\[Added] Added Crye G3 combat shirt (Multicam)
 
-[Added] Added Crye G3 combat shirt (MARPAT)
+\[Added] Added Crye G3 combat shirt (OD)
 
-[Added] Added Crye G3 combat shirt (Multicam)
+\[Added] Added Crye G3 combat shirt (ATACS)
 
-[Added] Added Crye G3 combat shirt (OD)
+\[Added] Added Tactical cargo pants (OD)
 
-[Added] Added Crye G3 combat shirt (ATACS)
+\[Added] Added Tactical cargo pants (ATACS)
 
-[Added] Added Tactical cargo pants (OD)
+\[Added] Added Tactical cargo pants (Multicam)
 
-[Added] Added Tactical cargo pants (ATACS)
+\[Added] Added Tactical cargo pants (MARPAT)
 
-[Added] Added Tactical cargo pants (Multicam)
+\[Added] Added Shemagh (Tan)
 
-[Added] Added Tactical cargo pants (MARPAT)
+\[Added] Added Shemagh (Green)
 
-[Added] Added Shemagh (Tan)
+\[Added] Added TBG-7V
 
-[Added] Added Shemagh (Green)
+\[Added] Added TBG-7VL
 
-[Added] Added TBG-7V
+\[Added] Added OG-7V
 
-[Added] Added TBG-7VL
+\[Added] Added PG-7VL
 
-[Added] Added OG-7V
+\[Added] Added PG-7VR
 
-[Added] Added PG-7VL
+\[Added] 6B48
 
-[Added] Added PG-7VR
+\[Added] Added custom animations to DAGR
 
-[Added] 6B48
+\[Added] Added Ballcap (Multicam)
 
-[Added] Added custom animations to DAGR
+\[Added] Added Ballcap (OD)
 
-[Added] Added Ballcap (Multicam)
+\[Added] Added Ballcap (ATACS)
 
-[Added] Added Ballcap (OD)
+\[Added] Added Ballcap (TAN)
 
-[Added] Added Ballcap (ATACS)
+\[Added] Added Leupold Mark4 6.5-20x50
 
-[Added] Added Ballcap (TAN)
+\[Added] Added custom animations for ANPRC152A
 
-[Added] Added Leupold Mark4 6.5-20x50
+\[Added] Added Crye Combat Shirt (M81)
 
-[Added] Added custom animations for ANPRC152A
+\[Added] AKS74U Effects, tweaked sounds
 
-[Added] Added Crye Combat Shirt (M81)
+\[Added] 2s1 Gvozdika Effects and sounds
 
-[Added] AKS74U Effects, tweaked sounds
+\[Added] Detachable parts (pallet) APFSDS effect
 
-[Added] 2s1 Gvozdika Effects and sounds
+**Improved**
 
-[Added] Detachable parts (pallet) APFSDS effect
+\[Improved] Toggle light device controller binding now Y(Hold) + DLeft (double)
 
+\[Improved] Cycle light device modes controller binding now Y(Hold) + DRight (double)
 
-##### Improved
+\[Improved] Improved Russian locale
 
+\[Improved] Garmin watch can be worn on players wrist (just place it in watch slot)
 
-[Improved] Toggle light device controller binding now Y(Hold) + DLeft (double)
+\[Improved] Increased brightness of Garmin display
 
-[Improved] Cycle light device modes controller binding now Y(Hold) + DRight (double)
+\[Improved] Added back tucha launcher
 
-[Improved] Improved Russian locale
+\[Improved] Updated AN-94 animation workspace and fixed some of the related issues - work on [#506](https://github.com/RHSMODS/statusquo/issues/506)
 
-[Improved] Garmin watch can be worn on players wrist (just place it in watch slot)
+\[Improved] Tried to resurrect K17 animation workspace
 
-[Improved] Increased brightness of Garmin display
+\[Improved] Improved LWH inventory description
 
-[Improved] Added back tucha launcher
+\[Improved] Improved driver get in animation on K17
 
-[Improved] Updated AN-94 animation workspace and fixed some of the related issues - work on [#506](https://github.com/RHSMODS/statusquo/issues/506)
+\[Improved] Improved KH-55 and GBU-12 performance
 
-[Improved] Tried to resurrect K17 animation workspace
+\[Improved] Added Orion localization
 
-[Improved] Improved LWH inventory description
+\[Improved] DAGR and Orion inventory icons
 
-[Improved] Improved driver get in animation on K17
+\[Improved] Improved t14 Ammo rack particle
 
-[Improved] Improved KH-55 and GBU-12 performance
+\[Improved] Improved KH-55 Explosion sound
 
-[Improved] Added Orion localization
+\[Improved] Added camo T-14 back to arsenal
 
-[Improved] DAGR and Orion inventory icons
+\[Improved] Cannons particles
 
-[Improved] Improved t14 Ammo rack particle
+\[Improved] KH-55 Sound and particle
 
-[Improved] Improved KH-55 Explosion sound
+\[Improved] RPG-7 now configured to have universal dovetail instead of own specific
 
-[Improved] Added camo T-14 back to arsenal
+\[Improved] Tweaked T-14 roughness values; fixes [#561](https://github.com/RHSMODS/statusquo/issues/561)
 
-[Improved] Cannons particles
+\[Improved] Added back tucha smoke launcher
 
-[Improved] KH-55 Sound and particle
+\[Improved] Improved RPM on M4A1 and M27
 
-[Improved] RPG-7 now configured to have universal dovetail instead of own specific
+\[Improved] Added proper lods for 3OUF6 and 3UBR6 particles
 
-[Improved] Tweaked T-14 roughness values; fixes [#561](https://github.com/RHSMODS/statusquo/issues/561)
+\[Improved] Added engine sound to F-18 and KH55
 
-[Improved] Added back tucha smoke launcher
+\[Improved] Improved Peltor color accuracy; fixes [#583](https://github.com/RHSMODS/statusquo/issues/583)
 
-[Improved] Improved RPM on M4A1 and M27
+\[Improved] Improved 2S1 Explosion particle
 
-[Improved] Added proper lods for 3OUF6 and 3UBR6 particles
+\[Improved] Refactored and improved functionality of Orion GPS in the map view
 
-[Improved] Added engine sound to F-18 and KH55
+\[Improved] Improved cockpit lights in RHS MI-8 (Gray)
 
-[Improved] Improved Peltor color accuracy; fixes [#583](https://github.com/RHSMODS/statusquo/issues/583)
+\[Improved] Slightly adjusted BackVelcro attachment point on OPSCORE
 
-[Improved] Improved 2S1 Explosion particle
+\[Improved] Improved TOR model
 
-[Improved] Refactored and improved functionality of Orion GPS in the map view
+\[Improved] Improved K-17 interior textures
 
-[Improved] Improved cockpit lights in RHS MI-8 (Gray)
+\[Improved] Changed 1P63 Reticle to be dimmer
 
-[Improved] Slightly adjusted BackVelcro attachment point on OPSCORE
+\[Improved] Improved 1P87 Texture
 
-[Improved] Improved TOR model
+\[Improved] Most optics overhauled in both PiP and in 2D. Some 2D optics will not work pending vanilla bugs.
 
-[Improved] Improved K-17 interior textures
+\[Improved] Improved: Added IR mode to ChargePro (modes can be switched through radial menu)
 
-[Improved] Changed 1P63 Reticle to be dimmer
+\[Improved] Reverted scale changes to PDU-4, which were forced before due to missing anim
 
-[Improved] Improved 1P87 Texture
+\[Improved] Added Garmin watches to RU arsenal
 
-[Improved] Most optics overhauled in both PiP and in 2D. Some 2D optics will not work pending vanilla bugs.
+\[Improved] Improved CAS sounds
 
-[Improved] Improved: Added IR mode to ChargePro (modes can be switched through radial menu)
+\[Improved] Removed detach actions from suppressors for now
 
-[Improved] Reverted scale changes to PDU-4, which were forced before due to missing anim
+\[Improved] Added proper anims for ORION gps
 
-[Improved] Added Garmin watches to RU arsenal
+\[Improved] Adjusted NVG HDR materials to comply with bright nights :(
 
-[Improved] Improved CAS sounds
+\[Improved] Increased lifetime of new RPG rockets
 
-[Improved] Removed detach actions from suppressors for now
+\[Improved] Effects for cannons
 
-[Improved] Added proper anims for ORION gps
+\[Improved] Sounds for cannons
 
-[Improved] Adjusted NVG HDR materials to comply with bright nights :(
+\[Improved] Tucha effects
 
-[Improved] Increased lifetime of new RPG rockets
+\[Improved] New GM CAS icons
 
-[Improved] Effects for cannons
+\[Improved] Various effects and sounds
 
-[Improved] Sounds for cannons
+\[Improved] Modified AN94 sound.
 
-[Improved] Tucha effects
+\[Improved] Changed size of m40 magazine
 
-[Improved] New GM CAS icons
+**Fixed**
 
-[Improved] Various effects and sounds
+\[Fixed] Fixed headclipping on opscore
 
-[Improved] Modified AN94 sound.
+\[Fixed] Wrong nightvision position on opscore
 
-[Improved] Changed size of m40 magazine
+\[Fixed] Wrong configuration of garmin watch render target material
 
+\[Fixed] Fixed wrong guid in one anim?
 
-##### Fixed
+\[Fixed] DAGR icon in inventory
 
+\[Fixed] 40mm Star cluster rounds particle effect could spawn its stars more than once
 
-[Fixed] Fixed headclipping on opscore
+\[Fixed] 40mm Star cluster rounds wouldn't play its particle effect (and emit light) when they were outside of player view
 
-[Fixed] Wrong nightvision position on opscore
+\[Fixed] Fixed missing LWH localization
 
-[Fixed] Wrong configuration of garmin watch render target material
+\[Fixed] Fixed bad collider material on PGO-7V3
 
-[Fixed] Fixed wrong guid in one anim?
+\[Fixed] Fixed missing "open Hatch" action on t-14
 
-[Fixed] DAGR icon in inventory
+\[Fixed] Fixed KH55 warhead being too powerful
 
-[Fixed] 40mm Star cluster rounds particle effect could spawn its stars more than once
+\[Fixed] Fixed default 6B47 (6M2-1) with balaclava not saving to arsenal; fixes [#579](https://github.com/RHSMODS/statusquo/issues/579)
 
-[Fixed] 40mm Star cluster rounds wouldn't play its particle effect (and emit light) when they were outside of player view
+\[Fixed] Fixed PGO-7 not showing up on RPG after respawn with saved loadout; fixes [#574](https://github.com/RHSMODS/statusquo/issues/574)
 
-[Fixed] Fixed missing LWH localization
+\[Fixed] Fixed M40 magazine not reloading
 
-[Fixed] Fixed bad collider material on PGO-7V3
+\[Fixed] Missing particle effect on 3OUF6
 
-[Fixed] Fixed missing "open Hatch" action on t-14
+\[Fixed] GBU was visible on impact point before impact
 
-[Fixed] Fixed KH55 warhead being too powerful
+\[Fixed] Fixed 2S1 was using T14 wreck model
 
-[Fixed] Fixed default 6B47 (6M2-1) with balaclava not saving to arsenal; fixes [#579](https://github.com/RHSMODS/statusquo/issues/579)
+\[Fixed] Fixed 1P87 wrong retcile behavior
 
-[Fixed] Fixed PGO-7 not showing up on RPG after respawn with saved loadout; fixes [#574](https://github.com/RHSMODS/statusquo/issues/574)
+\[Fixed] Fixed MI-8 Physics
 
-[Fixed] Fixed M40 magazine not reloading
+\[Fixed] Fixed wrong ChargePro position on OPSCORE
 
-[Fixed] Missing particle effect on 3OUF6
+\[Fixed] Fixed: Compass bearing angle was clipped when certain values were displayed
 
-[Fixed] GBU was visible on impact point before impact
+\[Fixed] Fixed M4 was firing full auto instead of bursts
 
-[Fixed] Fixed 2S1 was using T14 wreck model
+\[Fixed] Some RU locale fixes
 
-[Fixed] Fixed 1P87 wrong retcile behavior
+\[Fixed] Fixed Helstar was facing wrong direction
 
-[Fixed] Fixed MI-8 Physics
+\[Fixed] Fixed zeroing on 1p21 and M8541
 
-[Fixed] Fixed wrong ChargePro position on OPSCORE
+\[Fixed] Fixed: ChargePro was visible in FPP when attached to the helmet
 
-[Fixed] Fixed: Compass bearing angle was clipped when certain values were displayed
+\[Fixed] Fixed loading supplies on k-17 was causing it to dance
 
-[Fixed] Fixed M4 was firing full auto instead of bursts
+\[Fixed] Fixed Tor helmet was visible in first person
 
-[Fixed] Some RU locale fixes
+\[Fixed] Fixed Impact headset was visible in first person
 
-[Fixed] Fixed Helstar was facing wrong direction
+\[Fixed] Potential fix for no damage from GBU12 CAS GM module
 
-[Fixed] Fixed zeroing on 1p21 and M8541
+\[Fixed] Fixed user was not able to install 1p21 on svd
 
-[Fixed] Fixed: ChargePro was visible in FPP when attached to the helmet
+\[Fixed] Fixed: laser devices would stop working when would cycle through their modes
 
-[Fixed] Fixed loading supplies on k-17 was causing it to dance
+\[Fixed] Potential fix for incompatibility with bacon's RIS Laser Attachments (he still has to change the binding)
 
-[Fixed] Fixed Tor helmet was visible in first person
+\[Fixed] Fixed Kh-55 damage
 
-[Fixed] Fixed Impact headset was visible in first person
+\[Fixed] Light device keyboard keybinds would conflict with AR Commanding menu as it was \[\`] (grave) and it was changed to \[=] (equals)
 
-[Fixed] Potential fix for no damage from GBU12 CAS GM module
+\[Fixed] Fixed Missing k-17 unarmed locale
 
-[Fixed] Fixed  user was not able to install 1p21 on svd
+\[Fixed] Fixed geometry for M203
 
-[Fixed] Fixed: laser devices would stop working when would cycle through their modes
+\[Fixed] Warheads for 30mm and damage
 
-[Fixed] Potential fix for incompatibility with bacon's RIS Laser Attachments (he still has to change the binding)
+\[Fixed] AKSU muzzle flash
 
-[Fixed] Fixed Kh-55 damage
+\[Fixed] Readded RPK74M custom animation graph in order to fix bipod issue
 
-[Fixed] Light device keyboard keybinds would conflict with AR Commanding menu as it was [`] (grave) and it was changed to [=] (equals)
+\[Fixed] Fixed some log error messages
 
-[Fixed] Fixed Missing k-17 unarmed locale
+\[Fixed] Fixed wrong PSO and other dovetail attachments position on RPK-74M
 
-[Fixed] Fixed geometry for M203
+\[Fixed] Accuracy on gvozdika and 2a42
 
-[Fixed] Warheads for 30mm and damage
+\[Fixed] Fixed wrong clothing type of Tactical Pants
 
-[Fixed] AKSU muzzle flash
+\[Fixed] Fixed wrong clothing type of BDU pants
 
-[Fixed] Readded RPK74M custom animation graph in order to fix bipod issue
+\[Fixed] Fixed wrong deflated model of crye shirt
 
-[Fixed] Fixed some log error messages
+\[Fixed] Fixed missing SNIPE-IR reticle
 
-[Fixed] Fixed wrong PSO and other dovetail attachments position on RPK-74M
+\[Fixed] Fixed weapon on back settings when different combo of items were attached to 6B45
 
-[Fixed] Accuracy on gvozdika and 2a42
+\[Fixed] Fixed broken SNIPE IR description
 
-[Fixed] Fixed wrong clothing type of Tactical Pants
+**Deleted**
 
-[Fixed] Fixed wrong clothing type of BDU pants
+\[Removed] Temporary removed K17 (again, sorry)
 
-[Fixed] Fixed wrong deflated model of crye shirt
+\[Removed] Removed AN/PRC-152 and its attachments from the arsenal until they will be fixed
 
-[Fixed] Fixed missing SNIPE-IR reticle
+\[Removed] Vanilla gamemats
 
-[Fixed] Fixed weapon on back settings when different combo of items were attached to 6B45
-
-[Fixed] Fixed broken SNIPE IR description
-
-
-##### Deleted
-
-
-[Removed] Temporary removed  K17 (again, sorry)
-
-[Removed] Removed AN/PRC-152 and its attachments from the arsenal until they will be fixed
-
-[Removed] Vanilla gamemats
-
-[Removed] Removed ability to install PSO on AKS-74UN
-
-
+\[Removed] Removed ability to install PSO on AKS-74UN
 
 ## 0.6.1657
 
-<!-- revision 1657 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1657
 
@@ -473,38 +456,26 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1651)
 _<mark style="color:red;">Changes:</mark>_ 1 additions, 1 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added 40mm M585, XM663 and XM664 Star cluster signal rounds
 
+**Improved**
 
-[Added] Added 40mm M585, XM663 and XM664 Star cluster signal rounds
+\[Improved] Adjusted position of 40mm round in M203 grenade launcher
 
+**Fixed**
 
-##### Improved
+\[Fixed] Fixed being able to adjust HDR brightness when NVG was turned off
 
+\[Fixed] Wrong k-17 faction affiliation
 
-[Improved] Adjusted position of 40mm round in M203 grenade launcher
-
-
-##### Fixed
-
-
-[Fixed] Fixed being able to adjust HDR brightness when NVG was turned off
-
-[Fixed] Wrong k-17 faction affiliation
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1651
 
-<!-- revision 1651 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1651
 
@@ -515,69 +486,56 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 24 (1627)
 _<mark style="color:red;">Changes:</mark>_ 8 additions, 6 improvements, 3 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Unarmed K-17
 
+\[Added] K-17 Berezhok without camo
 
-[Added] Unarmed K-17
+\[Added] K-17 Epoch without camo
 
-[Added] K-17 Berezhok without camo
+\[Added] K-17 Unarmed without camo
 
-[Added] K-17 Epoch without camo
+\[Added] K-17 Berezhok tan paint
 
-[Added] K-17 Unarmed without camo
+\[Added] K-17 Epoch tan paint
 
-[Added] K-17 Berezhok tan paint
+\[Added] K-17 Unarmed tan paint
 
-[Added] K-17 Epoch tan paint
+\[Added] PGO-7V3 sight
 
-[Added] K-17 Unarmed tan paint
+**Improved**
 
-[Added] PGO-7V3 sight
+\[Improved] Added wreck model for k-17 epoch
 
+\[Improved] Added wreck model for k-17 berezhok
 
-##### Improved
+\[Improved] Added PGO-7V3 into arsenal; fixes [#568](https://github.com/RHSMODS/statusquo/issues/568)
 
+\[Improved] MSV AT guy now has RPG with PGO-7V3 by default
 
-[Improved] Added wreck model for k-17 epoch
+\[Improved] Improved gray MI-8 texture and Decals
 
-[Improved] Added wreck model for k-17 berezhok
+\[Improved] Increasing illuminator cone angle will now reduce its perceived brightness (affects ANPEQ15/16
 
-[Improved] Added PGO-7V3 into arsenal; fixes [#568](https://github.com/RHSMODS/statusquo/issues/568)
+**Fixed**
 
-[Improved] MSV AT guy now has RPG with PGO-7V3 by default
+\[Fixed] Fixed wrong attachment type on 1p21 and 1pn93SVD
 
-[Improved] Improved gray MI-8 texture and Decals
+\[Fixed] Fixed K-17 suspension
 
-[Improved] Increasing illuminator cone angle will now reduce its perceived brightness (affects ANPEQ15/16
+\[Fixed] Fix possible null pointer exception in LRF
 
-
-##### Fixed
-
-
-[Fixed] Fixed wrong attachment type on 1p21 and 1pn93SVD
-
-[Fixed] Fixed K-17 suspension
-
-[Fixed] Fix possible null pointer exception in LRF
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1627
 
-<!-- revision 1627 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1627
 
@@ -588,102 +546,90 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 59 (1568)
 _<mark style="color:red;">Changes:</mark>_ 9 additions, 16 improvements, 8 fixes and 1 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added interior to k-17 (WIP)
 
+\[Added] Added more animations to k-17
 
-[Added] Added interior to k-17 (WIP)
+\[Added] Added WaveBreaker animation
 
-[Added] Added more animations to k-17
+\[Added] Added Turn on interior light action to k-17
 
-[Added] Added WaveBreaker animation
+\[Added] Added Open ramp action to k-17
 
-[Added] Added Turn on interior light action to k-17
+\[Added] Added screens and gauges to k-17 interior
 
-[Added] Added Open ramp action to k-17
+\[Added] Orion GPS
 
-[Added] Added screens and gauges to k-17 interior
+\[Added] Added IL-76 With lights turned on BUT without engine sound
 
-[Added] Orion GPS
+\[Added] Water erase to K17
 
-[Added] Added IL-76 With lights turned on BUT without engine sound
+**Improved**
 
-[Added] Water erase to K17
+\[Improved] Improved k-17 armor colliders
 
+\[Improved] Improved k-17 textures
 
-##### Improved
+\[Improved] Added flame on engine start to t-14
 
+\[Improved] Added flame on engine start to k-17
 
-[Improved] Improved k-17 armor colliders
+\[Improved] Added lock/unlock rear top hatch action to k-17
 
-[Improved] Improved k-17 textures
+\[Improved] Added proper naming of IL-76
 
-[Improved] Added flame on engine start to t-14
+\[Improved] Added proper icons for various IL-76; closes [#555](https://github.com/RHSMODS/statusquo/issues/555)
 
-[Improved] Added flame on engine start to k-17
+\[Improved] Improved t-14 explosion particle
 
-[Improved] Added lock/unlock rear top hatch action to k-17
+\[Improved] Improved engine start particle
 
-[Improved] Added proper naming of IL-76
+\[Improved] Improved 1P90 texture
 
-[Improved] Added proper icons for various IL-76; closes [#555](https://github.com/RHSMODS/statusquo/issues/555)
+\[Improved] Improved NPZ Universal mount texture
 
-[Improved] Improved t-14 explosion particle
+\[Improved] T14 Suspension, Brakes and Engine simulations
 
-[Improved] Improved engine start particle
+\[Improved] K17 Suspension and Engine
 
-[Improved] Improved 1P90 texture
+\[Improved] 2S1 Suspension
 
-[Improved] Improved NPZ Universal mount texture
+\[Improved] Proc anim for K17 for trim vane and propellers
 
-[Improved] T14 Suspension, Brakes and Engine simulations
+\[Improved] Changed NVG controller key bind to 2xRDpad
 
-[Improved] K17 Suspension and Engine
+**Fixed**
 
-[Improved] 2S1 Suspension
+\[Fixed] Fixed MSV spawn points in Combat Ops
 
-[Improved] Proc anim for K17 for trim vane and propellers
+\[Fixed] Fixed NPP strelok goggles being present in weapon arsenal crate
 
-[Improved] Changed NVG controller key bind to 2xRDpad
+\[Fixed] RpcError caused by AN/PRC-152 when item was spawned
 
+\[Fixed] Wrong roughness on T14 rubber mudflaps; fixes [#553](https://github.com/RHSMODS/statusquo/issues/553)
 
-##### Fixed
+\[Fixed] Hierarchy spam on k17
 
+\[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes [#540](https://github.com/RHSMODS/statusquo/issues/540)
 
-[Fixed] Fixed MSV spawn points in Combat Ops
+\[Fixed] Player no longer able to open k-17 ramp from outside
 
-[Fixed] Fixed NPP strelok goggles being present in weapon arsenal crate
+\[Fixed] Fixed broken vehicle night vision
 
-[Fixed] RpcError caused by AN/PRC-152 when item was spawned
+**Deleted**
 
-[Fixed] Wrong roughness on T14 rubber mudflaps; fixes [#553](https://github.com/RHSMODS/statusquo/issues/553)
-
-[Fixed] Hierarchy spam on k17
-
-[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes [#540](https://github.com/RHSMODS/statusquo/issues/540)
-
-[Fixed] Player no longer able to open k-17 ramp from outside
-
-[Fixed] Fixed broken vehicle night vision
-
-
-##### Deleted
-
-
-[Removed] Obsolete version of IL-76
-
+\[Removed] Obsolete version of IL-76
 
 ## 0.6.1589
 
-<!-- revision 1589 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1589
 
@@ -694,45 +640,32 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1584)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Added flame on engine start to t-14
 
+\[Improved] Added flame on engine start to k-17
 
-##### Improved
+**Fixed**
 
+\[Fixed] Wrong roughness on T14 rubber mudflaps; fixes [#553](https://github.com/RHSMODS/statusquo/issues/553)
 
-[Improved] Added flame on engine start to t-14
+\[Fixed] Hierarchy spam on k17
 
-[Improved] Added flame on engine start to k-17
+\[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes [#540](https://github.com/RHSMODS/statusquo/issues/540)
 
-
-##### Fixed
-
-
-[Fixed] Wrong roughness on T14 rubber mudflaps; fixes [#553](https://github.com/RHSMODS/statusquo/issues/553)
-
-[Fixed] Hierarchy spam on k17
-
-[Fixed] NVG would prevent players from opening the map when they would spawn with loadout that had NVG; fixes [#540](https://github.com/RHSMODS/statusquo/issues/540)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1584
 
-<!-- revision 1584 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1584
 
@@ -743,51 +676,38 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1579)
 _<mark style="color:red;">Changes:</mark>_ 6 additions, 2 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added interior to k-17 (WIP)
 
+\[Added] Added more animations to k-17
 
-[Added] Added interior to k-17 (WIP)
+\[Added] Added WaveBreaker animation
 
-[Added] Added more animations to k-17
+\[Added] Added Turn on interior light action to k-17
 
-[Added] Added WaveBreaker animation
+\[Added] Added Open ramp action to k-17
 
-[Added] Added Turn on interior light action to k-17
+\[Added] Added screens and gauges to k-17 interior
 
-[Added] Added Open ramp action to k-17
+**Improved**
 
-[Added] Added screens and gauges to k-17 interior
+\[Improved] Improved k-17 armor colliders
 
+\[Improved] Improved k-17 textures
 
-##### Improved
+**Fixed**
 
-
-[Improved] Improved k-17 armor colliders
-
-[Improved] Improved k-17 textures
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1579
 
-<!-- revision 1579 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1579
 
@@ -798,37 +718,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1578)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] RpcError caused by AN/PRC-152 when item was spawned
 
-##### Improved
-
-
-
-##### Fixed
-
-
-[Fixed] RpcError caused by AN/PRC-152 when item was spawned
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1578
 
-<!-- revision 1578 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1578
 
@@ -839,39 +746,26 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 10 (1568)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] Fixed MSV spawn points in Combat Ops
 
-##### Improved
+\[Fixed] Fixed NPP strelok goggles being present in weapon arsenal crate
 
-
-
-##### Fixed
-
-
-[Fixed] Fixed MSV spawn points in Combat Ops
-
-[Fixed] Fixed NPP strelok goggles being present in weapon arsenal crate
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1568
 
-<!-- revision 1568 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1568
 
@@ -882,39 +776,26 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1566)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 1 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] Fixed issue that caused RpcErrorspam with laser devices; fixes [#551](https://github.com/RHSMODS/statusquo/issues/551)
 
-##### Improved
+**Deleted**
 
-
-
-##### Fixed
-
-
-[Fixed] Fixed issue that caused RpcErrorspam with laser devices; fixes [#551](https://github.com/RHSMODS/statusquo/issues/551)
-
-
-##### Deleted
-
-
-[Removed] Removed 'point aiming' from laser devices
-
-
+\[Removed] Removed 'point aiming' from laser devices
 
 ## 0.6.1566
 
-<!-- revision 1566 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1566
 
@@ -925,37 +806,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1565)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Updated RHS AK74M animation graph - work on [#506](https://github.com/RHSMODS/statusquo/issues/506)
 
+**Fixed**
 
-##### Improved
-
-
-[Improved] Updated RHS AK74M animation graph - work on [#506](https://github.com/RHSMODS/statusquo/issues/506)
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1565
 
-<!-- revision 1565 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1565
 
@@ -966,37 +834,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1564)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] Fixed missing GUID in definition of parent world of USMC vs MSV Combat Ops scenario
 
-##### Improved
-
-
-
-##### Fixed
-
-
-[Fixed] Fixed missing GUID in definition of parent world of USMC vs MSV Combat Ops scenario
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1564
 
-<!-- revision 1564 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1564
 
@@ -1007,55 +862,42 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 11 (1553)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 6 fixes and 1 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Light device shortcuts now on screen; fixes [#382](https://github.com/RHSMODS/statusquo/issues/382)
 
+\[Improved] Added MPL-50 Carrier to 6b45 Rifleman and 6B45 Officer
 
-##### Improved
+\[Improved] Updated USMC vs MSV combat ops scenario
 
+**Fixed**
 
-[Improved] Light device shortcuts now on screen; fixes [#382](https://github.com/RHSMODS/statusquo/issues/382)
+\[Fixed] Bullets now make hit effect on IL-76 UN; fixes [#276](https://github.com/RHSMODS/statusquo/issues/276)
 
-[Improved] Added MPL-50 Carrier to 6b45 Rifleman and 6B45 Officer
+\[Fixed] Fixed RPK-74M falling through ground when dropped
 
-[Improved] Updated USMC vs MSV combat ops scenario
+\[Fixed] Fixed weapon position on back while wearing 6b45
 
+\[Fixed] Fixed MRDS SU-230 having a different FOV than the normal version
 
-##### Fixed
+\[Fixed] Wrong weapon position on back when suharka backpack equipped
 
+\[Fixed] Fixed APS sounds (somewhat)
 
-[Fixed] Bullets now make hit effect on IL-76 UN; fixes [#276](https://github.com/RHSMODS/statusquo/issues/276)
+**Deleted**
 
-[Fixed] Fixed RPK-74M falling through ground when dropped
-
-[Fixed] Fixed weapon position on back while wearing 6b45
-
-[Fixed] Fixed MRDS SU-230 having a different FOV than the normal version
-
-[Fixed] Wrong weapon position on back when suharka backpack equipped
-
-[Fixed] Fixed APS sounds (somewhat)
-
-
-##### Deleted
-
-
-[Removed] Removed Sukharka type 3
-
-
+\[Removed] Removed Sukharka type 3
 
 ## 0.6.1553
 
-<!-- revision 1553 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1553
 
@@ -1066,49 +908,36 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 3 (1550)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 4 improvements, 3 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Changed NVG illuminator toggle controller binding to 2xDDown; fixes [#511](https://github.com/RHSMODS/statusquo/issues/511)
 
+\[Improved] Changed light device on/off toggle controller binding to 2xDLeft
 
-##### Improved
+\[Improved] Changed light device mode switch controller binding to 2xDRight
 
+\[Improved] Changed light device hold for fire controller binding to Hold DLeft
 
-[Improved] Changed NVG illuminator toggle controller binding to 2xDDown; fixes [#511](https://github.com/RHSMODS/statusquo/issues/511)
+**Fixed**
 
-[Improved] Changed light device on/off toggle controller binding to 2xDLeft
+\[Fixed] Fixed 2S1 for 1.0.0; fixes [#524](https://github.com/RHSMODS/statusquo/issues/524)
 
-[Improved] Changed light device mode switch controller binding to 2xDRight
+\[Fixed] 2S1 now facing correct way when placed via GM; fixes [#494](https://github.com/RHSMODS/statusquo/issues/494)
 
-[Improved] Changed light device hold for fire controller binding to Hold DLeft
+\[Fixed] Fixed some physics error span for 2S1 external components
 
-
-##### Fixed
-
-
-[Fixed] Fixed 2S1 for 1.0.0; fixes [#524](https://github.com/RHSMODS/statusquo/issues/524)
-
-[Fixed] 2S1 now facing correct way when placed via GM; fixes [#494](https://github.com/RHSMODS/statusquo/issues/494)
-
-[Fixed] Fixed some physics error span for 2S1 external components
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1550
 
-<!-- revision 1550 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1550
 
@@ -1119,39 +948,26 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1548)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Set armor plates sim to NONE (potential fps improvement)
 
+\[Improved] Changed all accessory items sim state to NONE via overriding vanilla one
 
-##### Improved
+**Fixed**
 
-
-[Improved] Set armor plates sim to NONE (potential fps improvement)
-
-[Improved] Changed all accessory items sim state to NONE via overriding vanilla one
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1548
 
-<!-- revision 1548 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1548
 
@@ -1162,47 +978,34 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 6 (1542)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 5 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] M27 now uses mag with puller by default
 
+**Fixed**
 
-##### Improved
+\[Fixed] M4A1 GL would spawn without GL if it was part of a saved loadout; fixes [#543](https://github.com/RHSMODS/statusquo/issues/543)
 
+\[Fixed] Fixed broken IL-76 sound; fixes [#542](https://github.com/RHSMODS/statusquo/issues/542)
 
-[Improved] M27 now uses mag with puller by default
+\[Fixed] Fixed broken Icon reference for T14 Smoke Launcher
 
+\[Fixed] Removed broken key binding
 
-##### Fixed
+\[Fixed] Fixed error on looking at K17 through GM camera; fixes [#530](https://github.com/RHSMODS/statusquo/issues/530)
 
-
-[Fixed] M4A1 GL would spawn without GL if it was part of a saved loadout; fixes [#543](https://github.com/RHSMODS/statusquo/issues/543)
-
-[Fixed] Fixed broken IL-76 sound; fixes [#542](https://github.com/RHSMODS/statusquo/issues/542)
-
-[Fixed] Fixed broken Icon reference for T14 Smoke Launcher
-
-[Fixed] Removed broken key binding
-
-[Fixed] Fixed error on looking at K17 through GM camera; fixes [#530](https://github.com/RHSMODS/statusquo/issues/530)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1542
 
-<!-- revision 1542 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1542
 
@@ -1213,35 +1016,22 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1541)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
-
-##### Improved
-
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1541
 
-<!-- revision 1541 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1541
 
@@ -1252,41 +1042,28 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1533)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 1 fixes and 1 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Updated RHS Conflict template
 
+**Fixed**
 
-##### Improved
+\[Fixed] M713, M715 and M716 will now emit their smoke for about 25s
 
+**Deleted**
 
-[Improved] Updated RHS Conflict template
-
-
-##### Fixed
-
-
-[Fixed] M713, M715 and M716 will now emit their smoke for about 25s
-
-
-##### Deleted
-
-
-[Removed] Obsolete meta files
-
-
+\[Removed] Obsolete meta files
 
 ## 0.6.1533
 
-<!-- revision 1533 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1533
 
@@ -1297,37 +1074,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 2 (1531)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Tweaked T1 dot size
 
+**Fixed**
 
-##### Improved
-
-
-[Improved] Tweaked T1 dot size
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1531
 
-<!-- revision 1531 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1531
 
@@ -1338,37 +1102,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1530)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] Fixed crash of showcase scenario
 
-##### Improved
-
-
-
-##### Fixed
-
-
-[Fixed] Fixed crash of showcase scenario
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1530
 
-<!-- revision 1530 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1530
 
@@ -1379,41 +1130,28 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 7 (1523)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Added Russian flag and plugged it into faction config
 
+**Fixed**
 
-##### Improved
+\[Fixed] Fixed game master showcase scenario
 
+\[Fixed] One more fix to GM showcase scenario
 
-[Improved] Added Russian flag and plugged it into faction config
-
-
-##### Fixed
-
-
-[Fixed] Fixed game master showcase scenario
-
-[Fixed] One more fix to GM showcase scenario
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1523
 
-<!-- revision 1523 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1523
 
@@ -1424,77 +1162,64 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 24 (1499)
 _<mark style="color:red;">Changes:</mark>_ 10 additions, 5 improvements, 6 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added AN/PEQ-15 in black and tan variants; fixes [#137](https://github.com/RHSMODS/statusquo/issues/137)
 
+\[Added] Added tan Spectre-DR; fixes [#534](https://github.com/RHSMODS/statusquo/issues/534)
 
-[Added] Added AN/PEQ-15 in black and tan variants; fixes [#137](https://github.com/RHSMODS/statusquo/issues/137)
+\[Added] M4A1 5.56 Rifle
 
-[Added] Added tan Spectre-DR; fixes [#534](https://github.com/RHSMODS/statusquo/issues/534)
+\[Added] M4A1 SOPMOD Block II 5.56 Rifle
 
-[Added] M4A1 5.56 Rifle
+\[Added] M4A1 5.56 Rifle with M203 GL
 
-[Added] M4A1 SOPMOD Block II 5.56 Rifle
+\[Added] M4A1 SOPMOD Block II 5.56 Rifle with M203 GL
 
-[Added] M4A1 5.56 Rifle with M203 GL
+\[Added] M4A1 5056 Rifle with KAC iron sights
 
-[Added] M4A1 SOPMOD Block II 5.56 Rifle with M203 GL
+\[Added] Added M713, M715 and M716 marker rounds to the USMC arsenal
 
-[Added] M4A1 5056 Rifle with KAC iron sights
+\[Added] Tan SU230s to USMC arsenal
 
-[Added] Added M713, M715 and M716 marker rounds to the USMC arsenal
+\[Added] Faradey 1085 boots to MSV arsenal
 
-[Added] Tan SU230s to USMC arsenal
+**Improved**
 
-[Added] Faradey 1085 boots to MSV arsenal
+\[Improved] Added AN/PRC-152 parts to arsenal
 
+\[Improved] Improved AN/PEQ-15 scale and textures
 
-##### Improved
+\[Improved] Armed USMC grenadiers with M4A1 w/M203
 
+\[Improved] Added 7N25 9x18mm round for APS
 
-[Improved] Added AN/PRC-152 parts to arsenal
+\[Improved] AN/PEQ-15 mode operations according to conops
 
-[Improved] Improved AN/PEQ-15 scale and textures
+**Fixed**
 
-[Improved] Armed USMC grenadiers with M4A1 w/M203
+\[Fixed] Moved ammo type information to the top left corner in order to accommodate item supply cost (which was presented on top of it since 1.0)
 
-[Improved] Added 7N25 9x18mm round for APS
+\[Fixed] Wrong position for bottom attachment on M4A1
 
-[Improved] AN/PEQ-15 mode operations according to conops
+\[Fixed] Temporary fix for arsenal spamming FFA action items missing
 
+\[Fixed] Fixed broken AN/PEQ-16 inheritance
 
-##### Fixed
+\[Fixed] Fixed AN/PEQ-15 knob animations
 
+\[Fixed] Wrong collider configuration of M4A1
 
-[Fixed] Moved ammo type information to the top left corner in order to accommodate item supply cost (which was presented on top of it since 1.0)
-
-[Fixed] Wrong position for bottom attachment on M4A1
-
-[Fixed] Temporary fix for arsenal spamming FFA action items missing
-
-[Fixed] Fixed broken AN/PEQ-16 inheritance
-
-[Fixed] Fixed AN/PEQ-15 knob animations
-
-[Fixed] Wrong collider configuration of M4A1
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1499
 
-<!-- revision 1499 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1499
 
@@ -1505,43 +1230,30 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 8 (1491)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 4 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+**Fixed**
 
+\[Fixed] ButtStock position on an-94
 
-##### Improved
+\[Fixed] ButtStock wrong attachment type
 
+\[Fixed] Wrong turret armor rig
 
+\[Fixed] Fixed M88 Flora & VSR uniforms are now using correct materials even when armored vest is worn
 
-##### Fixed
-
-
-[Fixed] ButtStock position on an-94
-
-[Fixed] ButtStock wrong attachment type
-
-[Fixed] Wrong turret armor rig
-
-[Fixed] Fixed M88 Flora & VSR uniforms are now using correct materials even when armored vest is worn
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1491
 
-<!-- revision 1491 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1491
 
@@ -1552,43 +1264,30 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 9 (1482)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] T14 Ammo Rack damage
 
+\[Improved] Added Jerry can, repair & first aid kits to MSV & USMC arsenals
 
-##### Improved
+**Fixed**
 
+\[Fixed] T14 driver get in getting stuck
 
-[Improved] T14 Ammo Rack damage
+\[Fixed] Fixed more Log Console errors
 
-[Improved] Added Jerry can, repair & first aid kits to MSV & USMC arsenals
-
-
-##### Fixed
-
-
-[Fixed] T14 driver get in getting stuck
-
-[Fixed] Fixed more Log Console errors
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1482
 
-<!-- revision 1482 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1482
 
@@ -1599,45 +1298,32 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 11 (1471)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] M4A! Carry handle is now detachable
 
+\[Improved] Updated RHS MSV vs FIA Combat Ops scenario
 
-##### Improved
+**Fixed**
 
+\[Fixed] Removed fault remaps
 
-[Improved] M4A! Carry handle is now detachable
+\[Fixed] Fixed (once again) bad remaps on helmets
 
-[Improved] Updated RHS MSV vs FIA Combat Ops scenario
+\[Fixed] Fixed SPG-9 Log Console errors
 
-
-##### Fixed
-
-
-[Fixed] Removed fault remaps
-
-[Fixed] Fixed (once again) bad remaps on helmets
-
-[Fixed] Fixed SPG-9 Log Console errors
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1471
 
-<!-- revision 1471 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1471
 
@@ -1648,45 +1334,32 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 5 (1466)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 2 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Moved to a brand new server (this is a test message, ignore)
 
+\[Improved] Added wrenches to USMC & MSV arsenals
 
-##### Improved
+\[Improved] Reduced weight of Azart radio
 
+**Fixed**
 
-[Improved] Moved to a brand new server (this is a test message, ignore)
+\[Fixed] Removed the ability to attach a picatinny rail scope to the M4A1 (the one with a carry handle).
 
-[Improved] Added wrenches to USMC & MSV arsenals
+\[Fixed] Fixed duplicated radio on EMR SL loadout
 
-[Improved] Reduced weight of Azart radio
-
-
-##### Fixed
-
-
-[Fixed] Removed the ability to attach a picatinny rail scope to the M4A1 (the one with a carry handle).
-
-[Fixed] Fixed duplicated radio on EMR SL loadout
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1466
 
-<!-- revision 1466 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1466
 
@@ -1697,39 +1370,26 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 3 (1463)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Added M4A1 and M4A1 BLOCK II to the USMC arsenal
 
+\[Improved] Added ETool to the USMC and MSV arsenal
 
-##### Improved
+**Fixed**
 
-
-[Improved] Added M4A1 and M4A1 BLOCK II to the USMC arsenal
-
-[Improved] Added ETool to the USMC and MSV arsenal
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1463
 
-<!-- revision 1463 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1463
 
@@ -1740,37 +1400,24 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 1 (1462)
 _<mark style="color:red;">Changes:</mark>_ 1 additions, 0 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added mission config file for RHS Arland Conflict scenario
 
+**Improved**
 
-[Added] Added mission config file for RHS Arland Conflict scenario
+**Fixed**
 
-
-##### Improved
-
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1462
 
-<!-- revision 1462 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1462
 
@@ -1781,51 +1428,38 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 7 (1455)
 _<mark style="color:red;">Changes:</mark>_ 1 additions, 6 improvements, 1 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added Arland version of RHS Conflict (WIP)
 
+**Improved**
 
-[Added] Added Arland version of RHS Conflict (WIP)
+\[Improved] Updated Everon version of RHS Conflict
 
+\[Improved] Tweaked EMR loadouts
 
-##### Improved
+\[Improved] Configured deployment points on M4A1
 
+\[Improved] Updated Vehicle entity catalogs - temporarily removed T14 & K17 from the list
 
-[Improved] Updated Everon version of RHS Conflict
+\[Improved] Updated Conflict faction configs
 
-[Improved] Tweaked EMR loadouts
+\[Improved] Updated Conflict faction configs again
 
-[Improved] Configured deployment points on M4A1
+**Fixed**
 
-[Improved] Updated Vehicle entity catalogs - temporarily removed T14 & K17 from the list
+\[Fixed] One layer too much in Arland RHS Conflict
 
-[Improved] Updated Conflict faction configs
-
-[Improved] Updated Conflict faction configs again
-
-
-##### Fixed
-
-
-[Fixed] One layer too much in Arland RHS Conflict
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1455
 
-<!-- revision 1455 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1455
 
@@ -1836,63 +1470,50 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 12 (1443)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 4 improvements, 10 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] T-14 Turret rotation speed
 
+\[Improved] Added supply storage to K-17
 
-##### Improved
+\[Improved] T14 ERA protection
 
+\[Improved] Added ETool to the USMC and MSV loadouts
 
-[Improved] T-14 Turret rotation speed
+**Fixed**
 
-[Improved] Added supply storage to K-17
+\[Fixed] Brought back missing RHS tab in controls section of settings
 
-[Improved] T14 ERA protection
+\[Fixed] Spelling error in NV gain reset button display name
 
-[Improved] Added ETool to the USMC and MSV loadouts
+\[Fixed] NPE when user would try to adjust NV gain
 
+\[Fixed] Fixed faulty refs to bad Icons in Weapons
 
-##### Fixed
+\[Fixed] Fixed faulty refs to sounds in vehicles
 
+\[Fixed] Smoke Launchers on T14
 
-[Fixed] Brought back missing RHS tab in controls section of settings
+\[Fixed] T14 Fuel tank sizes
 
-[Fixed] Spelling error in NV gain reset button display name
+\[Fixed] K17 Fuel tank size
 
-[Fixed] NPE when user would try to adjust NV gain
+\[Fixed] Missing HE ammo explosion effects
 
-[Fixed] Fixed faulty refs to bad Icons in Weapons
+\[Fixed] T14 Damage manager
 
-[Fixed] Fixed faulty refs to sounds in vehicles
-
-[Fixed] Smoke Launchers on T14
-
-[Fixed] T14 Fuel tank sizes
-
-[Fixed] K17 Fuel tank size
-
-[Fixed] Missing HE ammo explosion effects
-
-[Fixed] T14 Damage manager
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1443
 
-<!-- revision 1443 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1443
 
@@ -1903,67 +1524,54 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 18 (1425)
 _<mark style="color:red;">Changes:</mark>_ 8 additions, 3 improvements, 5 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Covered ACH & MICH base models and textures
 
+\[Added] Added ACH and MICH covered helmets
 
-[Added] Covered ACH & MICH base models and textures
+\[Added] Added placeholders for remaining ACH and MICH variants (lacking texture for OCP and M81 Early variants.)
 
-[Added] Added ACH and MICH covered helmets
+\[Added] Added DCU, M81 and UCP versions of covered ACH
 
-[Added] Added placeholders for remaining ACH and MICH variants (lacking texture for OCP and M81 Early variants.)
+\[Added] Added Desert MARPAT version of MICH
 
-[Added] Added DCU, M81 and UCP versions of covered ACH
+\[Added] Sounds to T14 commander turret
 
-[Added] Added Desert MARPAT version of MICH
+\[Added] Stock Fold Animation to AN-94 Railed
 
-[Added] Sounds to T14 commander turret
+\[Added] Stock Fold Animation RPK-74M
 
-[Added] Stock Fold Animation to AN-94 Railed
+**Improved**
 
-[Added] Stock Fold Animation RPK-74M
+\[Improved] Radial menu now works on scenario restart in Workbench, possibly improving stability in other use-cases as well
 
+\[Improved] T-14 Turret armor split into multiple destructible pieces
 
-##### Improved
+\[Improved] Updated RHS Conflict scenario (WIP)
 
+**Fixed**
 
-[Improved] Radial menu now works on scenario restart in Workbench, possibly improving stability in other use-cases as well
+\[Fixed] Fixed weird AO overruns on T14 textures; fixes [#458](https://github.com/RHSMODS/statusquo/issues/458)
 
-[Improved] T-14 Turret armor split into multiple destructible pieces
+\[Fixed] Fixed RPK-74M falling through the ground; fixes [#519](https://github.com/RHSMODS/statusquo/issues/519)
 
-[Improved] Updated RHS Conflict scenario (WIP)
+\[Fixed] Reverted specialized headphone helmets back into the Arsenal to recover loadout saving
 
+\[Fixed] T14 for 1.0; fixes [#493](https://github.com/RHSMODS/statusquo/issues/493), [#501](https://github.com/RHSMODS/statusquo/issues/501), [#505](https://github.com/RHSMODS/statusquo/issues/505), [#517](https://github.com/RHSMODS/statusquo/issues/517), [#522](https://github.com/RHSMODS/statusquo/issues/522)
 
-##### Fixed
+\[Fixed] K17 for 1.0 release; fixes [#499](https://github.com/RHSMODS/statusquo/issues/499), fixes [#504](https://github.com/RHSMODS/statusquo/issues/504), fixes [#518](https://github.com/RHSMODS/statusquo/issues/518)
 
-
-[Fixed] Fixed weird AO overruns on T14 textures; fixes [#458](https://github.com/RHSMODS/statusquo/issues/458)
-
-[Fixed] Fixed RPK-74M falling through the ground; fixes [#519](https://github.com/RHSMODS/statusquo/issues/519)
-
-[Fixed] Reverted specialized headphone helmets back into the Arsenal to recover loadout saving
-
-[Fixed] T14 for 1.0; fixes [#493](https://github.com/RHSMODS/statusquo/issues/493), [#501](https://github.com/RHSMODS/statusquo/issues/501), [#505](https://github.com/RHSMODS/statusquo/issues/505), [#517](https://github.com/RHSMODS/statusquo/issues/517), [#522](https://github.com/RHSMODS/statusquo/issues/522)
-
-[Fixed] K17 for 1.0 release; fixes [#499](https://github.com/RHSMODS/statusquo/issues/499), fixes [#504](https://github.com/RHSMODS/statusquo/issues/504), fixes [#518](https://github.com/RHSMODS/statusquo/issues/518)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1425
 
-<!-- revision 1425 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1425
 
@@ -1978,43 +1586,32 @@ _<mark style="color:red;">Changes:</mark>_ 2 additions, 2 improvements, 3 fixes 
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
-##### Added
+**Added**
 
+\[Added] Gray version of MI-8
 
-[Added] Gray version of MI-8
+\[Added] "Kalosha" for ak
 
-[Added] "Kalosha" for ak
+**Improved**
 
+\[Improved] Stock folding is now smooth instead of immediate change of state
 
-##### Improved
+\[Improved] Improved null pointer safety in LRFs
 
+**Fixed**
 
-[Improved] Stock folding is now smooth instead of immediate change of state
+\[Fixed] Broken PDU4 and Vector 21 prefabs; fixes [#508](https://github.com/RHSMODS/statusquo/issues/508)
 
-[Improved] Improved null pointer safety in LRFs
+\[Fixed] Fixed dead PDU and Vector; fixes [#520](https://github.com/RHSMODS/statusquo/issues/520)
 
+\[Fixed] Ammo type labels in inventory no longer support long strings; fixes [#509](https://github.com/RHSMODS/statusquo/issues/509)
 
-##### Fixed
-
-
-[Fixed] Broken PDU4 and Vector 21 prefabs; fixes [#508](https://github.com/RHSMODS/statusquo/issues/508)
-
-[Fixed] Fixed dead PDU and Vector; fixes [#520](https://github.com/RHSMODS/statusquo/issues/520)
-
-[Fixed] Ammo type labels in inventory no longer support long strings; fixes [#509](https://github.com/RHSMODS/statusquo/issues/509)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.6.1420
 
-<!-- revision 1420 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 1420
 
@@ -2029,38 +1626,32 @@ _<mark style="color:red;">Changes:</mark>_ 4 additions, 3 improvements, 4 fixes 
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
-##### Added
+**Added**
 
+\[Added] Camo Arsenal URAL-4320
 
-[Added] Camo Arsenal URAL-4320
+\[Added] Camo Engineering URAL-4320
 
-[Added] Camo Engineering URAL-4320
+\[Added] Camo Ammo URAL-4320
 
-[Added] Camo Ammo URAL-4320
+\[Added] Camo Repair URAL-4320
 
-[Added] Camo Repair URAL-4320
+**Improved**
 
+\[Improved] Made RHS arsenals self sustainable and infinitive
 
-##### Improved
+\[Improved] Added more wind influence to Tucha smoke particle
 
+\[Improved] Removed eyecup from 1p86
 
-[Improved] Made RHS arsenals self sustainable and infinitive
+**Fixed**
 
-[Improved] Added more wind influence to Tucha smoke particle
+\[Fixed] Fixed M27IAR & M4 hand animations in exp build
 
-[Improved] Removed eyecup from 1p86
+\[Fixed] Fixes to scripts after 1.0 API changes
 
+\[Fixed] Minor fix to RHS20 Patch
 
-##### Fixed
+\[Fixed] Urals
 
-
-[Fixed] Fixed M27IAR & M4 hand animations in exp build
-
-[Fixed] Fixes to scripts after 1.0 API changes
-
-[Fixed] Minor fix to RHS20 Patch
-
-[Fixed] Urals
-
-
-##### Deleted
+**Deleted**

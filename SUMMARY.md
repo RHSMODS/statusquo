@@ -24,6 +24,7 @@
     * [RHS Radial Menu](arma-reforger/rhs-status-quo/general-systems/radial-menu.md)
     * [EARHS](arma-reforger/rhs-status-quo/general-systems/earhs.md)
     * [Default Key Bindings](arma-reforger/rhs-status-quo/general-systems/default-key-binds.md)
+    * [Close Air Support](arma-reforger/rhs-status-quo/general-systems/close-air-support.md)
   * [BLUFOR](arma-reforger/rhs-status-quo/blufor/README.md)
     * [What is BLUFOR?](arma-reforger/rhs-status-quo/blufor/what-is-blufor/README.md)
       * [USMC](arma-reforger/rhs-status-quo/blufor/what-is-blufor/usmc.md)
