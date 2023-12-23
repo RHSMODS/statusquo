@@ -4,4 +4,4 @@ The Advanced Combat Helmet (ACH) is a significant upgrade in military protective
 
 In addition to its protective qualities, the ACH is designed for comfort and compatibility with other military equipment. It features adjustable internal padding, ensuring a comfortable and secure fit for various head sizes, and is adaptable with communication systems, night vision devices, and goggles. The helmet also supports modular attachments, like visors and camouflage covers, allowing for customization according to different mission requirements. Despite its enhanced protection, the ACH maintains a lighter weight, aiding in mobility and reducing fatigue during prolonged use, making it a standard issue in many military units worldwide.
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
