@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/24/2023 3:50:44 PM UTC | Revision 1873 | Ashyl]
+
+[Added] SR3M Effects, recoil and sounds tweaks
+
+[Fixed] KH-55 Particles
+
+[Improved] Various particles effects
+
+
+
 [12/24/2023 2:33:18 PM UTC | Revision 1872 | reyhard]
 
 [Fixed] AFRF Arsenal box was missing Hierarchy component on statue placed on top of boxes. This resulted in statue staying in original place when GM repositioned arsenal
