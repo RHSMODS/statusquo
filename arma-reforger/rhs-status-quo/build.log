@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/24/2023 2:33:18 PM UTC | Revision 1872 | reyhard]
+
+[Fixed] AFRF Arsenal box was missing Hierarchy component on statue placed on top of boxes. This resulted in statue staying in original place when GM repositioned arsenal
+
+
+
 [12/24/2023 12:14:03 AM UTC | Revision 1871 | Soul_Assassin]
 
 [Fixed] M8541 and Leo Mk4 reticles visible in 2D mode gain (not working yet due to vanilla bug, so don't use 2D optics with these scopes!); fixes #598
