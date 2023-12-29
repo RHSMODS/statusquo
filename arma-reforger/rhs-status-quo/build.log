@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[12/29/2023 6:07:51 AM UTC | Revision 1888 | Ashyl]
+
+[Added] Armata recoil (First test)
+
+[Improved] Fully remake of Armata sounds and particles
+
+[Improved] K17 Engine and shot sounds
+
+[Improved] Various particle effects
+
+[Improved] Sounds and effects of high-caliber rounds
+
+[Other] I added more samples of sounds, file structure not good rn but i will fix before new year. Please test armata recoil and provide feedback
+
+
+
 [12/29/2023 1:44:41 AM UTC | Revision 1887 | Tactical_Toxic]
 
 [Other] Added vehcomplex geo to k17 wheel
