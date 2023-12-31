@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/31/2023 4:17:18 PM UTC | Revision 1902 | Tactical_Toxic]
+
+[Fixed] Fixed M40A5 front rail was using wrong slot type
+
+[Fixed] Fixed SR3M was missing physics attributes making it weight just a few grams
+
+
+
 [12/30/2023 5:24:12 PM UTC | Revision 1901 | Soul_Assassin]
 
 [Other] Forgotten layer
