@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/4/2024 5:39:56 PM UTC | Revision 1913 | reyhard]
+
+[Other] Added ability to control kurwa factor (disguised as Curve in data) on rhs_patch_us_flag_flat
+
+
+
 [1/4/2024 5:28:16 PM UTC | Revision 1912 | odkupiciel375]
 
 [Other] Changed: Switched side velcro slots from LoadoutSlotInfo to RHS_LoadoutSlotInfo for Helmet_ECH_base.et and enabled mesh morphing for those slots
