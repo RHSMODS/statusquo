@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/4/2024 5:28:16 PM UTC | Revision 1912 | odkupiciel375]
+
+[Other] Changed: Switched side velcro slots from LoadoutSlotInfo to RHS_LoadoutSlotInfo for Helmet_ECH_base.et and enabled mesh morphing for those slots
+
+
+
 [1/4/2024 5:24:57 PM UTC | Revision 1911 | odkupiciel375]
 
 [Other] Changed: Switched from using RHSPatchStorageComponent to RHS_ClothNodeStorageComponent for patch storage on Jacket_6b51_VKPO.et
