@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/4/2024 5:56:58 PM UTC | Revision 1914 | odkupiciel375]
+
+[Other] Added: BaseAnimationComponent to Patch_Base.et - will throw some errors
+
+[Other] Changed: m_sMorphStateName for Helmet_ECH_base.et to be "Curve" and made one slot not morph for testing purpose
+
+
+
 [1/4/2024 5:39:56 PM UTC | Revision 1913 | reyhard]
 
 [Other] Added ability to control kurwa factor (disguised as Curve in data) on rhs_patch_us_flag_flat
