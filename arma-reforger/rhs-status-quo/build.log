@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[1/4/2024 10:05:33 PM UTC | Revision 1916 | odkupiciel375]
+
+[Other] Removed: RHS_PatchStorageComponent from Jacket_6b51_VKPO.et
+
+[Other] Changed: Increased morphing of rhs_patch_us_flag_flat.fbx
+
+[Other] Changed: Removed worn and item model from Patch_Base.et and changed mesh model to rhs_patch_us_flag_flat.xob
+
+[Other] Changed: Added some random anim graphs to the patch so it will stop throwing errors about that - it will probably need an empty graph or something like that
+
+[Other] Changed: Adjusted resting position of Patch_Base.et so now it will lay flat when dropped
+
+[Other] Changed: Switched default value of RHS_LoadoutSlotInfo.m_sMorphStateName to "Curved"
+
+[Other] Removed: RHS_PatchComponent.c, RHS_PatchStorageComponent.c, RHS_PatchStorageSlot.c and RHS_GadgetManagerComponent_MODDED.c as they are no longer needed
+
+
+
 [1/4/2024 10:01:17 PM UTC | Revision 1915 | Tactical_Toxic]
 
 [Other] Tried to fix k17 but collider doesnt want to be imported for god know why reason
