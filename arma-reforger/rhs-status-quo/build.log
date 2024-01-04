@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/4/2024 5:24:57 PM UTC | Revision 1911 | odkupiciel375]
+
+[Other] Changed: Switched from using RHSPatchStorageComponent to RHS_ClothNodeStorageComponent for patch storage on Jacket_6b51_VKPO.et
+
+[Other] Changed: Disabled Gadget component of Patch_Base.et - no longer needed
+
+[Other] Added: Created config file RHS_CustomAttributes_VelcroMedium.conf for patch slot compatibility list which is used in inventory item component > custom attributes > RHS_CustomAttributes and applied that config to the Patch_Base.et
+
+
+
 [1/3/2024 11:40:31 PM UTC | Revision 1910 | Tactical_Toxic]
 
 [Fixed] Fixed goggles position on ACH
