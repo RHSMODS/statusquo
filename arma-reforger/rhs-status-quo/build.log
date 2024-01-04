@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/4/2024 10:01:17 PM UTC | Revision 1915 | Tactical_Toxic]
+
+[Other] Tried to fix k17 but collider doesnt want to be imported for god know why reason
+
+
+
 [1/4/2024 5:56:58 PM UTC | Revision 1914 | odkupiciel375]
 
 [Other] Added: BaseAnimationComponent to Patch_Base.et - will throw some errors
