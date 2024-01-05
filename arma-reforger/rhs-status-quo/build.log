@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/5/2024 1:42:31 PM UTC | Revision 1917 | Tactical_Toxic]
+
+[Fixed] Fixed k17 was falling through the ground
+
+[Fixed] Fixed k17 commander turret was not attached to main turret
+
+[Other] Well commander turret still doesnt move when commander wants to, also when you swap seats you sloowly sink deeper into them. Anim problem?
+
+
+
 [1/4/2024 10:05:33 PM UTC | Revision 1916 | odkupiciel375]
 
 [Other] Removed: RHS_PatchStorageComponent from Jacket_6b51_VKPO.et
