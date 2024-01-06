@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/6/2024 10:55:08 PM UTC | Revision 1942 | odkupiciel375]
+
+[Fixed] Replace helmet attachment action wouldn't work with new slots for patches
+
+[Other] Fixed: Inheritance of Helmet_ECH...
+
+[Other] Removed: Equip gadget action from Patch_Base.et
+
+[Other] Added: AttachTo actions to Patch_Base.et in order to allow for attaching patches to different clothing items with useractions
+
+
+
 [1/6/2024 8:54:02 PM UTC | Revision 1941 | Tactical_Toxic]
 
 [Other] Pfm 5.0 uv fix
