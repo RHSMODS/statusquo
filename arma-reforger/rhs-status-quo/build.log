@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/6/2024 6:41:34 PM UTC | Revision 1933 | odkupiciel375]
+
+[Improved] Reduced the weight of the PCGen III vest
+
+[Other] Changed: Reworked Vest_PCGen_III_rifleman.et and lefty variant to be compliant with new patch system
+
+[Other] Changed: Weight reduction from over 5kg to around ~1kg
+
+[Other] Changed: Resting orientation of Vest_PCGen_III_rifleman.et so it will look like its laying (but floating :( due to the positioning of that empty object)
+
+
+
 [1/6/2024 6:15:14 PM UTC | Revision 1932 | Tactical_Toxic]
 
 [Other] Collider fix for berezhok turret
