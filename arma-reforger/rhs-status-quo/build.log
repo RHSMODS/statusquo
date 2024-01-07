@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/7/2024 12:32:19 PM UTC | Revision 1946 | odkupiciel375]
+
+[Improved] Using [RMB] on an item from the arsenal that can be attached to a clothing (like f.e. NVG) will now try to attach it rather than just storing it in the backpack
+
+[Other] Changed: Reduced weight of a patch from 170g to 20g
+
+
+
 [1/6/2024 11:48:14 PM UTC | Revision 1945 | Tactical_Toxic]
 
 [Other] K17 camera positions fix
