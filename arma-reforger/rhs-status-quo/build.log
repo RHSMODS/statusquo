@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/7/2024 3:27:45 PM UTC | Revision 1947 | Tactical_Toxic]
+
+[Other] Fixed m4 was using m4a1 locale
+
+
+
 [1/7/2024 12:32:19 PM UTC | Revision 1946 | odkupiciel375]
 
 [Improved] Using [RMB] on an item from the arsenal that can be attached to a clothing (like f.e. NVG) will now try to attach it rather than just storing it in the backpack
