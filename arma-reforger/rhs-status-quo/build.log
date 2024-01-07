@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/7/2024 8:22:22 PM UTC | Revision 1953 | Ram]
+
+[Added] Added PIP cameras to K-17
+
+[Added] Added Driver display to K-17
+
+[Other] Modded SCR_CompartmentAccessComponent component to add a hook to get compartment enter event on clientside
+
+
+
 [1/7/2024 7:57:01 PM UTC | Revision 1952 | Tactical_Toxic]
 
 [Improved] Improved G3 shirt mesh
