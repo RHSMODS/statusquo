@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/8/2024 9:47:33 PM UTC | Revision 1966 | odkupiciel375]
+
+[Other] Changed: Removed ECommonItemType "RHS_HelmetBackVelcro" as it was not necessary
+
+[Other] Changed: Spelling of ECommonItemType to use capital letters and updated prefabs that used said enums
+
+[Other] Added: Additional patch offset position and rotation to RHS_LoadoutSlotInfo (for examples check Helmet_Kiver_RSP.et)
+
+[Other] Added: List of enablers and list of blockers which are checked for RHS_LoadoutSlotInfo when item is meant to the slot with such properties (for examples check Helmet_Kiver_RSP.et)
+
+
+
 [1/8/2024 5:25:38 PM UTC | Revision 1965 | odkupiciel375]
 
 [Other] Changed: Moved playerPreview refresh logic from SimpleFSM to callback to ensure that it will work in MP
