@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/8/2024 9:19:31 AM UTC | Revision 1961 | Soul_Assassin]
+
+[Fixed] Cleaned up more old references to RHS 20 patch
+
+[Other] PATCH enum changed to RHS_Patch to avoid compatibility conflicts
+
+
+
 [1/8/2024 4:59:57 AM UTC | Revision 1960 | PUDDY300]
 
 [Other] Fixed M17/M18 Animations
