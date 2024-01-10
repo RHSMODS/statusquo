@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/10/2024 9:31:39 AM UTC | Revision 1979 | Soul_Assassin]
+
+[Fixed] Corrected patch positioning on OPSCORE helmets
+
+
+
 [1/10/2024 7:34:51 AM UTC | Revision 1978 | Ashyl]
 
 [Fixed] Changed "weight per ammo" in InventoryItemComponent for boxes of 125mm shells, so its possible to take ammo boxes into player inventory
