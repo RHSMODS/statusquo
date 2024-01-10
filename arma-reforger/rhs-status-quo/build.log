@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[1/10/2024 5:41:49 AM UTC | Revision 1975 | spacestrider]
+
+[Added] Collider to T14 cannon
+
+[Added] Scripted recoil to all vehicles
+
+[Other] * T14 not setting off mines
+
+[Other] * T14 not keeping momentum when destroying fences
+
+[Other] * T14 seating positions
+
+[Other] * T14 third person cameral being tilted
+
+[Other] Fixed T14 get in and out positions
+
+
+
 [1/9/2024 11:23:51 PM UTC | Revision 1974 | Soul_Assassin]
 
 [Added] Added USMC ID patches
