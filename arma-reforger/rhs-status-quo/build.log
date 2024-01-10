@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/10/2024 10:52:52 PM UTC | Revision 1990 | Ashyl]
+
+[Added] Recoil for 2A42
+
+[Other] Small changes on ballistics and accuracy for shells
+
+[Other] Removed Recoil system and prefabs via particle system
+
+
+
 [1/10/2024 10:38:48 PM UTC | Revision 1989 | odkupiciel375]
 
 [Fixed] Not being able to save the loadout with Vest PC Gen III Rifleman
