@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/10/2024 10:38:48 PM UTC | Revision 1989 | odkupiciel375]
+
+[Fixed] Not being able to save the loadout with Vest PC Gen III Rifleman
+
+[Other] Changed: a bit of inventory logic changes to make RHS_ClothNodeStorageComponent work with nested SCR_UniversalInventoryStorageComponent
+
+
+
 [1/10/2024 9:57:27 PM UTC | Revision 1988 | PUDDY300]
 
 [Other] Added sounds to SR-3M reload
