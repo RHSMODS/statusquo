@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/12/2024 6:36:43 PM UTC | Revision 1998 | odkupiciel375]
+
+[Improved] Changed bungee retention cords on PC Gen 3 Vest pouches so now they will spring back when pouch is empty
+
+[Other] Added: Morphs to the PMAG_pouches_front.fbx and create new slot class which will morph parent model when empty (or when full as it can be changed by one of new params)
+
+[Other] And localization files which i forgot to push out with 1991
+
+
+
 [1/12/2024 4:22:39 PM UTC | Revision 1997 | Soul_Assassin]
 
 [Added] Added black USMC Force Recon position patch
