@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/12/2024 8:52:07 AM UTC | Revision 1996 | Soul_Assassin]
+
+[Fixed] Fixed silenced AKS-74UN saving to arsenal. Had wrong attachment type.
+
+
+
 [1/12/2024 1:55:43 AM UTC | Revision 1995 | gurdy]
 
 [Added] G17, G45, M17, and M18 stringtable entries
