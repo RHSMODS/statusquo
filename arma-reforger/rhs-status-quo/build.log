@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/13/2024 11:23:28 AM UTC | Revision 2001 | Tactical_Toxic]
+
+[Other] Minor tweaks to HSGI and Taktika vest
+
+[Other] Still need someone to weight it
+
+
+
 [1/13/2024 10:41:43 AM UTC | Revision 2000 | odkupiciel375]
 
 [Other] Fixed: RHS_LoadoutSlotInfo offset would reset to default slot position when either slot owner would change its parent or another object would be added to a different slot
