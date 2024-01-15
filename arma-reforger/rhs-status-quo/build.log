@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/15/2024 4:13:20 PM UTC | Revision 2015 | reyhard]
+
+[Improved] Added muzzle velocity coefficient to AKS-74U so bullets fired from it are fired with lower speed
+
+[Improved] Configured 7U1 round - added new air drag value, configured penetration data (set it in a way that AKS74U is penetrating SSh-68 helmet at 300m), increased diameter compared to 7N6/N10 (as in real life), increased init speed to 360 m/s, so it corresponds to init speed when fired from AK74 (when fired from AKS74U, bullet will leave barrel at 303 m/s. Warning, this bullet deals now even less damage than pistol rounds. Low lethality of that round was one of the reasons why 7U1 & AKS74UB was dropped and instead AS Val/Vintorez family was developed
+
+
+
 [1/14/2024 11:19:10 PM UTC | Revision 2014 | Tactical_Toxic]
 
 [Added] Added interior to T-14
