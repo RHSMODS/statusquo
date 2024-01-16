@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[1/16/2024 12:09:39 PM UTC | Revision 2024 | Ram]
+
+[Added] Added PMF and driver displays to T-14
+
+[Added] Added turret and commander PIP displays to K-17 and T-14
+
+[Added] Added triplex view layout
+
+[Added] Added base target recognition for PMF PIP screens
+
+[Added] Added ability to destroy K-17 brains
+
+[Other] Rename all of the K-17 screens stuff to neutral Vehicle components.
+
+
+
 [1/16/2024 10:36:49 AM UTC | Revision 2023 | MacroBebra]
 
 [Other] Taktika pouches reUV
