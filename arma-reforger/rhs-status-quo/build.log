@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/16/2024 9:46:26 AM UTC | Revision 2022 | Soul_Assassin]
+
+[Fixed] Fixed 2D reticles now have RGB again
+
+[Other] Setup MDO prefab and reticles
+
+
+
 [1/15/2024 9:49:40 PM UTC | Revision 2021 | Tactical_Toxic]
 
 [Other] Imrpoved ta648 mesh by increasing polycount near player's eye
