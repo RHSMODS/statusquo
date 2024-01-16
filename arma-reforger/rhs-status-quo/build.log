@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/16/2024 2:08:41 PM UTC | Revision 2025 | reyhard]
+
+[Fixed] Fixed SP-5 & SP-6 inheritance
+
+[Improved] Configured air drag on SP-5 & SP-6 + tweaked ballistic data of it
+
+
+
 [1/16/2024 12:09:39 PM UTC | Revision 2024 | Ram]
 
 [Added] Added PMF and driver displays to T-14
