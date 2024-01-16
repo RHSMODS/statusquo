@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/16/2024 11:10:35 PM UTC | Revision 2027 | odkupiciel375]
+
+[Improved] Ability to inspect clothing item to put attachments in exact slots
+
+[Other] Rn i only configured it in Helmet_PASGT_01_base.et which means that velcro left and right needs to be adjusted separately in those prefabs that have them like i did for Helmet_ECH_base.et (same needs to be done for jackets and vest, pouches etc) - the easiest way to do that is to enable 'debug worn model' and then InspectionWidgetOffset corresponds to actual position that will be shown in inventory
+
+[Other] Changed: reduced ClothAttachment_Base.et default context radius
+
+
+
 [1/16/2024 8:17:28 PM UTC | Revision 2026 | Tactical_Toxic]
 
 [Other] Added "brains" collider to t14
