@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/17/2024 6:11:04 PM UTC | Revision 2029 | odkupiciel375]
+
+[Other] Changed: Renamed all MODDED script files to new convention 'RHS_M_VanilaFileName.c'
+
+[Other] Changed: Moved modded class SCR_SightsZoomFOVInfo from RHS_M_CharacterCameraADSVehicle.c to RHS_M_SightsZoomFOVInfo.c
+
+[Other] Changed: Moved modded class CharacterCameraADSVehicle from RHS_CharacterCameraPiPADSVehicle.c to RHS_M_CharacterCameraADSVehicle.c (as thats where the rest of modifications for this class is)
+
+[Other] Removed: RHS_MODDED_RpcManager_PMF.c and its content was moved to RHS_RpcManager.c
+
+
+
 [1/17/2024 4:10:29 PM UTC | Revision 2028 | Ashyl]
 
 [Other] Some particles improved
