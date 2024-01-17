@@ -8,12 +8,12 @@ The Game Master mode introduces to the player the ability to call in air strikes
 
 &#x20;The entries can be found in the catalogue under Systems.
 
-<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption><p>GBU-12 and Kh-55 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption><p>GBU-12 and Kh-55 </p></figcaption></figure>
 
 Select the object and place it on the ground where you woulds like the warhead to strike. Use Shift and drag to change direction of the attack.
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 Each payload has its own delivery time and explosive strength.
 
-<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>

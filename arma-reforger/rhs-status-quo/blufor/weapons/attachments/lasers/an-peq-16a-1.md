@@ -2,7 +2,7 @@
 
 The AN/PEQ-16A is a military-grade laser aiming module designed for use with firearms. It is primarily used by the United States military and law enforcement agencies. The AN/PEQ-16A combines a visible red laser, an infrared laser, and an infrared illuminator into one compact unit, allowing for accurate aiming and target acquisition in a variety of lighting conditions. It also features a remote pressure switch for ease of use and can be mounted to a variety of weapons using its built-in Picatinny rail mount.
 
-<figure><img src="../../../../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>AN/PEQ-16A</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (80).png" alt=""><figcaption><p>AN/PEQ-16A</p></figcaption></figure>
 
 ## Operations
 
@@ -33,7 +33,7 @@ The AN/PEQ-16 can be set to the following modes:
 
 You can use the selector to set the mode before turning the device ON or during operation.
 
-<figure><img src="../../../../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 ## IR Illuminator Frequency
 

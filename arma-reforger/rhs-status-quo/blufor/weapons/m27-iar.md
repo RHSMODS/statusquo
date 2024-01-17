@@ -8,8 +8,8 @@ The M27 IAR is based on the HK416, which itself is a development of the M4 Carbi
 
 The rifle comes standard with foldable iron sights that can be ranged from between 200m and 600m.
 
-<figure><img src="../../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 These sights can be also flipped independently, either through the [radial-menu.md](../../general-systems/radial-menu.md "mention") or the inspect function.
 
-<figure><img src="../../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>

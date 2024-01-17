@@ -6,7 +6,7 @@ Introduced in **0.4.1033**
 
 "Perst Classic" gen 4.0 (GREEN+) is designed to indicate the target during observation, inspection and firing from small arms with the "Perst Classic" mounted on, at night in two ranges: green 520 nm and infrared (IR) 850 nm, and also to illuminate the target in IR-range with a wavelenght of 850 nm.
 
-<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Perst</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Perst</p></figcaption></figure>
 
 ## Operations
 

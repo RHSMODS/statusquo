@@ -10,4 +10,4 @@ The RPK-74M comes equipped with a folding bipod, allowing for stabilization when
 
 Various versions and modifications of the RPK-74M exist, which may include differences in furniture, sights, and other features depending on the specific model and manufacturer. The weapon has seen use in Russian military and paramilitary forces, as well as by several other countries that have adopted Russian weaponry or received them through export agreements. Renowned for its reliability and firepower, the RPK-74M remains a capable light machine gun in military and security contexts.
 
-<figure><img src="../../../../.gitbook/assets/image (133).png" alt=""><figcaption><p>RPK-74M</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (143).png" alt=""><figcaption><p>RPK-74M</p></figcaption></figure>
