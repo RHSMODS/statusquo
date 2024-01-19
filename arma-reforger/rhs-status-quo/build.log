@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/19/2024 9:57:19 PM UTC | Revision 2037 | PUDDY300]
+
+[Other] Added script to communicate ammo count to animation graph
+
+
+
 [1/19/2024 4:59:21 PM UTC | Revision 2036 | Soul_Assassin]
 
 [Fixed] Fix incompatibility issue in RHS_M_SightsComponent.c
