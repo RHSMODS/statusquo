@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/19/2024 12:57:12 PM UTC | Revision 2035 | Ram]
+
+[Other] Vehicle screens refactoring.
+
+[Other] PMF Boot screen.
+
+[Other] Remove vehicle custom cameras component, use custom slot info for camera positioning.
+
+
+
 [1/18/2024 10:04:55 PM UTC | Revision 2034 | Tactical_Toxic]
 
 [Other] Pmag initial injection
