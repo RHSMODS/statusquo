@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/20/2024 8:19:01 AM UTC | Revision 2039 | Ram]
+
+[Other] RHS_2DSightsComponent rewritten to RHS_2DSightsComponentV2. (Original one left untouched)
+
+[Other] All logic has been moved to RHS_SightInfoHandler classes.
+
+[Other] RHS_SightInfoHandler-s attached to 2D sights root widget.
+
+
+
 [1/19/2024 9:58:03 PM UTC | Revision 2038 | Tactical_Toxic]
 
 [Improved] Improved t14 interior textures
