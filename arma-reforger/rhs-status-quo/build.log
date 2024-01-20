@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/20/2024 12:30:36 PM UTC | Revision 2040 | Ram]
+
+[Added] Added target recognition/guiding to K-17 and T-14
+
+[Other] Hold space for lock on target.
+
+[Other] Work only on vehicles, at least for now.
+
+[Other] MP vehicle screens initialization fix.
+
+
+
 [1/20/2024 8:19:01 AM UTC | Revision 2039 | Ram]
 
 [Other] RHS_2DSightsComponent rewritten to RHS_2DSightsComponentV2. (Original one left untouched)
