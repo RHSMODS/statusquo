@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/21/2024 5:28:46 PM UTC | Revision 2053 | Ram]
+
+[Other] PMF damage inspection screen for K-17.
+
+[Other] Optics on PiP screens may now be broken.
+
+[Other] Turned off screen now also has layouts. (I hate HDR)
+
+[Other] Fix for triplex layout when entering GM.
+
+
+
 [1/20/2024 11:24:38 PM UTC | Revision 2052 | Tactical_Toxic]
 
 [Other] Tweaked k17 and t14 optics collider
