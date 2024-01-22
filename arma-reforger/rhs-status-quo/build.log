@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[1/22/2024 10:29:47 AM UTC | Revision 2055 | spacestrider]
+
+[Added] 30mm 3UOF6 HEF-T
+
+[Improved] 9M113M2 explosive yield and damage simulation
+
+[Removed] Tracers from 30mm M929 APFSDS and 3UOF8 HEF-I
+
+[Improved] 30mm belts to use a mixed belt. AP is full APFSDS, HE is HEF-I, AP-T, HEF-I, HEF-T
+
+[Other] * 30mm M929 APFSDS and ZUBR6 AP-T penetration values
+
+[Other] * 30mm belts 500 rounds -> 250 rounds
+
+[Other] Moved a few actions around in the K17 to make it easier to switch seats
+
+
+
 [1/21/2024 11:09:45 PM UTC | Revision 2054 | Soul_Assassin]
 
 [Added] Added SU-260/P Machine Gun Day Optic (MDO)
