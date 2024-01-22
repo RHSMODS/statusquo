@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/22/2024 8:21:51 PM UTC | Revision 2059 | Tactical_Toxic]
+
+[Other] Disabled player wobble in k17 graph (due being disgustingly awful)
+
+
+
 [1/22/2024 8:07:01 PM UTC | Revision 2058 | Soul_Assassin]
 
 [Fixed] Fix possible conflicts with SightZoomFOVInfo ForceUpdate method
