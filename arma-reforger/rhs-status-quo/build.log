@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/22/2024 8:07:01 PM UTC | Revision 2058 | Soul_Assassin]
+
+[Fixed] Fix possible conflicts with SightZoomFOVInfo ForceUpdate method
+
+
+
 [1/22/2024 7:59:22 PM UTC | Revision 2057 | Tactical_Toxic]
 
 [Other] Disabled 2a42 gun animated recoil
