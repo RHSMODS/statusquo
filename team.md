@@ -112,7 +112,11 @@ In order of appearance...
 
 **Bebra4**
 
+**Sesk**
 
+**Ram**
+
+**Xiaoxiao**
 
 ## Historic
 
@@ -451,6 +455,8 @@ LjubishaSRB
 Baraka
 
 Kimi
+
+Zelik
 
 ## Music
 
