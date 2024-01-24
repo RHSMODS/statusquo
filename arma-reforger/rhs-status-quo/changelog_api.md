@@ -13,6 +13,349 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.6.2062
+
+<!-- revision 2062 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2062
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, January 24, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 194 (1868)
+
+_<mark style="color:red;">Changes:</mark>_ 59 additions, 39 improvements, 53 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] SR3M Effects, recoil and sounds tweaks
+
+[Added] PSO1M2-1 for SR3M
+
+[Added] T14 Armata engine sounds (first version)
+
+[Added] Added Tactical pants (M81)
+
+[Added] Added Cargo pants (M81)
+
+[Added] Added more rail cover variants
+
+[Added] Added custom animations for Garmin watch
+
+[Added] Armata recoil (First test)
+
+[Added] Decals for 3of56 and 3of36
+
+[Added] Added simple projectile models for 3bm60 and 3of36, added dynamic light for 3bm60 tracer
+
+[Added] Spark effect for AP rounds 7n22 and 7n13
+
+[Added] Added turret stabilization to K-17 Epoch
+
+[Added] Added turret stabilization to K-17 Berezhok
+
+[Added] Added turret stabilization to T-14
+
+[Added] Added optic zoom to T-14
+
+[Added] Added optic zoom to K-17 Epoch
+
+[Added] Added optic zoom to K-17 Berezhok
+
+[Added] Added patch system. Put patches on helmets, uniforms and vests.
+
+[Added] Added US flag patch
+
+[Added] Added US inverted flag patch
+
+[Added] Added the patch commemorating 20 years of RHS to Arsenal as placeable object
+
+[Added] Added A pos blood type patch
+
+[Added] Added RU camo flag patch
+
+[Added] Added RU reflective flag patch
+
+[Added] Added PIP cameras to K-17
+
+[Added] Added Driver display to K-17
+
+[Added] Added USMC ID patches
+
+[Added] Collider to T14 cannon
+
+[Added] Scripted recoil to all vehicles
+
+[Added] K17 AGS shot sounds and vog explosion effect
+
+[Added] Added new pages to PFM 5.0 screen
+
+[Added] Added working triplexes to K-17
+
+[Added] Added touchscreen functionality
+
+[Added] Recoil for 2A42
+
+[Added] Empty L4G24 that can be mounted to the helmet
+
+[Added] + Added USMC Force Recon position patch
+
+[Added] G17, G45, M17, and M18 stringtable entries
+
+[Added] Added black USMC Force Recon position patch
+
+[Added] RITA Voice-Warning samples
+
+[Added] 9m133 sounds and  oarticles
+
+[Added] Added RU Army and MSV division patches
+
+[Added] Added interior to T-14
+
+[Added] Added sopmod stock
+
+[Added] Added PMF and driver displays to T-14
+
+[Added] Added turret and commander PIP displays to K-17 and T-14
+
+[Added] Added triplex view layout
+
+[Added] Added base target recognition for PMF PIP screens
+
+[Added] Added ability to destroy K-17 brains
+
+[Added] Added FILBE backpack
+
+[Added] Added Glock 17
+
+[Added] Added Glock 45
+
+[Added] Added Glock 17 COYOTE
+
+[Added] Added Glock 45 COYOTE
+
+[Added] Added M17
+
+[Added] Added M18
+
+[Added] Added target recognition/guiding to K-17 and T-14
+
+[Added] Added Commander turret to K-17 Berezhok
+
+[Added] Added SU-260/P Machine Gun Day Optic (MDO)
+
+[Added] 30mm 3UOF6 HEF-T
+
+
+##### Improved
+
+
+[Improved] Various particles effects
+
+[Improved] Some sound effects
+
+[Improved] Fully remake of Armata sounds and particles
+
+[Improved] K17 Engine and shot sounds
+
+[Improved] Various particle effects
+
+[Improved] Sounds and effects of high-caliber rounds
+
+[Improved] Distributed PG-7VL & VR rounds to EMR units
+
+[Improved] Increased inventory size of tactical pants and cargo pants to match with vanilla
+
+[Improved] Warheads for GBU12 and KH55
+
+[Improved] K17 and T14 engine volume to be more in line with other vehicles
+
+[Improved] K17 and T14 damage reduction
+
+[Improved] Reduced the weight of the PCGen III vest
+
+[Improved] Added "point aiming" to ACOGs
+
+[Improved] Using [RMB] on an item from the arsenal that can be attached to a clothing (like f.e. NVG) will now try to attach it rather than just storing it in the backpack
+
+[Improved] Improved G3 shirt mesh
+
+[Improved] Added patch carry functionality to ECH and OPSCORE
+
+[Improved] Added patch carry functionality to LShZ and TOR helmets
+
+[Improved] Added patch carry functionality to Kiver RSP Helmet
+
+[Improved] Added patch carry functionality to Ballcap
+
+[Improved] Added patch carry functionality to VKPO jackets
+
+[Improved] Added patch carry functionality to Crye shirts
+
+[Improved] 30mm shells effects improved
+
+[Improved] Improved FROG combat shirt mesh
+
+[Improved] Changed bungee retention cords on PC Gen 3 Vest pouches so now they will spring back when pouch is empty
+
+[Improved] Added upper sleeve Velcro points to Crye shirts
+
+[Improved] Added muzzle velocity coefficient to AKS-74U so bullets fired from it are fired with lower speed
+
+[Improved] Configured 7U1 round - added new air drag value, configured penetration data (set it in a way that AKS74U is penetrating SSh-68 helmet at 300m), increased diameter compared to 7N6/N10 (as in real life), increased init speed to 360 m/s, so it corresponds to init speed when fired from AK74 (when fired from AKS74U, bullet will leave barrel at 303 m/s. Warning, this bullet deals now even less damage than pistol rounds. Low lethality of that round was one of the reasons why 7U1 & AKS74UB was dropped and instead AS Val/Vintorez family was developed
+
+[Improved] Configured air drag on SP-5 & SP-6 + tweaked ballistic data of it
+
+[Improved] Ability to inspect clothing item to put attachments in exact slots
+
+[Improved] Improved t14 interior textures
+
+[Improved] 2a82 shot sound and autoloader tweak
+
+[Improved] Tweaks for 30mm particles
+
+[Improved] Increase thickness of PO4x24 reticle
+
+[Improved] 9M113M2 explosive yield and damage simulation
+
+[Improved] 30mm belts to use a mixed belt. AP is full APFSDS, HE is HEF-I, AP-T, HEF-I, HEF-T
+
+[Improved] Lowered muzzle velocity of M4A1 since 5.56 bullets velocity is calibrated for 20 inch barrels
+
+[Improved] Tweaked ballistic properties of M855A1
+
+[Improved] Improved FROG pants model and texture
+
+[Improved] Imrpoved FROG shirt texture
+
+
+##### Fixed
+
+
+[Fixed] M8541 and Leo Mk4 reticles visible in 2D mode gain (not working yet due to vanilla bug, so don't use 2D optics with these scopes!); fixes [#598](https://github.com/RHSMODS/statusquo/issues/598)
+
+[Fixed] AFRF Arsenal box was missing Hierarchy component on statue placed on top of boxes. This resulted in statue staying in original place when GM repositioned arsenal
+
+[Fixed] KH-55 Particles
+
+[Fixed] Fixed K-17 Epoch commander turret
+
+[Fixed] Fixed wrong name of ballcap atacs
+
+[Fixed] Fixed wrong preview of Faradey 1085
+
+[Fixed] Fixed wrong preview of Faradey 906
+
+[Fixed] Fixed wrong preview of PC GEN III Light
+
+[Fixed] Wrong optic position on M27
+
+[Fixed] Sounds of explosion for 3of56 and 3of36
+
+[Fixed] Fixed SR3M Was missing RigidBody
+
+[Fixed] Fixed wrong name of M40 M61 AP mag
+
+[Fixed] K17 and t14 engine sounds
+
+[Fixed] Fixed M40A5 front rail was using wrong slot type
+
+[Fixed] Fixed SR3M was missing physics attributes making it weight just a few grams
+
+[Fixed] Fixed M4A1 had broken normals on its LODs
+
+[Fixed] Fixed 1PN93 RPG reticle; fixes [#599](https://github.com/RHSMODS/statusquo/issues/599)
+
+[Fixed] Fixed goggles position on ACH
+
+[Fixed] Fixed k17 was falling through the ground
+
+[Fixed] Fixed k17 commander turret was not attached to main turret
+
+[Fixed] Fixed K17 was immune to mines
+
+[Fixed] Fixed wrong 1P86 Main camera FOV
+
+[Fixed] Fixed wrong 1P86-1 Main camera FOV
+
+[Fixed] Fixed wrong 1PN93 and its deviations Main camera FOV
+
+[Fixed] Fixed wrong Bravo4 Main camera FOV
+
+[Fixed] Fixed wrong Infatech Main camera FOV
+
+[Fixed] Fixed wrong PO4X24P Main camera FOV
+
+[Fixed] Fixed wrong REAP-IR Main camera FOV
+
+[Fixed] Fixed wrong SU230 Main camera FOV
+
+[Fixed] Fixed wrong TA31RCO and its deviations Main camera FOV
+
+[Fixed] Fixed SR-3M folding animation
+
+[Fixed] Replace helmet attachment action wouldn't work with new slots for patches
+
+[Fixed] Cleaned up more old references to RHS 20 patch
+
+[Fixed] Fix 1P21 and other scopes PiP illuminator toggle; fixes [#621](https://github.com/RHSMODS/statusquo/issues/621)
+
+[Fixed] Changed "weight per ammo" in InventoryItemComponent for boxes of 125mm shells, so its possible to take ammo boxes into player inventory
+
+[Fixed] Corrected patch positioning on OPSCORE helmets
+
+[Fixed] Broken particle prefabs for white flare and burning fuel tank; fixes [#537](https://github.com/RHSMODS/statusquo/issues/537)
+
+[Fixed] Not being able to save the loadout with Vest PC Gen III Rifleman
+
+[Fixed] Fixed silenced AKS-74UN saving to arsenal. Had wrong attachment type.
+
+[Fixed] Fixed MS2k, VipLight and ChargePro could be placed in watch slot; fixes [#605](https://github.com/RHSMODS/statusquo/issues/605)
+
+[Fixed] Wrong attachment position of empty L4G24 mount
+
+[Fixed] Changed gearbox from manual to auto in T-14
+
+[Fixed] Fixed Missing remove casualty action for 2S1 Gunner; Fixes [#627](https://github.com/RHSMODS/statusquo/issues/627)
+
+[Fixed] Fixed 2D reticles now have RGB again
+
+[Fixed] Fixed SP-5 & SP-6 inheritance
+
+[Fixed] Fix incompatibility issue in RHS_M_SightsComponent.c
+
+[Fixed] Fixed 1p86-1 reticle was too big
+
+[Fixed] Fixed T-14 Commander turret
+
+[Fixed] Fixed K-17 Epoch Commander turret
+
+[Fixed] T-14 Front lower armor plate was 20mm thick instead of 300
+
+[Fixed] Fix possible conflicts with SightZoomFOVInfo ForceUpdate method
+
+[Fixed] Fixed VKPO jackets were missing undershirt
+
+[Fixed] Other potential modded class override conflicts
+
+
+##### Deleted
+
+
+[Removed] Tracers from 30mm M929 APFSDS and 3UOF8 HEF-I
+
+
+
 ## 0.6.1868
 
 <!-- revision 1868 -->
