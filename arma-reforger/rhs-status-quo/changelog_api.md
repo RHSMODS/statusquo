@@ -13,6 +13,45 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2064
+
+<!-- revision 2064 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2064
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, January 24, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (2063)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.6.2063
 
 <!-- revision 2063 -->
