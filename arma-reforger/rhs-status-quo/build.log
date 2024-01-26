@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/26/2024 8:33:17 PM UTC | Revision 2074 | odkupiciel375]
+
+[Improved] Clothing item inspection will now show compatible items for selected slot
+
+[Fixed] Disabled slots that shouldn't be usable on some ECH variants
+
+[Other] Set proper inspect offsets for (i think) everything that has slots
+
+[Other] Prepared FILBE_Backpack.et to have slots for patches but disabled that due to the issue with deflated model
+
+
+
 [1/26/2024 10:01:58 AM UTC | Revision 2073 | reyhard, PUDDY300]
 
 [Fixed] Disabled ability to stack Suharka backpack into itself
