@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/28/2024 11:44:06 PM UTC | Revision 2102 | odkupiciel375]
+
+[Fixed] Fixed not being able to attach anything to the rear slot on Kiver, LShZ, Opscore and TOR helmets
+
+[Other] Fixed: Removed icon property from Handgun_Glock_base.et as it doesnt exist and thus it was throwing errors
+
+[Other] Changed: Disabled RHS_WeaponHolsterComponent in Pouch_Taktika_holster.et and brought back its capability to store handguns
+
+
+
 [1/28/2024 11:05:24 PM UTC | Revision 2101 | Tactical_Toxic]
 
 [Other] Added no decals flag to empty material used in armor plates
