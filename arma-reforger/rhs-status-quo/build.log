@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/28/2024 11:58:49 PM UTC | Revision 2103 | gurdy]
+
+[Other] Fixed m27 manta layout
+
+[Other] Added test remote switch config for M4 (weird behavior on the wire jack mesh)
+
+
+
 [1/28/2024 11:44:06 PM UTC | Revision 2102 | odkupiciel375]
 
 [Fixed] Fixed not being able to attach anything to the rear slot on Kiver, LShZ, Opscore and TOR helmets
