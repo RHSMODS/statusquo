@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/28/2024 11:35:25 AM UTC | Revision 2093 | reyhard]
+
+[Fixed] Reexported ECH helmets - that should fix missing collision. Fixes #642
+
+
+
 [1/28/2024 11:18:03 AM UTC | Revision 2092 | reyhard]
 
 [Improved] Adjusted muzzle coefficient on M27IAR so it reflects firing 5.56 rounds from 16.5 inch barrel rifle
