@@ -13,6 +13,91 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2098
+
+<!-- revision 2098 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2098
+
+_<mark style="color:red;">Date:</mark>_ Sunday, January 28, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 34 (2064)
+
+_<mark style="color:red;">Changes:</mark>_ 7 additions, 7 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] M27 manta rail layout
+
+[Added] Scout's textures!
+
+[Added] Initial injection of MP-443
+
+[Added] Okinawa warbelt to USMC
+
+[Added] Added Taktika platecarrier
+
+[Added] Added Taktika warbelt
+
+[Added] Added HSGI warbelt
+
+
+##### Improved
+
+
+[Improved] Clothing item inspection will now show compatible items for selected slot
+
+[Improved] Custom icons to better indicate the purpose of the slots in inspected clothing item
+
+[Improved] Changed base zoom on all commander turrets from 3x to 1x
+
+[Improved] Adjusted muzzle coefficient on M27IAR so it reflects firing 5.56 rounds from 16.5 inch barrel rifle
+
+[Improved] Added AI Ballistic Tables for various RHS ammo
+
+[Improved] Added 7N21 & 7N31 ammo configuration for MP443
+
+[Improved] Added MP-443 to arsenal
+
+
+##### Fixed
+
+
+[Fixed] Fixed missing attribution of Tank script to Zelik
+
+[Fixed] Disabled ability to stack Suharka backpack into itself
+
+[Fixed] Disabled slots that shouldn't be usable on some ECH variants
+
+[Fixed] MI-8 not taking collision damage
+
+[Fixed] Possible fix for T14 not moving with projectile
+
+[Fixed] Fixed T14 grills were invincible
+
+[Fixed] Fixed 1PN138 was always in down position
+
+[Fixed] Reexported ECH helmets - that should fix missing collision. Fixes [#642](https://github.com/RHSMODS/statusquo/issues/642)
+
+[Fixed] Being able to put grenade and other items into mag pouches
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2064
 
 <!-- revision 2064 -->
