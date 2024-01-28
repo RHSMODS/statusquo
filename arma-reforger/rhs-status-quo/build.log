@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[1/28/2024 11:53:24 AM UTC | Revision 2094 | odkupiciel375]
+
+[Fixed] Being able to put grenade and other items into mag pouches
+
+[Other] Changed: Moved ECommonItemType extension from RHS_RhinoAttachmentComponent.c to RHS_InventoryConstants.c and added new RHS types that are now applied to some core (AR) items (f.e. RHS_RIFLE_AMMO to stanag/ak mags, RHS_PISTOL_AMMO to Handgun_Base.et etc)
+
+[Other] Added: RHS_EquipmentStorageSlot.c which has additional filtering in form of a list of ECommonItemTypes called m_aCompatibleItemTypes to prevent attaching items there when they are not meant to be stored there
+
+[Other] Added: RHS_EquipmentStorageComponent.c to handle storage of (ONLY) visible items
+
+[Other] Changed: Switched from SCR_UniversalInventoryStorageComponent to RHS_EquipmentStorageComponent for prefabs such as pouches that are meant to store visible items and also changed their slots if SCR_EquipmentStorageSlot was used
+
+[Other] Changed: Made RHS_MorphedEquipmentStorageSlot.c to inherit from RHS_EquipmentStorageComponent rather than core SCR_EquipmentStorageComponent to allow for additional filtering of attached items - if m_aCompatibleItemTypes is empty then filtering is skipped
+
+
+
 [1/28/2024 11:35:25 AM UTC | Revision 2093 | reyhard]
 
 [Fixed] Reexported ECH helmets - that should fix missing collision. Fixes #642
