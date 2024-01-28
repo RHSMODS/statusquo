@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[1/28/2024 11:18:03 AM UTC | Revision 2092 | reyhard]
+
+[Improved] Adjusted muzzle coefficient on M27IAR so it reflects firing 5.56 rounds from 16.5 inch barrel rifle
+
+[Improved] Added AI Ballistic Tables for various RHS ammo
+
+[Improved] Added 7N21 & 7N31 ammo configuration for MP443
+
+[Other] Renaming prefabs to be more unified
+
+[Other] Removed some properties from Rifle_M27IAR.et which should be Rifle_M27IAR_base.et - tried to merge some of that stuff but I didn't care about everything
+
+
+
 [1/28/2024 1:28:40 AM UTC | Revision 2091 | Tactical_Toxic]
 
 [Added] Okinawa warbelt to USMC
