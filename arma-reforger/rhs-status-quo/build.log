@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/29/2024 7:37:22 PM UTC | Revision 2104 | odkupiciel375]
+
+[Fixed] Missing Common item types on some magazines prevented them from being placed in pouch slots
+
+
+
 [1/28/2024 11:58:49 PM UTC | Revision 2103 | gurdy]
 
 [Other] Fixed m27 manta layout
