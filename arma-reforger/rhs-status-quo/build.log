@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/30/2024 4:54:04 PM UTC | Revision 2115 | Ram]
+
+[Other] Added K-17 2D/PIP sight BSOD screen.
+
+[Other] K-17 turret can't rotate when damaged.
+
+[Other] Compartment dependent scripts also call from OnControlledEntityChanged (SCR_PlayerController) now.
+
+
+
 [1/30/2024 4:23:46 PM UTC | Revision 2114 | Sesk]
 
 [Other] New AFRF loadouts structure and US BaseLoadouts.
