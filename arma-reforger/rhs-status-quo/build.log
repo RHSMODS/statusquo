@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/30/2024 2:16:48 AM UTC | Revision 2109 | PUDDY300]
+
+[Other] Added PMAG animations
+
+[Other] Updated PMAG skeleton and weights
+
+[Other] Updated GM94 skeleton
+
+[Other] Added RHS_MagazineAnimationComponent (Used to pass ammo variables to animation graph)
+
+
+
 [1/29/2024 10:00:51 PM UTC | Revision 2108 | Tactical_Toxic]
 
 [Added] Added PMAG 5.56x45
