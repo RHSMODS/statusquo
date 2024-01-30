@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/30/2024 4:23:46 PM UTC | Revision 2114 | Sesk]
+
+[Other] New AFRF loadouts structure and US BaseLoadouts.
+
+
+
 [1/30/2024 11:21:00 AM UTC | Revision 2113 | reyhard]
 
 [Fixed] Disabled animated colliders on 6B48, since they are not used on such Kevlar vest (just like on PASGT Vest)
