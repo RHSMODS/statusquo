@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/31/2024 4:03:42 AM UTC | Revision 2119 | PUDDY300]
+
+[Other] Fixed bug where firing any weapon would cause PMAG in a rifle on back to animate
+
+
+
 [1/31/2024 3:46:02 AM UTC | Revision 2118 | PUDDY300]
 
 [Other] Improved RHS_MagazineAnimationComponent - removed EOnFrame
