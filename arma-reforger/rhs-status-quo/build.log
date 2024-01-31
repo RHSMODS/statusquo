@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/31/2024 6:07:15 PM UTC | Revision 2120 | odkupiciel375]
+
+[Fixed] Fixed floating PVS-31 and L4G24 mount; fixes #647
+
+[Other] Slightly pulled out the NVG slot position on ECH as it was a bit too deep in it
+
+
+
 [1/31/2024 4:03:42 AM UTC | Revision 2119 | PUDDY300]
 
 [Other] Fixed bug where firing any weapon would cause PMAG in a rifle on back to animate
