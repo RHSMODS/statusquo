@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/1/2024 9:20:41 PM UTC | Revision 2127 | odkupiciel375]
+
+[Fixed] Not being able to save loadout with default weapon of USMC GL kit in Combat Ops
+
+[Fixed] Wrong name set for M4 (it was shown as M4A1)
+
+[Improved] Decluttered USMC arsenal by removing weapon variants and leaving base models
+
+
+
 [2/1/2024 8:46:05 PM UTC | Revision 2126 | Tactical_Toxic]
 
 [Other] Fixed broken k17 intarmor collider
