@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/2/2024 8:00:21 PM UTC | Revision 2130 | Tactical_Toxic]
+
+[Other] Manta cover locale base
+
+[Other] Manta cover needs to be reconfigured to inherit from its own base or maybe we should add a railcover base prefab
+
+[Other] New attachment slot class as well maybe
+
+
+
 [2/2/2024 7:39:37 PM UTC | Revision 2129 | odkupiciel375]
 
 [Other] Changed: Set Rifle_AK74M_camo, Rifle_AK74M_npz_rail, Rifle_AK74M_npz_rail_camo and Rifle_AKS74UN_pbs4 to be considered as a weapon and not just variant of it
