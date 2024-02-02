@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/2/2024 7:39:37 PM UTC | Revision 2129 | odkupiciel375]
+
+[Other] Changed: Set Rifle_AK74M_camo, Rifle_AK74M_npz_rail, Rifle_AK74M_npz_rail_camo and Rifle_AKS74UN_pbs4 to be considered as a weapon and not just variant of it
+
+
+
 [2/1/2024 9:37:02 PM UTC | Revision 2128 | odkupiciel375]
 
 [Improved] Decluttered MSV arsenal by removing weapon variants and leaving base models
