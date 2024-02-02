@@ -13,6 +13,69 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2128
+
+<!-- revision 2128 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2128
+
+_<mark style="color:red;">Date:</mark>_ Friday, February 2, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 30 (2098)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 2 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added PMAG 5.56x45
+
+[Added] Added windowed PMAG
+
+[Added] Added ATACS version of balaklava
+
+
+##### Improved
+
+
+[Improved] Decluttered USMC arsenal by removing weapon variants and leaving base models
+
+[Improved] Decluttered MSV arsenal by removing weapon variants and leaving base models
+
+
+##### Fixed
+
+
+[Fixed] Fixed not being able to attach anything to the rear slot on Kiver, LShZ, Opscore and TOR helmets
+
+[Fixed] Missing Common item types on some magazines prevented them from being placed in pouch slots
+
+[Fixed] Disabled animated colliders on 6B48, since they are not used on such Kevlar vest (just like on PASGT Vest)
+
+[Fixed] Fixed floating PVS-31 and L4G24 mount; fixes [#647](https://github.com/RHSMODS/statusquo/issues/647)
+
+[Fixed] Fixed weapon variant property on one of the items in MSV_InventoryItems.conf
+
+[Fixed] Not being able to save loadout with default weapon of USMC GL kit in Combat Ops
+
+[Fixed] Wrong name set for M4 (it was shown as M4A1)
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2098
 
 <!-- revision 2098 -->
