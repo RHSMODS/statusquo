@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/3/2024 11:28:49 PM UTC | Revision 2138 | Tactical_Toxic]
+
+[Other] Fun fact - if your procedural anim doesnt work, make sure you have Modelgeometry checked on rigidbody in your prefab
+
+[Other] Fixed K17 / T14 connection bus lights were static
+
+
+
 [2/3/2024 10:33:56 PM UTC | Revision 2137 | Tactical_Toxic]
 
 [Other] M4A1 Block II now uses PMAG as default mag
