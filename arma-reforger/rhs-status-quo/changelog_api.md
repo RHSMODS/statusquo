@@ -13,6 +13,57 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2149
+
+<!-- revision 2149 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2149
+
+_<mark style="color:red;">Date:</mark>_ Sunday, February 4, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 21 (2128)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 2 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Turret Damage to vehicles
+
+[Added] Added Crye G3 pants (M81)
+
+[Added] Added Crye G3 pants (MARPAT Woodland)
+
+[Added] Added Crye G3 pants (MARPAT Arid)
+
+
+##### Improved
+
+
+[Improved] Improved USMC Combat boots mesh and texture
+
+[Improved] Added Environment probe to K-17 (might be deleted if any problems appear)
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2128
 
 <!-- revision 2128 -->
