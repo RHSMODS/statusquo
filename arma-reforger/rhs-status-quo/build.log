@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/4/2024 12:21:14 AM UTC | Revision 2141 | spacestrider]
+
+[Added] Turret Damage to vehicles
+
+[Other] Might need tuning for damage values, Need to do more testing and play around with damage reduction and damage type values
+
+
+
 [2/4/2024 12:17:56 AM UTC | Revision 2140 | Ram]
 
 [Other] Stabilization disables when turret is destroyed
