@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/5/2024 8:16:18 PM UTC | Revision 2153 | Ashyl]
+
+[Added] 30mm HE explosion sounds
+
+[Added] 30mm, 125mm and 122mm shells sonic cracks and flybyes added (need test)
+
+[Improved] Shell hit sounds
+
+[Other] Sounds file structure fixed and new samples for explosion added
+
+
+
 [2/5/2024 4:27:48 AM UTC | Revision 2152 | PUDDY300]
 
 [Other] Added colliders to Manta Rail covers (model Gurdy)
