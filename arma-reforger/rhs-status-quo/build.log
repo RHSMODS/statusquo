@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/7/2024 3:31:09 PM UTC | Revision 2178 | Ram]
+
+[Other] T14 optic may now be broken in 2D sight.
+
+[Other] Target recognition world collision check fix.
+
+[Other] K17 passenger exit point fix.
+
+
+
 [2/7/2024 1:21:15 AM UTC | Revision 2177 | gurdy]
 
 [Other] Quick kac localization fix..
