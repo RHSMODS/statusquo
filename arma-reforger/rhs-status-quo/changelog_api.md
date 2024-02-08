@@ -13,6 +13,64 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2181
+
+<!-- revision 2181 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2181
+
+_<mark style="color:red;">Date:</mark>_ Thursday, February 8, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 32 (2149)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 5 improvements, 2 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] 30mm HE explosion sounds
+
+[Added] 30mm, 125mm and 122mm shells sonic cracks and flybyes added (need test)
+
+[Added] Added X Ultra pioneer boots
+
+[Added] Added X Ultra 4 boots
+
+
+##### Improved
+
+
+[Improved] Shell hit sounds
+
+[Improved] Sonic cracks for shells
+
+[Improved] Kh55 engine sound
+
+[Improved] Kh55 sounds and particles
+
+[Improved] Improved 6B47 mesh
+
+
+##### Fixed
+
+
+[Fixed] Custom bullet flyby sounds not working
+
+[Fixed] Fixed some of the broken PiP scopes after AR update
+
+
+##### Deleted
+
+
+[Removed] Disabled Environment probe in k-17 due poor optimization
+
+
+
 ## 0.7.2149
 
 <!-- revision 2149 -->
