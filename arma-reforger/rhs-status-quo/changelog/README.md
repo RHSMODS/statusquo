@@ -13,6 +13,58 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2197
+
+<!-- revision 2197 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2197
+
+_<mark style="color:red;">Date:</mark>_ Friday, February 9, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 16 (2181)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 5 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added G3 pants (ATACS-FG)
+
+[Added] Added G3 pants (OD)
+
+[Added] Added G3 pants (Multicam)
+
+[Added] Added voice notifications to T14 and K17
+
+
+##### Improved
+
+
+[Improved] Potential compatibility fix for item insertion into pouches
+
+[Improved] Added new pouch to PCGEN3 rifleman loadout
+
+[Improved] Regenerated K17 editor previews + fixed their import settings
+
+[Improved] Regenerated preview images for 2S1 & IL76
+
+[Improved] Corrected inspection slot position for PC Gen III Vest with pouches
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2181
 
 <!-- revision 2181 -->
