@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/9/2024 5:41:17 PM UTC | Revision 2192 | odkupiciel375]
+
+[Improved] Corrected inspection slot position for PC Gen III Vest with pouches
+
+[Other] Changed NVG_Base.et common item type to the updated version where now its RHS_NVG and previously it was RHS_RHINOMOUNT
+
+
+
 [2/9/2024 4:52:51 PM UTC | Revision 2191 | odkupiciel375]
 
 [Other] Removed debug messages from RHS_EquipmentStorageComponent.c and RHS_EquipmentStorageSlot.c
