@@ -13,6 +13,54 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2214
+
+<!-- revision 2214 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2214
+
+_<mark style="color:red;">Date:</mark>_ Saturday, February 10, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 17 (2197)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 6 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Increased supply storage on K17 Unarmed
+
+
+##### Fixed
+
+
+[Fixed] Fixed radial menu entry null reference exception with shadow item
+
+[Fixed] Not being able to control attached light devices and missing radial menu actions; fixes [#653](https://github.com/RHSMODS/statusquo/issues/653) and [#655](https://github.com/RHSMODS/statusquo/issues/655)
+
+[Fixed] Patches that were attached to the helmet would be visible in FPP; fixes [#654](https://github.com/RHSMODS/statusquo/issues/654)
+
+[Fixed] Being able to put backpack radio into taktika radio pouch
+
+[Fixed] Fixed RITA turn off button was doing nothing
+
+[Fixed] Fixed T14 Turret now can be repaired
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2197
 
 <!-- revision 2197 -->
