@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/10/2024 10:51:04 PM UTC | Revision 2214 | Tactical_Toxic]
+
+[Other] Fixed wrong locale on strobe light
+
+[Other] Possible fix for tracer_red 1 spam (i guess its 10th time i try to fix it)
+
+
+
 [2/10/2024 10:33:00 PM UTC | Revision 2213 | odkupiciel375]
 
 [Other] Potential NPE fix where Game does not exist a the moment reattaching head mounted light device to the device
