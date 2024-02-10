@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/10/2024 4:22:40 PM UTC | Revision 2210 | Ram]
+
+[Other] T14 turret HitZone fix
+
+[Other] Added PMF damage button
+
+[Other] Added PMF Filter button value text
+
+[Other] T14 Muzzle effect fix
+
+
+
 [2/10/2024 1:46:28 PM UTC | Revision 2209 | Tactical_Toxic]
 
 [Other] Possible fix for lagspikes when shooting from 2a42 (disabled signal manager component in 30mm_HEFT_3uof6)
