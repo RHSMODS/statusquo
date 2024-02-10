@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/10/2024 11:14:38 AM UTC | Revision 2203 | Tactical_Toxic]
+
+[Other] Pg7vr now uses pg7vr outline in magazine component
+
+[Other] Yes there is unused outline for 7vr in vanilla game files
+
+
+
 [2/10/2024 10:11:38 AM UTC | Revision 2202 | odkupiciel375]
 
 [Fixed] Not being able to control attached light devices and missing radial menu actions; fixes #653 and #655
