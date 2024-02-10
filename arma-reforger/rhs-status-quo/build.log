@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/10/2024 12:27:21 AM UTC | Revision 2200 | Soul_Assassin]
+
+[Fixed] Fixed radial menu entry null reference exception with shadow item
+
+
+
 [2/10/2024 12:25:19 AM UTC | Revision 2199 | Ram]
 
 [Other] K17 target recognition adjustment. (At least not wallhack now)
