@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/10/2024 12:32:43 PM UTC | Revision 2206 | Tactical_Toxic]
+
+[Other] Disabled rigidbody on taktika pouches
+
+
+
 [2/10/2024 12:23:05 PM UTC | Revision 2205 | odkupiciel375]
 
 [Fixed] Patches that were attached to the helmet would be visible in FPP; fixes #654
