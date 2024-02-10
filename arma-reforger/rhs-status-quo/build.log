@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/10/2024 10:33:00 PM UTC | Revision 2213 | odkupiciel375]
+
+[Other] Potential NPE fix where Game does not exist a the moment reattaching head mounted light device to the device
+
+
+
 [2/10/2024 9:35:37 PM UTC | Revision 2212 | Tactical_Toxic]
 
 [Other] Added jerrycan and wrench to all k17s
