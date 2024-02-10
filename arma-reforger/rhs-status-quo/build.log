@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/10/2024 1:20:46 PM UTC | Revision 2208 | Tactical_Toxic]
+
+[Fixed] Fixed RITA turn off button was doing nothing
+
+[Fixed] Fixed T14 Turret now can be repaired
+
+[Other] Disabled rigidbody on pcgen3 pouches
+
+
+
 [2/10/2024 12:40:47 PM UTC | Revision 2207 | odkupiciel375]
 
 [Fixed] Being able to put backpack radio into taktika radio pouch
