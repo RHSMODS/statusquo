@@ -1,5 +1,43 @@
 <!-- buildlog insert -->
 
+[2/11/2024 7:58:03 PM UTC | Revision 2217 | Tactical_Toxic]
+
+[Improved] Added LODs to rhs_su230
+
+[Improved] Added LODs to rhs_su230_mrds
+
+[Improved] Added LODs to rhs_pouch_6X9-1_bayonet
+
+[Improved] Added LODs to rhs_scabbard_6X9-1_bayonet
+
+[Improved] Added LODs to FILBE_hydration_pack
+
+[Improved] Added LODs to FILBE_hydration_pack_ground
+
+[Improved] Added LODs to r187p1
+
+[Improved] Added LODs to garmin_tactix_bravo
+
+[Improved] Added LODs to anpeq15
+
+[Improved] Added LODs to aksu_ltsu
+
+[Improved] Added LODs to rpk74m
+
+[Improved] Added LODs to m27iar
+
+[Fixed] Fixed G45 was falling through the ground
+
+[Fixed] Fixed G17 was falling through the ground
+
+[Fixed] Fixed MP443 was falling through the ground
+
+[Fixed] Fixed APS was falling through the ground
+
+[Fixed] Fixed SP81 was falling through the ground
+
+
+
 [2/11/2024 6:49:52 PM UTC | Revision 2216 | Punky]
 
 [Added] Daniel Offense 9.55' ,12.25' ,12.25' FSP variants
