@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/11/2024 8:13:00 PM UTC | Revision 2218 | odkupiciel375]
+
+[Fixed] Not being able to use NVG when aiming with glocks/m17/m18
+
+[Other] Changed: Removed SightsFOVInfo from Handgun_Glock_base.et and Handgun_M1718_base.et to be the same as other handguns
+
+
+
 [2/11/2024 7:58:03 PM UTC | Revision 2217 | Tactical_Toxic]
 
 [Improved] Added LODs to rhs_su230
