@@ -13,6 +13,88 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2232
+
+<!-- revision 2232 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2232
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, February 13, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 18 (2214)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 12 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Daniel Offense 9.55' ,12.25' ,12.25' FSP variants
+
+[Added] Daniel Offense FDE & BLK set colors
+
+[Added] Added AK-105
+
+[Added] Added M4A1 with Ergo Forward Rail Extension and AFG-2 (AFG not mountable yet)
+
+[Added] 10.3' ,14.5' ,14.5' HB Barrels & Textures
+
+
+##### Improved
+
+
+[Improved] Added LODs to rhs_su230
+
+[Improved] Added LODs to rhs_su230_mrds
+
+[Improved] Added LODs to rhs_pouch_6X9-1_bayonet
+
+[Improved] Added LODs to rhs_scabbard_6X9-1_bayonet
+
+[Improved] Added LODs to FILBE_hydration_pack
+
+[Improved] Added LODs to FILBE_hydration_pack_ground
+
+[Improved] Added LODs to r187p1
+
+[Improved] Added LODs to garmin_tactix_bravo
+
+[Improved] Added LODs to anpeq15
+
+[Improved] Added LODs to aksu_ltsu
+
+[Improved] Added LODs to rpk74m
+
+[Improved] Added LODs to m27iar
+
+
+##### Fixed
+
+
+[Fixed] Fixed G45 was falling through the ground
+
+[Fixed] Fixed G17 was falling through the ground
+
+[Fixed] Fixed MP443 was falling through the ground
+
+[Fixed] Fixed APS was falling through the ground
+
+[Fixed] Fixed SP81 was falling through the ground
+
+[Fixed] Not being able to use NVG when aiming with glocks/m17/m18
+
+[Fixed] Fixed 1PN93 PiP sights; fixes [#649](https://github.com/RHSMODS/statusquo/issues/649)
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2214
 
 <!-- revision 2214 -->
