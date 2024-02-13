@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/13/2024 5:01:01 PM UTC | Revision 2231 | Tactical_Toxic]
+
+[Other] Fixed ak105 locale
+
+
+
 [2/13/2024 4:37:44 PM UTC | Revision 2230 | odkupiciel375]
 
 [Other] Changed: Removed hardcoded values from RHS_InventoryConstants -> ECommonItemType and added (ghetto) enum initialization to RHS_EquipmentStorageSlot.c
