@@ -10,15 +10,10 @@ description: >-
 If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
 {% endhint %}
 
-<!-- reset point -->
-<!-- changelog insert -->
-
 ## 0.7.2232
 
-<!-- revision 2232 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2232
 
@@ -29,78 +24,66 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 18 (2214)
 _<mark style="color:red;">Changes:</mark>_ 5 additions, 12 improvements, 7 fixes and 0 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Daniel Offense 9.55' ,12.25' ,12.25' FSP variants
 
+\[Added] Daniel Offense FDE & BLK set colors
 
-[Added] Daniel Offense 9.55' ,12.25' ,12.25' FSP variants
+\[Added] Added AK-105
 
-[Added] Daniel Offense FDE & BLK set colors
+\[Added] Added M4A1 with Ergo Forward Rail Extension and AFG-2 (AFG not mountable yet)
 
-[Added] Added AK-105
+\[Added] 10.3' ,14.5' ,14.5' HB Barrels & Textures
 
-[Added] Added M4A1 with Ergo Forward Rail Extension and AFG-2 (AFG not mountable yet)
+**Improved**
 
-[Added] 10.3' ,14.5' ,14.5' HB Barrels & Textures
+\[Improved] Added LODs to rhs\_su230
 
+\[Improved] Added LODs to rhs\_su230\_mrds
 
-##### Improved
+\[Improved] Added LODs to rhs\_pouch\_6X9-1\_bayonet
 
+\[Improved] Added LODs to rhs\_scabbard\_6X9-1\_bayonet
 
-[Improved] Added LODs to rhs_su230
+\[Improved] Added LODs to FILBE\_hydration\_pack
 
-[Improved] Added LODs to rhs_su230_mrds
+\[Improved] Added LODs to FILBE\_hydration\_pack\_ground
 
-[Improved] Added LODs to rhs_pouch_6X9-1_bayonet
+\[Improved] Added LODs to r187p1
 
-[Improved] Added LODs to rhs_scabbard_6X9-1_bayonet
+\[Improved] Added LODs to garmin\_tactix\_bravo
 
-[Improved] Added LODs to FILBE_hydration_pack
+\[Improved] Added LODs to anpeq15
 
-[Improved] Added LODs to FILBE_hydration_pack_ground
+\[Improved] Added LODs to aksu\_ltsu
 
-[Improved] Added LODs to r187p1
+\[Improved] Added LODs to rpk74m
 
-[Improved] Added LODs to garmin_tactix_bravo
+\[Improved] Added LODs to m27iar
 
-[Improved] Added LODs to anpeq15
+**Fixed**
 
-[Improved] Added LODs to aksu_ltsu
+\[Fixed] Fixed G45 was falling through the ground
 
-[Improved] Added LODs to rpk74m
+\[Fixed] Fixed G17 was falling through the ground
 
-[Improved] Added LODs to m27iar
+\[Fixed] Fixed MP443 was falling through the ground
 
+\[Fixed] Fixed APS was falling through the ground
 
-##### Fixed
+\[Fixed] Fixed SP81 was falling through the ground
 
+\[Fixed] Not being able to use NVG when aiming with glocks/m17/m18
 
-[Fixed] Fixed G45 was falling through the ground
+\[Fixed] Fixed 1PN93 PiP sights; fixes [#649](https://github.com/RHSMODS/statusquo/issues/649)
 
-[Fixed] Fixed G17 was falling through the ground
-
-[Fixed] Fixed MP443 was falling through the ground
-
-[Fixed] Fixed APS was falling through the ground
-
-[Fixed] Fixed SP81 was falling through the ground
-
-[Fixed] Not being able to use NVG when aiming with glocks/m17/m18
-
-[Fixed] Fixed 1PN93 PiP sights; fixes [#649](https://github.com/RHSMODS/statusquo/issues/649)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.7.2214
 
-<!-- revision 2214 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2214
 
@@ -111,44 +94,32 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 17 (2197)
 _<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 6 fixes and 0 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+**Improved**
 
+\[Improved] Increased supply storage on K17 Unarmed
 
+**Fixed**
 
-##### Improved
+\[Fixed] Fixed radial menu entry null reference exception with shadow item
 
+\[Fixed] Not being able to control attached light devices and missing radial menu actions; fixes [#653](https://github.com/RHSMODS/statusquo/issues/653) and [#655](https://github.com/RHSMODS/statusquo/issues/655)
 
-[Improved] Increased supply storage on K17 Unarmed
+\[Fixed] Patches that were attached to the helmet would be visible in FPP; fixes [#654](https://github.com/RHSMODS/statusquo/issues/654)
 
+\[Fixed] Being able to put backpack radio into taktika radio pouch
 
-##### Fixed
+\[Fixed] Fixed RITA turn off button was doing nothing
 
+\[Fixed] Fixed T14 Turret now can be repaired
 
-[Fixed] Fixed radial menu entry null reference exception with shadow item
-
-[Fixed] Not being able to control attached light devices and missing radial menu actions; fixes [#653](https://github.com/RHSMODS/statusquo/issues/653) and [#655](https://github.com/RHSMODS/statusquo/issues/655)
-
-[Fixed] Patches that were attached to the helmet would be visible in FPP; fixes [#654](https://github.com/RHSMODS/statusquo/issues/654)
-
-[Fixed] Being able to put backpack radio into taktika radio pouch
-
-[Fixed] Fixed RITA turn off button was doing nothing
-
-[Fixed] Fixed T14 Turret now can be repaired
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.7.2197
 
-<!-- revision 2197 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2197
 
@@ -159,48 +130,36 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 16 (2181)
 _<mark style="color:red;">Changes:</mark>_ 4 additions, 5 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added G3 pants (ATACS-FG)
 
+\[Added] Added G3 pants (OD)
 
-[Added] Added G3 pants (ATACS-FG)
+\[Added] Added G3 pants (Multicam)
 
-[Added] Added G3 pants (OD)
+\[Added] Added voice notifications to T14 and K17
 
-[Added] Added G3 pants (Multicam)
+**Improved**
 
-[Added] Added voice notifications to T14 and K17
+\[Improved] Potential compatibility fix for item insertion into pouches
 
+\[Improved] Added new pouch to PCGEN3 rifleman loadout
 
-##### Improved
+\[Improved] Regenerated K17 editor previews + fixed their import settings
 
+\[Improved] Regenerated preview images for 2S1 & IL76
 
-[Improved] Potential compatibility fix for item insertion into pouches
+\[Improved] Corrected inspection slot position for PC Gen III Vest with pouches
 
-[Improved] Added new pouch to PCGEN3 rifleman loadout
+**Fixed**
 
-[Improved] Regenerated K17 editor previews + fixed their import settings
-
-[Improved] Regenerated preview images for 2S1 & IL76
-
-[Improved] Corrected inspection slot position for PC Gen III Vest with pouches
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.7.2181
 
-<!-- revision 2181 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2181
 
@@ -211,54 +170,42 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 32 (2149)
 _<mark style="color:red;">Changes:</mark>_ 4 additions, 5 improvements, 2 fixes and 1 deletions.
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] 30mm HE explosion sounds
 
+\[Added] 30mm, 125mm and 122mm shells sonic cracks and flybyes added (need test)
 
-[Added] 30mm HE explosion sounds
+\[Added] Added X Ultra pioneer boots
 
-[Added] 30mm, 125mm and 122mm shells sonic cracks and flybyes added (need test)
+\[Added] Added X Ultra 4 boots
 
-[Added] Added X Ultra pioneer boots
+**Improved**
 
-[Added] Added X Ultra 4 boots
+\[Improved] Shell hit sounds
 
+\[Improved] Sonic cracks for shells
 
-##### Improved
+\[Improved] Kh55 engine sound
 
+\[Improved] Kh55 sounds and particles
 
-[Improved] Shell hit sounds
+\[Improved] Improved 6B47 mesh
 
-[Improved] Sonic cracks for shells
+**Fixed**
 
-[Improved] Kh55 engine sound
+\[Fixed] Custom bullet flyby sounds not working
 
-[Improved] Kh55 sounds and particles
+\[Fixed] Fixed some of the broken PiP scopes after AR update
 
-[Improved] Improved 6B47 mesh
+**Deleted**
 
-
-##### Fixed
-
-
-[Fixed] Custom bullet flyby sounds not working
-
-[Fixed] Fixed some of the broken PiP scopes after AR update
-
-
-##### Deleted
-
-
-[Removed] Disabled Environment probe in k-17 due poor optimization
-
-
+\[Removed] Disabled Environment probe in k-17 due poor optimization
 
 ## 0.7.2149
 
-<!-- revision 2149 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2149
 
@@ -269,47 +216,34 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 21 (2128)
 _<mark style="color:red;">Changes:</mark>_ 4 additions, 2 improvements, 0 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Turret Damage to vehicles
 
+\[Added] Added Crye G3 pants (M81)
 
-[Added] Turret Damage to vehicles
+\[Added] Added Crye G3 pants (MARPAT Woodland)
 
-[Added] Added Crye G3 pants (M81)
+\[Added] Added Crye G3 pants (MARPAT Arid)
 
-[Added] Added Crye G3 pants (MARPAT Woodland)
+**Improved**
 
-[Added] Added Crye G3 pants (MARPAT Arid)
+\[Improved] Improved USMC Combat boots mesh and texture
 
+\[Improved] Added Environment probe to K-17 (might be deleted if any problems appear)
 
-##### Improved
+**Fixed**
 
-
-[Improved] Improved USMC Combat boots mesh and texture
-
-[Improved] Added Environment probe to K-17 (might be deleted if any problems appear)
-
-
-##### Fixed
-
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.7.2128
 
-<!-- revision 2128 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2128
 
@@ -320,59 +254,46 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 30 (2098)
 _<mark style="color:red;">Changes:</mark>_ 3 additions, 2 improvements, 7 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] Added PMAG 5.56x45
 
+\[Added] Added windowed PMAG
 
-[Added] Added PMAG 5.56x45
+\[Added] Added ATACS version of balaklava
 
-[Added] Added windowed PMAG
+**Improved**
 
-[Added] Added ATACS version of balaklava
+\[Improved] Decluttered USMC arsenal by removing weapon variants and leaving base models
 
+\[Improved] Decluttered MSV arsenal by removing weapon variants and leaving base models
 
-##### Improved
+**Fixed**
 
+\[Fixed] Fixed not being able to attach anything to the rear slot on Kiver, LShZ, Opscore and TOR helmets
 
-[Improved] Decluttered USMC arsenal by removing weapon variants and leaving base models
+\[Fixed] Missing Common item types on some magazines prevented them from being placed in pouch slots
 
-[Improved] Decluttered MSV arsenal by removing weapon variants and leaving base models
+\[Fixed] Disabled animated colliders on 6B48, since they are not used on such Kevlar vest (just like on PASGT Vest)
 
+\[Fixed] Fixed floating PVS-31 and L4G24 mount; fixes [#647](https://github.com/RHSMODS/statusquo/issues/647)
 
-##### Fixed
+\[Fixed] Fixed weapon variant property on one of the items in MSV\_InventoryItems.conf
 
+\[Fixed] Not being able to save loadout with default weapon of USMC GL kit in Combat Ops
 
-[Fixed] Fixed not being able to attach anything to the rear slot on Kiver, LShZ, Opscore and TOR helmets
+\[Fixed] Wrong name set for M4 (it was shown as M4A1)
 
-[Fixed] Missing Common item types on some magazines prevented them from being placed in pouch slots
-
-[Fixed] Disabled animated colliders on 6B48, since they are not used on such Kevlar vest (just like on PASGT Vest)
-
-[Fixed] Fixed floating PVS-31 and L4G24 mount; fixes [#647](https://github.com/RHSMODS/statusquo/issues/647)
-
-[Fixed] Fixed weapon variant property on one of the items in MSV_InventoryItems.conf
-
-[Fixed] Not being able to save loadout with default weapon of USMC GL kit in Combat Ops
-
-[Fixed] Wrong name set for M4 (it was shown as M4A1)
-
-
-##### Deleted
-
-
-
+**Deleted**
 
 ## 0.7.2098
 
-<!-- revision 2098 -->
-  
 {% hint style="info" %}
-### **Release Meta Information**
+#### **Release Meta Information**
 
 _<mark style="color:red;">Built from Revision:</mark>_ 2098
 
@@ -383,65 +304,58 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 34 (2064)
 _<mark style="color:red;">Changes:</mark>_ 7 additions, 7 improvements, 9 fixes and 0 deletions.
 {% endhint %}
 
-
 {% hint style="danger" %}
 This release is only available on **Arma: Reforger Experimental**
 {% endhint %}
 
+**Added**
 
-##### Added
+\[Added] M27 manta rail layout
 
+\[Added] Scout's textures!
 
-[Added] M27 manta rail layout
+\[Added] Initial injection of MP-443
 
-[Added] Scout's textures!
+\[Added] Okinawa warbelt to USMC
 
-[Added] Initial injection of MP-443
+\[Added] Added Taktika platecarrier
 
-[Added] Okinawa warbelt to USMC
+\[Added] Added Taktika warbelt
 
-[Added] Added Taktika platecarrier
+\[Added] Added HSGI warbelt
 
-[Added] Added Taktika warbelt
+**Improved**
 
-[Added] Added HSGI warbelt
+\[Improved] Clothing item inspection will now show compatible items for selected slot
 
+\[Improved] Custom icons to better indicate the purpose of the slots in inspected clothing item
 
-##### Improved
+\[Improved] Changed base zoom on all commander turrets from 3x to 1x
 
+\[Improved] Adjusted muzzle coefficient on M27IAR so it reflects firing 5.56 rounds from 16.5 inch barrel rifle
 
-[Improved] Clothing item inspection will now show compatible items for selected slot
+\[Improved] Added AI Ballistic Tables for various RHS ammo
 
-[Improved] Custom icons to better indicate the purpose of the slots in inspected clothing item
+\[Improved] Added 7N21 & 7N31 ammo configuration for MP443
 
-[Improved] Changed base zoom on all commander turrets from 3x to 1x
+\[Improved] Added MP-443 to arsenal
 
-[Improved] Adjusted muzzle coefficient on M27IAR so it reflects firing 5.56 rounds from 16.5 inch barrel rifle
+**Fixed**
 
-[Improved] Added AI Ballistic Tables for various RHS ammo
+\[Fixed] Fixed missing attribution of Tank script to Zelik
 
-[Improved] Added 7N21 & 7N31 ammo configuration for MP443
+\[Fixed] Disabled ability to stack Suharka backpack into itself
 
-[Improved] Added MP-443 to arsenal
+\[Fixed] Disabled slots that shouldn't be usable on some ECH variants
 
+\[Fixed] MI-8 not taking collision damage
 
-##### Fixed
+\[Fixed] Possible fix for T14 not moving with projectile
 
+\[Fixed] Fixed T14 grills were invincible
 
-[Fixed] Fixed missing attribution of Tank script to Zelik
+\[Fixed] Fixed 1PN138 was always in down position
 
-[Fixed] Disabled ability to stack Suharka backpack into itself
+\[Fixed] Reexported ECH helmets - that should fix missing collision. Fixes [#642](https://github.com/RHSMODS/statusquo/issues/642)
 
-[Fixed] Disabled slots that shouldn't be usable on some ECH variants
-
-[Fixed] MI-8 not taking collision damage
-
-[Fixed] Possible fix for T14 not moving with projectile
-
-[Fixed] Fixed T14 grills were invincible
-
-[Fixed] Fixed 1PN138 was always in down position
-
-[Fixed] Reexported ECH helmets - that should fix missing collision. Fixes [#642](https://github.com/RHSMODS/statusquo/issues/642)
-
-[Fixed] Being able to put grenade and other items into mag pouches
+\[Fixed] Being able to put grenade and other items into mag pouches
