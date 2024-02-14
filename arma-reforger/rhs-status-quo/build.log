@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/14/2024 10:13:52 PM UTC | Revision 2240 | gurdy]
+
+[Other] Finished opscore en strings
+
+
+
 [2/14/2024 9:51:09 PM UTC | Revision 2239 | odkupiciel375]
 
 [Other] Added: property to SCR_RadioComponent which dictates if radio is meant to be shown when equipped to fix 657 but due to the fact that we dont have custom anims for both radios it means that we are required to use different origin points which position the radio correctly for AR animations and if we would adjusted origins to be the same for both radios and use additive inspection offset then this offset will be also applied to the item when it is attached to the storage slot... it seems like there are two solutions to this issue 1) (better) unify origin for both radios and create new animations or 2) (worse) add some pivot point that will be used for positioning stored item
