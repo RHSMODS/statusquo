@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/14/2024 7:28:01 PM UTC | Revision 2238 | odkupiciel375]
+
+[Fixed] Removed default helmet cover from Kiver which should fix an issue where player would respawn with default cover even when they saved their loadout with different cover attached
+
+
+
 [2/14/2024 6:55:24 PM UTC | Revision 2237 | odkupiciel375]
 
 [Other] Changed: Reimported KAC_NT4_QD_REF to give it proper physics layers (was 'invalid')
