@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/14/2024 6:37:01 AM UTC | Revision 2235 | Soul_Assassin]
+
+[Fixed] Inventory icon for A Pos blood patch was not working; fixes #628
+
+
+
 [2/13/2024 8:23:14 PM UTC | Revision 2234 | odkupiciel375]
 
 [Other] Changed: removed problematic 'new ref' from RHS_TouchScreenMenuPMFCameraHandler, RHS_RadialMenuItemsComponent and RHS_SCR_2DLRFComponent
