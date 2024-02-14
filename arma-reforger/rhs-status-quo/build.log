@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/14/2024 7:03:23 AM UTC | Revision 2236 | odkupiciel375]
+
+[Other] Changed: Adjusted storage priority for pc gen3 so mags should go to pouches first when transferred with RMB (cuz drag and drop works differently...)
+
+
+
 [2/14/2024 6:37:01 AM UTC | Revision 2235 | Soul_Assassin]
 
 [Fixed] Inventory icon for A Pos blood patch was not working; fixes #628
