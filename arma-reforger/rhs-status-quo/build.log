@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/14/2024 9:51:09 PM UTC | Revision 2239 | odkupiciel375]
+
+[Other] Added: property to SCR_RadioComponent which dictates if radio is meant to be shown when equipped to fix 657 but due to the fact that we dont have custom anims for both radios it means that we are required to use different origin points which position the radio correctly for AR animations and if we would adjusted origins to be the same for both radios and use additive inspection offset then this offset will be also applied to the item when it is attached to the storage slot... it seems like there are two solutions to this issue 1) (better) unify origin for both radios and create new animations or 2) (worse) add some pivot point that will be used for positioning stored item
+
+[Other] Changed: IsVisibleEquipped set to true for Radio_R187P1_OLD.et
+
+
+
 [2/14/2024 7:28:01 PM UTC | Revision 2238 | odkupiciel375]
 
 [Fixed] Removed default helmet cover from Kiver which should fix an issue where player would respawn with default cover even when they saved their loadout with different cover attached
