@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/14/2024 6:55:24 PM UTC | Revision 2237 | odkupiciel375]
+
+[Other] Changed: Reimported KAC_NT4_QD_REF to give it proper physics layers (was 'invalid')
+
+[Other] Changed: Set RigidBody SimState of M27 and M4 to none to be the same as AR M16
+
+[Other] Changed: Changed collider size and type for M4 lower so it should clip into the ground anymore
+
+[Other] Changed: Disabled RigidBody component on RHS_WeaponPart_Base.et as they dont seem to have an impact on weapon physics as they are disabled by the game when dropped
+
+
+
 [2/14/2024 7:03:23 AM UTC | Revision 2236 | odkupiciel375]
 
 [Other] Changed: Adjusted storage priority for pc gen3 so mags should go to pouches first when transferred with RMB (cuz drag and drop works differently...)
