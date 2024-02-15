@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/15/2024 3:23:14 PM UTC | Revision 2247 | reyhard]
+
+[Improved] Added localization for MP-443 pistol
+
+[Other] Added new localization config which can be used with localization plug - it should be able to at least parse weapons and magazines
+
+[Other] Tweaked inheritance of 2S1
+
+
+
 [2/15/2024 2:42:55 PM UTC | Revision 2246 | Punky]
 
 [Other] Wip fix for MBUS + initial tan textures for Rifle_M4A1_BLOCK_II_test.et
