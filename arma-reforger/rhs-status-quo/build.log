@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/16/2024 6:48:12 AM UTC | Revision 2249 | odkupiciel375]
+
+[Other] Changed: MS2k RHS_LoadoutSmallVelcroSlotArea changed to RHS_LoadoutTopVelcroSlotArea
+
+[Other] Changed: RHS_LoadoutTopVelcroSlotArea now inherits from RHS_LoadoutHelmetBackVelcroSlotArea
+
+
+
 [2/15/2024 9:37:20 PM UTC | Revision 2248 | Soul_Assassin]
 
 [Other] Fixed default rotation of VIP strobe also
