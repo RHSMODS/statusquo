@@ -104,6 +104,7 @@
       * [K-17 Boomerang](arma-reforger/rhs-status-quo/redfor/vehicles/k-17-boomerang.md)
       * [T-14](arma-reforger/rhs-status-quo/redfor/vehicles/t-14.md)
       * [2S1](arma-reforger/rhs-status-quo/redfor/vehicles/2s1.md)
+  * [Test](arma-reforger/rhs-status-quo/test.md)
 * [RHS: TerraCore](arma-reforger/rhs-terracore.md)
 
 ## Arma 3
