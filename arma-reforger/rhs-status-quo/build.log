@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[2/16/2024 5:25:32 PM UTC | Revision 2250 | odkupiciel375]
+
+[Improved] MS2k, HELLSTAR6 and VIP Strobes can now be attached both to helmet top and back velcro slots; fixes #668
+
+[Fixed] Wrong name shown in some cases for VIP Strobe; fixes #656
+
+[Other] Changed: Removed ® and 'LE' from Hel-Star 6 name and description strings
+
+
+
 [2/16/2024 6:48:12 AM UTC | Revision 2249 | odkupiciel375]
 
 [Other] Changed: MS2k RHS_LoadoutSmallVelcroSlotArea changed to RHS_LoadoutTopVelcroSlotArea
