@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/19/2024 11:36:46 AM UTC | Revision 2257 | Punky]
+
+[Other] Modified Blend of M27 to prepare it to separate buuttstock from body - operation went successfully. Patient dies.
+
+[Other] Added separated version of M27 and HK Buttstock.
+
+[Other] Moved additional AR15 parts to attachment folder.
+
+[Other] Please confirm after this commit that separation works and attachments are being loaded correctly.
+
+
+
 [2/19/2024 7:57:47 AM UTC | Revision 2256 | reyhard]
 
 [Other] Some wip anim stuff
