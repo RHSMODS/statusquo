@@ -13,6 +13,44 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2265
+
+<!-- revision 2265 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2265
+
+_<mark style="color:red;">Date:</mark>_ Monday, February 19, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (2257)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed K-17 causing Game crash
+
+[Fixed] Not being able to attach strobes to the helmets
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2257
 
 <!-- revision 2257 -->
