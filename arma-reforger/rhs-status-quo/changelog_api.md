@@ -13,6 +13,66 @@ If stable RHS: Status Quo release is preceded by one or more experimental releas
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.7.2257
+
+<!-- revision 2257 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2257
+
+_<mark style="color:red;">Date:</mark>_ Monday, February 19, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 25 (2232)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 4 improvements, 8 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] SureFure 4 Prong Flashhider
+
+
+##### Improved
+
+
+[Improved] Helstar and MS2k are oriented in same way now, so both should be attachable to top and back Velcro on helmets; fixes [#608](https://github.com/RHSMODS/statusquo/issues/608)
+
+[Improved] Added localization for MP-443 pistol
+
+[Improved] MS2k, HELLSTAR6 and VIP Strobes can now be attached both to helmet top and back velcro slots; fixes [#668](https://github.com/RHSMODS/statusquo/issues/668)
+
+[Improved] Changed K-17 armor (Sides 35mm->20mm. Side UParmor 30mm->10mm. Front UParmor 40mm->15mm. Interior armor 30mm->5mm). It means that K-17 side armor is now vulnerable to 12.7 AP. However it doesnt mean that you can flame it by just shooting at passanger compartment. You still need to target engine, fuel tanks, and other critical elements.
+
+
+##### Fixed
+
+
+[Fixed] Fixed MS2K placement on helmets; fixes [#643](https://github.com/RHSMODS/statusquo/issues/643)
+
+[Fixed] Inventory icon for A Pos blood patch was not working; fixes [#628](https://github.com/RHSMODS/statusquo/issues/628)
+
+[Fixed] Removed default helmet cover from Kiver which should fix an issue where player would respawn with default cover even when they saved their loadout with different cover attached
+
+[Fixed] Wrong name shown in some cases for VIP Strobe; fixes [#656](https://github.com/RHSMODS/statusquo/issues/656)
+
+[Fixed] Fixed TSh-4 wrong weight
+
+[Fixed] Fixed BallCap wrong weight
+
+[Fixed] Fixed Shemagh wrong weight
+
+[Fixed] Fixed Beanie wrong weight
+
+
+##### Deleted
+
+
+
+
 ## 0.7.2232
 
 <!-- revision 2232 -->
