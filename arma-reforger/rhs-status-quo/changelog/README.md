@@ -6,10 +6,6 @@ description: >-
 
 # Changelog
 
-{% hint style="warning" %}
-If stable RHS: Status Quo release is preceded by one or more experimental releases (not dev), then the changelog between this stable release and last stable release should be considered the combination of all the experimental changelogs in between as well as the changelog between the last experimental and stable release.
-{% endhint %}
-
 ## 0.8.2268
 
 {% hint style="info" %}
@@ -19,7 +15,7 @@ _<mark style="color:red;">Built from Revision:</mark>_ 2268
 
 _<mark style="color:red;">Date:</mark>_ Tuesday, February 20, 2024
 
-_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (2265)
+_<mark style="color:red;">Revisions Since Last:</mark>_ 118 (2150)
 
 _<mark style="color:red;">Changes:</mark>_ 14 additions, 28 improvements, 27 fixes and 1 deletions.
 {% endhint %}
