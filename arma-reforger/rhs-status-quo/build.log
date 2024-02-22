@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/22/2024 10:02:36 AM UTC | Revision 2271 | reyhard]
+
+[Improved] Changed ocean sim on RHS Atol terrain to something less aggressive foam/wave wise
+
+
+
 [2/22/2024 8:52:14 AM UTC | Revision 2270 | reyhard]
 
 [Improved] Regenerated navmesh on test atol - fixes  #683
