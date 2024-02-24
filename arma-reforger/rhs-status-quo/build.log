@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/24/2024 8:46:09 PM UTC | Revision 2283 | PUDDY300]
+
+[Other] Commented out debug print statements in RHS_MagazineAnimationComponent.c
+
+[Other] Exported KH55 anim for Toxic
+
+
+
 [2/24/2024 7:50:28 PM UTC | Revision 2282 | Tactical_Toxic]
 
 [Other] Thinned K-17 armor (once again, because seems like new patch changed AP possibilities of 12.7)
