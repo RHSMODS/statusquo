@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/29/2024 2:34:35 PM UTC | Revision 2292 | Punky]
+
+[Other] Added fixed Daniel Offense models with FDE textures 2x2 But will be lowered to 2x1 (There will be another fix in next commit).
+
+[Other] Added initial setup silhouette of UH1Y. (Measuring and config purposes)
+
+
+
 [2/28/2024 7:08:07 AM UTC | Revision 2291 | MacroBebra]
 
 [Other] Added new Taktika preset for GM94
