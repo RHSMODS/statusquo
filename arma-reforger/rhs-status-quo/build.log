@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/29/2024 2:48:32 PM UTC | Revision 2293 | reyhard]
+
+[Fixed] Fix to RHS gadgets error related to animation graphs
+
+
+
 [2/29/2024 2:34:35 PM UTC | Revision 2292 | Punky]
 
 [Other] Added fixed Daniel Offense models with FDE textures 2x2 But will be lowered to 2x1 (There will be another fix in next commit).
