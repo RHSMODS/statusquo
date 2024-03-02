@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/2/2024 12:57:36 PM UTC | Revision 2299 | Tactical_Toxic]
+
+[Other] Fixed optic position on all weapons that utilize Dovetail mounting system
+
+[Other] Adjusted snap_weapon point on all dovetail attachments
+
+[Other] It DOESNT match vanilla now, because vanilla still uses outdated mounting system (should be updated in next exp patch as KLLRT said)
+
+
+
 [3/1/2024 8:56:02 PM UTC | Revision 2298 | Tactical_Toxic]
 
 [Other] Adjusted mag pos on all AKoids
