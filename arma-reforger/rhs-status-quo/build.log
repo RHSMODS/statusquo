@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/5/2024 3:51:04 PM UTC | Revision 2308 | Ram]
+
+[Added] Added T-14 PMF damage screen
+
+[Other] References in decal materials disabled (It cause inventory preview crush)
+
+[Other] Fixed K-17 damage screen HitZone npe
+
+
+
 [3/5/2024 1:51:56 PM UTC | Revision 2307 | Vergy]
 
 [Fixed] Fixed Solomon X Ultra weight paint on LODs 1-4
