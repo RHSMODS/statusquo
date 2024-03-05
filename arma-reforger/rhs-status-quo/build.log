@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/5/2024 7:05:15 AM UTC | Revision 2304 | Soul_Assassin]
+
+[Improved] Tweaks to 6B47 collider
+
+[Fixed] Fixed muzzle devices not respawning correctly on rifles in some cases; fixes #696
+
+
+
 [3/4/2024 8:50:19 PM UTC | Revision 2303 | Tactical_Toxic]
 
 [Other] Aksu uh nuh mag issue fix
