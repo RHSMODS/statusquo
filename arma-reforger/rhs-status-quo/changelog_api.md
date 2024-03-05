@@ -9,6 +9,99 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2311
+
+<!-- revision 2311 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2311
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 5, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 43 (2268)
+
+_<mark style="color:red;">Changes:</mark>_ 13 additions, 7 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added MOHOC Camera standalone attachment
+
+[Added] Added TOR counterweight pouch
+
+[Added] Added Cheshire Cat patch
+
+[Added] Added Switch MPLS light
+
+[Added] Added black, olive and emr TOR counterweight pouch
+
+[Added] Added more pouches to PC GEN 3
+
+[Added] Added Velocity shirt
+
+[Added] Added Black G3 shirt and pants
+
+[Added] Added Altama boots
+
+[Added] Added brown velocity shirt
+
+[Added] Added OD velocity shirt
+
+[Added] Added T-14 PMF damage screen
+
+[Added] Added black Taktika variant
+
+
+##### Improved
+
+
+[Improved] Regenerated navmesh on test atol - fixes  [#683](https://github.com/RHSMODS/statusquo/issues/683)
+
+[Improved] Changed ocean sim on RHS Atol terrain to something less aggressive foam/wave wise
+
+[Improved] Detached AK-74M muzzle from base weapon
+
+[Improved] Tweaks to most PiP HDR materials to work better with new lighting; fixes [#681](https://github.com/RHSMODS/statusquo/issues/681)
+
+[Improved] Improved 6L26 texture
+
+[Improved] Daniel Offense Rails & textures
+
+[Improved] Tweaks to 6B47 collider
+
+
+##### Fixed
+
+
+[Fixed] Fixed various console log errors
+
+[Fixed] Fixed Charge Pro opacity
+
+[Fixed] Fixed Switch MPLS localization
+
+[Fixed] Fix to RHS gadgets error related to animation graphs
+
+[Fixed] Fixed muzzle devices not respawning correctly on rifles in some cases; fixes [#696](https://github.com/RHSMODS/statusquo/issues/696)
+
+[Fixed] Fixed Solomon X Ultra weight paint on LODs 1-4
+
+[Fixed] Fixed 2S1 Replication crush; fixes [#689](https://github.com/RHSMODS/statusquo/issues/689)
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2268
 
 <!-- revision 2268 -->
