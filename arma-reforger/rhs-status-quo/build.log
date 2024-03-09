@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/9/2024 9:38:09 AM UTC | Revision 2329 | odkupiciel375]
+
+[Improved] Changed NVG Gadget Type to use new type that was added by BI (EGadgetType.NIGHT_VISION)
+
+[Other] Moved extension of enum EGadgetType to RHS_M_GadgetComponent.c to match AR and removed our EGadgetType.NVG
+
+
+
 [3/8/2024 11:25:13 PM UTC | Revision 2328 | Sesk]
 
 [Other] Factions icons
