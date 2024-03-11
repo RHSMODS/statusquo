@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[3/11/2024 5:45:18 PM UTC | Revision 2345 | Ram]
+
+[Other] PoC for Thermals (read below)
+
+[Other] Modified base character to have "thermal" silhouette (RHS_ThermalSlotManagerComponent)
+
+[Other] Added RHS_ThermalManagerComponent that contains info about all characters and turns of visibility of "Thermal" silhouette when called
+
+[Other] Fixed k17 wheels damage indication
+
+[Other] Fixed ГОТ / НЕГОТ was inverted on T-14
+
+[Other] Fixed PIP optics in t14/k17 was too dim
+
+
+
 [3/11/2024 1:10:13 PM UTC | Revision 2344 | Sesk]
 
 [Other] Proper groups folders
