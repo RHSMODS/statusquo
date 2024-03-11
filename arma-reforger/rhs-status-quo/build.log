@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[3/11/2024 9:50:52 PM UTC | Revision 2349 | Ram]
+
+[Other] Fixed K17 and T14 sight info HitZone fixes, actually it all been broken all the time...
+
+[Other] Fixed Thermal system fixes, character deleting, z culling, use thermals checkbox moved to RHS_NightVisionComponent, remove head.
+
+[Other] Added Driver screen rear camera view on revers.
+
+[Other] Fixed K17 and T14 target recognition wallhack removed, I believe...
+
+
+
 [3/11/2024 9:24:14 PM UTC | Revision 2348 | Soul_Assassin]
 
 [Other] ECH LC marpat cover files
