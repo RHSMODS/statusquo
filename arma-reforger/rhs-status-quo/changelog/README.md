@@ -9,6 +9,89 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2353
+
+<!-- revision 2353 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2353
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 12, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 42 (2311)
+
+_<mark style="color:red;">Changes:</mark>_ 18 additions, 3 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Black Taktika Pouch preset
+
+[Added] Added SR-3M (Black)
+
+[Added] Added SR-3M (Desert paintjob)
+
+[Added] Added SR-3M (Green paintjob)
+
+[Added] Added shoulder protection to Taktika vest
+
+[Added] Added neck protection to Taktika vest
+
+[Added] Added AK-105 with Zenitco B30U and B31N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B30U and B19N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B10M and B19N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B10M and B19 rails in black and tan
+
+[Added] Added RG ATACS units
+
+[Added] Added SOBR black presets
+
+[Added] Added AK-74M with Zenitco B10M and B19 rails in black and tan
+
+[Added] Added AK-74M with Zenitco B10M and B19N rails in black and tan
+
+[Added] Added AK-74M with Zenitco B30U and B19N rails in black and tan
+
+[Added] Added AK-74M with Zenitco B30U and B31N rails in black and tan
+
+[Added] Added Rocky_SV2_Boots model and textures. Initial prefab setup.
+
+[Added] Orion GPS now has basic functionality in inspect mode
+
+
+##### Improved
+
+
+[Improved] Changed NVG Gadget Type to use new type that was added by BI (EGadgetType.NIGHT_VISION)
+
+[Improved] SR3M now has melee; fixes [#698](https://github.com/RHSMODS/statusquo/issues/698)
+
+[Improved] Rail covers now stay at LOD0 in inventory preview
+
+
+##### Fixed
+
+
+[Fixed] Fixed right rail attachment position on Kiver RSP
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2311
 
 <!-- revision 2311 -->
