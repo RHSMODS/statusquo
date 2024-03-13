@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/13/2024 10:45:49 AM UTC | Revision 2357 | Tactical_Toxic]
+
+[Other] Fixed an94 inheritance
+
+[Other] Removed an94 with pso (it cant mount it)
+
+[Other] Minor thermal hdr adjustments
+
+
+
 [3/12/2024 10:28:59 PM UTC | Revision 2356 | Tactical_Toxic]
 
 [Added] Completely reworked RHS Faction system. Instead of USMC and MSV there is AFRF and USAF now. MSV and USMC moved to branches.
