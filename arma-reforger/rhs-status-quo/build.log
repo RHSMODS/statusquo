@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/13/2024 9:05:51 PM UTC | Revision 2374 | Ram]
+
+[Other] Fixed K17 doesn't properly disable thermal.
+
+[Other] Fixed Infratech layout.
+
+[Other] Fixed? NDS throw NPE on thermal registration. (Engine return null slot?)
+
+
+
 [3/13/2024 8:57:47 PM UTC | Revision 2373 | Vergy]
 
 [Other] Modified Crye_Combat_Pants to fit other boots
