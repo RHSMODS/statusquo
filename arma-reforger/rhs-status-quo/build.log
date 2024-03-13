@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/13/2024 6:41:44 PM UTC | Revision 2367 | Ram]
+
+[Other] Fixed reapir and infratech
+
+[Other] Added reapir 2D sight layout
+
+[Other] Added RHS_2DSightNightVisionComponent
+
+
+
 [3/13/2024 6:03:36 PM UTC | Revision 2366 | odkupiciel375]
 
 [Other] Reduced Orion context interaction radius for buttons to prevent it from clipping into the players head
