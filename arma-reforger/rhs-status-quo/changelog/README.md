@@ -9,6 +9,156 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2369
+
+<!-- revision 2369 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2369
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, March 13, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 104 (2265)
+
+_<mark style="color:red;">Changes:</mark>_ 33 additions, 12 improvements, 13 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added MOHOC Camera standalone attachment
+
+[Added] Added TOR counterweight pouch
+
+[Added] Added Cheshire Cat patch
+
+[Added] Added Switch MPLS light
+
+[Added] Added black, olive and emr TOR counterweight pouch
+
+[Added] Added more pouches to PC GEN 3
+
+[Added] Added Velocity shirt
+
+[Added] Added Black G3 shirt and pants
+
+[Added] Added Altama boots
+
+[Added] Added brown velocity shirt
+
+[Added] Added OD velocity shirt
+
+[Added] Added T-14 PMF damage screen
+
+[Added] Added black Taktika variant
+
+[Added] Added Black Taktika Pouch preset
+
+[Added] Added SR-3M (Black)
+
+[Added] Added SR-3M (Desert paintjob)
+
+[Added] Added SR-3M (Green paintjob)
+
+[Added] Added shoulder protection to Taktika vest
+
+[Added] Added neck protection to Taktika vest
+
+[Added] Added AK-105 with Zenitco B30U and B31N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B30U and B19N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B10M and B19N rails in black and tan
+
+[Added] Added AK-105 with Zenitco B10M and B19 rails in black and tan
+
+[Added] Added RG ATACS units
+
+[Added] Added SOBR black presets
+
+[Added] Added AK-74M with Zenitco B10M and B19 rails in black and tan
+
+[Added] Added AK-74M with Zenitco B10M and B19N rails in black and tan
+
+[Added] Added AK-74M with Zenitco B30U and B19N rails in black and tan
+
+[Added] Added AK-74M with Zenitco B30U and B31N rails in black and tan
+
+[Added] Added Rocky_SV2_Boots model and textures. Initial prefab setup.
+
+[Added] Orion GPS now has basic functionality in inspect mode
+
+[Added] Completely reworked RHS Faction system. Instead of USMC and MSV there is AFRF and USAF now. MSV and USMC moved to branches.
+
+[Added] Added Emissive texture to ECH_LowCover Cateyes
+
+
+##### Improved
+
+
+[Improved] Tweaked RPK-74M textures.
+
+[Improved] Regenerated navmesh on test atol - fixes  [#683](https://github.com/RHSMODS/statusquo/issues/683)
+
+[Improved] Changed ocean sim on RHS Atol terrain to something less aggressive foam/wave wise
+
+[Improved] Detached AK-74M muzzle from base weapon
+
+[Improved] Tweaks to most PiP HDR materials to work better with new lighting; fixes [#681](https://github.com/RHSMODS/statusquo/issues/681)
+
+[Improved] Improved 6L26 texture
+
+[Improved] Daniel Offense Rails & textures
+
+[Improved] Tweaks to 6B47 collider
+
+[Improved] Changed NVG Gadget Type to use new type that was added by BI (EGadgetType.NIGHT_VISION)
+
+[Improved] SR3M now has melee; fixes [#698](https://github.com/RHSMODS/statusquo/issues/698)
+
+[Improved] Rail covers now stay at LOD0 in inventory preview
+
+[Improved] Orion now has boot screen when turning on
+
+
+##### Fixed
+
+
+[Fixed] Fixed barrel texture on RPK-74 not working anymore.
+
+[Fixed] Scripts compile for 1.1 and version bumped to 0.8
+
+[Fixed] Fixed various console log errors
+
+[Fixed] Fixed Charge Pro opacity
+
+[Fixed] Fixed Switch MPLS localization
+
+[Fixed] Fix to RHS gadgets error related to animation graphs
+
+[Fixed] Fixed muzzle devices not respawning correctly on rifles in some cases; fixes [#696](https://github.com/RHSMODS/statusquo/issues/696)
+
+[Fixed] Fixed Solomon X Ultra weight paint on LODs 1-4
+
+[Fixed] Fixed 2S1 Replication crush; fixes [#689](https://github.com/RHSMODS/statusquo/issues/689)
+
+[Fixed] Fixed right rail attachment position on Kiver RSP
+
+[Fixed] Fixed showcase scenario
+
+[Fixed] Fixed ECH_LowCover textures
+
+[Fixed] Particles for 30mm HE shells
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2353
 
 <!-- revision 2353 -->
