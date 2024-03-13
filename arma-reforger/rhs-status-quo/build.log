@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/13/2024 6:03:36 PM UTC | Revision 2366 | odkupiciel375]
+
+[Other] Reduced Orion context interaction radius for buttons to prevent it from clipping into the players head
+
+
+
 [3/13/2024 6:00:16 PM UTC | Revision 2365 | Ashyl]
 
 [Fixed] Particles for 30mm HE shells
