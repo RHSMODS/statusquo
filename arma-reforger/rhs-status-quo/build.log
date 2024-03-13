@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/13/2024 12:14:16 PM UTC | Revision 2360 | spacestrider]
+
+[Other] Fixed proc anim distance for K17 epoch turret
+
+[Other] Fixed K17 HE ammo damage, Fixed issue #702
+
+[Other] Fixed 30mm tracer visibility
+
+
+
 [3/13/2024 11:12:31 AM UTC | Revision 2359 | reyhard]
 
 [Fixed] Fixed showcase scenario
