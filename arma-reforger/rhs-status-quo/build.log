@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[3/14/2024 9:35:19 PM UTC | Revision 2388 | Tactical_Toxic, odkupiciel375, Ram, Tactical_Toxic]
+
+[Other] Mat adjustment and more cum guy deflation
+
+[Other] Another fix for broken gadget handling when item is transferred - to fix nvg being available when it is dropped
+
+[Other] Fixed Hiding thermal silhouette through material opacity.
+
+[Other] Slightly deflated thermal guy to be less hilarious
+
+
+
 [3/14/2024 7:52:13 PM UTC | Revision 2384 | Soul_Assassin, Tactical_Toxic]
 
 [Fixed] Laser range finders work again
