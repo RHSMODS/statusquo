@@ -26,14 +26,6 @@ _<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 4 fixes 
 {% endhint %}
 
 
-##### Added
-
-
-
-##### Improved
-
-
-
 ##### Fixed
 
 
