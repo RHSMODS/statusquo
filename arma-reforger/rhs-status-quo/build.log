@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/16/2024 4:11:40 PM UTC | Revision 2394 | Soul_Assassin]
+
+[Improved] Added LODs to PGO-7V3; fixes #710
+
+
+
 [3/16/2024 12:12:39 PM UTC | Revision 2393 | odkupiciel375]
 
 [Other] Changed: Switched NightVisionComponent (and RhinoAttachmentComponent) to use gadget system for updates rather than EOnFrame
