@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/16/2024 12:12:39 PM UTC | Revision 2393 | odkupiciel375]
+
+[Other] Changed: Switched NightVisionComponent (and RhinoAttachmentComponent) to use gadget system for updates rather than EOnFrame
+
+
+
 [3/16/2024 5:16:59 AM UTC | Revision 2392 | Vergy]
 
 [Added] Added Velocity Shirt Multicam
