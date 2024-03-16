@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/16/2024 4:38:59 PM UTC | Revision 2397 | odkupiciel375]
+
+[Improved] [Modding] For compatibility reason EGadgetType.GPS was renamed to EGadgetType.RHS_GPS
+
+
+
 [3/16/2024 4:30:56 PM UTC | Revision 2396 | Vergy]
 
 [Other] Fixed FROG Trouser texture
