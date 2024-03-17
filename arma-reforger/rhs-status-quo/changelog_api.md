@@ -9,6 +9,44 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2405
+
+<!-- revision 2405 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2405
+
+_<mark style="color:red;">Date:</mark>_ Sunday, March 17, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (2404)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] White flare console errors
+
+[Fixed] Kh-55 was pointing to wrong particle effect
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2404
 
 <!-- revision 2404 -->
