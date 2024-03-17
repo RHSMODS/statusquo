@@ -9,6 +9,70 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2404
+
+<!-- revision 2404 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2404
+
+_<mark style="color:red;">Date:</mark>_ Sunday, March 17, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 16 (2388)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 7 improvements, 6 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Velocity Shirt Multicam
+
+[Added] Added AK-74M and AK-105 with Zenitco B10M rail in black; fixes [#713](https://github.com/RHSMODS/statusquo/issues/713)
+
+
+##### Improved
+
+
+[Improved] Added proper prices to items in arsenal
+
+[Improved] Readded LODs back to RPK-74M
+
+[Improved] Added LODs to PGO-7V3; fixes [#710](https://github.com/RHSMODS/statusquo/issues/710)
+
+[Improved] [Modding] For compatibility reason EGadgetType.GPS was renamed to EGadgetType.RHS_GPS
+
+[Improved] Removed tons of unused materials
+
+[Improved] AK-74M with Zenitco B-10M can now mount GP-25; fixes [#712](https://github.com/RHSMODS/statusquo/issues/712)
+
+[Improved] K-17 GM description was too long for some low resolutions, blocking out other UI
+
+
+##### Fixed
+
+
+[Fixed] Fixed wrong roughness on MBUS
+
+[Fixed] Fixed wrong reticle size and brightness on 1P63
+
+[Fixed] Camo repair Ural now has camo on the back; fixes [#711](https://github.com/RHSMODS/statusquo/issues/711)
+
+[Fixed] Fixed some incorrect collider settings in models
+
+[Fixed] Fixed some incorrect texture assignments in materials
+
+[Fixed] Some Zenitco railed rifles has wrong inventory name
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2388
 
 <!-- revision 2388 -->
