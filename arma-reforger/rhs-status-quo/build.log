@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[3/17/2024 3:51:13 PM UTC | Revision 2404 | Soul_Assassin]
+
+[Added] Added AK-74M and AK-105 with Zenitco B10M rail in black; fixes #713
+
+[Fixed] Some Zenitco railed rifles has wrong inventory name
+
+[Improved] AK-74M with Zenitco B-10M can now mount GP-25; fixes #712
+
+[Improved] K-17 GM description was too long for some low resolutions, blocking out other UI
+
+
+
 [3/17/2024 2:23:55 PM UTC | Revision 2403 | Soul_Assassin]
 
 [Other] Returned a use material that was deleted.
