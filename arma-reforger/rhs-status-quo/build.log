@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/17/2024 1:57:00 PM UTC | Revision 2402 | Soul_Assassin]
+
+[Improved] Removed tons of unused materials
+
+[Fixed] Fixed some incorrect collider settings in models
+
+[Fixed] Fixed some incorrect texture assignments in materials
+
+
+
 [3/17/2024 11:55:26 AM UTC | Revision 2401 | odkupiciel375]
 
 [Other] NPE prevention for inventory scripts
