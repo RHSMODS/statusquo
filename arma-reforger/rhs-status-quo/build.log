@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/18/2024 7:34:21 PM UTC | Revision 2407 | Tactical_Toxic]
+
+[Fixed] Fixed K17 "open driver hatch" action was broken
+
+[Other] Proper particle input for 3uof6 and 3uof8 (which one is actually used?) i think it got messed up again. Someone need to check what is even going on with 2a42 magazines
+
+
+
 [3/18/2024 3:30:28 PM UTC | Revision 2406 | Soul_Assassin]
 
 [Added] Added Multicam and OD versions of the Velocity shirt to Arsenal
