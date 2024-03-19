@@ -9,6 +9,50 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2409
+
+<!-- revision 2409 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2409
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 19, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 4 (2405)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 0 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Multicam and OD versions of the Velocity shirt to Arsenal
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed K17 "open driver hatch" action was broken
+
+[Fixed] Fixed HDR broken when opening map with NVG googles and thermal sight
+
+[Fixed] Fixed K17 and T14 turret Optic destruction
+
+[Fixed] Fixed T14 PMF brains HitZone info
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2405
 
 <!-- revision 2405 -->
