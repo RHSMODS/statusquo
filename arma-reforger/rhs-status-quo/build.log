@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/20/2024 10:57:01 PM UTC | Revision 2421 | Soul_Assassin]
+
+[Other] Start merger of GPS components into one. DAGR completely deadified for now. Will remake once Orion is working somewhat.
+
+
+
 [3/20/2024 10:43:40 PM UTC | Revision 2420 | Tactical_Toxic]
 
 [Improved] Added more gain steps to REAP-IR, 1TWS, PATROL-IR, SNIPE-IR
