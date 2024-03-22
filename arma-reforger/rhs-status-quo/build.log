@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/22/2024 11:19:17 PM UTC | Revision 2426 | Ram]
+
+[Fixed] Fixed wrong recoil on REAP-IR, SNIPE-IR, TWS1
+
+[Fixed] Fixed reinit of hdr after opening menu while using thermal optic
+
+[Improved] Improved brain damage system on K-17 and T-14
+
+
+
 [3/22/2024 6:57:57 AM UTC | Revision 2425 | Soul_Assassin]
 
 [Other] Further refactor and simplification of GPS gadgets handling (no new functionality, just cleanup)
