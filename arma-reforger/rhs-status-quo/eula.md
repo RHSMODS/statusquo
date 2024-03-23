@@ -17,3 +17,7 @@ It is forbidden to distribute the content of this package by itself, or as part 
 You may not use the material for commercial purposes. This includes running this package on server instances that employ any monetization schemes, including, but not limited to, donate-reward systems. Bohemia Interactive's approval of your monetization scheme does not grant you rights to wave this clause of the EULA.
 
 This add-on is provided for Arma Reforger and is not to be used for the purpose of military training.
+
+#### InstaLOD
+
+Some of the art assets in this mod use InstaLOD with pleasure - [https://instalod.com/](https://instalod.com/).
