@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/24/2024 12:10:00 PM UTC | Revision 2438 | Tactical_Toxic]
+
+[Fixed] Fixed VehSimple and VehComplex colliders on T14
+
+[Other] Slightly adjusted k17 vehsimple and vehcomplex colliders
+
+
+
 [3/24/2024 11:13:06 AM UTC | Revision 2437 | Soul_Assassin]
 
 [Fixed] BOSS Rugby Multicam now has correct name and image in inventory; fixes #728
