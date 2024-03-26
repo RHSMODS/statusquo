@@ -9,6 +9,76 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2441
+
+<!-- revision 2441 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2441
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 26, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 32 (2409)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 6 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added ECH lowcut woodland covered version and cover to arsenal
+
+[Added] Added fuel counter to K-17 and T-14
+
+[Added] Added "Medic" preset to AFRF arsenal
+
+
+##### Improved
+
+
+[Improved] Improved changed PG7VR volume size from 1200 to 2000
+
+[Improved] Changed view distance for T-14 and K-17 turret animation from 1k to 2k (this means that you will see turret actually rotating from longer distances)
+
+[Improved] Added more gain steps to REAP-IR, 1TWS, PATROL-IR, SNIPE-IR
+
+[Improved] Improved brain damage system on K-17 and T-14
+
+[Improved] Key binding names more consistent
+
+[Improved] Refactored DAGR to new system
+
+
+##### Fixed
+
+
+[Fixed] Fixed K17/T14 PMF Turret orientation angle
+
+[Fixed] Fixed T14 PMF damage screen visibility
+
+[Fixed] Fixed wrong recoil on REAP-IR, SNIPE-IR, TWS1
+
+[Fixed] Fixed reinit of hdr after opening menu while using thermal optic
+
+[Fixed] FROG Trouser blood VFX textures
+
+[Fixed] Controller key bindings are now settable; fixes [#731](https://github.com/RHSMODS/statusquo/issues/731)
+
+[Fixed] BOSS Rugby Multicam now has correct name and image in inventory; fixes [#728](https://github.com/RHSMODS/statusquo/issues/728)
+
+[Fixed] Fixed VehSimple and VehComplex colliders on T14
+
+[Fixed] Revived DAGR; fixes [#724](https://github.com/RHSMODS/statusquo/issues/724)
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2409
 
 <!-- revision 2409 -->
