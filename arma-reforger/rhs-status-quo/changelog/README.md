@@ -9,6 +9,42 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2445
+
+<!-- revision 2445 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2445
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, March 27, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 4 (2441)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed footwear inventory icons in arsenal
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2441
 
 <!-- revision 2441 -->
