@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/29/2024 11:14:07 AM UTC | Revision 2447 | spacestrider]
+
+[Fixed] Incorrect name 3OF36 -> 3OF26
+
+[Improved] Performance for T14 shells
+
+[Fixed] Overly large vehiclesimple collider for T14
+
+
+
 [3/27/2024 7:54:37 PM UTC | Revision 2446 | Tactical_Toxic]
 
 [Other] Added missing 1p29 tulpan to arsenal
