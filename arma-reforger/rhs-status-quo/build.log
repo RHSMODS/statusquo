@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[3/30/2024 5:42:19 PM UTC | Revision 2454 | Tactical_Toxic]
+
+[Fixed] Fixed K-17 berezhok turret missing viewGeo collider
+
+[Fixed] Fixed K-17 Berezhok destructible optic collider not following turret
+
+[Fixed] Fixed K-17 Epoch destructible optic ccollider not following turret in vertical axis
+
+[Improved] Added door control panel to gunner and commander seat it K-17
+
+
+
 [3/30/2024 2:39:24 PM UTC | Revision 2453 | Tactical_Toxic]
 
 [Other] Increased size of KH-55 particle
