@@ -1,5 +1,29 @@
 <!-- buildlog insert -->
 
+[3/30/2024 7:07:21 PM UTC | Revision 2455 | Tactical_Toxic]
+
+[Improved] Changed amount of gears on T-14 gearbox 4->14
+
+[Improved] Decreased engine torque on T-14
+
+[Improved] Decreased engine power on T-14
+
+[Improved] Decreased main differential ratio on T-14
+
+[Improved] Recalculated aerodynamic frontal drag on T-14
+
+[Improved] Changed brake settings on K-17
+
+[Improved] Recalculated aerodynamic frontal drag on K-17
+
+[Improved] Changed center of mass on K-17
+
+[Improved] Added weight of turret to K-17 overall weight calculation
+
+[Other] //todo add AGB / MGB switch to K-17 and T-14 (manual/auto gearbox)
+
+
+
 [3/30/2024 5:42:19 PM UTC | Revision 2454 | Tactical_Toxic]
 
 [Fixed] Fixed K-17 berezhok turret missing viewGeo collider
