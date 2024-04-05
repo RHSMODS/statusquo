@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/5/2024 6:31:15 PM UTC | Revision 2477 | odkupiciel375]
+
+[Improved] Changed priority of which pouch is filled first when item is transferred - 1st mag pouches that change their shape to show stored item, 2nd simple pouches with visible items, 3rd pouches that dont have items visible and after that everything else
+
+
+
 [4/5/2024 5:59:53 PM UTC | Revision 2476 | odkupiciel375]
 
 [Fixed] Items stored in pouches or attached to the helmet wouldnt impact loadout cost; fixes #734 and fixes #725
