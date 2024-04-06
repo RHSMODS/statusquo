@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/6/2024 11:36:56 AM UTC | Revision 2479 | odkupiciel375]
+
+[Other] Changed: doxygen fillers and some code formatting adjustments for RHS_DAGRComponent, RHS_OrionComponent and RHS_GPSGadgetScriptComponent
+
+
+
 [4/6/2024 10:50:54 AM UTC | Revision 2478 | odkupiciel375]
 
 [Other] Fixed: ETOOL would be visible when attached to the MPL50 carrier; fixes #732
