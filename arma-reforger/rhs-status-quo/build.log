@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/6/2024 2:55:54 PM UTC | Revision 2481 | odkupiciel375]
+
+[Other] Further formatting and doxygen stuff for gps classes
+
+[Other] Slight rework of how gps screens are updated - instead of using CallLater it now uses GadgetSystem Update() and it is only updated when player holds it in his hand
+
+
+
 [4/6/2024 2:16:13 PM UTC | Revision 2480 | Soul_Assassin]
 
 [Improved] Improved rugby shirt patch locations; fixes #735
