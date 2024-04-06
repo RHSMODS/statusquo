@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[4/6/2024 11:08:07 PM UTC | Revision 2482 | odkupiciel375]
+
+[Improved] Changed: Far less temporary textures for US 40mm GL rounds
+
+[Improved] Changed: Updated preview for M585, XM663 and XM664 to show letter that corresponds to the color of the stars
+
+[Other] Removed: old 'temp' materials and texture for 40mm gl rounds
+
+[Other] Changed: Used AR m443 materials for M585, M661, M406 and M713
+
+
+
 [4/6/2024 2:55:54 PM UTC | Revision 2481 | odkupiciel375]
 
 [Other] Further formatting and doxygen stuff for gps classes
