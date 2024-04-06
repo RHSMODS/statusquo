@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/6/2024 10:50:54 AM UTC | Revision 2478 | odkupiciel375]
+
+[Other] Fixed: ETOOL would be visible when attached to the MPL50 carrier; fixes #732
+
+[Other] Changed: Modded SCR_GadgetComponent and changed its stupid hardcoded thingy for item visibility to an attribute that can be changed in the prefab (as long as the gadget class of that prefab doesnt override that func then it should be determined by this attrib - m_bIsVisibleEquipped => IsVisibleEquipped())
+
+
+
 [4/5/2024 6:31:15 PM UTC | Revision 2477 | odkupiciel375]
 
 [Improved] Changed priority of which pouch is filled first when item is transferred - 1st mag pouches that change their shape to show stored item, 2nd simple pouches with visible items, 3rd pouches that dont have items visible and after that everything else
