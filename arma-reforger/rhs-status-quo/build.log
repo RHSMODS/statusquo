@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/7/2024 7:02:11 AM UTC | Revision 2485 | odkupiciel375]
+
+[Other] Fixed: Issue where mags that are stored in pouches would cause damage to be directly transferred to the character bypassing the armor
+
+[Other] Changed: Changed default simstate for Glock, APS, M1718 and SP81 to be the same as vanilla - none
+
+[Other] Changed: Changed default simstate for A2 flash hider, 6P20 and PG564 to none
+
+
+
 [4/7/2024 6:01:07 AM UTC | Revision 2484 | odkupiciel375]
 
 [Other] Changed: Adjusted gl cluster star rounds preview in order for letters to not be obstructed by supplies cost in the arsenal
