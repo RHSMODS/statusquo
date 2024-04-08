@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/8/2024 1:57:05 PM UTC | Revision 2486 | MacroBebra]
+
+[Added] Added ESS Crossbow
+
+[Other] Fixed headclipping on mohoc and switch light
+
+[Other] Ess crossbow need lods and collider
+
+
+
 [4/7/2024 7:02:11 AM UTC | Revision 2485 | odkupiciel375]
 
 [Other] Fixed: Issue where mags that are stored in pouches would cause damage to be directly transferred to the character bypassing the armor
