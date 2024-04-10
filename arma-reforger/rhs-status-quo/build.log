@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/10/2024 7:31:45 PM UTC | Revision 2488 | Tactical_Toxic]
+
+[Fixed] Fixed 2S1 Vehicle collider
+
+[Added] Added PVS-31 Battery pack
+
+[Other] Battery pack is configured, and localized (1 ir light 1 visible light)
+
+
+
 [4/8/2024 7:34:31 PM UTC | Revision 2487 | Tactical_Toxic]
 
 [Other] Added crossbow to arsenal
