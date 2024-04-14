@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[4/14/2024 6:18:58 AM UTC | Revision 2498 | spacestrider]
+
+[Improved] 125mm drag calculations
+
+[Improved] 30mm drag calculations
+
+[Added] AI Ballistic tables for 30mm rounds
+
+[Added] AI Ballistic tables for 125mm rounds
+
+[Improved] AI turret target movement speeds
+
+
+
 [4/13/2024 6:35:14 PM UTC | Revision 2497 | odkupiciel375]
 
 [Other] Removed: nuked some meta files which were left there after their files were moved or deleted
