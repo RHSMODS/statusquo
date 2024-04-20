@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[4/20/2024 12:04:00 PM UTC | Revision 2510 | Tactical_Toxic]
+
+[Fixed] Fixed Crye pants clipping with leg; Fixes #747
+
+[Other] Remove AK leftovers from gm-94
+
+[Other] Slightly tweaked gm-94 mats
+
+[Other] Slightly fixed aim point on gm94
+
+
+
 [4/20/2024 11:06:15 AM UTC | Revision 2509 | odkupiciel375]
 
 [Improved] Changed: Added second velctro slot to the PCGen III vest (pouches) above the first one; fixes #751
