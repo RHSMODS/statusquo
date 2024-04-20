@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/20/2024 2:11:08 PM UTC | Revision 2511 | odkupiciel375]
+
+[Improved] Changed: Made it possible to attach two medium size patches to 35L FLIBE backpack
+
+[Other] Changed: Smoothed out velcro area on that backpack
+
+[Other] Changed: Cleared wrong weights so now backpack moves when player body moves
+
+
+
 [4/20/2024 12:04:00 PM UTC | Revision 2510 | Tactical_Toxic]
 
 [Fixed] Fixed Crye pants clipping with leg; Fixes #747
