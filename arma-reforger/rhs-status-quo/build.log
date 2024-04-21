@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/21/2024 9:36:47 PM UTC | Revision 2520 | gurdy]
+
+[Improved] Overhaul of M4 stringtable
+
+[Added] EPM magazine
+
+[Added] MCT windowed PMAG
+
+
+
 [4/21/2024 7:11:13 PM UTC | Revision 2519 | Soul_Assassin]
 
 [Fixed] NVGs were not attaching correctly to base lowcut ECH; fixes #737
