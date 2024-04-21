@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/21/2024 7:11:13 PM UTC | Revision 2519 | Soul_Assassin]
+
+[Fixed] NVGs were not attaching correctly to base lowcut ECH; fixes #737
+
+
+
 [4/21/2024 1:55:33 PM UTC | Revision 2518 | Tactical_Toxic]
 
 [Fixed] Fixed GBU-12 explosion particle was using OnVisible event instead of OnFrame
