@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/23/2024 7:07:53 PM UTC | Revision 2522 | Soul_Assassin]
+
+[Removed] Removed buggy Bravo 4 with T1; fixes #755
+
+[Fixed] Fixed various console log errors
+
+
+
 [4/22/2024 1:45:18 AM UTC | Revision 2521 | gurdy]
 
 [Improved] Finished US weapon localization
