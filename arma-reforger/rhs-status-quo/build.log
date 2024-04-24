@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[4/24/2024 7:01:24 PM UTC | Revision 2523 | Ram]
+
+[Fixed] Fixed thermal NPEs
+
+[Added] En and ru localization of actions on T14/K17 screens
+
+[Improved] T14/K17 gunner/driver screens can be disabled
+
+[Improved] T14/K17 gunner/driver camera HDR brightness can be adjusted
+
+
+
 [4/23/2024 7:07:53 PM UTC | Revision 2522 | Soul_Assassin]
 
 [Removed] Removed buggy Bravo 4 with T1; fixes #755
