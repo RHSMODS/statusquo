@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/28/2024 7:21:24 AM UTC | Revision 2534 | zguba]
+
+[Fixed] Fixed 1P21 FOVs in PIP and 2D modes
+
+
+
 [4/28/2024 6:12:07 AM UTC | Revision 2533 | zguba]
 
 [Improved] Cleanup of optic prefabs: added inheritance from vanilla base prefabs and components, removed of obsolete attribute defines, improved consistency
