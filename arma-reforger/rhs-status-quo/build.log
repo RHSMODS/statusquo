@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/28/2024 1:47:09 PM UTC | Revision 2554 | Tactical_Toxic]
+
+[Other] Changed bone used for attaching watches to hand to avoid weird transformations during anims
+
+
+
 [4/28/2024 1:25:08 PM UTC | Revision 2553 | Tactical_Toxic]
 
 [Other] Temp ground model for vkpo 3.0
