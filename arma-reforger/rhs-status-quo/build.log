@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/28/2024 6:12:07 AM UTC | Revision 2533 | zguba]
+
+[Improved] Cleanup of optic prefabs: added inheritance from vanilla base prefabs and components, removed of obsolete attribute defines, improved consistency
+
+
+
 [4/27/2024 11:20:33 PM UTC | Revision 2532 | gurdy]
 
 [Improved] Added vanilla PGO7V to AFRF arsenal
