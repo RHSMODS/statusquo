@@ -9,6 +9,42 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2568
+
+<!-- revision 2568 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2568
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, May 1, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (2567)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Coyote PMAGs should not be causing loadout save errors anymore
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2567
 
 <!-- revision 2567 -->
