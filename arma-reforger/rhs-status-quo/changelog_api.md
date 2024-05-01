@@ -9,6 +9,236 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2567
+
+<!-- revision 2567 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2567
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, May 1, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 122 (2445)
+
+_<mark style="color:red;">Changes:</mark>_ 19 additions, 52 improvements, 26 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added NT4 soft covers (black and multicam)
+
+[Added] Added AK-74M with TGP-A silencer
+
+[Added] Added M240B
+
+[Added] Added ESS Crossbow
+
+[Added] Added PVS-31 Battery pack
+
+[Added] Added black ESS Crossbow
+
+[Added] Added tan Kondor glasses
+
+[Added] Added olive Kondor glasses
+
+[Added] Added ODG Manta items and Updated TAN & BLK
+
+[Added] Added unarmed K-17 in EXPO camo
+
+[Added] AI Ballistic tables for 30mm rounds
+
+[Added] AI Ballistic tables for 125mm rounds
+
+[Added] Added version of M240B with light stock and supports
+
+[Added] Vkpo 3.0
+
+[Added] EPM magazine
+
+[Added] MCT windowed PMAG
+
+[Added] En and ru localization of actions on T14/K17 screens
+
+[Added] Added AFRF Helicopter Pilots
+
+[Added] RPG-7V with RHS PGO7V prefab for RHS units
+
+
+##### Improved
+
+
+[Improved] Performance for T14 shells
+
+[Improved] Added door control panel to gunner and commander seat it K-17
+
+[Improved] Changed amount of gears on T-14 gearbox 4->14
+
+[Improved] Decreased engine torque on T-14
+
+[Improved] Decreased engine power on T-14
+
+[Improved] Decreased main differential ratio on T-14
+
+[Improved] Recalculated aerodynamic frontal drag on T-14
+
+[Improved] Changed brake settings on K-17
+
+[Improved] Recalculated aerodynamic frontal drag on K-17
+
+[Improved] Changed center of mass on K-17
+
+[Improved] Added weight of turret to K-17 overall weight calculation
+
+[Improved] Player no longer able to use any sights/optics with PATROL-IR
+
+[Improved] Revived procedural numbers and labels on vehicles
+
+[Improved] Changed priority of which pouch is filled first when item is transferred - 1st mag pouches that change their shape to show stored item, 2nd simple pouches with visible items, 3rd pouches that dont have items visible and after that everything else
+
+[Improved] Improved rugby shirt patch locations; fixes [#735](https://github.com/RHSMODS/statusquo/issues/735)
+
+[Improved] Changed: Far less temporary textures for US 40mm GL rounds
+
+[Improved] Changed: Updated preview for M585, XM663 and XM664 to show letter that corresponds to the color of the stars
+
+[Improved] Added M406, M713, M715, M716, M585, XM663 and XM664 US GL Rounds to the USMC arsenal
+
+[Improved] BLK & ODG Manta emat
+
+[Improved] 125mm drag calculations
+
+[Improved] 30mm drag calculations
+
+[Improved] AI turret target movement speeds
+
+[Improved] Armor plates will now knock the wind of out of the wearer when bullet dont penetrate it to the point that user can get knocked out
+
+[Improved] Slightly adjusted vehicle Thermal distortion noise
+
+[Improved] M240B has internals now
+
+[Improved] 30mm HE particles
+
+[Improved] Internal sounds for k17 engine
+
+[Improved] Changed: Added second velctro slot to the PCGen III vest (pouches) above the first one; fixes [#751](https://github.com/RHSMODS/statusquo/issues/751)
+
+[Improved] Changed: Made it possible to attach two medium size patches to 35L FLIBE backpack
+
+[Improved] Overhaul of M4 stringtable
+
+[Improved] Finished US weapon localization
+
+[Improved] T14/K17 gunner/driver screens can be disabled
+
+[Improved] T14/K17 gunner/driver camera HDR brightness can be adjusted
+
+[Improved] TOR helmets in arsenal now have covers by default
+
+[Improved] Added vanilla PGO7V to AFRF arsenal
+
+[Improved] Cleanup of optic prefabs: added inheritance from vanilla base prefabs and components, removed of obsolete attribute defines, improved consistency
+
+[Improved] M8541 mildot reticle PIP texture and material improvements
+
+[Improved] M8541 and Leupold Mk4 FOVs, 2D reticle
+
+[Improved] PO4x24 FOV and 2D optics
+
+[Improved] Bravo4 reticle precision improved
+
+[Improved] SU-260/P MDO reticle texture quality
+
+[Improved] SU-260/P FOVs
+
+[Improved] Added ability to remove / attach eyecup to 1p21
+
+[Improved] Added zoom wheel animation to 1p21
+
+[Improved] Improved 1p21 Texture
+
+[Improved] 1PN93 reticle textures and materials
+
+[Improved] 1PN93 FOVs
+
+[Improved] PGO-7V3, 1PN93-2 RPG use vanilla PGO-7V3 reticle
+
+[Improved] PG-7VL, PG-7VR and TBG-7V ballistics made compatible with vanilla PGO-7V3
+
+[Improved] OG-7V ballistics fit with vanilla PGO-7V3
+
+[Improved] Vkpo3.0 textures
+
+[Improved] ATACS ballcap color matching
+
+
+##### Fixed
+
+
+[Fixed] Incorrect name 3OF36 -> 3OF26
+
+[Fixed] Overly large vehiclesimple collider for T14
+
+[Fixed] Taktika groin, left, and right plates now actually work
+
+[Fixed] Fixed K-17 berezhok turret missing viewGeo collider
+
+[Fixed] Fixed K-17 Berezhok destructible optic collider not following turret
+
+[Fixed] Fixed K-17 Epoch destructible optic ccollider not following turret in vertical axis
+
+[Fixed] Fixed base coverage for all seats in K-17 and T-14 to match with BTR-70 from vanilla
+
+[Fixed] Fixed M27 no longer falls through the ground
+
+[Fixed] Items stored in pouches or attached to the helmet wouldnt impact loadout cost; fixes [#734](https://github.com/RHSMODS/statusquo/issues/734) and fixes [#725](https://github.com/RHSMODS/statusquo/issues/725)
+
+[Fixed] Fixed 2S1 Vehicle collider
+
+[Fixed] Fixed Manta NMO
+
+[Fixed] 30mm explosion particles spawn
+
+[Fixed] Fixes to publication tools to try to help avoid false positives
+
+[Fixed] Fixed Crye pants clipping with leg; Fixes [#747](https://github.com/RHSMODS/statusquo/issues/747)
+
+[Fixed] Fixed: unable to place AN-94 in vehicle storage; fixes [#753](https://github.com/RHSMODS/statusquo/issues/753)
+
+[Fixed] Fixed GBU-12 explosion particle was using OnVisible event instead of OnFrame
+
+[Fixed] Removed broken ground fire particle from t-14 (BI, please fix)
+
+[Fixed] NVGs were not attaching correctly to base lowcut ECH; fixes [#737](https://github.com/RHSMODS/statusquo/issues/737)
+
+[Fixed] Fixed thermal NPEs
+
+[Fixed] Bad icon setting for M17/M18 base prefab
+
+[Fixed] Fixed k17 wheels not rotating from distance further than 75 meters
+
+[Fixed] Fixed T14 HE shell impulse
+
+[Fixed] Fixed Editable component for AFRF VV
+
+[Fixed] Fixed 1P21 FOVs in PIP and 2D modes
+
+[Fixed] Vkpo3.0 patches and garmin comp
+
+[Fixed] RPK-74M stock was folding wrong way; fixes [#766](https://github.com/RHSMODS/statusquo/issues/766)
+
+
+##### Deleted
+
+
+[Removed] Removed buggy Bravo 4 with T1; fixes [#755](https://github.com/RHSMODS/statusquo/issues/755)
+
+
+
 ## 0.8.2445
 
 <!-- revision 2445 -->
