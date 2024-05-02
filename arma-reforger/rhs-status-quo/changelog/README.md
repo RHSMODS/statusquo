@@ -9,6 +9,50 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.8.2575
+
+<!-- revision 2575 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2575
+
+_<mark style="color:red;">Date:</mark>_ Thursday, May 2, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 7 (2568)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] STANAG EPM magazines added to the arsenal
+
+[Improved] Changed price of ak74 with tgpa to match with BLUFOR silencers and PBS-4 pricings
+
+
+##### Fixed
+
+
+[Fixed] Bravo 4 reticle size was halved
+
+[Fixed] Fixed wrong wristwatch rotation on hand
+
+[Fixed] Fixed k17 finally float again
+
+
+##### Deleted
+
+
+
+
 ## 0.8.2568
 
 <!-- revision 2568 -->
