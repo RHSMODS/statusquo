@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/5/2024 6:42:14 PM UTC | Revision 2583 | odkupiciel375]
+
+[Fixed] Fixed: Wrong configuration of helmet covers and their slots; fixes #768
+
+
+
 [5/5/2024 6:27:19 PM UTC | Revision 2582 | odkupiciel375]
 
 [Fixed] Fixed: NVG effect would be removed if user would switch between fullscreen and windowed mode; fixes #764
