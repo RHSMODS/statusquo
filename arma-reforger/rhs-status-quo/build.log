@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/5/2024 10:29:57 PM UTC | Revision 2585 | MacroBebra]
+
+[Added] Added OPSCORE LBH
+
+[Added] Added MICH 2000 and MICH 2001
+
+[Added] Added Liberator headset
+
+[Added] Added Sordin headset
+
+[Other] All stuff need colliders and localization. Also slots on helmets are not configured right now
+
+
+
 [5/5/2024 6:52:16 PM UTC | Revision 2584 | odkupiciel375]
 
 [Fixed] Fixed: Rifle clipping when slung over back with only PC Gen III; fixes #767
