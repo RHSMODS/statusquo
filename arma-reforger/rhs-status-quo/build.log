@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/5/2024 6:52:16 PM UTC | Revision 2584 | odkupiciel375]
+
+[Fixed] Fixed: Rifle clipping when slung over back with only PC Gen III; fixes #767
+
+
+
 [5/5/2024 6:42:14 PM UTC | Revision 2583 | odkupiciel375]
 
 [Fixed] Fixed: Wrong configuration of helmet covers and their slots; fixes #768
