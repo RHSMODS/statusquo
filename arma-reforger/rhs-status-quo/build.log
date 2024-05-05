@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/5/2024 6:27:19 PM UTC | Revision 2582 | odkupiciel375]
+
+[Fixed] Fixed: NVG effect would be removed if user would switch between fullscreen and windowed mode; fixes #764
+
+
+
 [5/5/2024 4:00:24 PM UTC | Revision 2581 | odkupiciel375]
 
 [Other] Removed: deleted DEBUG_NVG_DEV_USE_ONLY.et prefab of 1PN138
