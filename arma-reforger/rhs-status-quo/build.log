@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/7/2024 11:35:48 PM UTC | Revision 2602 | MacroBebra]
+
+[Other] Fixed broken material on black ess (i dont know how this happens)
+
+
+
 [5/7/2024 9:45:42 PM UTC | Revision 2601 | odkupiciel375]
 
 [Other] Minor code cleanup in RHS_LightEntity.c and RHS_SCR_RangefinderComponent.c
