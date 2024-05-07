@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/7/2024 9:45:42 PM UTC | Revision 2601 | odkupiciel375]
+
+[Other] Minor code cleanup in RHS_LightEntity.c and RHS_SCR_RangefinderComponent.c
+
+
+
 [5/7/2024 9:42:21 PM UTC | Revision 2600 | odkupiciel375]
 
 [Other] Changed: Switched back to LeftHandUpperVolume for a pivot point for watch slot and adjusted the position to fit as best as possible all of our jackets
