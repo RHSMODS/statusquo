@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/16/2024 2:41:40 PM UTC | Revision 2623 | kllrt]
+
+[Other] Fixed: Duplicated RigidBody on RHS_Ammo_Grenade_HE_30mm prefab
+
+
+
 [5/16/2024 2:39:42 PM UTC | Revision 2622 | kllrt]
 
 [Other] Fixed: Inheritance of WeaponAnimationComponent
