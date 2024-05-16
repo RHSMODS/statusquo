@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/16/2024 2:39:42 PM UTC | Revision 2622 | kllrt]
+
+[Other] Fixed: Inheritance of WeaponAnimationComponent
+
+
+
 [5/16/2024 2:10:57 PM UTC | Revision 2621 | odkupiciel375]
 
 [Other] Fixed: compilation errors with experimental version
