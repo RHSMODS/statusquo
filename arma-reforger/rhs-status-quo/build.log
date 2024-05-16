@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/16/2024 3:35:04 PM UTC | Revision 2625 | kllrt]
+
+[Other] Tweaked: DoorInfoList in Compartments so WB loads prefabs correctly, hacked 2S1 and T14 to somehow work now
+
+
+
 [5/16/2024 2:43:42 PM UTC | Revision 2624 | kllrt]
 
 [Other] Fixed: Resaved Rifle_M4A1_Converted to get rid of errors
