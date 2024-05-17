@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/17/2024 6:22:43 PM UTC | Revision 2626 | odkupiciel375]
+
+[Fixed] Fixed: (1.2) Cas deals no damage; fixes #789
+
+
+
 [5/16/2024 3:35:04 PM UTC | Revision 2625 | kllrt]
 
 [Other] Tweaked: DoorInfoList in Compartments so WB loads prefabs correctly, hacked 2S1 and T14 to somehow work now
