@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/22/2024 9:54:56 PM UTC | Revision 2634 | Soul_Assassin]
+
+[Other] First haul at 1.2 console errors. Cleanup of rogue removed attributes and renames.
+
+[Other] Damage effect class renames and GUIDs in Warheads and spalling (@ashyl please check if still works)
+
+[Other] Cleaned up some broken sound files.
+
+
+
 [5/21/2024 2:46:35 PM UTC | Revision 2633 | Ram]
 
 [Fixed] Fixed main camera HDR change, when K17/T14 been loaded on client.
