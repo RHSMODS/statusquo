@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/23/2024 4:18:19 PM UTC | Revision 2642 | odkupiciel375]
+
+[Other] Changed: Cleanup of unnecessary casts to get rid of the warnings
+
+
+
 [5/23/2024 4:11:16 PM UTC | Revision 2641 | odkupiciel375]
 
 [Other] Changed: Renamed CAS warheads by removing 'GM' from them
