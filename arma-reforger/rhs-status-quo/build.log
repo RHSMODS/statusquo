@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/24/2024 6:50:26 PM UTC | Revision 2649 | odkupiciel375]
+
+[Fixed] Fixed: wrong material used by 40mm marker grenade; fixes #795
+
+
+
 [5/24/2024 2:37:47 AM UTC | Revision 2648 | Sesk]
 
 [Other] Little cleanup
