@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/25/2024 7:06:08 AM UTC | Revision 2654 | odkupiciel375]
+
+[Other] Changed: A bit of a balance pass for destructible armor plates after fixing pistol bullets damage
+
+
+
 [5/25/2024 7:01:48 AM UTC | Revision 2653 | odkupiciel375]
 
 [Fixed] Fixed: (1.2) Converted all projectiles BaseDamageEffect into ProjectileDamage
