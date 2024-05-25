@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[5/25/2024 7:01:48 AM UTC | Revision 2653 | odkupiciel375]
+
+[Fixed] Fixed: (1.2) Converted all projectiles BaseDamageEffect into ProjectileDamage
+
+[Other] Fixed: 9x18 7N25 and 9x19 7N21 had odd penetration values which made them as powerful as rifle cartridges
+
+[Other] Fixed: Removed unnecessary components from bullet prefabs
+
+[Other] Fixed: Removed duplicated RigidBody component from 40mm grenades
+
+
+
 [5/25/2024 5:19:01 AM UTC | Revision 2652 | odkupiciel375]
 
 [Fixed] Fixed: (1.2) Disabled UseVirtualInventoryReplication for visible storage
