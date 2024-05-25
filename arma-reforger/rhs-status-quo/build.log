@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/25/2024 10:31:33 PM UTC | Revision 2659 | Soul_Assassin]
+
+[Fixed] MICH 2000/2001 ground models now have colliders
+
+
+
 [5/25/2024 9:14:45 PM UTC | Revision 2658 | Soul_Assassin]
 
 [Fixed] Colliders on worn MICH helmets were importing wrong
