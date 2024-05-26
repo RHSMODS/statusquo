@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/26/2024 5:43:34 AM UTC | Revision 2660 | odkupiciel375]
+
+[Fixed] Fixed: (1.2) Getting in the RF BTR-70 gunner seat crashes the game; fixes #801
+
+
+
 [5/25/2024 10:31:33 PM UTC | Revision 2659 | Soul_Assassin]
 
 [Fixed] MICH 2000/2001 ground models now have colliders
