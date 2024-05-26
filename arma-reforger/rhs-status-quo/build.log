@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/26/2024 8:55:27 AM UTC | Revision 2663 | odkupiciel375]
+
+[Improved] Changed: Reduced all eyewear volume to make them fit most storages; fixes #799
+
+[Other] Changed: Switched AttachableHeadgear_Base size setup dimensions to manual as scalar either doesnt work or expects some odd values and that results in items not being possible to be put in a lot of storages
+
+
+
 [5/26/2024 6:08:56 AM UTC | Revision 2662 | odkupiciel375]
 
 [Fixed] Fixed: (1.2) RPG rockets dont work; fixes #781
