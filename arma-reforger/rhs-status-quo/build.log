@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/26/2024 1:22:26 PM UTC | Revision 2672 | Soul_Assassin]
+
+[Fixed] TGP-A collider material fixed
+
+
+
 [5/26/2024 12:48:24 PM UTC | Revision 2671 | Soul_Assassin]
 
 [Improved] Sording and Liberator ground models have colliders; fixes #804
