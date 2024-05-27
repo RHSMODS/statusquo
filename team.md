@@ -314,6 +314,8 @@ Paquito
 
 uralaz
 
+Scout
+
 And many many more. Sadly, too much time has passed to remember everyone who has contributed to this project.
 
 ## Contributors And Testers
