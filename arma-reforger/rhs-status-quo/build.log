@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[5/28/2024 7:53:23 PM UTC | Revision 2678 | odkupiciel375]
+
+[Other] Changed: Reworked helmet cover offsetting/ enabling/ disabling velcro slots
+
+[Other] Changed: Switched all helmets to RHS_HelmetNodeStorageComponent from RHS_ClothNodeStorageComponent
+
+[Other] Added: Created config file with default setup of helmet velcro slots for helmet covers - DefaultHelmetCoverAttributes.conf
+
+[Other] Note: in this version i only configured helmet covers for ECH where LC due to the fact that they dont have velcro slots automatically block all velcro slots while HC version offsets those slots to accommodate for the thickness of the helmet cover. Due to this reworks in order to have slots that can be enabled all velcro slots have to be enabled (Enabled = true) but if they are not meant to be usable without proper helmet cover they should have state set to unavailable (Slot state = UNAVIALABLE) and then in helmet cover this slot should be set to AVIALABLE_TEMPORARLY (for the time that this cover is there).
+
+[Other] TODO: Configure other helmet covers, add functionality of removing items cover is removed from slots which were enabled only for as long as helmet cover was there
+
+
+
 [5/27/2024 6:10:47 PM UTC | Revision 2677 | Sesk]
 
 [Other] Sapper role for AFRF and USMC
