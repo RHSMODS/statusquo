@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/1/2024 3:49:36 PM UTC | Revision 2693 | Soul_Assassin]
+
+[Fixed] MBUS Front sight causing alternative wrong sight view; fixes #807
+
+[Fixed] MBUS Rear Sight was rotating eye point when folding
+
+
+
 [6/1/2024 1:54:05 PM UTC | Revision 2692 | odkupiciel375]
 
 [Other] Changed: Adjusted a bit the inflated offset of ECH HC cover
