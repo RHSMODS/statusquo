@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/1/2024 10:49:37 PM UTC | Revision 2697 | Soul_Assassin]
+
+[Fixed] TOR Peltor variant fixed collider material
+
+[Fixed] Fixed: (1.2) UGL flyby sounds
+
+
+
 [6/1/2024 10:42:59 PM UTC | Revision 2696 | Soul_Assassin]
 
 [Improved] Vehicle configs now use Multi Lists; work on #769
