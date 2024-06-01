@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/1/2024 11:02:16 AM UTC | Revision 2689 | Soul_Assassin]
+
+[Fixed] Fixed: (1.2) PSO-1 override was broken; fixes #811
+
+[Other] Removed default patch from PCGen2
+
+
+
 [6/1/2024 11:00:20 AM UTC | Revision 2688 | Tactical_Toxic]
 
 [Other] Minor changes in ak74m and m240 prefabs to use lod0 in inventory preview
