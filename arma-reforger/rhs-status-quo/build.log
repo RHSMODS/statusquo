@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/1/2024 10:56:14 AM UTC | Revision 2687 | odkupiciel375]
+
+[Other] Changed: Configured Kiver helmet and its covers to work with new inflated offset system
+
+
+
 [6/1/2024 5:45:36 AM UTC | Revision 2686 | odkupiciel375]
 
 [Fixed] Fixed: NPE due to missing MuzzleUiInfo in MuzzleInMagComponent of SP81
