@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/1/2024 5:45:36 AM UTC | Revision 2686 | odkupiciel375]
+
+[Fixed] Fixed: NPE due to missing MuzzleUiInfo in MuzzleInMagComponent of SP81
+
+
+
 [6/1/2024 5:35:56 AM UTC | Revision 2685 | odkupiciel375]
 
 [Other] Fixed: Wrong inflated offset values for ECH helmet cover
