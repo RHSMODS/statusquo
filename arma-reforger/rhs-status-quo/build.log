@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/1/2024 12:19:20 PM UTC | Revision 2691 | odkupiciel375]
+
+[Other] Fixed: disabled debug worn model for ECH covers
+
+
+
 [6/1/2024 12:17:21 PM UTC | Revision 2690 | odkupiciel375]
 
 [Improved] Changed: Helmet covers can now enable velcro slots on helmets which may have previously not have velcro slots and at the same time they can also block them if f.e. such cover doesnt have velcro on it
