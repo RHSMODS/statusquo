@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[6/1/2024 12:17:21 PM UTC | Revision 2690 | odkupiciel375]
+
+[Improved] Changed: Helmet covers can now enable velcro slots on helmets which may have previously not have velcro slots and at the same time they can also block them if f.e. such cover doesnt have velcro on it
+
+[Improved] Changed: If helmet cover will obstructed already used slot then game will not allow for equipping such cover until player removes that item from the slot that will be obstructed
+
+[Improved] Changed: When player removes helmet cover which enabled velcro slots then items which were attached to it will be moved to other storage in that players inventory or dropped on the ground if that is not possible
+
+[Other] Changed: Configured TOR, TOR2, Opscore, MICH2000, Kiver, ECH, 6B47, 6B7, LSHZ and their respective covers (where such existed)
+
+
+
 [6/1/2024 11:02:16 AM UTC | Revision 2689 | Soul_Assassin]
 
 [Fixed] Fixed: (1.2) PSO-1 override was broken; fixes #811
