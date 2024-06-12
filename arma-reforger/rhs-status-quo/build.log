@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/12/2024 5:59:52 AM UTC | Revision 2732 | Soul_Assassin]
+
+[Fixed] Fixed broken UVs on ECH lowcut with rails and velcro; fixes #821
+
+
+
 [6/10/2024 7:47:39 PM UTC | Revision 2731 | Soul_Assassin]
 
 [Fixed] Fixed: (1.2) ARTII scope override was broken; fixes #817
