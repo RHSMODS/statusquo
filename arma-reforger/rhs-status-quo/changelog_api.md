@@ -9,6 +9,121 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.2750
+
+<!-- revision 2750 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2750
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, June 19, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 93 (2657)
+
+_<mark style="color:red;">Changes:</mark>_ 6 additions, 13 improvements, 18 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Vkpo3.0 emr
+
+[Added] Added civilian jeans
+
+[Added] Added TV110 vest
+
+[Added] Added Wartech pouches
+
+[Added] Added new pouches to PC G3
+
+[Added] Added OD and multicam ARS ARMA HSGI belt
+
+
+##### Improved
+
+
+[Improved] Changed: Reduced all eyewear volume to make them fit most storages; fixes [#799](https://github.com/RHSMODS/statusquo/issues/799)
+
+[Improved] Changed: M4A1 and its variants can accept m9 bayonet
+
+[Improved] Changed: Made 6X9 bayonet functional
+
+[Improved] Changed: M27 and its variants can accept m9 bayonet
+
+[Improved] Changed: AN94 and its variants can accept 6X9-1 or 6Kh4 bayonet
+
+[Improved] Changed: Added bayonets to their respective arsenals
+
+[Improved] Sording and Liberator ground models have colliders; fixes [#804](https://github.com/RHSMODS/statusquo/issues/804)
+
+[Improved] Vkpo3.0 textures and rig
+
+[Improved] Changed: Helmet covers can now enable velcro slots on helmets which may have previously not have velcro slots and at the same time they can also block them if f.e. such cover doesnt have velcro on it
+
+[Improved] Changed: If helmet cover will obstructed already used slot then game will not allow for equipping such cover until player removes that item from the slot that will be obstructed
+
+[Improved] Changed: When player removes helmet cover which enabled velcro slots then items which were attached to it will be moved to other storage in that players inventory or dropped on the ground if that is not possible
+
+[Improved] Vehicle configs now use Multi Lists; work on [#769](https://github.com/RHSMODS/statusquo/issues/769)
+
+[Improved] Switched out some ground models for clothes to more appropriate default models. WIP
+
+
+##### Fixed
+
+
+[Fixed] Colliders on worn MICH helmets were importing wrong
+
+[Fixed] MICH 2000/2001 ground models now have colliders
+
+[Fixed] Fixed: (1.2) Getting in the RF BTR-70 gunner seat crashes the game; fixes [#801](https://github.com/RHSMODS/statusquo/issues/801)
+
+[Fixed] Fixed: (1.2) RPG rockets dont work; fixes [#781](https://github.com/RHSMODS/statusquo/issues/781)
+
+[Fixed] TGP-A collider material fixed
+
+[Fixed] Fixed: NPE due to missing MuzzleUiInfo in MuzzleInMagComponent of SP81
+
+[Fixed] Fixed: (1.2) PSO-1 override was broken; fixes [#811](https://github.com/RHSMODS/statusquo/issues/811)
+
+[Fixed] MBUS Front sight causing alternative wrong sight view; fixes [#807](https://github.com/RHSMODS/statusquo/issues/807)
+
+[Fixed] MBUS Rear Sight was rotating eye point when folding
+
+[Fixed] TOR Peltor variant fixed collider material
+
+[Fixed] Fixed: (1.2) UGL flyby sounds
+
+[Fixed] Fixed Gascan glasses causing character to fly in some conditions
+
+[Fixed] AK-74M GP-25 mag reload sound was not playing
+
+[Fixed] Fixed wrong colliders on Liberator High Cut ECH
+
+[Fixed] Fixed: (1.2) ARTII scope override was broken; fixes [#817](https://github.com/RHSMODS/statusquo/issues/817)
+
+[Fixed] Fixed broken UVs on ECH lowcut with rails and velcro; fixes [#821](https://github.com/RHSMODS/statusquo/issues/821)
+
+[Fixed] Fixed various log spam by RHS armor plates
+
+[Fixed] Fixed PC GEN 2 Ground model was missing collider
+
+
+##### Deleted
+
+
+[Removed] Outdated unit prefabs
+
+
+
 ## 0.9.2657
 
 <!-- revision 2657 -->
