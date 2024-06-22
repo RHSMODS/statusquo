@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/22/2024 8:53:39 AM UTC | Revision 2768 | odkupiciel375]
+
+[Other] Fixed: npe introduced in R2766 while deleting character
+
+
+
 [6/22/2024 8:52:59 AM UTC | Revision 2767 | odkupiciel375]
 
 [Fixed] Fixed: RHS factions shooting at civilians and non combatants; fixes #800
