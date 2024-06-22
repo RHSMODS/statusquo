@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/22/2024 9:31:04 AM UTC | Revision 2769 | odkupiciel375]
+
+[Improved] Changed: Made NVG and weapon laser/light device keybind hints visible only for 10s instead of indefinitely
+
+[Other] Changed: Moved all actions hints from DefaultPlayerController.et to AvailableActions.conf
+
+
+
 [6/22/2024 8:53:39 AM UTC | Revision 2768 | odkupiciel375]
 
 [Other] Fixed: npe introduced in R2766 while deleting character
