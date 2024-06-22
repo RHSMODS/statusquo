@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/22/2024 8:34:59 AM UTC | Revision 2766 | odkupiciel375]
+
+[Fixed] Fixed: Light device keybinds not working in 1.2 expiremental; fixed #827
+
+[Other] Changed: Created getter for RHS_RpcManager in SCR_ChimeraCharacter to not need to FindComponent for it
+
+
+
 [6/21/2024 9:22:37 PM UTC | Revision 2765 | Tactical_Toxic]
 
 [Added] Added Camo painted version of SU-231A
