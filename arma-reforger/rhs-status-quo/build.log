@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/22/2024 8:52:59 AM UTC | Revision 2767 | odkupiciel375]
+
+[Fixed] Fixed: RHS factions shooting at civilians and non combatants; fixes #800
+
+
+
 [6/22/2024 8:34:59 AM UTC | Revision 2766 | odkupiciel375]
 
 [Fixed] Fixed: Light device keybinds not working in 1.2 expiremental; fixed #827
