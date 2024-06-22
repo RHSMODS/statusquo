@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/22/2024 9:37:42 AM UTC | Revision 2771 | Tactical_Toxic]
+
+[Fixed] M240B Was missing SightsSwitchSkip; Fixes #832
+
+
+
 [6/22/2024 9:34:45 AM UTC | Revision 2770 | Tactical_Toxic]
 
 [Other] Folded prc152a antenna
