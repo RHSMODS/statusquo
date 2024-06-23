@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/23/2024 1:05:09 PM UTC | Revision 2781 | odkupiciel375]
+
+[Removed] Removed: Deleted override of EGadgetType which was adding RHS_GPS as now vanilla has GPS enum
+
+
+
 [6/23/2024 11:01:04 AM UTC | Revision 2780 | odkupiciel375]
 
 [Other] Changed: Switched all instances of FindComponent(RHS_RpcManager) to SCR_ChimeraCharacter.GetRHSRpcManager()
