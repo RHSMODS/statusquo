@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/26/2024 9:32:12 AM UTC | Revision 2794 | Tactical_Toxic]
+
+[Fixed] Fixed duplicated Rigidbody on marker grenades
+
+
+
 [6/26/2024 9:28:51 AM UTC | Revision 2793 | reyhard]
 
 [Fixed] Fixed 2S1 get in/out
