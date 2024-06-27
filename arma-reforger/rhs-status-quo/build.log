@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/27/2024 6:19:52 PM UTC | Revision 2818 | odkupiciel375]
+
+[Improved] Changed: Temporarily disabled IR lights functionality to prevent game from crashing when saving the loadout with NVG
+
+
+
 [6/27/2024 6:13:58 PM UTC | Revision 2817 | reyhard, reyhard]
 
 [Fixed] Patched two more prefabs (T14 turrets) which could potentially crash the game
