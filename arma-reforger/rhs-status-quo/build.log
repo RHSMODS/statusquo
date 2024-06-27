@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/27/2024 6:13:58 PM UTC | Revision 2817 | reyhard, reyhard]
+
+[Fixed] Patched two more prefabs (T14 turrets) which could potentially crash the game
+
+[Fixed] Potential fix for 2S1 & T14 crashes
+
+
+
 [6/27/2024 2:17:35 AM UTC | Revision 2815 | gurdy]
 
 [Other] G3 string tweaks
