@@ -4,7 +4,7 @@ The TOR helmet, mainly utilized by Russian Internal Troops, is kevlar protective
 
 <figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Olive TOR-S with MSA Sordin headset</p></figcaption></figure>
 
-Cover and couterweight issued with this helmet:
+Helmet issued with cover and couterweight pouch.
 
 <figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>TOR M with ATACS FG cover and counterweight</p></figcaption></figure>
 

@@ -77,6 +77,7 @@
       * [Helmets](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/README.md)
         * [6M2](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/6m2.md)
         * [TOR (S/M/L)](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/tor-s-m-l.md)
+        * [TOR-2 (M/L)](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/tor-2-m-l.md)
         * [LShZ 1+](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/lshz-1+.md)
         * [6B7-1M](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/6b7-1m.md)
         * [6B47](arma-reforger/rhs-status-quo/redfor/uniforms/helmets/6b47.md)
