@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/28/2024 8:11:01 PM UTC | Revision 2833 | MacroBebra, Tactical_Toxic, Tactical_Toxic]
+
+[Fixed] Fixed flibe subbelt ground model
+
+[Fixed] Fixed Vest_PCGen_II/Variants/Vest_PCGen_II_rifleman.et and Vest_PCGen_II/Variants/Vest_PCGen_II_tako3.et were missing ground model
+
+[Other] More missing helmets fixed
+
+
+
 [6/28/2024 7:37:28 PM UTC | Revision 2830 | da12thMonkey]
 
 [Other] Hopefully last few RplComponent fixes
