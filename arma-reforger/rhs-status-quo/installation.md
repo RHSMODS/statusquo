@@ -8,7 +8,7 @@ You can install the entire mod by finding and enabling it in the Reforger Worksh
 
 {% embed url="https://reforger.armaplatform.com/workshop/595F2BF2F44836FB-RHS-StatusQuo" %}
 
-The changelog of all stable versions can be found in [Changelog](changelog/) section.
+The changelog of all stable versions can be found in [Changelog](changelog/0.8.md) section.
 
 ### Dev
 
@@ -28,7 +28,7 @@ The Dev version is a preview of the next stable version and follows the same lin
 
 The third branch of RHS: Status Quo is located on in the workshop of Arma: Reforger Experimental. This workshop is separate from the normal Arma: Reforger workshop and releases of RHS can be made there independently.
 
-Experimental releases are indicated in the [Changelog](changelog/) using the following info box:
+Experimental releases are indicated in the [Changelog](changelog/0.8.md) using the following info box:
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt="" width="563"><figcaption></figcaption></figure>
 

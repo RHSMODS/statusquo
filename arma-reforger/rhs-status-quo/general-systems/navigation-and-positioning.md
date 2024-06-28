@@ -8,19 +8,19 @@ Both types are able to display your coordinates and each have a broad range of f
 
 This includes things like DAGR (BLUFOR) and Orion (REDFOR). They can be equipped into a quick slot and when inspected can be interacted with using their keypads.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Go to the device dedicated documentation page to discover modes of operation.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>DAGR in OFF mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>DAGR in OFF mode</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>DAGR displaying position and elevation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>DAGR displaying position and elevation</p></figcaption></figure>
 
 If you have a map and a hand held device you can also bring it up in the map view by pressing the Globe button in the top toolbar.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>DAGR in map view</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>DAGR in map view</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Orion in map view</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Orion in map view</p></figcaption></figure>
 
 ### Digital Watches
 
