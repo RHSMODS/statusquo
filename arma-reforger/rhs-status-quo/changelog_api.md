@@ -9,6 +9,62 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.2833
+
+<!-- revision 2833 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2833
+
+_<mark style="color:red;">Date:</mark>_ Friday, June 28, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 18 (2815)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Micro T1 to redfor Arsenal box
+
+
+##### Improved
+
+
+[Improved] Changed: Temporarily disabled IR lights functionality to prevent game from crashing when saving the loadout with NVG
+
+[Improved] Added sounds to m40a5 animations
+
+[Improved] Replaced Micro T1s in blufor Arsenal and weapon prefabs. Now contains version with military designation SU-278/PVS
+
+
+##### Fixed
+
+
+[Fixed] Patched two more prefabs (T14 turrets) which could potentially crash the game
+
+[Fixed] Potential fix for 2S1 & T14 crashes
+
+[Fixed] Resaved PDU4 & Garmin works spaces in order to update their graphs and fix console log warnings
+
+[Fixed] Strings and preview image for Zephyr GTX boots
+
+[Fixed] Fixed Character_RHS_RF_SOF_MG.et was missing helmet
+
+[Fixed] Fixed flibe subbelt ground model
+
+[Fixed] Fixed Vest_PCGen_II/Variants/Vest_PCGen_II_rifleman.et and Vest_PCGen_II/Variants/Vest_PCGen_II_tako3.et were missing ground model
+
+
+##### Deleted
+
+
+
+
 ## 0.9.2815
 
 <!-- revision 2815 -->
