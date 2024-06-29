@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/29/2024 11:24:27 AM UTC | Revision 2836 | da12thMonkey]
+
+[Fixed] Bayonet could not be attached to AN94 rifles via inspection
+
+[Fixed] 6Kh9 bayonet name did not display correctly in interaction menu
+
+[Other] 6Х9 description string (#RHS_Attachment_6x9_Description) needs Russian localisation
+
+
+
 [6/29/2024 10:52:26 AM UTC | Revision 2835 | Sesk]
 
 [Other] Wrong helmet fix
