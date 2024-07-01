@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/1/2024 10:08:57 PM UTC | Revision 2867 | Tactical_Toxic]
+
+[Fixed] Fixed wrong pos of BlueForce pouch on pcgen3 light; Fixes #866
+
+
+
 [7/1/2024 8:48:52 PM UTC | Revision 2866 | da12thMonkey]
 
 [Fixed] B-lite and VIP strobe had incorrect names in radial menu
