@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/1/2024 10:18:18 PM UTC | Revision 2868 | PUDDY300]
+
+[Fixed] Issue #826. AK-105's sights are now zeroed and animated
+
+
+
 [7/1/2024 10:08:57 PM UTC | Revision 2867 | Tactical_Toxic]
 
 [Fixed] Fixed wrong pos of BlueForce pouch on pcgen3 light; Fixes #866
