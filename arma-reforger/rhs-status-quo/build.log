@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/2/2024 9:20:42 AM UTC | Revision 2875 | reyhard, reyhard]
+
+[Fixed] Fixed AN-94 barrel movement - this was caused by some missing anims (fire mode and trigger animations)
+
+[Fixed] Updated weapon graphs - replaced FullBodyGadget to FullBody and updated weapon inspection variable. This should fix crouched weapon inspection issue
+
+[Other] Added AN94 specific animation export profiles
+
+
+
 [7/2/2024 9:00:42 AM UTC | Revision 2873 | Punky]
 
 [Other] UH1Y Update
