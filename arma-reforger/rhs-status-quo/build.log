@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/3/2024 7:18:52 PM UTC | Revision 2884 | odkupiciel375]
+
+[Other] Changed: Removed the code that was nulling the rpl parent of detached clothing attachment as it seems risky and technically inventory should do that on its own
+
+
+
 [7/3/2024 7:16:13 PM UTC | Revision 2883 | odkupiciel375]
 
 [Fixed] Fixed: IR lights are working again
