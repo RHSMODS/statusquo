@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/3/2024 8:33:58 PM UTC | Revision 2885 | Soul_Assassin]
+
+[Fixed] Fixed: (1.2) Some spall and warheads had old configurations; fixes #876
+
+[Fixed] Fixed broken scabbard reference in 6B45 rifleman pouch set
+
+[Other] Some more console error cleanuo
+
+
+
 [7/3/2024 7:18:52 PM UTC | Revision 2884 | odkupiciel375]
 
 [Other] Changed: Removed the code that was nulling the rpl parent of detached clothing attachment as it seems risky and technically inventory should do that on its own
