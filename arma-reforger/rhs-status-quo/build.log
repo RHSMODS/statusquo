@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/3/2024 3:31:38 PM UTC | Revision 2882 | odkupiciel375]
+
+[Other] Improved: Added NPE prevention to RHS_HeadMountedLightDeviceComponent.AttachLightToCamera()
+
+
+
 [7/3/2024 12:28:27 PM UTC | Revision 2881 | da12thMonkey]
 
 [Improved] Enabled side plates on PC Gen II
