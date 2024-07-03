@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/3/2024 7:16:13 PM UTC | Revision 2883 | odkupiciel375]
+
+[Fixed] Fixed: IR lights are working again
+
+[Other] Its a workaround rather than a proper fix so now control hints will not work automatically for 'temporary nvg' like vehicle nv
+
+
+
 [7/3/2024 3:31:38 PM UTC | Revision 2882 | odkupiciel375]
 
 [Other] Improved: Added NPE prevention to RHS_HeadMountedLightDeviceComponent.AttachLightToCamera()
