@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/4/2024 3:56:08 AM UTC | Revision 2892 | PUDDY300]
+
+[Fixed] Issue #828 Changed inheritance of AK-74M with NPZ rail and GP-25 to inherit from AK-74M w/ GP-25
+
+
+
 [7/4/2024 2:25:26 AM UTC | Revision 2891 | zguba]
 
 [Improved] 1P87 1P90 2D reticle color, compression and misalignment
