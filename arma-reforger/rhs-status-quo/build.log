@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/4/2024 8:16:49 AM UTC | Revision 2893 | Tactical_Toxic]
+
+[Other] Minor m240 locale fixes
+
+[Other] Ts30a2 now installed on m38 by default
+
+
+
 [7/4/2024 3:56:08 AM UTC | Revision 2892 | PUDDY300]
 
 [Fixed] Issue #828 Changed inheritance of AK-74M with NPZ rail and GP-25 to inherit from AK-74M w/ GP-25
