@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/4/2024 12:43:52 AM UTC | Revision 2887 | zguba]
+
+[Improved] More accurate FOV for TS30-A2: 2 * (35.5/2 ft atan2 100 yd) = 6.772 deg
+
+
+
 [7/4/2024 12:23:51 AM UTC | Revision 2886 | zguba]
 
 [Improved] TS30-A2 scope's reticle and eye relief configuration
