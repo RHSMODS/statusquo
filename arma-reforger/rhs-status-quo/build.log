@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/4/2024 1:16:37 AM UTC | Revision 2888 | zguba]
+
+[Improved] TA31 RCO magnification
+
+
+
 [7/4/2024 12:43:52 AM UTC | Revision 2887 | zguba]
 
 [Improved] More accurate FOV for TS30-A2: 2 * (35.5/2 ft atan2 100 yd) = 6.772 deg
