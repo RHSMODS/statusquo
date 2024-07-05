@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/5/2024 12:24:48 AM UTC | Revision 2896 | Ashyl]
+
+[Added] GPD-30 Grenade for AGS-30 on K17
+
+[Fixed] Ballistics for VOG-30, it matches real data now
+
+[Improved] Particles for AKSu, SR3m, 9m133
+
+[Improved] Sounds for K17 engine
+
+[Other] Need to insert ballistic table and ".docx" instruction in PFM screen in K17 with Berezhok. TODO - localization for GPD-30 and make it appear in arsenal.
+
+
+
 [7/4/2024 11:55:47 PM UTC | Revision 2895 | gurdy]
 
 [Other] US AR magazine localization updates
