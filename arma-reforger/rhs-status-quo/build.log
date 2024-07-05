@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/5/2024 11:51:50 AM UTC | Revision 2898 | odkupiciel375]
+
+[Fixed] Fixed: wrong configuration of RplComponent of some prefabs; fixes #880
+
+
+
 [7/5/2024 2:04:54 AM UTC | Revision 2897 | zguba]
 
 [Fixed] Vector 21 and PDU: fixed magnification, reticle scale and consistency with vanilla binoculars
