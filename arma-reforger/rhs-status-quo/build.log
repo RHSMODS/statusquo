@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/5/2024 12:19:49 PM UTC | Revision 2899 | odkupiciel375]
+
+[Fixed] Fixed: GM CAS not working; fixes #873
+
+[Fixed] Fixed: GBU particles could start playing long after the explosion if player wasnt looking at them at that time
+
+[Other] Changed: Reduced KH55 particle rising smore lifetime to fix the poping out due to them reaching the bounding box
+
+
+
 [7/5/2024 11:51:50 AM UTC | Revision 2898 | odkupiciel375]
 
 [Fixed] Fixed: wrong configuration of RplComponent of some prefabs; fixes #880
