@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/6/2024 7:35:14 PM UTC | Revision 2938 | Tactical_Toxic]
+
+[Fixed] Fixed wrong collider type and material on LBH
+
+
+
 [7/6/2024 7:23:54 PM UTC | Revision 2937 | Tactical_Toxic]
 
 [Fixed] Fixed M240 bipod lods were missing skinning
