@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/6/2024 11:16:50 PM UTC | Revision 2946 | Ram]
+
+[Other] K17 Antenas MP fix, EOnFrame doesn't call on clients. What?
+
+[Other] K17 wrong anim component removed.
+
+
+
 [7/6/2024 10:58:49 PM UTC | Revision 2945 | odkupiciel375]
 
 [Fixed] Fixed: SU-260/P MDO item preview was incorrect; fixes #887
