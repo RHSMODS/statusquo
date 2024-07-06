@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/6/2024 12:02:25 PM UTC | Revision 2923 | odkupiciel375]
+
+[Fixed] Fixed: Added NPE prevention to RHS_LaserLightDevice
+
+
+
 [7/6/2024 10:27:27 AM UTC | Revision 2922 | odkupiciel375]
 
 [Improved] Changed: Added hints to items that can be attached with information how they can be used and an icon of the slot that can accept this item
