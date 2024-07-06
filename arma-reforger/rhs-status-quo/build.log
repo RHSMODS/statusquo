@@ -1,5 +1,29 @@
 <!-- buildlog insert -->
 
+[7/6/2024 3:08:14 AM UTC | Revision 2916 | Ashyl]
+
+[Added] Tucha smoke launcher shot and explosion sounds
+
+[Added] SureFire 3prong muzzle device muzzle flashes for long and short barrels
+
+[Added] M40 Sounds and particles
+
+[Added] GM-94 Shot and handling sounds
+
+[Added] M240 shot sounds
+
+[Improved] Particle effects for SR3m, AKSu, 2a42
+
+[Improved] Interior sounds of K17 engine
+
+[Improved] Shot sounds for 2a42 and 2a82 and AGS30 (Compressor added)
+
+[Fixed] Some .acp files related to 2a42
+
+[Other] Note: for some reason handling sounds for GM94 not working
+
+
+
 [7/6/2024 2:01:26 AM UTC | Revision 2915 | Tactical_Toxic]
 
 [Other] More mesh improvements
