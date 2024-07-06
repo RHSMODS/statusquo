@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/6/2024 10:58:49 PM UTC | Revision 2945 | odkupiciel375]
+
+[Fixed] Fixed: SU-260/P MDO item preview was incorrect; fixes #887
+
+
+
 [7/6/2024 10:48:47 PM UTC | Revision 2944 | odkupiciel375]
 
 [Fixed] Fixed: Weapon deployment not working form M4A1; Fixes #891
