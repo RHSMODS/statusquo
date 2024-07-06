@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[7/6/2024 10:27:27 AM UTC | Revision 2922 | odkupiciel375]
+
+[Improved] Changed: Added hints to items that can be attached with information how they can be used and an icon of the slot that can accept this item
+
+[Improved] Changed: Reordered items in arsenals so that all headwear are together and headphones, masks and eyewear are after helmets
+
+[Fixed] Fixed: Attaching headphones from the arsenal could prevent attachment of the mask to the helmet
+
+[Other] Changed: Removed all preview renderer lod overrides as now preview of worn elements on character forces them to be 0 thus item preview doesnt need to do that
+
+[Other] Added: Localized strings for hints
+
+[Other] Added: All my localized strings for call in support system since i cant pick which lines should be committed
+
+
+
 [7/6/2024 9:38:18 AM UTC | Revision 2921 | da12thMonkey]
 
 [Other] Moved M81 LC cover next to other LC covers in Arsenal
