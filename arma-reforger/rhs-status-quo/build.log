@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[7/6/2024 10:21:26 PM UTC | Revision 2941 | Soul_Assassin, odkupiciel375]
+
+[Fixed] TOR-2 ground model collider was broken
+
+[Fixed] TOR-2 face shieled was not hiding in FPV; fixes #857
+
+[Fixed] Fixed: Missing attachable item hints; Fixes #888
+
+[Fixed] Fixed: Attachable headgear like masks or headphones would still disappear when wearer would go outside of replication range of their spawn position
+
+[Other] Fixed face shield inheritance and volume/weights
+
+
+
 [7/6/2024 9:58:44 PM UTC | Revision 2939 | odkupiciel375]
 
 [Other] Changed: Updated HDR vis percent white and black to be 80/80
