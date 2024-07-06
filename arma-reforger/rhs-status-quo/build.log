@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/6/2024 10:48:47 PM UTC | Revision 2944 | odkupiciel375]
+
+[Fixed] Fixed: Weapon deployment not working form M4A1; Fixes #891
+
+
+
 [7/6/2024 10:34:45 PM UTC | Revision 2943 | odkupiciel375]
 
 [Fixed] Fixed: Adjust spotlight angle action progress is wrong; Fixes #890
