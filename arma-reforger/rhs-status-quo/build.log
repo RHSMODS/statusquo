@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/6/2024 12:56:09 PM UTC | Revision 2925 | Tactical_Toxic]
+
+[Other] Fixed m240 light was overriding m240 sound config
+
+[Other] Proper particle for block1 (should be named mk18) nt4 prefab
+
+[Other] Proper particle for block2 fsp
+
+
+
 [7/6/2024 12:25:05 PM UTC | Revision 2924 | odkupiciel375]
 
 [Other] Fixed: Configured 6x9 scabbard to fit the bayonet
