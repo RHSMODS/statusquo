@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2024 3:41:35 PM UTC | Revision 2957 | Soul_Assassin]
+
+[Fixed] Fixed NPE trap in RHS_MuzzleEffectComponent.c
+
+
+
 [7/7/2024 3:06:50 PM UTC | Revision 2956 | da12thMonkey]
 
 [Other] Minor grammar tweak for attachment tooltips
