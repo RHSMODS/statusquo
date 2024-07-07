@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2024 4:24:16 PM UTC | Revision 2958 | Ram]
+
+[Other] K17 animation null check
+
+
+
 [7/7/2024 3:41:35 PM UTC | Revision 2957 | Soul_Assassin]
 
 [Fixed] Fixed NPE trap in RHS_MuzzleEffectComponent.c
