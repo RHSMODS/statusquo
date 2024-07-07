@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2024 6:27:27 PM UTC | Revision 2961 | odkupiciel375]
+
+[Fixed] Fixed: pouches wouldnt show items stored in them for other clients in MP; fixes #899
+
+
+
 [7/7/2024 6:16:03 PM UTC | Revision 2960 | Soul_Assassin]
 
 [Fixed] M203 now has the detach and attach ammo actions in inspection; fixes #897
