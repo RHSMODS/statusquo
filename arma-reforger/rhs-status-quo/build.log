@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2024 6:16:03 PM UTC | Revision 2960 | Soul_Assassin]
+
+[Fixed] M203 now has the detach and attach ammo actions in inspection; fixes #897
+
+
+
 [7/7/2024 5:23:21 PM UTC | Revision 2959 | odkupiciel375]
 
 [Improved] Changed: IR strobes surfaces can now glow when emitting light (f.e. V-Light)
