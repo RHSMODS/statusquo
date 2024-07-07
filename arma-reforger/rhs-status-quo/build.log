@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/7/2024 5:23:21 PM UTC | Revision 2959 | odkupiciel375]
+
+[Improved] Changed: IR strobes surfaces can now glow when emitting light (f.e. V-Light)
+
+
+
 [7/7/2024 4:24:16 PM UTC | Revision 2958 | Ram]
 
 [Other] K17 animation null check
