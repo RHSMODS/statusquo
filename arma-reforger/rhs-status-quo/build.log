@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/7/2024 7:45:30 PM UTC | Revision 2962 | Soul_Assassin]
+
+[Fixed] Fixed several ground model colliders having wrong material.
+
+[Fixed] Fixed clothing material assign errors; fixes #872
+
+[Other] K17 animation component was getting devided by zero at 0 timeslice
+
+
+
 [7/7/2024 6:27:27 PM UTC | Revision 2961 | odkupiciel375]
 
 [Fixed] Fixed: pouches wouldnt show items stored in them for other clients in MP; fixes #899
