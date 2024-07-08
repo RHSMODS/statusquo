@@ -9,6 +9,196 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.2973
+
+<!-- revision 2973 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 2973
+
+_<mark style="color:red;">Date:</mark>_ Monday, July 8, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 140 (2833)
+
+_<mark style="color:red;">Changes:</mark>_ 9 additions, 26 improvements, 43 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] GPD-30 Grenade for AGS-30 on K17
+
+[Added] Tucha smoke launcher shot and explosion sounds
+
+[Added] SureFire 3prong muzzle device muzzle flashes for long and short barrels
+
+[Added] M40 Sounds and particles
+
+[Added] GM-94 Shot and handling sounds
+
+[Added] M240 shot sounds
+
+[Added] M17 Shooting sounds
+
+[Added] SV98 Shooting sounds
+
+[Added] K17 and T14 horn sounds
+
+
+##### Improved
+
+
+[Improved] Changed position of first PMF 5.1 display in t14
+
+[Improved] Bayonets attached to AN-94 rifles now follow barrel recoil animation
+
+[Improved] Disabled velcro slots on PC Gen II/III pouch setups that don't have a admin panel on the chest
+
+[Improved] Enabled side plates on PC Gen II
+
+[Improved] TS30-A2 scope's reticle and eye relief configuration
+
+[Improved] More accurate FOV for TS30-A2: 2 * (35.5/2 ft atan2 100 yd) = 6.772 deg
+
+[Improved] TA31 RCO magnification
+
+[Improved] Faster 2D vignette movement for Bravo4, PO4x24, TA648 MDO
+
+[Improved] 1P87 + 1P90 2D FOV and PIP magnification
+
+[Improved] 1P87 1P90 2D reticle color, compression and misalignment
+
+[Improved] Particles for AKSu, SR3m, 9m133
+
+[Improved] Sounds for K17 engine
+
+[Improved] Adjusted position of rear veclro on opscore MT and MID
+
+[Improved] Particle effects for SR3m, AKSu, 2a42
+
+[Improved] Interior sounds of K17 engine
+
+[Improved] Shot sounds for 2a42 and 2a82 and AGS30 (Compressor added)
+
+[Improved] Changed: Added hints to items that can be attached with information how they can be used and an icon of the slot that can accept this item
+
+[Improved] Changed: Reordered items in arsenals so that all headwear are together and headphones, masks and eyewear are after helmets
+
+[Improved] Added new anim sequence for k17 ramp getIn/getOut
+
+[Improved] Added antenna jiggle to K17
+
+[Improved] Added collision to K17 rear ramp
+
+[Improved] Tucha sounds
+
+[Improved] 2a42 shooting sounds and particles
+
+[Improved] Added SPH-44 to arsenal box
+
+[Improved] Changed: IR strobes surfaces can now glow when emitting light (f.e. V-Light)
+
+[Improved] Adjusted the order of ops core type helmets in USAF arsenal box so they're grouped more consistently
+
+
+##### Fixed
+
+
+[Fixed] Bayonet could not be attached to M27 rifles via inspection
+
+[Fixed] Bayonet could not be attached to AN94 rifles via inspection
+
+[Fixed] 6Kh9 bayonet name did not display correctly in interaction menu
+
+[Fixed] Disabled bayonet slot on CQBR, SOPMOD Block II and ERGO rail variants of M4 rifles - barrels are either too short, or do not have an accessible lug to fit bayonets
+
+[Fixed] Fixed: Helmet attachments disappearing after certain distance from their initial spawn position; Fixes [#871](https://github.com/RHSMODS/statusquo/issues/871)
+
+[Fixed] B-lite and VIP strobe had incorrect names in radial menu
+
+[Fixed] Fixed wrong pos of BlueForce pouch on pcgen3 light; Fixes [#866](https://github.com/RHSMODS/statusquo/issues/866)
+
+[Fixed] Issue [#826](https://github.com/RHSMODS/statusquo/issues/826). AK-105's sights are now zeroed and animated
+
+[Fixed] Fixed AN-94 barrel movement - this was caused by some missing anims (fire mode and trigger animations)
+
+[Fixed] Updated weapon graphs - replaced FullBodyGadget to FullBody and updated weapon inspection variable. This should fix crouched weapon inspection issue
+
+[Fixed] RPLComponent Parent Node error on several assets (most fixes were already in 0.9.2833, but wasn't included in the changelog)
+
+[Fixed] Fixed: IR lights are working again
+
+[Fixed] Fixed: (1.2) Some spall and warheads had old configurations; fixes [#876](https://github.com/RHSMODS/statusquo/issues/876)
+
+[Fixed] Fixed broken scabbard reference in 6B45 rifleman pouch set
+
+[Fixed] Issue [#828](https://github.com/RHSMODS/statusquo/issues/828) Changed inheritance of AK-74M with NPZ rail and GP-25 to inherit from AK-74M w/ GP-25
+
+[Fixed] Ballistics for VOG-30, it matches real data now
+
+[Fixed] Vector 21 and PDU: fixed magnification, reticle scale and consistency with vanilla binoculars
+
+[Fixed] Fixed: wrong configuration of RplComponent of some prefabs; fixes [#880](https://github.com/RHSMODS/statusquo/issues/880)
+
+[Fixed] Fixed: GM CAS not working; fixes [#873](https://github.com/RHSMODS/statusquo/issues/873)
+
+[Fixed] Fixed: GBU particles could start playing long after the explosion if player wasnt looking at them at that time
+
+[Fixed] Fixed wrong position of 6X9 scabbard on rifleman pouch kit
+
+[Fixed] Fixed wrong position of PONOS camera on all helmets
+
+[Fixed] Some .acp files related to 2a42
+
+[Fixed] Fixed: Some ECH variants were accepting wrong helmet covers
+
+[Fixed] Fixed: Attaching headphones from the arsenal could prevent attachment of the mask to the helmet
+
+[Fixed] Fixed: Added NPE prevention to RHS_LaserLightDevice
+
+[Fixed] Fixed M240 bipod lods were missing skinning
+
+[Fixed] Fixed wrong collider type and material on LBH
+
+[Fixed] TOR-2 ground model collider was broken
+
+[Fixed] TOR-2 face shieled was not hiding in FPV; fixes [#857](https://github.com/RHSMODS/statusquo/issues/857)
+
+[Fixed] Fixed: Missing attachable item hints; Fixes [#888](https://github.com/RHSMODS/statusquo/issues/888)
+
+[Fixed] Fixed: Attachable headgear like masks or headphones would still disappear when wearer would go outside of replication range of their spawn position
+
+[Fixed] Fixed: Adjust spotlight angle action progress is wrong; Fixes [#890](https://github.com/RHSMODS/statusquo/issues/890)
+
+[Fixed] Fixed: Weapon deployment not working form M4A1; Fixes [#891](https://github.com/RHSMODS/statusquo/issues/891)
+
+[Fixed] Fixed: SU-260/P MDO item preview was incorrect; fixes [#887](https://github.com/RHSMODS/statusquo/issues/887)
+
+[Fixed] Fixed Wrong sound acp file for DAGR and Orion
+
+[Fixed] Minor log spam caused by clothing
+
+[Fixed] Fixed TOR colliders
+
+[Fixed] Fixed NPE trap in RHS_MuzzleEffectComponent.c
+
+[Fixed] M203 now has the detach and attach ammo actions in inspection; fixes [#897](https://github.com/RHSMODS/statusquo/issues/897)
+
+[Fixed] Fixed: pouches wouldnt show items stored in them for other clients in MP; fixes [#899](https://github.com/RHSMODS/statusquo/issues/899)
+
+[Fixed] Fixed several ground model colliders having wrong material.
+
+[Fixed] Fixed clothing material assign errors; fixes [#872](https://github.com/RHSMODS/statusquo/issues/872)
+
+
+##### Deleted
+
+
+
+
 ## 0.9.2833
 
 <!-- revision 2833 -->
