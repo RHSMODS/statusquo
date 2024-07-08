@@ -9,6 +9,7 @@
 
 * [RHS: Status Quo](arma-reforger/rhs-status-quo/README.md)
   * [EULA](arma-reforger/rhs-status-quo/eula.md)
+  * [Page](arma-reforger/rhs-status-quo/page.md)
   * [Feedback](arma-reforger/rhs-status-quo/feedback/README.md)
     * [How to help us fixing a bug](arma-reforger/rhs-status-quo/feedback/how-to-help-us-fixing-a-bug.md)
   * [Installation](arma-reforger/rhs-status-quo/installation.md)
