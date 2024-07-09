@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/9/2024 12:07:34 AM UTC | Revision 2977 | zguba]
+
+[Improved] PDU-4 and Vector 21 magnification slightly reduced (from 7x to 5x) to keep whole reticle visible on screen, reticle stays true to sight picture
+
+
+
 [7/8/2024 9:32:24 PM UTC | Revision 2976 | zguba]
 
 [Fixed] 1P21 PIP magnification - sight rear, front and scope radius needed tweak
