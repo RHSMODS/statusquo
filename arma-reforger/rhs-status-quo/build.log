@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/10/2024 12:06:49 AM UTC | Revision 2984 | PUDDY300]
+
+[Fixed] Missing animation files related to M40 safety. (Issue #906)
+
+[Fixed] AKS-74UN w/ LTSU and B-18 picatinny mount having the wrong animation set. (Issue #842)
+
+
+
 [7/9/2024 6:57:31 PM UTC | Revision 2983 | Tactical_Toxic]
 
 [Fixed] Fixed Jeans were missing some hide body parts params
