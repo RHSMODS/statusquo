@@ -1,5 +1,39 @@
 <!-- buildlog insert -->
 
+[7/10/2024 8:57:15 PM UTC | Revision 2992 | Tactical_Toxic]
+
+[Fixed] Fixed Filbe was using using wrong mesh for ground model
+
+[Added] Added JPC Platecarrier
+
+[Added] Added AVS Platecarrier
+
+[Fixed] Fixed EXPS / SU-231A reticle flickering
+
+[Added] Added 6.22 Rush-12 Backpack
+
+[Other] It was zbias lol
+
+[Other] ========
+
+[Other] Gurdy, these lines are for you
+
+[Other] #RHS-Backpack_511rush12_Name
+
+[Other] #RHS-Backpack_511rush12_Description
+
+[Other] #RHS-Vest_AVS_Name
+
+[Other] #RHS-Vest_AVS_Description
+
+[Other] #RHS-Vest_JPC_Name
+
+[Other] #RHS-Vest_JPC_Description
+
+[Other] Bebra4 will do pouch kits configuration and mag pouch configuration
+
+
+
 [7/10/2024 8:22:52 PM UTC | Revision 2991 | MacroBebra]
 
 [Added] Added Wartech MP103 Pouch
