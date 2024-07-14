@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/14/2024 9:25:00 PM UTC | Revision 3005 | Tactical_Toxic]
+
+[Added] Added TS-30A2 scope
+
+[Added] Added TS-30A2 scope (camo)
+
+[Other] We had null pointer on EXPS reticle for about 2 weeks because i was a bit silly and forgot to commit meta file
+
+
+
 [7/13/2024 3:05:34 PM UTC | Revision 3004 | Soul_Assassin]
 
 [Other] Reduced ZSh texture resolution
