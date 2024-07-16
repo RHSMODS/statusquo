@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/16/2024 9:04:52 AM UTC | Revision 3013 | Ashyl]
+
+[Removed] 3uof6 30mm round, since it is not real
+
+[Added] 3uor6 30mm round instead of 3uof6
+
+[Fixed] Damage on 30mm rounds
+
+
+
 [7/15/2024 7:52:37 PM UTC | Revision 3012 | zguba]
 
 [Fixed] TS30A2 reticle changed to rear focal plane, valid only at maximum magnification 8x
