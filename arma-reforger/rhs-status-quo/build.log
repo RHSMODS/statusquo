@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/16/2024 1:06:51 PM UTC | Revision 3018 | reyhard]
+
+[Improved] Plugged in K17 engine start animations
+
+[Other] Experiment with animated VehParts - right now its not feasible solution since commands are not synced. Perhaps in future this can be investigated further
+
+
+
 [7/16/2024 12:34:46 PM UTC | Revision 3017 | Ashyl]
 
 [Improved] Particles for 30mm
