@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/19/2024 8:13:58 PM UTC | Revision 3033 | da12thMonkey]
+
+[Fixed] Trailing space in PC Gen III display name string
+
+
+
 [7/19/2024 7:47:21 PM UTC | Revision 3032 | da12thMonkey]
 
 [Other] Displayname string style standardisation for vest pouch presets (currently only applied to US vests)
