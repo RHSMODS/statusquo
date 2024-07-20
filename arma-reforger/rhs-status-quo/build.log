@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/20/2024 2:53:07 PM UTC | Revision 3044 | odkupiciel375]
+
+[Improved] ZSh-7V (pilot) helmet can now only accept GEO-ONV1-01 Night vision goggles (ant as of the moment thats the only helmet to which they can be mounted; fixes #918
+
+
+
 [7/20/2024 2:46:27 PM UTC | Revision 3043 | odkupiciel375]
 
 [Fixed] Fixed: Items dragged while arsenal is open would be refunded rather than transferred to the storage to which they were meant to go; fixes #916
