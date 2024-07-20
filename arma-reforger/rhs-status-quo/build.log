@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/20/2024 2:46:27 PM UTC | Revision 3043 | odkupiciel375]
+
+[Fixed] Fixed: Items dragged while arsenal is open would be refunded rather than transferred to the storage to which they were meant to go; fixes #916
+
+[Fixed] Fixed: Inventory option to press F in order to equip an gadget straight from the inventory would not show up; fixes #916
+
+[Fixed] Fixed: When some vest were present then gloves would go to the vest rather than to their dedicated slot; fixes #916
+
+
+
 [7/20/2024 2:37:06 PM UTC | Revision 3042 | odkupiciel375]
 
 [Other] Changed: added triple retaining strap pouch tot he NCPC PC - needs adjustment and configuration for other integrated pouches
