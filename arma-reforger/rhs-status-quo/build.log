@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/20/2024 3:05:14 PM UTC | Revision 3045 | odkupiciel375]
+
+[Improved] Added: Information when highlighting the GEO-ONV1-01 nvg and ZSh-7V helmet about the mounting compatibility restrictions
+
+
+
 [7/20/2024 2:53:07 PM UTC | Revision 3044 | odkupiciel375]
 
 [Improved] ZSh-7V (pilot) helmet can now only accept GEO-ONV1-01 Night vision goggles (ant as of the moment thats the only helmet to which they can be mounted; fixes #918
