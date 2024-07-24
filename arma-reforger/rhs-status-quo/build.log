@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/24/2024 10:02:56 PM UTC | Revision 3071 | Soul_Assassin]
+
+[Fixed] Some preview icons were not loading the camo correctly; fixes #921
+
+
+
 [7/24/2024 1:24:25 PM UTC | Revision 3070 | Ram]
 
 [Other] Spectrum device animations fix
