@@ -9,6 +9,168 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.3094
+
+<!-- revision 3094 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3094
+
+_<mark style="color:red;">Date:</mark>_ Friday, July 26, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 121 (2973)
+
+_<mark style="color:red;">Changes:</mark>_ 26 additions, 13 improvements, 21 fixes and 4 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Kega explosion particles and sound
+
+[Added] Added all Wartech pouches in EMR
+
+[Added] Added ARS Arma GMR in EMR
+
+[Added] Added ARS Arma HSGI belt in EMR
+
+[Added] Added Shaw Concepts pouches in Multicam
+
+[Added] Added HSGI pouches in Multicam
+
+[Added] Added Wartech MP103 Pouch
+
+[Added] Added JPC Platecarrier
+
+[Added] Added AVS Platecarrier
+
+[Added] Added 6.22 Rush-12 Backpack
+
+[Added] Added ZSh-7V
+
+[Added] Added TS-30A2 scope
+
+[Added] Added TS-30A2 scope (camo)
+
+[Added] Added GEO-ONV1-01 night vision goggles
+
+[Added] 3uor6 30mm round instead of 3uof6
+
+[Added] Added Ars ARMA CPC Mod 2 Platecarrier
+
+[Added] Added NCPC Platecarrier
+
+[Added] Added side armor variants of AVS
+
+[Added] Added new pouches to and JPC AVS
+
+[Added] Added AOR1 LBH
+
+[Added] Added Kiver RSP cover in multicam
+
+[Added] Added OKC-3S bayonet
+
+[Added] Added painted Mich 2000
+
+[Added] Added AVS 6x9 in EMR Camo
+
+[Added] Added AA CPC with Groin protection
+
+[Added] Added EMR AVS with Groin protection
+
+
+##### Improved
+
+
+[Improved] PDU-4 and Vector 21 magnification slightly reduced (from 7x to 5x) to keep whole reticle visible on screen, reticle stays true to sight picture
+
+[Improved] Tucha particles and optimization
+
+[Improved] Armata ammo rack particles and sounds
+
+[Improved] Updated RHS Conflict scenario
+
+[Improved] Replaced ammunition in base M40A5 magazine with M118 Special Ball (an additional magazine has been provided using the previous M80 FMJ ammo)
+
+[Improved] Particles for 30mm
+
+[Improved] Plugged in K17 engine start animations
+
+[Improved] ZSh-7V (pilot) helmet can now only accept GEO-ONV1-01 Night vision goggles (ant as of the moment thats the only helmet to which they can be mounted; fixes [#918](https://github.com/RHSMODS/statusquo/issues/918)
+
+[Improved] Added: Information when highlighting the GEO-ONV1-01 nvg and ZSh-7V helmet about the mounting compatibility restrictions
+
+[Improved] Corrected designation of 6Kh9-1 bayonet
+
+[Improved] Reworked M4A1 CQBR inheritance so that they inherit from a common base class
+
+[Improved] Reduced muzzle velocity of CQBR rifles
+
+[Improved] Adjusted TV110 preview icon
+
+
+##### Fixed
+
+
+[Fixed] Fixed major crash
+
+[Fixed] 1P21 PIP magnification - sight rear, front and scope radius needed tweak
+
+[Fixed] Fixed Jeans were missing some hide body parts params
+
+[Fixed] Missing animation files related to M40 safety. (Issue [#906](https://github.com/RHSMODS/statusquo/issues/906))
+
+[Fixed] AKS-74UN w/ LTSU and B-18 picatinny mount having the wrong animation set. (Issue [#842](https://github.com/RHSMODS/statusquo/issues/842))
+
+[Fixed] Fixed Filbe was using using wrong mesh for ground model
+
+[Fixed] Fixed EXPS / SU-231A reticle flickering
+
+[Fixed] Small PDU-4 layout tweak
+
+[Fixed] Fixed FAST MT Marpat wrong texture
+
+[Fixed] TS30A2 reticle changed to rear focal plane, valid only at maximum magnification 8x
+
+[Fixed] Damage on 30mm rounds
+
+[Fixed] Fixed strings on TV-110 pouch presets
+
+[Fixed] Trailing space in PC Gen III display name string
+
+[Fixed] Fixed: Items dragged while arsenal is open would be refunded rather than transferred to the storage to which they were meant to go; fixes [#916](https://github.com/RHSMODS/statusquo/issues/916)
+
+[Fixed] Fixed: Inventory option to press F in order to equip an gadget straight from the inventory would not show up; fixes [#916](https://github.com/RHSMODS/statusquo/issues/916)
+
+[Fixed] Fixed: When some vest were present then gloves would go to the vest rather than to their dedicated slot; fixes [#916](https://github.com/RHSMODS/statusquo/issues/916)
+
+[Fixed] Fixed m240 had broken collider
+
+[Fixed] Some preview icons were not loading the camo correctly; fixes [#921](https://github.com/RHSMODS/statusquo/issues/921)
+
+[Fixed] Fixed wrong Taktika belts description
+
+[Fixed] Fixed K17 antena animation CTD
+
+[Fixed] TV-110 triple pouch are now part of the vest
+
+
+##### Deleted
+
+
+[Removed] Removed some default patches from few TV110 pouch presets
+
+[Removed] 3uof6 30mm round, since it is not real
+
+[Removed] Removed several variants of Mich 2000 and Mich 2001
+
+[Removed] Removed: Game Master - Temporarily removed F/A-18 GBU and KH-55 CAS due to unpredictable crashes
+
+
+
 ## 0.9.2973
 
 <!-- revision 2973 -->
