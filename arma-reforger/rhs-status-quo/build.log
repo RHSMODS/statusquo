@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/30/2024 6:56:39 AM UTC | Revision 3108 | reyhard, reyhard, reyhard]
+
+[Other] Remove lone metafile
+
+[Other] Removed duplicated acp
+
+[Other] Fixed duplicated GUID in materials
+
+
+
 [7/29/2024 10:36:28 PM UTC | Revision 3105 | Sesk]
 
 [Improved] K17 buoyancy and speed in water
