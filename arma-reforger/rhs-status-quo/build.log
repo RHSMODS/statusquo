@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/31/2024 2:52:40 PM UTC | Revision 3110 | Tactical_Toxic]
+
+[Other] Minor improvement for 1p87 new reticle
+
+[Other] Lesson learned, do not use inherits on collimator materials...
+
+
+
 [7/30/2024 6:59:19 AM UTC | Revision 3109 | reyhard]
 
 [Other] Removed duplicated layouts
