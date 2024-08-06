@@ -6,7 +6,7 @@ description: Here is what we get asked...a lot!
 
 #### 1. Will you make XXX?
 
-No idea. We have a huge list of things we want to make, but absolutely no idea if we will get a chance to make them all.
+No idea. First of all make sure you carefully check the public [roadmap.md](arma-reforger/rhs-status-quo/roadmap.md "mention"). If it is there, then we have made a commitment to at least try to make it at some point. If it is not there, for now it is out of scope and there is **no point asking**. We have a huge list of things we want to make, but absolutely no idea if we will get a chance to make them all.
 
 #### 2. When will there be XXX?
 
@@ -59,4 +59,3 @@ No. Unfortunately, at this time, we do not have the capability to actively debug
 **12. Can I support RHS in some way?**
 
 Yes! Please be aware though that the donations are purely voluntary and come with no rewards and go towards supporting our IT infrastructure. Please read more on [https://www.patreon.com/redhammerstudios](https://www.patreon.com/redhammerstudios)
-
