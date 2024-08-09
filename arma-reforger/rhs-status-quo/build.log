@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/9/2024 2:45:21 PM UTC | Revision 3128 | odkupiciel375]
+
+[Other] First try of pushing call-in support system
+
+[Other] NOTE: By default its disabled by not having a config in GameMode=>RHS_AdditionalGameModeSettingsComponent=>Call In Supports Config so either this component has to be disabled for default config to be loaded or default config can be assigned there
+
+
+
 [8/8/2024 9:50:18 PM UTC | Revision 3127 | Tactical_Toxic]
 
 [Added] Added optic mount for M2HB
