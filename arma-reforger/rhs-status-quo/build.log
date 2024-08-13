@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/13/2024 8:55:24 PM UTC | Revision 3144 | Soul_Assassin]
+
+[Fixed] TS30A2 zeroing changed to "camera turn"
+
+[Improved] Helstar 6 now has proper HS-640-04 modes: green stable, red stable, IR stable and IR Flash; fixes #822
+
+
+
 [8/13/2024 7:11:58 PM UTC | Revision 3143 | odkupiciel375]
 
 [Other] Fixed: When multiple call ins were on cooldown then only one would actually count down their timer
