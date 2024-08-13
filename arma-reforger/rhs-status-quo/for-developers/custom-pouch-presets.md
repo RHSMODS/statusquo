@@ -11,7 +11,7 @@ coverY: 0
 
 
 {% hint style="danger" %}
-Keep in mind that our systems tend to change without instant change in documentation. So this guide may be outdated at some point.&#x20;
+Keep in mind that our systems tend to change without instant changes in documentation. So this guide may be outdated at some point.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -19,7 +19,7 @@ Please. Read this guide from start to end BEFORE making your own prefab.
 {% endhint %}
 
 {% hint style="info" %}
-Last thing before this guide starts. If unsure about anything, check how it's made in existing RHS prefabs.
+Last thing before this guide starts. When unsure about anything, check how it's done in existing RHS prefabs.
 {% endhint %}
 
 ## Step 1: Prefab
