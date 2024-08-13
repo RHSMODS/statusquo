@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/13/2024 8:59:43 AM UTC | Revision 3140 | Soul_Assassin]
+
+[Fixed] Radial menu was showing bad preview icons
+
+[Fixed] Battery packs were not hiding in FPV; fixed #908
+
+
+
 [8/13/2024 6:18:35 AM UTC | Revision 3139 | Soul_Assassin]
 
 [Added] Added USMC Waffletop; fixes #748
