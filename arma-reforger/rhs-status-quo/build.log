@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/13/2024 9:08:44 PM UTC | Revision 3145 | odkupiciel375]
+
+[Other] Added: Created new RHS debug category
+
+[Other] Added: Created a bunch of debug options for CISS
+
+[Other] Changed: Reenabled squad size requirements
+
+
+
 [8/13/2024 8:55:24 PM UTC | Revision 3144 | Soul_Assassin]
 
 [Fixed] TS30A2 zeroing changed to "camera turn"
