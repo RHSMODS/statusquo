@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/13/2024 7:11:58 PM UTC | Revision 3143 | odkupiciel375]
+
+[Other] Fixed: When multiple call ins were on cooldown then only one would actually count down their timer
+
+[Other] Changed: Added default set of call in supports to all gamemodes for testing purposes
+
+
+
 [8/13/2024 10:04:24 AM UTC | Revision 3142 | Soul_Assassin]
 
 [Improved] Light attachments have now source visibility when on (diode is visible from certain angles); fixes #944
