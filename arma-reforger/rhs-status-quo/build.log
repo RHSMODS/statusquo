@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/13/2024 10:04:24 AM UTC | Revision 3142 | Soul_Assassin]
+
+[Improved] Light attachments have now source visibility when on (diode is visible from certain angles); fixes #944
+
+[Fixed] Source point location of light on some IR and light devices was wrong
+
+[Fixed] Switch light had wrong name in radial
+
+
+
 [8/13/2024 9:35:00 AM UTC | Revision 3141 | Soul_Assassin]
 
 [Fixed] GEO-ONV1 eye lights were misaligned; work on #929
