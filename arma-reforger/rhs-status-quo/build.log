@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/13/2024 9:40:07 PM UTC | Revision 3147 | odkupiciel375]
+
+[Other] Changed: attempt at containing unhandled exception when player joins the server
+
+
+
 [8/13/2024 9:34:47 PM UTC | Revision 3146 | Tactical_Toxic]
 
 [Other] Im not sure but seems like some of gm94 anims were broken, should be hopefully fixed now
