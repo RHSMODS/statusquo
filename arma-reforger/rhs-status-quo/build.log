@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/14/2024 10:29:45 PM UTC | Revision 3155 | Soul_Assassin]
+
+[Improved] CVC 01 model now has LODs; fixes #480
+
+[Improved] PC Gen 3 ground model now has LODs; fixes #475
+
+[Improved] M40A5 model now has LODs; fixes #473
+
+
+
 [8/14/2024 4:03:48 PM UTC | Revision 3154 | Soul_Assassin]
 
 [Improved] ECH ground models now have LODs; fixes #479
