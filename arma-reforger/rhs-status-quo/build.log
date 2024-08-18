@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/18/2024 8:17:55 PM UTC | Revision 3187 | odkupiciel375]
+
+[Other] Changed: Abort code will only going to be said for call ins that can be canceled
+
+[Other] Fixed: Wrong map makers were added on the map
+
+
+
 [8/18/2024 7:27:33 PM UTC | Revision 3186 | odkupiciel375]
 
 [Other] Fixed: wrong attribute was controlling requirement of squad size of CISS
