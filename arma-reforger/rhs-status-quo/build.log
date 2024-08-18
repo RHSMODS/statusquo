@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/18/2024 7:27:33 PM UTC | Revision 3186 | odkupiciel375]
+
+[Other] Fixed: wrong attribute was controlling requirement of squad size of CISS
+
+
+
 [8/18/2024 6:46:29 PM UTC | Revision 3185 | odkupiciel375]
 
 [Other] Fixed: server crash when call in was canceled
