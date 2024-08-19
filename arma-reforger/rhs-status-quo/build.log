@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/19/2024 6:43:35 PM UTC | Revision 3190 | Ram]
+
+[Fixed] Fixed triplex layout z-order
+
+[Other] Added SpectrumDevice signal sources
+
+
+
 [8/19/2024 3:18:22 PM UTC | Revision 3189 | Tactical_Toxic]
 
 [Other] Small spectrum device tweaks
