@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/19/2024 8:27:59 PM UTC | Revision 3193 | odkupiciel375]
+
+[Other] Removed: Unnecessary property from SCR_RadioComponentClass that was causing an assert
+
+[Other] Fixed: Removed all existing instances of casting m_Character owner to ChimeraCharacter for gadgets as it is ChimeraCharacter now
+
+
+
 [8/19/2024 8:19:37 PM UTC | Revision 3192 | Tactical_Toxic]
 
 [Other] Minor tweaks for t14 and k17
