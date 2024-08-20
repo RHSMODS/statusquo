@@ -71,13 +71,13 @@ Here are a few of the most common occurring offenses (by no means exhaustive lis
 
 ### Limitations
 
-Due to repeated infringements of the existing Red Hammer Studios EULA and / or Bohemia's Interactive Terms of Service, the following groups / persons are STRICTLY PROHIBITED from creating any Derivative content based on RHS Status Quo or any other past present or future RHS mods.&#x20;
+Due to repeated infringements of the existing Red Hammer Studios EULA and / or Bohemia's Interactive Terms of Service, the following groups / persons are STRICTLY PROHIBITED from using RHS mods and creating any Derivative content based on RHS Status Quo or any other past present or future RHS mods.&#x20;
 
 * Dark Raider Group / DarkGRU and / or any affiliated persons
 * Sierra Golf and / or any affiliated persons
 * Joint Task Force Miller and / or any affiliated persons
 
-this listed will be constantly updated
+this list will be constantly updated
 
 #### InstaLOD
 
