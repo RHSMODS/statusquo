@@ -2,11 +2,31 @@
 description: >-
   PMF-5.1 Is a MFD system that's used in APCs, Tanks, and MRAPs such as  T-14,
   T-15, K-17, K-16, Typhoon-K
+cover: ../../../.gitbook/assets/image (215).png
+coverY: 173.78653229500685
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # PMF-5.1
 
 
+
+{% hint style="info" %}
+Introduced in 0.6.2062
+{% endhint %}
 
 ## Part 1. Introduction
 
