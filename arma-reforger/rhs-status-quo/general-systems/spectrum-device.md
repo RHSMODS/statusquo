@@ -75,11 +75,15 @@ Probably last but not least thing that you need to know about is **Processing of
 
 
 Processing of signal takes time. Usually quite long amount of time. Time that you might not have. \
-In order to crack the signal and process it, it needs to be emitted for enough time for spectrum device to process it. This is the point where you can see and feel the matter of distance. Further the signal is, longer it takes to process it. You can feel it when trying to track down enemy located far away from you. \
+In order to crack the signal and process it, it needs to be emitted for enough time for spectrum device to process it. F.e handheld radios can be seen only when they are used to send signal (when player talks). This is the point where you can see and feel the matter of distance. Further the signal is, longer it takes to process it. You can feel it when trying to track down enemy located far away from you. \
 \
 Although, you also need to keep in mind that some things are emitting signal constantly. Such as stationary antennas, command trucks, transmission towers, and vehicles equipped with datalink.\
 \
 
+
+{% hint style="danger" %}
+This device can't see radios used by Bots, because they never use them to speak to each other.
+{% endhint %}
 
 
 
