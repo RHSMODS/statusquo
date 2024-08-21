@@ -23,6 +23,7 @@
     * [0.3](arma-reforger/rhs-status-quo/changelog/0.3.md)
     * [0.2](arma-reforger/rhs-status-quo/changelog/0.2.md)
   * [General Systems](arma-reforger/rhs-status-quo/general-systems/README.md)
+    * [Spectrum Device](arma-reforger/rhs-status-quo/general-systems/spectrum-device.md)
     * [PMF-5.1](arma-reforger/rhs-status-quo/general-systems/pmf-5.1.md)
     * [RHS IR, NV and "Thermals"](arma-reforger/rhs-status-quo/general-systems/rhs-ir-and-nv.md)
     * [RHS Extended Inventory System](arma-reforger/rhs-status-quo/general-systems/rhs-extended-inventory-system.md)

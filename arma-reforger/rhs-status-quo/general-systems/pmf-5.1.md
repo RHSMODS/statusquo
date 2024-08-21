@@ -144,7 +144,7 @@ Not active for now. Will be used to change brightness and contrast of gunner dis
 
 <figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
-### 3. Vehicle status.
+### 3. Vehicle status
 
 <figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 

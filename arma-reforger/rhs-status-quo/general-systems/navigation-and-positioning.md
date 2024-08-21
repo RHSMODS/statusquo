@@ -20,24 +20,24 @@ If you have a map and a hand held device you can also bring it up in the map vie
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>DAGR in map view</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Orion in map view</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Orion in map view</p></figcaption></figure>
 
 ### Digital Watches
 
 Some digital watches like the Garmin also have nav capabilities. Equip it into the watch slot to wear it on your wrist.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Garmin on the wrist</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Garmin on the wrist</p></figcaption></figure>
 
 Equip the watch into a quickslot and inspect it to gain access to switching modes.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Inspection of Garmin</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Inspection of Garmin</p></figcaption></figure>
 
 Use Switch Mode functionality to find the relevant information.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Garmin positioning</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Garmin positioning</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Garmin compass</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Garmin compass</p></figcaption></figure>
 
 The watch will retain its selected mode once out of the quickslot.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
