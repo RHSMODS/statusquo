@@ -22,11 +22,9 @@ layout:
 
 # Spectrum Device
 
-
-
 ## Part 1: Introduction
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>the Spectrum Device</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
 
 This device was made to advance in radio reconnaissance, and uses advanced processing technologies to allow detection and further processing of signal in 3D space with single receiver.&#x20;
 
@@ -36,28 +34,20 @@ Min signal detection range: 20m\
 Max signal detection range: 4000m
 
 {% hint style="warning" %}
-Keep in mind that signal **detection** range is not equal to signal **processing** range
+Keep in mind that signal **detection** range is not equal to signal **processing** range.
 {% endhint %}
 
-Weight: 2.5 Kg\
-
-
-
+Weight: 2.5 Kg
 
 ## Part 2: Theory
 
-Before we move into practical usage, lets talk about some boring stuff.
+Before we move into practical usage, lets talk about some boring stuff. An electromagnetic spectrum monitoring device is used to detect and identify active emitters of electormagnetic fields, for example, transmitting walky talkies, radios and radars. Most things used for communications and active surveilance emmit some sort of signal. This device can detect a large specrum of frequencies and help identify these devices so that the enemy can be located faster.&#x20;
 
-First of all, spectrum device is not a magic wand, this is a very fine piece of innovative technologies. But just like any other equipment it got some technical limitations.&#x20;
+First of all, spectrum device is not a magic wand, this is a very fine piece of innovative technology. But just like any other equipment it has some technical limitations. First of all, in order to receive signals, you need to keep device steady and leveled to horizon, i will talk about it a little bit more later in practical usage.
 
-First of all, in order to receive signals, you need to keep device steady and leveled to horizon, i will talk about it a little bit more later in practical usage.
+It shouldn't be a surprise but radio signals can be obstructed by terrain, buildings, vehicles, or if we talk about artificial interruptions, by jammers. Radio signals also tend to reflect and create fake noise. This is one of the most important things to worry about.
 
-It shouldn't be a surprise but radio signals can be obstructed by terrain, buildings, vehicles, or if we talk about artificial interruptions, by jammers.
-
-Radio signals also tend to reflect and create fake noise. This is one of the most important things to worry about.
-
-Spectrum device uses on single receiver and  software processing in order to detect signals.\
-Rough terrains such as mountains can both obstruct and change how device sees signals. This leads to multiple issues, such as piling of signals, and signal reflections and other noise picked up as real signals.
+Spectrum devices use a single receiver and software processing in order to detect signals. Rough terrains such as mountains can both obstruct and change how device sees signals. This leads to multiple issues, such as piling of signals, and signal reflections and other noise picked up as real signals.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of piled signals</p></figcaption></figure>
 
@@ -68,24 +58,21 @@ Because of that, there are 3 types of signal:
 3. Real signal
 
 I will explain how they are displayed later in this guide.\
-
-
 \
-Probably last but not least thing that you need to know about is **Processing of signal**.\
-
+Probably last but not least thing that you need to know about is **Processing of signal**.
 
 Processing of signal takes time. Usually quite long amount of time. Time that you might not have. \
 In order to crack the signal and process it, it needs to be emitted for enough time for spectrum device to process it. F.e handheld radios can be seen only when they are used to send signal (when player talks). This is the point where you can see and feel the matter of distance. Further the signal is, longer it takes to process it. You can feel it when trying to track down enemy located far away from you. \
 \
-Although, you also need to keep in mind that some things are emitting signal constantly. Such as stationary antennas, command trucks, transmission towers, and vehicles equipped with datalink.\
-\
-
+Although, you also need to keep in mind that some things are emitting signal constantly. Such as stationary antennas, command trucks, transmission towers, and vehicles equipped with datalink.
 
 {% hint style="danger" %}
-This device can't see radios used by Bots, because they never use them to speak to each other.
+This device can't see radios used by AI, because they never use them to speak to each other. Its usefulness therefore is mostly in Multiplayer against other players.
 {% endhint %}
 
-
+{% hint style="danger" %}
+The device cannot deestinguiish between friend and foe.
+{% endhint %}
 
 ## Part 3: Controls
 
@@ -110,8 +97,6 @@ Right after boot sequence you can see main menu. Aka signal map.
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 In order to start finding signals, you need to level spectrum device on horizon. When device is leveled, direction arrow should disappear.
-
-
 
 {% hint style="info" %}
 You can decrease processing time by looking at signals directly. That saves some time from distortion calculations.
