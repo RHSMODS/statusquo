@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/23/2024 11:16:15 PM UTC | Revision 3216 | Tactical_Toxic]
+
+[Other] Fixed position of rmr on MDO. it was clipping with front rail
+
+
+
 [8/23/2024 10:24:31 PM UTC | Revision 3215 | Soul_Assassin]
 
 [Fixed] MICH colliders had some errors
