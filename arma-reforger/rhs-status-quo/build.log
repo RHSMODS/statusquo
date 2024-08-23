@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/23/2024 10:24:31 PM UTC | Revision 3215 | Soul_Assassin]
+
+[Fixed] MICH colliders had some errors
+
+[Fixed] MICH materials had some errors
+
+[Added] Added RMR standalone and on top of the MDO; fixes #636
+
+
+
 [8/23/2024 8:24:16 AM UTC | Revision 3214 | Ram]
 
 [Other] SpectrumDevice world clean up.
