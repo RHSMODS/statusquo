@@ -26,97 +26,122 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
 
-This device was made to advance in radio reconnaissance, and uses advanced processing technologies to allow detection and further processing of signal in 3D space with single receiver.&#x20;
+The Spectrum Device was developed thanks to advances in radio reconnaissance. It utilizes advanced processing technologies to detect and process signals in 3D space using a single receiver.
 
-Lets start with information about capabilities of this device.
+&#x20;
 
-Min signal detection range: 20m\
-Max signal detection range: 4000m
+The Spectrum Device's capabilities include:
+
+&#x20;
+
+●     Minimum signal detection range: 20 meters
+
+●     Maximum signal detection range: 4,000 meters
+
+●     Weight: 2.5 Kg
 
 {% hint style="warning" %}
 Keep in mind that signal **detection** range is not equal to signal **processing** range.
 {% endhint %}
 
-Weight: 2.5 Kg
-
 ## Part 2: Theory
 
-Before we move into practical usage, lets talk about some boring stuff. An electromagnetic spectrum monitoring device is used to detect and identify active emitters of electormagnetic fields, for example, transmitting walky talkies, radios and radars. Most things used for communications and active surveilance emmit some sort of signal. This device can detect a large specrum of frequencies and help identify these devices so that the enemy can be located faster.&#x20;
+Before proceeding to practical usage, we must discuss some foundational concepts.
 
-First of all, spectrum device is not a magic wand, this is a very fine piece of innovative technology. But just like any other equipment it has some technical limitations. First of all, in order to receive signals, you need to keep device steady and leveled to horizon, i will talk about it a little bit more later in practical usage.
+An electromagnetic spectrum monitoring device detects and identifies active emitters of electromagnetic fields, such as transmitting walkie-talkies, radios, and radars. Many communication and surveillance systems emit signals, and this device can detect a broad range of frequencies, aiding in the identification of these sources and facilitating faster location of enemies.
 
-It shouldn't be a surprise but radio signals can be obstructed by terrain, buildings, vehicles, or if we talk about artificial interruptions, by jammers. Radio signals also tend to reflect and create fake noise. This is one of the most important things to worry about.
+&#x20;
 
-Spectrum devices use a single receiver and software processing in order to detect signals. Rough terrains such as mountains can both obstruct and change how device sees signals. This leads to multiple issues, such as piling of signals, and signal reflections and other noise picked up as real signals.
+It is important to note that the Spectrum Device is not a magic solution, but rather a sophisticated piece of innovative technology with inherent technical limitations. To ensure effective signal reception, the device must be kept steady and level with the horizon—a point further elaborated upon in the practical usage section.
+
+&#x20;
+
+Spectrum Devices utilize software processing and a single receiver to detect signals. However, challenging terrains, such as mountainous regions, can both obstruct signals and alter the device's signal perception. This can lead to complications such as signal piling, reflections, and other noise being incorrectly identified as genuine signals.
+
+&#x20;
+
+Radio signals can be obstructed by terrain, buildings, vehicles, or artificial interruptions, such as jammers. Additionally, radio signals are prone to reflection, which can create false noise—a significant concern in signal detection.
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of piled signals</p></figcaption></figure>
 
-Because of that, there are 3 types of signal:
+Because of these factors, signals can be classified into three types:
 
-1. Unprocessed signal
-2. Fake/Garbage signal
-3. Real signal
+&#x20;
 
-I will explain how they are displayed later in this guide.\
+1\.    Unprocessed signal
+
+2\.    Fake/Garbage signal
+
+3\.    Real signal
+
+How these signals are displayed will be explained later in this guide.\
 \
-Probably last but not least thing that you need to know about is **Processing of signal**.
+Another important aspect is how signals are processed. Signal processing takes time, and for the Spectrum Device to effectively process a signal, the signal must be emitted for a sufficient duration. For example, handheld radios are only detectable when they are actively transmitting (e.g. when a user is speaking). This is where the impact of distance becomes apparent--the farther away the signal source is, the longer it takes to process the signal. You will notice this delay when tracking down an enemy far from your position.
 
-Processing of signal takes time. Usually quite long amount of time. Time that you might not have. \
-In order to crack the signal and process it, it needs to be emitted for enough time for spectrum device to process it. F.e handheld radios can be seen only when they are used to send signal (when player talks). This is the point where you can see and feel the matter of distance. Further the signal is, longer it takes to process it. You can feel it when trying to track down enemy located far away from you. \
-\
-Although, you also need to keep in mind that some things are emitting signal constantly. Such as stationary antennas, command trucks, transmission towers, and vehicles equipped with datalink.
+&#x20;
+
+Some sources emit signals continuously, such as stationary antennas, command trucks, transmission towers, and vehicles equipped with datalink systems.
 
 {% hint style="danger" %}
 This device can't see radios used by AI, because they never use them to speak to each other. Its usefulness therefore is mostly in Multiplayer against other players.
 {% endhint %}
 
-{% hint style="danger" %}
-The device cannot deestinguiish between friend and foe.
-{% endhint %}
-
 ## Part 3: Controls
 
-In order to move cursor, you need hold LMB.
+To move the cursor, hold the left mouse button (LMB).
 
 <figure><img src="../../../.gitbook/assets/cursor_move.gif" alt=""><figcaption></figcaption></figure>
 
-To change zoom level, move cursor to the bottom to decrease scale, or to the top to increase it.
+To adjust the zoom level, move the cursor to the bottom of the screen to decrease the scale or to the top to increase it.
 
 <figure><img src="../../../.gitbook/assets/change_zoom.gif" alt=""><figcaption></figcaption></figure>
 
-To interact with signal hover cursor over it, and press F.
+To interact with a signal, hover the cursor over it and press "F."
 
 ## Part 4: Usage and system info
 
-First thing you see is booting screen. It takes around 2 seconds to boot system up.
+The first thing you see is the boot screen, which takes about 2 seconds to start up.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Right after boot sequence you can see main menu. Aka signal map.
+Once the boot sequence is complete, you will be directed to the main menu, known as the signal map.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-In order to start finding signals, you need to level spectrum device on horizon. When device is leveled, direction arrow should disappear.
+To start detecting signals, you need to level the spectrum device with the horizon. Once the device is properly leveled, the direction arrow will disappear.
 
 {% hint style="info" %}
-You can decrease processing time by looking at signals directly. That saves some time from distortion calculations.
+You can reduce processing time by directly focusing on signals, which helps bypass some of the distortion calculations.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Lets try to understand what kind of information we have on display.
+### Understanding the Display Information
 
 <figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
-ID on the left displays ID of currently selected signal.\
-DIR displays heading of signal based on 3 last positions of signal.\
-DIST displays rough distance to signal.\
-DELAY displays delay from signal transmitted to signal recieved. Can be used to roughly estimate distance on signals that cannot be processed.\
-METADATA: For now it displays cypher key of processed signal\
-FREQUENCY: Frequency of processed signal.
+Let's break down the information displayed on the screen:
+
+&#x20;
+
+●     ID: Displays the ID of the currently selected signal.
+
+●     DIR: Shows the heading of the signal based on its last three positions.
+
+●     DIST: Indicates the approximate distance to the signal.
+
+●     DELAY: Displays the delay between when the signal was transmitted and when it was received. This can be used to roughly estimate the distance to signals that cannot be fully processed.
+
+●     METADATA: Currently displays the cipher key of the processed signal.
+
+●     FREQUENCY: Shows the frequency of the processed signal.
+
+&#x20;
+
+&#x20;
 
 {% hint style="danger" %}
-Keep in mind that all information on the left is valid only after signal is fully processed.
+Please note that all information on the left is only accurate once the signal is fully processed.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
