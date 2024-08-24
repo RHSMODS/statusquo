@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/24/2024 10:49:08 AM UTC | Revision 3217 | Tactical_Toxic]
+
+[Other] MDO base no longer has RMR attached to it by default
+
+[Other] Optic_TA648MDO_rmr.et added
+
+[Other] Changed optic to mdo with rmr on MG_M240_Light_MDO.et and MG_M240_MDO.et
+
+
+
 [8/23/2024 11:16:15 PM UTC | Revision 3216 | Tactical_Toxic]
 
 [Other] Fixed position of rmr on MDO. it was clipping with front rail
