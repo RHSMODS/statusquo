@@ -73,7 +73,7 @@ We consider any sale--money paid in exchange for any direct in-game return--to b
 
 ### Limitations
 
-Due to repeated infringements of the existing Red Hammer Studios EULA and/or Bohemia's Interactive Terms of Service, the following groups/persons are STRICTLY PROHIBITED from using RHS mods and creating any derivative content based on RHS Status Quo or any other past, present, or future RHS mods:
+Due to repeated infringements of the existing Red Hammer Studios EULA and/or Bohemia's Interactive Terms of Service and/or other reasons, the following groups/persons are STRICTLY PROHIBITED from using RHS mods and creating any derivative content based on RHS Status Quo or any other past, present, or future RHS mods:
 
 * Dark Raider Group / DarkGRU server(s) and its modgroup
 * Sierra Golf and / or any affiliated persons
