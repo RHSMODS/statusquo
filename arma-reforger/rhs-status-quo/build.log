@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/25/2024 10:00:34 PM UTC | Revision 3234 | Soul_Assassin]
+
+[Improved] AK-74UN models now have LODs; fixes #474
+
+[Improved] Radia menu can now open while sitting in passenger seat of vehicle (clothes attachments only) as well as manning a turret gun with attachments; fixes #889
+
+
+
 [8/25/2024 5:18:38 PM UTC | Revision 3233 | MacroBebra]
 
 [Improved] Now there are patch slots on some of TV110 pouch presets
