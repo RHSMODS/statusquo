@@ -47,11 +47,11 @@ Any breach of the above rules will automatically lead to enforcement of our non-
 
 We, the development team of RHS, unanimously do NOT condone any real-life wars, past, present, or future.
 
-&#x20;Any depiction of the ongoing invasion of Russian forces in Ukraine using any RHS assets is strictly PROHIBITED.
+Any depiction of the ongoing invasion of Russian forces in Ukraine using any derivative content based of RHS assets is strictly PROHIBITED.
 
-&#x20;This includes but is not limited to, any use of Russian war markings (Z, O, V, etc) and/or Ukrainian war markings on any existing or future RHS assets.
+This includes but is not limited to, any use of Russian war markings (Z, O, V, etc) and/or Ukrainian war markings on any existing or future RHS assets.
 
-&#x20;Any depiction of the ongoing conflict between Israeli forces and Palestine using any RHS assets is strictly PROHIBITED.
+&#x20;Any depiction of the ongoing conflict between Israeli forces and Palestine using any derivative content based of RHS assets is strictly PROHIBITED.
 
 &#x20;There will be no exceptions.
 
@@ -75,7 +75,7 @@ We consider any sale--money paid in exchange for any direct in-game return--to b
 
 Due to repeated infringements of the existing Red Hammer Studios EULA and/or Bohemia's Interactive Terms of Service, the following groups/persons are STRICTLY PROHIBITED from using RHS mods and creating any derivative content based on RHS Status Quo or any other past, present, or future RHS mods:
 
-* Dark Raider Group / DarkGRU and / or any affiliated persons
+* Dark Raider Group / DarkGRU server(s) and its modgroup
 * Sierra Golf and / or any affiliated persons
 * Joint Task Force Miller and / or any affiliated persons
 
