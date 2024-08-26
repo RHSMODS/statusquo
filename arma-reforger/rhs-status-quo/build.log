@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/26/2024 3:31:54 PM UTC | Revision 3240 | Ram]
+
+[Other] Replace RadioSourceComponent destructor with OnDelete
+
+
+
 [8/26/2024 10:48:00 AM UTC | Revision 3239 | reyhard]
 
 [Other] Readded removed AFRF vs FIA Combat Ops scenario
