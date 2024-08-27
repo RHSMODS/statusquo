@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/27/2024 7:21:13 PM UTC | Revision 3254 | Soul_Assassin]
+
+[Improved] Leupold Mk4 ER/T 6.5-20x50 now correctly has the Horus H58 reticle; fixes #602
+
+
+
 [8/27/2024 2:21:11 PM UTC | Revision 3253 | da12thMonkey]
 
 [Fixed] Urban Tan Sentry helmet with AMP headset had wrong offset values for side rail slots
