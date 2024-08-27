@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/27/2024 2:21:11 PM UTC | Revision 3253 | da12thMonkey]
+
+[Fixed] Urban Tan Sentry helmet with AMP headset had wrong offset values for side rail slots
+
+
+
 [8/27/2024 10:28:00 AM UTC | Revision 3252 | da12thMonkey]
 
 [Other] Converted rolled Crye shirts to use a common base prefab and adjusted patch slot positions
