@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/28/2024 6:03:28 AM UTC | Revision 3259 | reyhard]
+
+[Improved] Disabled DOF when aiming down sights of Spectrum Device
+
+[Other] Introduced new variable to disable DOF on sights
+
+
+
 [8/28/2024 5:47:47 AM UTC | Revision 3258 | Soul_Assassin]
 
 [Fixed] M40 no longer has sight switch if an optic is attached
