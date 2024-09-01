@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/1/2024 9:07:01 PM UTC | Revision 3278 | Soul_Assassin]
+
+[Improved] Faradey 1085 models now have LODs; fixes #484
+
+[Other] Some override was missing
+
+
+
 [9/1/2024 7:17:16 PM UTC | Revision 3277 | Tactical_Toxic]
 
 [Other] Minor psq23 mesh tweaks
