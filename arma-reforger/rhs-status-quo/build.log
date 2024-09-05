@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/5/2024 8:04:40 PM UTC | Revision 3317 | Soul_Assassin]
+
+[Fixed] Manta prefabs had wrong emat references; fixes #907
+
+[Improved] Improved manta cover inheritance
+
+[Fixed] Surefire attachments had wrong collider materials assigned
+
+
+
 [9/5/2024 7:39:58 PM UTC | Revision 3316 | da12thMonkey]
 
 [Other] Adjust inventory preview framing for TV102 vests
