@@ -9,6 +9,272 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.3326
+
+<!-- revision 3326 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3326
+
+_<mark style="color:red;">Date:</mark>_ Friday, September 6, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 232 (3094)
+
+_<mark style="color:red;">Changes:</mark>_ 45 additions, 39 improvements, 30 fixes and 2 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Initial injection of crye g3 rolled sleeve shirt
+
+[Added] Added optic mount for M2HB
+
+[Added] Added Wartech TV102 vest
+
+[Added] Added Wartech TV115 vest
+
+[Added] Added modern PKM pouch
+
+[Added] GM CAS systems are available again
+
+[Added] Added USMC Waffletop; fixes [#748](https://github.com/RHSMODS/statusquo/issues/748)
+
+[Added] Added VDV beret; fixes [#949](https://github.com/RHSMODS/statusquo/issues/949)
+
+[Added] Added Mechanix M-Pact
+
+[Added] Added SOBR patches
+
+[Added] Added Khaki Tor cover
+
+[Added] Added Atacs SOBR patch
+
+[Added] Added Spectrum device
+
+[Added] Added black BRAVO4
+
+[Added] Added tan BRAVO4
+
+[Added] Added RMR standalone and on top of the MDO; fixes [#636](https://github.com/RHSMODS/statusquo/issues/636)
+
+[Added] Added Ronin Shuto Belt
+
+[Added] Added Multicam Balaclava
+
+[Added] Added new multicam JPC and AVS pouch presets
+
+[Added] Added RHS GPS map generator plugin
+
+[Added] Added RHS own map system prototype for GPS
+
+[Added] Added PMF K17/T14 map screen
+
+[Added] USMC MARSOC Units
+
+[Added] Added Black Gascan glasses
+
+[Added] 6b49 mask
+
+[Added] Added EMR Summer TV102 vest
+
+[Added] Added Wartech HP103 Holster
+
+[Added] Added Wartech GP106 grenade pouch
+
+[Added] Added Wartech MP111 pistol pouch
+
+[Added] Added Wartech MP118 pistol pouch
+
+[Added] Added Wartech UP113 dump pouch
+
+[Added] Added Wartech UP111 radio pouch
+
+[Added] Added Wartech TV106 + TV107 warbelt
+
+[Added] Added EMR pouch presets for TV102 and ARS ARMA AVS
+
+[Added] Added TV102 with neck protection
+
+[Added] Added wartech BB102 backpack
+
+[Added] AN/PAS-13G
+
+[Added] AN/PAS-13G + TS-30A2
+
+[Added] AN/PAS-13G + TA648MDO
+
+[Added] M1025 + AN/PAS-13G
+
+[Added] Added PKM pouches to regular MSV machine gunner
+
+[Added] Added olive SOBR units
+
+[Added] Added EMR VKPO 3.0 units
+
+[Added] Added FORECON units
+
+[Added] Added AOR2 FROG and Crye rolled sleeve shirts; fixes [#928](https://github.com/RHSMODS/statusquo/issues/928)
+
+
+##### Improved
+
+
+[Improved] Added new reticle mark for 1P87 (modern)
+
+[Improved] Corrected tone mapping on some scopes
+
+[Improved] K17 buoyancy and speed in water
+
+[Improved] Adjusted order of some items in US Arsenal to organise by color/camo
+
+[Improved] Improved Triplexes texture
+
+[Improved] Improved T14/T15/K17 Intergrated radio texture
+
+[Improved] All armed M1025 in RHS now have optics installed by default
+
+[Improved] Light attachments have now source visibility when on (diode is visible from certain angles); fixes [#944](https://github.com/RHSMODS/statusquo/issues/944)
+
+[Improved] Helstar 6 now has proper HS-640-04 modes: green stable, red stable, IR stable and IR Flash; fixes [#822](https://github.com/RHSMODS/statusquo/issues/822)
+
+[Improved] ECH ground models now have LODs; fixes [#479](https://github.com/RHSMODS/statusquo/issues/479)
+
+[Improved] CVC 01 model now has LODs; fixes [#480](https://github.com/RHSMODS/statusquo/issues/480)
+
+[Improved] PC Gen 3 ground model now has LODs; fixes [#475](https://github.com/RHSMODS/statusquo/issues/475)
+
+[Improved] M40A5 model now has LODs; fixes [#473](https://github.com/RHSMODS/statusquo/issues/473)
+
+[Improved] Faradey 1085 boots ground model has LODs now
+
+[Improved] Radial can now be used to interact with attachments on vehicle mounted weapons (see Humvee with M2 that has a PEQ15)
+
+[Improved] Added lods to Peltor headset
+
+[Improved] Slightly improved textures of blue BRAVO4
+
+[Improved] Texture optimization on filbe sub-belt
+
+[Improved] Replaced Okinawa belt with Ronin belt on AVS and JPC presets
+
+[Improved] 6M2 models now have LODs; fixes [#483](https://github.com/RHSMODS/statusquo/issues/483)
+
+[Improved] Now there are patch slots on some of TV110 pouch presets
+
+[Improved] AK-74UN models now have LODs; fixes [#474](https://github.com/RHSMODS/statusquo/issues/474)
+
+[Improved] Radia menu can now open while sitting in passenger seat of vehicle (clothes attachments only) as well as manning a turret gun with attachments; fixes [#889](https://github.com/RHSMODS/statusquo/issues/889)
+
+[Improved] Added basic animation workspace for spectrum device
+
+[Improved] Updated Arland MSV vs FIA Combat Ops scenario
+
+[Improved] Improved 1p90 reticle
+
+[Improved] Leupold Mk4 ER/T 6.5-20x50 now correctly has the Horus H58 reticle; fixes [#602](https://github.com/RHSMODS/statusquo/issues/602)
+
+[Improved] Disabled DOF when aiming down sights of Spectrum Device
+
+[Improved] LShZ ground models now have LODs
+
+[Improved] RU balaclava ground model now have LODs
+
+[Improved] Added lods for PMAG
+
+[Improved] LShZ helmet models now have LODs; fixes [#478](https://github.com/RHSMODS/statusquo/issues/478)
+
+[Improved] Faradey 1085 models now have LODs; fixes [#484](https://github.com/RHSMODS/statusquo/issues/484)
+
+[Improved] RU balaclava worn model now has LODs; fixes [#477](https://github.com/RHSMODS/statusquo/issues/477)
+
+[Improved] Disabled ability to zoom on thermal with digital zoom only
+
+[Improved] ACOG LOD switching improved
+
+[Improved] Updated USMC Combat Ops scenario
+
+[Improved] Improved manta cover inheritance
+
+[Improved] Added 6b49 mask to arsenal
+
+
+##### Fixed
+
+
+[Fixed] Fixed VV Atacs Rifleman lost his mags by moving TV110 triple pouch into TV110
+
+[Fixed] Fixed 7N22 accidental penetration buff
+
+[Fixed] Fixed wrong materials on coyote AVS 6x6 cummerbund
+
+[Fixed] Fixed: CAS in form of KH55 and GBU dropped from FA18 is back in GM arsenal
+
+[Fixed] Improved internal troops faction with new gear
+
+[Fixed] Radial menu was showing bad preview icons
+
+[Fixed] Battery packs were not hiding in FPV; fixed [#908](https://github.com/RHSMODS/statusquo/issues/908)
+
+[Fixed] GEO-ONV1 eye lights were misaligned; work on [#929](https://github.com/RHSMODS/statusquo/issues/929)
+
+[Fixed] Source point location of light on some IR and light devices was wrong
+
+[Fixed] Switch light had wrong name in radial
+
+[Fixed] TS30A2 zeroing changed to "camera turn"
+
+[Fixed] Fixed wrong reticle texture on 1P90
+
+[Fixed] Fixed triplex layout z-order
+
+[Fixed] Fixed: Radio wouldnt be visible in the pouch; fixes [#956](https://github.com/RHSMODS/statusquo/issues/956)
+
+[Fixed] Coy pouches replaced by MC pouches on JPC pouch preset
+
+[Fixed] MICH colliders had some errors
+
+[Fixed] MICH materials had some errors
+
+[Fixed] Fixed 3UBR6 was dealing 0 damage to vehicles
+
+[Fixed] Last LODs of Liberator and Sordin headsets had no skinning
+
+[Fixed] Inventory cloth inspection compatibility with gamepad (works semi-decently); fixes [#957](https://github.com/RHSMODS/statusquo/issues/957)
+
+[Fixed] Urban Tan Sentry helmet with AMP headset had wrong offset values for side rail slots
+
+[Fixed] M40 no longer has sight switch if an optic is attached
+
+[Fixed] Fixed AN/PEQ-15 Weight
+
+[Fixed] Fixed AN/PEQ-16 Weight
+
+[Fixed] Suppressed SR-3M had weird recoil settings compared to unsuppressed; fixes [#968](https://github.com/RHSMODS/statusquo/issues/968)
+
+[Fixed] Fixed stock folding MP synchronization; fixes [#967](https://github.com/RHSMODS/statusquo/issues/967)
+
+[Fixed] Manta prefabs had wrong emat references; fixes [#907](https://github.com/RHSMODS/statusquo/issues/907)
+
+[Fixed] Surefire attachments had wrong collider materials assigned
+
+[Fixed] Some Arsenal boxes were lacking proper Handwear and Explosives categorization
+
+[Fixed] Fixed rush 12 ground model lods
+
+
+##### Deleted
+
+
+[Removed] CHANGED FACTION KEY FOR USAF FACTION [RHS_US_USMC - > RHS_USAF]
+
+[Removed] CHANGED FACTION KEY FOR AFRF FACTION [RHS_RF_MSV - > RHS_AFRF]
+
+
+
 ## 0.9.3094
 
 <!-- revision 3094 -->
