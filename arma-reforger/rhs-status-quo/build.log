@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[9/7/2024 1:40:32 PM UTC | Revision 3344 | odkupiciel375]
+
+[Fixed] Fixed: CISS - Supply in high wind would fall in a different place for clients
+
+[Improved] Changed: CISS - Added blue and red smoke to supply drops
+
+[Improved] Changed: CISS - Changed cooldown and cost of call-ins to be more reasonable
+
+[Improved] Added: CISS - Added MSV variant of called in supply drop
+
+[Other] Changed: Renamed localized strings used by CISS to contain that in their name to make it easier to find
+
+[Other] Changed: Restructured ciss supply drop file structure
+
+
+
 [9/7/2024 12:35:41 PM UTC | Revision 3343 | da12thMonkey]
 
 [Improved] Some re-sorting of weapons in Arsenal boxes to follow conventional layout across factions: pistols>>rifles>>MGs>>launchers
