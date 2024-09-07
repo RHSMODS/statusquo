@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/7/2024 12:35:41 PM UTC | Revision 3343 | da12thMonkey]
+
+[Improved] Some re-sorting of weapons in Arsenal boxes to follow conventional layout across factions: pistols>>rifles>>MGs>>launchers
+
+[Other] Moved 6b49 arsenal definition to MSV_InventoryItems.conf
+
+
+
 [9/7/2024 11:32:22 AM UTC | Revision 3342 | Tactical_Toxic]
 
 [Fixed] Fixed 1P87+1PN138 Combo had broken reticle
