@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/7/2024 8:29:06 AM UTC | Revision 3334 | da12thMonkey]
+
+[Fixed] Fixed minor error message about missing string, associated with Block 2 CQBRs
+
+
+
 [9/7/2024 8:14:26 AM UTC | Revision 3333 | reyhard]
 
 [Fixed] Added missing collider to GM94
