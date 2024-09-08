@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/8/2024 3:14:01 PM UTC | Revision 3364 | Sesk]
+
+[Other] All working humvee variants available in gm
+
+
+
 [9/8/2024 2:41:55 PM UTC | Revision 3363 | odkupiciel375]
 
 [Other] Changed: added shit load of destructors to clear any references that may be held to prevent resource leaks
