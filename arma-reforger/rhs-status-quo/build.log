@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/8/2024 2:41:55 PM UTC | Revision 3363 | odkupiciel375]
+
+[Other] Changed: added shit load of destructors to clear any references that may be held to prevent resource leaks
+
+[Other] Changed: Switched faction tag in CISS configs in those used by MSV
+
+
+
 [9/8/2024 2:36:45 PM UTC | Revision 3362 | reyhard]
 
 [Added] Added inspection animations to M40A5
