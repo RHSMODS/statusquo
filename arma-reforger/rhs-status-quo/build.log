@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/9/2024 10:43:03 AM UTC | Revision 3371 | odkupiciel375]
+
+[Other] Changed: Removed return added in 3370
+
+[Other] Changed: changed SCR_FactionCallInsContainer.m_aCallIns to not store refs
+
+
+
 [9/9/2024 10:33:23 AM UTC | Revision 3370 | odkupiciel375]
 
 [Other] Changed: early return in init of ciss for testing
