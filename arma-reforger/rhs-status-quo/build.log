@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/9/2024 11:35:26 AM UTC | Revision 3372 | da12thMonkey]
+
+[Fixed] Disabled experimental patch slots on Rush packs - hasn't been working properly with the rucksack's vertex skinning/weighing
+
+
+
 [9/9/2024 10:43:03 AM UTC | Revision 3371 | odkupiciel375]
 
 [Other] Changed: Removed return added in 3370
