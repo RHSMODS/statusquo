@@ -9,6 +9,96 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.3372
+
+<!-- revision 3372 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3372
+
+_<mark style="color:red;">Date:</mark>_ Monday, September 9, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 46 (3326)
+
+_<mark style="color:red;">Changes:</mark>_ 13 additions, 7 improvements, 8 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added new inspection anims to GM94
+
+[Added] Added GM-94
+
+[Added] Black and Gray ballcaps for ION PMC
+
+[Added] Flannel shirts in a variety of colors
+
+[Added] Hiking Pants, available in khaki and gray
+
+[Added] Added GM94 RG unit
+
+[Added] Added Ars Arma A20 bandolier
+
+[Added] Added Wartech MP105 mag pouch
+
+[Added] Added GM-94 (Camo)
+
+[Added] Added inspection animations to M40A5
+
+[Added] PKM mag pouch set for 6B45 vests
+
+[Added] Added FAB-500 (UMPK) CAS system
+
+[Added] BOSS Rugby shirt in gray
+
+
+##### Improved
+
+
+[Improved] Replaced x with × as multiplication symbol in several strings
+
+[Improved] Some re-sorting of weapons in Arsenal boxes to follow conventional layout across factions: pistols>>rifles>>MGs>>launchers
+
+[Improved] Changed: CISS - Added blue and red smoke to supply drops
+
+[Improved] Changed: CISS - Changed cooldown and cost of call-ins to be more reasonable
+
+[Improved] Added: CISS - Added MSV variant of called in supply drop
+
+[Improved] Some displayname strings for vests, and fixed a couple of wrong ones
+
+[Improved] Adopted standard naming conventions for 6B45 pouch presets
+
+
+##### Fixed
+
+
+[Fixed] Fixed SpectrumDevice gamepad horizontal input
+
+[Fixed] Added missing collider to GM94
+
+[Fixed] Fixed minor error message about missing string, associated with Block 2 CQBRs
+
+[Fixed] Fixed 1P87+1PN138 Combo had broken reticle
+
+[Fixed] Fixed: CISS - Supply in high wind would fall in a different place for clients
+
+[Fixed] ION were shooting at civilians
+
+[Fixed] Corrected some displaynames for ION gear
+
+[Fixed] Disabled experimental patch slots on Rush packs - hasn't been working properly with the rucksack's vertex skinning/weighing
+
+
+##### Deleted
+
+
+
+
 ## 0.9.3326
 
 <!-- revision 3326 -->
