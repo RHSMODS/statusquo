@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/12/2024 7:47:20 PM UTC | Revision 3385 | odkupiciel375]
+
+[Fixed] Fixed: Infinite reload time displayed to clients when CAS strike is cancelled; fixes #979
+
+
+
 [9/12/2024 3:35:45 PM UTC | Revision 3384 | da12thMonkey]
 
 [Other] Tan Surefire RC3 prefab using the wrong model and mats
