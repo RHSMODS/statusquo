@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/12/2024 12:51:57 PM UTC | Revision 3383 | reyhard]
+
+[Other] Added Resource Manager plugin to export data from Workbench to spreadsheet with ability to later import those spreadsheets back into Enfusion
+
+
+
 [9/12/2024 6:07:57 AM UTC | Revision 3382 | reyhard]
 
 [Fixed] Fixed Long Console errors related to thermal character - removed non existing remaps
