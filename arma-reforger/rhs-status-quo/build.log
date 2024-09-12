@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/12/2024 7:53:01 PM UTC | Revision 3386 | reyhard]
+
+[Improved] Added some very crude & WIP prone animations for GM-94
+
+[Improved] Tweaked animation context positions on GM-94
+
+
+
 [9/12/2024 7:47:20 PM UTC | Revision 3385 | odkupiciel375]
 
 [Fixed] Fixed: Infinite reload time displayed to clients when CAS strike is cancelled; fixes #979
