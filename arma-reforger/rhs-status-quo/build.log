@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/12/2024 6:07:57 AM UTC | Revision 3382 | reyhard]
+
+[Fixed] Fixed Long Console errors related to thermal character - removed non existing remaps
+
+
+
 [9/11/2024 1:51:08 PM UTC | Revision 3381 | da12thMonkey]
 
 [Other] Removed apparently unused equipmentbox prefabs that had duplicate GUIDs
