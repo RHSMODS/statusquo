@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/13/2024 9:26:11 AM UTC | Revision 3389 | Sesk]
+
+[Other] Fixed: deleted prefabs was used in MSV LightFireTeam groups.
+
+
+
 [9/13/2024 5:51:39 AM UTC | Revision 3388 | odkupiciel375]
 
 [Other] Removed: Deleted debug prints from CISS
