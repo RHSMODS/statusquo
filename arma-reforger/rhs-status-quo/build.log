@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/14/2024 5:22:20 PM UTC | Revision 3401 | da12thMonkey]
+
+[Fixed] Syntax fix for 1.21 update ("Ternimate()"->"Terminate()")
+
+[Other] Development environment now compatible with Experimental Tools
+
+
+
 [9/14/2024 5:17:00 PM UTC | Revision 3400 | da12thMonkey]
 
 [Other] Version flip
