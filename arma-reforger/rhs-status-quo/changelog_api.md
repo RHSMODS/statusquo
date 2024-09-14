@@ -9,6 +9,62 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.9.3399
+
+<!-- revision 3399 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3399
+
+_<mark style="color:red;">Date:</mark>_ Saturday, September 14, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 27 (3372)
+
+_<mark style="color:red;">Changes:</mark>_ 7 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Black Ars Arma A20
+
+[Added] Added SOBR olive unit with GM94
+
+[Added] Added multicam TOR cover
+
+[Added] Added Filbe M4 pouch
+
+[Added] Added ESS Crossbow with clear lens
+
+[Added] Added Black Taktika pouch preset with closed mag pouches
+
+[Added] Added NCPC in multicam
+
+
+##### Improved
+
+
+[Improved] Added some very crude & WIP prone animations for GM-94
+
+[Improved] Tweaked animation context positions on GM-94
+
+
+##### Fixed
+
+
+[Fixed] Fixed Long Console errors related to thermal character - removed non existing remaps
+
+[Fixed] Fixed: Infinite reload time displayed to clients when CAS strike is cancelled; fixes [#979](https://github.com/RHSMODS/statusquo/issues/979)
+
+
+##### Deleted
+
+
+
+
 ## 0.9.3372
 
 <!-- revision 3372 -->
