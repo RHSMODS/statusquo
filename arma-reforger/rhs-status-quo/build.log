@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/15/2024 11:33:06 AM UTC | Revision 3403 | da12thMonkey]
+
+[Other] Work on 1.21 muzzle attachments system:
+
+[Other] RHS base classes for muzzle attachments and suppressors
+
+[Other] Set up AK-74M 6P20 to inherit from base class and work as a muzzle attachment (test on BI AK-74 and our AK-74N)
+
+[Other] Updated 6Kh9-1 bayonet to use vanilla 6Kh4 slot class and require a 6P20 type flash hider
+
+
+
 [9/14/2024 6:26:06 PM UTC | Revision 3402 | Tactical_Toxic]
 
 [Other] Anim backup before its too late
