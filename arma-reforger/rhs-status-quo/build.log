@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/15/2024 4:05:43 PM UTC | Revision 3406 | da12thMonkey]
+
+[Other] Updated collimator prefabs with new SCR_CollimatorSightsComponent GUID to fix missing SCR_CollimatorControllerComponent
+
+
+
 [9/15/2024 1:47:13 PM UTC | Revision 3405 | da12thMonkey]
 
 [Other] Updated OKC3S bayonet to use the M9 bayonet attachment class
