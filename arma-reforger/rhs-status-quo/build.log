@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/15/2024 7:33:14 PM UTC | Revision 3407 | da12thMonkey]
+
+[Other] Removed duplicate 6P20 in Arsenal
+
+
+
 [9/15/2024 4:05:43 PM UTC | Revision 3406 | da12thMonkey]
 
 [Other] Updated collimator prefabs with new SCR_CollimatorSightsComponent GUID to fix missing SCR_CollimatorControllerComponent
