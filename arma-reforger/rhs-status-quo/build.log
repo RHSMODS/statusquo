@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/16/2024 7:38:35 AM UTC | Revision 3413 | reyhard]
+
+[Other] Deleted 2nd CaseEjectingEffectComponent which caused crash
+
+
+
 [9/16/2024 7:31:36 AM UTC | Revision 3412 | reyhard]
 
 [Other] Actually that second component should be removed
