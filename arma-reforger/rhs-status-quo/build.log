@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/16/2024 7:31:36 AM UTC | Revision 3412 | reyhard]
+
+[Other] Actually that second component should be removed
+
+
+
 [9/16/2024 7:26:34 AM UTC | Revision 3411 | reyhard]
 
 [Fixed] Fixed duplicated AK105 case ejection component which was causing CTD in game
