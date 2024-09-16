@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/16/2024 7:26:34 AM UTC | Revision 3411 | reyhard]
+
+[Fixed] Fixed duplicated AK105 case ejection component which was causing CTD in game
+
+[Improved] Updated weapon animation graphs
+
+
+
 [9/15/2024 10:25:04 PM UTC | Revision 3410 | Tactical_Toxic]
 
 [Other] K4386
