@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/17/2024 11:08:49 AM UTC | Revision 3425 | da12thMonkey]
+
+[Other] Changed default muzzle flash for AK-105 when no muzzle device fitted, to the big scary one
+
+
+
 [9/17/2024 10:56:44 AM UTC | Revision 3424 | Soul_Assassin]
 
 [Other] WIP 1.2.1: Removed missing m_vCameraMisalignmentScale from various optics
