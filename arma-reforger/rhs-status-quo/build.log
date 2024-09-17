@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/17/2024 6:00:08 PM UTC | Revision 3430 | reyhard]
+
+[Other] Fixed right door action rotation
+
+
+
 [9/17/2024 5:46:46 PM UTC | Revision 3429 | reyhard]
 
 [Fixed] Fixed Log Console errors related to Button_Operation.acp - removed no longer existing links in txt editor
