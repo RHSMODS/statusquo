@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/18/2024 1:51:41 PM UTC | Revision 3441 | da12thMonkey]
+
+[Other] Fixed SR-3M not having its muzzle overridden by attaching suppressor (weapons require SCR_WeaponStatsManagerComponent, a slot in the MuzzleComponent, and a sound component with Sound_Weapons_Suppressed_Shot_556.conf)
+
+[Other] Set up Surefire FA762SS to inherit from base class and work as a muzzle attachment
+
+[Other] Some prep work for adding suppressor to the M40A5
+
+
+
 [9/18/2024 9:59:46 AM UTC | Revision 3440 | da12thMonkey]
 
 [Other] Set up PBS-4 to inherit from base class and work as a muzzle attachment
