@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/18/2024 9:33:22 PM UTC | Revision 3443 | Tactical_Toxic]
+
+[Fixed] Fixed K-17 rear door wasnt closing properly (For some reason, vehicle animations and their blending is driven by events on player animations. BI plz fix)
+
+[Fixed] Fixed Tucha smoke launcher was using AGS magwell
+
+[Other] Small cleanup of k4386
+
+[Other] Turret prefab for k4386
+
+
+
 [9/18/2024 2:50:23 PM UTC | Revision 3442 | da12thMonkey]
 
 [Other] M40A5 suppressor slot
