@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/18/2024 7:47:39 AM UTC | Revision 3439 | odkupiciel375]
+
+[Other] Fixed: Nuked all refs that were pointing at int/enums
+
+
+
 [9/18/2024 7:09:03 AM UTC | Revision 3438 | reyhard]
 
 [Other] Added seat colliders for codriver & driver so get in & switch actions are working
