@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/18/2024 2:50:23 PM UTC | Revision 3442 | da12thMonkey]
+
+[Other] M40A5 suppressor slot
+
+
+
 [9/18/2024 1:51:41 PM UTC | Revision 3441 | da12thMonkey]
 
 [Other] Fixed SR-3M not having its muzzle overridden by attaching suppressor (weapons require SCR_WeaponStatsManagerComponent, a slot in the MuzzleComponent, and a sound component with Sound_Weapons_Suppressed_Shot_556.conf)
