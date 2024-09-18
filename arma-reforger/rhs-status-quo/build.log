@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/18/2024 11:39:59 PM UTC | Revision 3445 | da12thMonkey]
+
+[Other] Set up M4 birdcage (KAC M4QD?) and Surefire pronged flash-hiders to inherit from base class and work as muzzle attachments
+
+[Other] Added vanilla M16A2 flash hider to Arsenal
+
+
+
 [9/18/2024 9:37:27 PM UTC | Revision 3444 | da12thMonkey]
 
 [Other] Set up KAC NT4s to inherit from base class and work as a muzzle attachment
