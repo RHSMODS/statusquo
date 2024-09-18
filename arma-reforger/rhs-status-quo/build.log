@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/18/2024 7:09:03 AM UTC | Revision 3438 | reyhard]
+
+[Other] Added seat colliders for codriver & driver so get in & switch actions are working
+
+[Other] Fixed rotation and scale of codriver_getin empty object
+
+[Other] Renamed armature armature object to armature
+
+[Other] Configured door opening/closing & tweaked action context location
+
+
+
 [9/18/2024 3:55:05 AM UTC | Revision 3437 | MacroBebra]
 
 [Other] Added Coyote miches to recon
