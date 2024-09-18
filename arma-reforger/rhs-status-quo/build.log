@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/18/2024 9:37:27 PM UTC | Revision 3444 | da12thMonkey]
+
+[Other] Set up KAC NT4s to inherit from base class and work as a muzzle attachment
+
+[Other] M27/M38 suppressor slot
+
+
+
 [9/18/2024 9:33:22 PM UTC | Revision 3443 | Tactical_Toxic]
 
 [Fixed] Fixed K-17 rear door wasnt closing properly (For some reason, vehicle animations and their blending is driven by events on player animations. BI plz fix)
