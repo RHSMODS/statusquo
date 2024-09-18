@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/18/2024 9:59:46 AM UTC | Revision 3440 | da12thMonkey]
+
+[Other] Set up PBS-4 to inherit from base class and work as a muzzle attachment
+
+[Other] Adjusted interaction point position on suppressors to be in the middle
+
+
+
 [9/18/2024 7:47:39 AM UTC | Revision 3439 | odkupiciel375]
 
 [Other] Fixed: Nuked all refs that were pointing at int/enums
