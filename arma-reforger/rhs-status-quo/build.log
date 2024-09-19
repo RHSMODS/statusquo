@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/19/2024 3:33:30 PM UTC | Revision 3454 | da12thMonkey]
+
+[Other] Corrected AN-94 muzzle flash position
+
+
+
 [9/19/2024 1:17:24 PM UTC | Revision 3453 | da12thMonkey]
 
 [Other] Set up Surefire Warden to inherit from base class and work as a muzzle attachment
