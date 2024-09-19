@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/19/2024 9:28:49 AM UTC | Revision 3449 | da12thMonkey]
+
+[Other] Set up Surefire RC2 & RC3 to inherit from base class and work as a muzzle attachment
+
+
+
 [9/19/2024 9:17:30 AM UTC | Revision 3448 | Soul_Assassin]
 
 [Other] Sliding attachment PoC. Currently only supported by Rifle_M4A1_BLOCK_II_FSP_EXPS.et and SU231A. See rifle next to ACH helmet table.
