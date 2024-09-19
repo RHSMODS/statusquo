@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/19/2024 1:17:24 PM UTC | Revision 3453 | da12thMonkey]
+
+[Other] Set up Surefire Warden to inherit from base class and work as a muzzle attachment
+
+
+
 [9/19/2024 12:11:19 PM UTC | Revision 3452 | da12thMonkey]
 
 [Other] Proof of concept for Quick-Detach type suppressors (flash-hider dependant mounting) on M27/M38
