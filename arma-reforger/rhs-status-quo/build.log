@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/20/2024 1:21:09 PM UTC | Revision 3461 | da12thMonkey]
+
+[Other] Re-saved some .ptc files that were apparently in an outdated format
+
+[Other] Prepared Surefire suppressor prefabs with a (disabled) dummy flash-hider slotted in them. Pending whether to keep the experimental slotting method for QD suppressors, or not
+
+
+
 [9/20/2024 1:19:47 PM UTC | Revision 3460 | reyhard]
 
 [Other] Removed bullets which exist in vanilla already
