@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/20/2024 1:41:10 PM UTC | Revision 3462 | da12thMonkey]
+
+[Other] Disabled 'Merge Physics' on SR-3M muzzle slot - prevents error "Trying to split physics..." with SR-3M suppressor
+
+
+
 [9/20/2024 1:21:09 PM UTC | Revision 3461 | da12thMonkey]
 
 [Other] Re-saved some .ptc files that were apparently in an outdated format
