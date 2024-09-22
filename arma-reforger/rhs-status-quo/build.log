@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/22/2024 9:57:08 PM UTC | Revision 3475 | da12thMonkey]
+
+[Improved] Hid weapons in Arsenal that were pre-equipped with suppressors by marking them as WEAPON_VARIANT, now that suppressors can be added as attachments
+
+[Added] Made and unsuppressed M4A1 CQBR prefab, and modified the existing suppressed one to inherit from it
+
+
+
 [9/22/2024 7:54:40 PM UTC | Revision 3474 | gurdy]
 
 [Other] Further MK16 color tweaks
