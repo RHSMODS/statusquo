@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/25/2024 9:24:56 PM UTC | Revision 3477 | Soul_Assassin]
+
+[Fixed] M4 Carryhandle was missing from arsenal, leading to fault when saving
+
+[Improved] Tweaked M4 LOD transitions to stop switching too soon
+
+[Other] WIP more work on sliding. Added sight base half length to adjust how each extreme of the rail end needs to be padded (if rail is set to 0.05 and -0.03 and base half length is at 0.01 then effectively that sight will only move between 0.04 and -0.02). All M4 back rails accept sliding and Aimpoint T1 can slide now too. Still no persistence in respawn. Added string.
+
+
+
 [9/23/2024 12:01:32 AM UTC | Revision 3476 | gurdy]
 
 [Other] Lods for airborne charging handle
