@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/27/2024 6:15:43 PM UTC | Revision 3478 | da12thMonkey]
+
+[Other] Removed experimental Quick-Detach suppressor system: closes #989
+
+
+
 [9/25/2024 9:24:56 PM UTC | Revision 3477 | Soul_Assassin]
 
 [Fixed] M4 Carryhandle was missing from arsenal, leading to fault when saving
