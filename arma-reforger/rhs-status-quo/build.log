@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/29/2024 11:19:29 PM UTC | Revision 3520 | da12thMonkey]
+
+[Other] Disabled ActionsManagerComponent on dummy flashHider for Surefire Suppressors to prevent crash when interacting with the suppressor prefab on the ground
+
+
+
 [9/29/2024 10:53:29 PM UTC | Revision 3519 | Ram]
 
 [Other] K4386 shake animations
