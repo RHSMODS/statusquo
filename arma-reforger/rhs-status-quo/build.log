@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/29/2024 8:37:00 PM UTC | Revision 3517 | da12thMonkey]
+
+[Other] Corrected filenames of M4 URGI base prefabs to follow convention (name based on barrel length)
+
+[Other] Adjusted muzzle velocity coefficient of 11.5 inch M4 URGI
+
+
+
 [9/29/2024 8:29:18 PM UTC | Revision 3516 | Ram]
 
 [Other] Add screen controller to K4386
