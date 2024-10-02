@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/2/2024 1:28:51 PM UTC | Revision 3530 | reyhard]
+
+[Fixed] Fixed bolt action & fire anim selector animations - https://github.com/RHSMODS/statusquo/issues/992
+
+
+
 [10/2/2024 6:01:44 AM UTC | Revision 3529 | Soul_Assassin]
 
 [Other] WIP Rail sliding system. Now can persist in arsenal.
