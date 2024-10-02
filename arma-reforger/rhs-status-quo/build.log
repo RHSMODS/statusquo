@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/2/2024 10:32:20 PM UTC | Revision 3534 | Soul_Assassin]
+
+[Other] WIP on sliding MP replication. Some progress but not working fully yet. Workbench behavior correct while peer client is funky.
+
+
+
 [10/2/2024 6:48:32 PM UTC | Revision 3533 | da12thMonkey]
 
 [Improved] Corrected AK-105 rate of fire (now 600 rnd/min)
