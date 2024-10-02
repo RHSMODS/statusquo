@@ -9,6 +9,63 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3529
+
+<!-- revision 3529 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3529
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 2, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 59 (3470)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 4 improvements, 1 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Made and unsuppressed M4A1 CQBR prefab, and modified the existing suppressed one to inherit from it
+
+[Added] K-4386 Typhoon-VDV
+
+[Added] K-4386 Typhoon-VDV (unarmed)
+
+
+##### Improved
+
+
+[Improved] Hid weapons in Arsenal that were pre-equipped with suppressors by marking them as WEAPON_VARIANT, now that suppressors can be added as attachments
+
+[Improved] Tweaked M4 LOD transitions to stop switching too soon
+
+[Improved] Added visual damage to turrets when destroyed
+
+[Improved] Added visual damage to tires
+
+
+##### Fixed
+
+
+[Fixed] M4 Carryhandle was missing from arsenal, leading to fault when saving
+
+
+##### Deleted
+
+
+[Removed] Removed now unused flashhider prefab from Showcase
+
+
+
 ## 0.10.3470
 
 <!-- revision 3470 -->
