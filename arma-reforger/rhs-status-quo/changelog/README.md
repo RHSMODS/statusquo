@@ -9,6 +9,77 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3558
+
+<!-- revision 3558 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3558
+
+_<mark style="color:red;">Date:</mark>_ Sunday, October 6, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 29 (3529)
+
+_<mark style="color:red;">Changes:</mark>_ 8 additions, 5 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added K-4386 Green
+
+[Added] Added K-4386 Tan
+
+[Added] Added K-4386 Green (Armed)
+
+[Added] Added K-4386 Tan (Armed)
+
+[Added] Added OPSCORE FAST SF Helmet
+
+[Added] AK-101
+
+[Added] AK-102
+
+[Added] Added sliding rail system for the top sight rail of the M4 and M27 rifles; for now compatible only with collimator sights
+
+
+##### Improved
+
+
+[Improved] LSHZ helmet now can be used without cover
+
+[Improved] Corrected AK-105 rate of fire (now 600 rnd/min)
+
+[Improved] Tweaked strobe vis and IR light configurations;
+
+[Improved] Improved driver and gunner displays for K4386
+
+[Improved] Camo/Color strings in displaynames for MICH and CVC helmets
+
+
+##### Fixed
+
+
+[Fixed] Fixed bolt action & fire anim selector animations - https://github.com/RHSMODS/statusquo/issues/992
+
+[Fixed] 6L26 (45rnd RPK-74M) tracer magazine didn't have the correct ammo flag icon
+
+[Fixed] Helstar green light was on by default
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3529
 
 <!-- revision 3529 -->
