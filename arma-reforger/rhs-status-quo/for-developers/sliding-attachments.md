@@ -58,5 +58,9 @@ To make the attachment compatible, you need to add an action of type RHS\_SlideA
 
 Keep all properties as shown except for two important ones:
 
-* **Affect Eye Distance For Optic** - (currently only works for optics implementing the RHS\_CollimatorSightsComponent) when checked keeps the eye at same absolute point relative to the weapon, i.e. the eye does not slide with the weapon.
+* **Affect Eye Distance For Optic** - (currently only works for optics implementing the **RHS\_CollimatorSightsComponent**) when checked keeps the eye at same absolute point relative to the weapon, i.e. the eye does not slide with the weapon.
 * **Base Half Length** - this should be set to half the length of the base of the attachment. So if your optic has an attachment base of 4 cm this should be set to 0.02. This makes sure that the optic does not hang in front or back of the rail.
+
+{% hint style="info" %}
+If you have a sight that implements **SCR\_CollimatorSightsComponent** dont forget to switch this class to **RHS\_CollimatorSightsComponent.**
+{% endhint %}
