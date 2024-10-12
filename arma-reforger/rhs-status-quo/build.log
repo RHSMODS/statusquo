@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/12/2024 10:10:26 PM UTC | Revision 3593 | da12thMonkey]
+
+[Improved] Moved NT4 models slightly forward in .fbx so they are positioned more correctly w/r/t rifle muzzle
+
+[Other] Slotted dummy KAC flash-hider inside NT4 prefabs
+
+
+
 [10/12/2024 4:47:29 PM UTC | Revision 3592 | Soul_Assassin]
 
 [Other] Attempted fix for sliding sight trigger.
