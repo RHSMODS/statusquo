@@ -9,6 +9,81 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3592
+
+<!-- revision 3592 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3592
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 12, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 34 (3558)
+
+_<mark style="color:red;">Changes:</mark>_ 10 additions, 4 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added TBH-3A Helmet
+
+[Added] Added RGR JPC
+
+[Added] Suppressor slot to SVD
+
+[Added] TGP-V 2 suppressor for SVD
+
+[Added] Added USMC M67, M18 and UBGL pouches
+
+[Added] Added USMC Bandolier
+
+[Added] Added GL presets to all coyote vests
+
+[Added] Added new PC G2 pouch presets
+
+[Added] Added Night Desert Parka
+
+[Added] Added CADPAT Multi-Terrain Parka
+
+
+##### Improved
+
+
+[Improved] LBH helmets with liberator headsets now use shorter version of displayname string
+
+[Improved] Replaced chinstrap for green and gray miches to MSA one
+
+[Improved] Renamed grey MICH 2000 as "ACH" now it has correct MSA straps
+
+[Improved] Enables rail sliding on all compatible scopes and weapons
+
+
+##### Fixed
+
+
+[Fixed] Fixed normal issues with FAST SF helmet
+
+[Fixed] Velcro slots on MG pouch preset for PC Gen III, weren't displaying patches
+
+[Fixed] Fixed weird glass window collider behaviour on K4386
+
+[Fixed] VGM-93 projectile had missing texture
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3558
 
 <!-- revision 3558 -->
