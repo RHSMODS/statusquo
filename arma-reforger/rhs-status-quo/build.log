@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[10/12/2024 10:40:29 PM UTC | Revision 3594 | Soul_Assassin]
+
+[Improved] Reworked M27 attachment slots. Lasers can be side mounted now.
+
+[Improved] M27 rail cover kits only compatible with M27 now.
+
+[Improved] Lasers use new rail sliding system.
+
+[Fixed] Lasers were missing attach action.
+
+
+
 [10/12/2024 10:10:26 PM UTC | Revision 3593 | da12thMonkey]
 
 [Improved] Moved NT4 models slightly forward in .fbx so they are positioned more correctly w/r/t rifle muzzle
