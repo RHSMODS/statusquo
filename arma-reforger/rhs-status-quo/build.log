@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/13/2024 10:59:27 PM UTC | Revision 3605 | da12thMonkey]
+
+[Other] Positioned inspection points of front rail slots on ERGO M4 so they can be accessed individually from the RAS slots in inventory
+
+
+
 [10/13/2024 10:04:11 PM UTC | Revision 3604 | Soul_Assassin]
 
 [Improved] Reworked M4 attachment slots. Lasers can be side mounted now. ERGO and FSP have front mounting points. Fixes #778
