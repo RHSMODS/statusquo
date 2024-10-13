@@ -9,6 +9,65 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3604
+
+<!-- revision 3604 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3604
+
+_<mark style="color:red;">Date:</mark>_ Sunday, October 13, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 12 (3592)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 6 improvements, 2 fixes and 2 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Moved NT4 models slightly forward in .fbx so they are positioned more correctly w/r/t rifle muzzle
+
+[Improved] Reworked M27 attachment slots. Lasers can be side mounted now.
+
+[Improved] M27 rail cover kits only compatible with M27 now.
+
+[Improved] Lasers use new rail sliding system.
+
+[Improved] Reduced melee damage of M4s and M27s in line with current values on vanilla weapons
+
+[Improved] Reworked M4 attachment slots. Lasers can be side mounted now. ERGO and FSP have front mounting points. Fixes [#778](https://github.com/RHSMODS/statusquo/issues/778)
+
+
+##### Fixed
+
+
+[Fixed] Lasers were missing attach action.
+
+[Fixed] Laser attachments couldn't be put in pockets and vests
+
+
+##### Deleted
+
+
+[Removed] Removed Open hatch action on k-17
+
+[Removed] Removed Open hatch action on t-14
+
+
+
 ## 0.10.3592
 
 <!-- revision 3592 -->
