@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/19/2024 3:29:55 PM UTC | Revision 3610 | Soul_Assassin]
+
+[Other] SU-278 low had wrong collimator component so eye movement was not working with sliding.
+
+[Other] Fixed various bugs @da12thMonkey found on sliding
+
+
+
 [10/18/2024 7:37:54 PM UTC | Revision 3609 | Tactical_Toxic]
 
 [Other] Final verssion of new rail kit system
