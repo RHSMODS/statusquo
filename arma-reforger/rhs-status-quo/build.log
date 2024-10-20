@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/20/2024 8:18:53 PM UTC | Revision 3619 | reyhard]
+
+[Other] Attempt to fix Mk153 anims - applied RPG-7 pose on arm origin poses + updated rig to use 4.2 compatible setup
+
+
+
 [10/20/2024 8:08:09 AM UTC | Revision 3618 | da12thMonkey]
 
 [Other] Tweak default optics offset on Block 2 carbines and CQBRs
