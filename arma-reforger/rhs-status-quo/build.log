@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/20/2024 12:06:44 AM UTC | Revision 3617 | da12thMonkey]
+
+[Other] Some prep work for for BUIS slots on M4s. Presence of a rear BUIS will block M4 carry handle attachment and vice versa
+
+
+
 [10/19/2024 9:47:16 PM UTC | Revision 3616 | Soul_Assassin]
 
 [Other] Fixed another problem found with sliding. Non sliding optics get reset to 0.
