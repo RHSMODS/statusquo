@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/24/2024 8:14:37 PM UTC | Revision 3638 | Soul_Assassin]
+
+[Improved] Some VKPO pants were missing LODs
+
+[Other] Fixed all VKPO pants, all pants as far as I can see are done.
+
+[Other] Night parka ground model had missing collider
+
+
+
 [10/24/2024 4:44:02 PM UTC | Revision 3637 | reyhard]
 
 [Other] More skeleton fixerito which I forgot to commit before
