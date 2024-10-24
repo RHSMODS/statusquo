@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3636
+
+<!-- revision 3636 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3636
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 24, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 32 (3604)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 1 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Attachment version of KAC M4 folding front sight
+
+[Added] Added SU-233/PVS weapon light
+
+
+##### Improved
+
+
+[Improved] M4 carry handle sight inventory volume now calculated the same as other similarly sized attachments
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3604
 
 <!-- revision 3604 -->
