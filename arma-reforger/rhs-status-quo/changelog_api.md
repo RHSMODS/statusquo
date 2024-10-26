@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3642
+
+<!-- revision 3642 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3642
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 26, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 6 (3636)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 1 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Rosgvardiya variant of K4386
+
+
+##### Improved
+
+
+[Improved] Some VKPO pants were missing LODs
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3636
 
 <!-- revision 3636 -->
