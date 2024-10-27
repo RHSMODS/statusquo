@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3650
+
+<!-- revision 3650 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3650
+
+_<mark style="color:red;">Date:</mark>_ Sunday, October 27, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (3642)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 1 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] M16A2 with weaver rail
+
+[Added] M16A2 carbine with weaver rail
+
+
+##### Improved
+
+
+[Improved] All applicable skeletons have been reconfigured to be compatible with Reforger 1.2.1
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3642
 
 <!-- revision 3642 -->
