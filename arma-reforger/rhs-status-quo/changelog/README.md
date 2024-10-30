@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3671
+
+<!-- revision 3671 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3671
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 30, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 21 (3650)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 0 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added black AVS
+
+[Added] Added Surefire M300C tactical light
+
+[Added] ION branded parkas
+
+[Added] Civilian-style parkas
+
+[Added] Added WML tactical light
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3650
 
 <!-- revision 3650 -->
