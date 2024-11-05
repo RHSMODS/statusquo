@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/5/2024 4:54:10 PM UTC | Revision 3683 | odkupiciel375]
+
+[Fixed] Fixed: NVG effect would persist after users death; fixed #1008
+
+
+
 [11/5/2024 12:06:36 PM UTC | Revision 3682 | reyhard]
 
 [Fixed] Added idle finger anims to GM94 - fixes GM94 lowered pose
