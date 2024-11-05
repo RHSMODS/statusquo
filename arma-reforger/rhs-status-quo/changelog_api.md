@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3683
+
+<!-- revision 3683 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3683
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, November 5, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 12 (3671)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Added idle finger anims to GM94 - fixes GM94 lowered pose
+
+[Fixed] Fixed: NVG effect would persist after users death; fixed [#1008](https://github.com/RHSMODS/statusquo/issues/1008)
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3671
 
 <!-- revision 3671 -->
