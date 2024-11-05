@@ -19,7 +19,7 @@ Patches in RHS follow very simple rules:
 
 <figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
-* The patch must be facing in the rirection of Y+ axis
+* The patch must be facing in the direction of Y+ axis
 
 <figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,12 +78,12 @@ First add a **RHS\_ClothNodeStorageComponent** and set it up in a similar fashio
 In the **BaseLoadoutClothComponent** make sure you have **Debug Worn Model** value set to true when editing positions of velcro attachment slots.
 
 {% hint style="info" %}
-Do not forget to turn **Debug Worn Model** to off when you are doen editing.
+Do not forget to turn **Debug Worn Model** to off when you are done editing.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-In the **Slots** array of **BaseLoadoutClothComponent** make an ew slot of type **RHS\_LoadoutSlotInfo**. The name of the slot MUST be one of the following (Top Velcro, Left Velcro, etc.). If you name it wrong it will not work:
+In the **Slots** array of **BaseLoadoutClothComponent** make an new slot of type **RHS\_LoadoutSlotInfo**. The name of the slot MUST be one of the following (Top Velcro, Left Velcro, etc.). If you name it wrong it will not work:
 
 <figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 
