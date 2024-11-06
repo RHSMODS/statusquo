@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/1874880_20240409012045_1.png
-coverY: 171
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: false
   description:
