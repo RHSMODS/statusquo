@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Red Hammer Studios](README.md)
-* [Recruitment](recruitment.md)
+* [Join the Team!](recruitment.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Team](team.md)
 
