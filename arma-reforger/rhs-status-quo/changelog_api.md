@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3684
+
+<!-- revision 3684 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3684
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, November 6, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (3683)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Not being able to adjust the gain of the PAS13 mounted on M2
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3683
 
 <!-- revision 3683 -->
