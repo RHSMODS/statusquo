@@ -118,6 +118,8 @@ In order of appearance...
 
 **Xiaoxiao**
 
+**Bell**
+
 ## Historic
 
 The following is a list of historic RHS members that have at one time or another we have had the pleasure of working with.
