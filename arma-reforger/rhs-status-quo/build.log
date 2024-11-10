@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/10/2024 2:17:40 PM UTC | Revision 3694 | Soul_Assassin]
+
+[Fixed] Controller key binding of NVG and IR fixed for vehicle optics; fixes #1006
+
+[Improved] NVG toggle now 2xDUp on new controller scheme.
+
+
+
 [11/10/2024 1:58:17 PM UTC | Revision 3693 | Ram]
 
 [Other] Vehicle screens prevent turret fire
