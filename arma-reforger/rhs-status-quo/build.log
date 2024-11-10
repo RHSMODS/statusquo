@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[11/10/2024 1:38:34 PM UTC | Revision 3691 | Ram]
+
+[Other] Fix for spectrum device cursor
+
+[Other] Optimisation of gps blocks rendering
+
+[Other] Fixed NPE from gps when no MapEntity present
+
+[Other] Prepartations for gps release
+
+[Other] RHS_FingerTarget added to main character graph
+
+[Other] Changes inside custom camera system (screens / triplexes)
+
+[Other] Changes inside touchscreen system (mostly to work outside vehicles) TODO: shared parent for vehicle and gadget screens
+
+[Other] Changed contexts priority for NVG and custom camera
+
+[Other] Attempt: 1
+
+
+
 [11/10/2024 12:45:39 PM UTC | Revision 3690 | Tactical_Toxic]
 
 [Other] Le silly attempt to inject sp81 anims
