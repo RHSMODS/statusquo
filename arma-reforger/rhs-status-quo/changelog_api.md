@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3695
+
+<!-- revision 3695 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3695
+
+_<mark style="color:red;">Date:</mark>_ Sunday, November 10, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 11 (3684)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] NVG toggle now 2xDUp on new controller scheme.
+
+
+##### Fixed
+
+
+[Fixed] Fixed missing vehicles in build mode - close [#988](https://github.com/RHSMODS/statusquo/issues/988)
+
+[Fixed] Removed variants from Conflict players + fixed missing weapon on AFRF character
+
+[Fixed] Controller key binding of NVG and IR fixed for vehicle optics; fixes [#1006](https://github.com/RHSMODS/statusquo/issues/1006)
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3684
 
 <!-- revision 3684 -->
