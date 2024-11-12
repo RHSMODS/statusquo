@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/12/2024 3:29:26 PM UTC | Revision 3711 | Tactical_Toxic]
+
+[Other] Fix for my dumb ass changing t-14 camo prefab instead of t-14 base
+
+[Other] Also proper radiocomponent configuration for k4386
+
+
+
 [11/12/2024 3:24:07 PM UTC | Revision 3710 | Tactical_Toxic]
 
 [Other] Fixed k4386 inverted tire mesh skinning
