@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/13/2024 10:22:49 PM UTC | Revision 3726 | Soul_Assassin]
+
+[Improved] Important keybinding hints don't fade away into nothing anymore
+
+[Other] Added NPE check for MK153 anim script.
+
+
+
 [11/13/2024 10:04:50 PM UTC | Revision 3725 | Tactical_Toxic]
 
 [Other] Minor tweaks to gm94 anims (attempt to hide last round before it moves through the grenade launcher itself)
