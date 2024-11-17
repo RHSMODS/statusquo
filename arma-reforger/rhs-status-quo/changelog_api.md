@@ -9,6 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3735
+
+<!-- revision 3735 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3735
+
+_<mark style="color:red;">Date:</mark>_ Sunday, November 17, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 40 (3695)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 3 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added SU-57 fly-by
+
+[Added] Added F-22 fly-by
+
+[Added] Added AN/PSQ-23 Storm rangefinder
+
+[Added] Added Klesh-2 flashlight; fixes [#1003](https://github.com/RHSMODS/statusquo/issues/1003)
+
+
+##### Improved
+
+
+[Improved] Added hints for turret stabilization, rangefinder and target following mode
+
+[Improved] K-17 and T-14 were missing raindrop sounds
+
+[Improved] Important keybinding hints don't fade away into nothing anymore
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3695
 
 <!-- revision 3695 -->
