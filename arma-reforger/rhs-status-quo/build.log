@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/18/2024 4:56:29 PM UTC | Revision 3740 | Soul_Assassin]
+
+[Other] Removed faulty (nonexisitng) action from TerretContext
+
+[Other] Fixed USAF faction for F22 flyby
+
+
+
 [11/18/2024 2:33:41 PM UTC | Revision 3739 | da12thMonkey]
 
 [Other] Adjusted alignment of WML light slot emission point
