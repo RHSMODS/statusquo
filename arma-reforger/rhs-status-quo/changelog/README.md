@@ -9,6 +9,51 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3742
+
+<!-- revision 3742 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3742
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, November 19, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 7 (3735)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Tweaked some of the laser and illuminator light sources
+
+[Improved] Shortened name of Perst Classic Gen.4 in radial menu
+
+
+##### Fixed
+
+
+[Fixed] Updated skeleton on Xmas lights
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3735
 
 <!-- revision 3735 -->
