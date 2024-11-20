@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[11/20/2024 9:54:28 PM UTC | Revision 3746 | odkupiciel375]
+
+[Fixed] Fixed: Scabbards were flaky; fixes #1014
+
+[Other] Removed: Deleted seemingly unnecessary override of Scabbard_Bayonet_6X9-1_empty.et as it seems that it was breaking that prefab
+
+[Other] Changed: Unified all scabbards to inherit from 5490FDEE87450C53 Scabbard_Bayonet_6Kh4_base.et"
+
+[Other] They still are but AR level of flakiness ;)
+
+
+
 [11/20/2024 6:53:02 PM UTC | Revision 3745 | pufu]
 
 [Improved] Updated tan surefire textures
