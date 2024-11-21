@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/21/2024 8:27:47 AM UTC | Revision 3747 | odkupiciel375]
+
+[Other] Fixed: replication of stored items for scabbards and etool carrier
+
+
+
 [11/20/2024 9:54:28 PM UTC | Revision 3746 | odkupiciel375]
 
 [Fixed] Fixed: Scabbards were flaky; fixes #1014
