@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/22/2024 9:20:15 PM UTC | Revision 3750 | da12thMonkey]
+
+[Other] Collider mesh for charging handles
+
+
+
 [11/22/2024 7:27:51 PM UTC | Revision 3749 | da12thMonkey]
 
 [Improved] Separated M4A1 charging handle mesh as its own prefab part (to facilitate customization through Workbench)
