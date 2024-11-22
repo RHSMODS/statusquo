@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/22/2024 7:27:51 PM UTC | Revision 3749 | da12thMonkey]
+
+[Improved] Separated M4A1 charging handle mesh as its own prefab part (to facilitate customization through Workbench)
+
+[Other] Assigned Geissele Automatics handles to CH clot on various URGI models
+
+
+
 [11/21/2024 1:41:23 PM UTC | Revision 3748 | Soul_Assassin]
 
 [Improved] Mounted lights can have strobe functionality
