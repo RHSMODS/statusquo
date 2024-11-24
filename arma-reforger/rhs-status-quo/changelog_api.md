@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3752
+
+<!-- revision 3752 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3752
+
+_<mark style="color:red;">Date:</mark>_ Sunday, November 24, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 10 (3742)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Updated tan surefire textures
+
+[Improved] Mounted lights can have strobe functionality
+
+[Improved] Separated M4A1 charging handle mesh as its own prefab part (to facilitate customization through Workbench)
+
+
+##### Fixed
+
+
+[Fixed] Fixed: Scabbards were flaky; fixes [#1014](https://github.com/RHSMODS/statusquo/issues/1014)
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3742
 
 <!-- revision 3742 -->
