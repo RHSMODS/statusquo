@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/24/2024 10:38:01 PM UTC | Revision 3769 | Ram]
+
+[Added] Added range based zeroing to vehicle optics
+
+[Other] Added rangefinder and zeroing to smaw
+
+
+
 [11/24/2024 10:11:35 PM UTC | Revision 3768 | da12thMonkey]
 
 [Other] URGI displayname was in feet, not inches
