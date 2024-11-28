@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/28/2024 1:45:33 PM UTC | Revision 3780 | MacroBebra]
+
+[Other] Added new ar15s to ion guys
+
+
+
 [11/28/2024 11:35:04 AM UTC | Revision 3779 | da12thMonkey]
 
 [Other] ION T-shirts were duplicated in Arsenal (prefabs only need to be in EntityCatalog InventoryItems.conf. The Factions .conf will inherit them from there)
