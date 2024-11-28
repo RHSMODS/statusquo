@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/28/2024 11:35:04 AM UTC | Revision 3779 | da12thMonkey]
+
+[Other] ION T-shirts were duplicated in Arsenal (prefabs only need to be in EntityCatalog InventoryItems.conf. The Factions .conf will inherit them from there)
+
+
+
 [11/28/2024 12:23:31 AM UTC | Revision 3778 | gurdy]
 
 [Other] Fixed upper material
