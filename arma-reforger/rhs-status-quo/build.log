@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/29/2024 11:23:46 PM UTC | Revision 3791 | Tactical_Toxic]
+
+[Other] Reduced clipping between peq15 and mbus on most of URGI m4s
+
+[Other] Please make sure there is no clipping between these attachments. Especially when mbus is folded
+
+[Other] Removed attachment position overrides from all URGI variants (by variants i mean stuff with extra peq box / scope / bla bla bla). Dont override it in there. Or at least make sure that this override does something.
+
+[Other] Cleanup of few more clothing prefabs
+
+[Other] Aaaand a cool flare particle from WCS guys. Gonna use it on IL76 / C130 supply drop
+
+
+
 [11/29/2024 10:35:44 PM UTC | Revision 3790 | gurdy]
 
 [Other] Ud556 textures now have the AUTO function again
