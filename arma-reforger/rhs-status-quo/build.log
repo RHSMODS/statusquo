@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/30/2024 11:17:04 AM UTC | Revision 3799 | odkupiciel375]
+
+[Other] Added: RHS_VehicleEntitySlotInfo which can hide slotted entity when vehicle owner (or its parent) is destroyed
+
+[Other] Changed: Switched K4386_RG.et decal slots to RHS_VehicleEntitySlotInfo
+
+
+
 [11/30/2024 7:00:30 AM UTC | Revision 3798 | gurdy]
 
 [Other] UD556 Upper Normal Update
