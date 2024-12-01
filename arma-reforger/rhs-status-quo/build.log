@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/1/2024 10:34:38 AM UTC | Revision 3808 | odkupiciel375]
+
+[Other] Fixed: Not being able to reload the SMAW with tubes stored in the back slots
+
+
+
 [12/1/2024 10:28:19 AM UTC | Revision 3807 | odkupiciel375]
 
 [Other] Fixed: Random NPE when browsing nvg prefabs in the world editor
