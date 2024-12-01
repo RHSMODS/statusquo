@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/1/2024 12:54:46 PM UTC | Revision 3813 | odkupiciel375]
+
+[Other] Changed: Some moron forgot to save a change thus ui slots were not reordered
+
+
+
 [12/1/2024 12:50:05 PM UTC | Revision 3812 | odkupiciel375]
 
 [Other] Changed: Reordered the back slots so right one is always first to look better for reload animation
