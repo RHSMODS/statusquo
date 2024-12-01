@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/1/2024 12:50:05 PM UTC | Revision 3812 | odkupiciel375]
+
+[Other] Changed: Reordered the back slots so right one is always first to look better for reload animation
+
+
+
 [12/1/2024 12:11:03 PM UTC | Revision 3811 | odkupiciel375]
 
 [Other] Fixed: Items in back slots wouldn't be visible for other clients
