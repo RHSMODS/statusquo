@@ -9,6 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3803
+
+<!-- revision 3803 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3803
+
+_<mark style="color:red;">Date:</mark>_ Sunday, December 1, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 51 (3752)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 1 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Casual T-Shirt
+
+[Added] ION M1025
+
+[Added] M4A1 URG-I ("SOPMOD Block 3"). With with 10.3, 11.5, and 14.5 inch barrels
+
+[Added] Added range based zeroing to vehicle optics
+
+
+##### Improved
+
+
+[Improved] SOPMOD Block II M4s now have a gas block under the rail
+
+
+##### Fixed
+
+
+[Fixed] Fixed K-17 "missing  bone" log spam
+
+[Fixed] TA648MDO + RMR should work in MP now; fixes [#977](https://github.com/RHSMODS/statusquo/issues/977)
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3752
 
 <!-- revision 3752 -->
