@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/1/2024 12:11:03 PM UTC | Revision 3811 | odkupiciel375]
+
+[Other] Fixed: Items in back slots wouldn't be visible for other clients
+
+[Other] Fixed: Items would not prioritize going to back slots
+
+[Other] Fixed: Items inserted into characters equipment storage slots wouldnt cause slots UI refresh when taking an item from the arsenal
+
+[Other] Fixed: Basic configuration of iron sights for SMAW
+
+
+
 [12/1/2024 12:01:23 PM UTC | Revision 3810 | Tactical_Toxic]
 
 [Other] K17 sound files moved from btr70 folder
