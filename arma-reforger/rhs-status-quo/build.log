@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/2/2024 12:28:46 AM UTC | Revision 3820 | odkupiciel375]
+
+[Improved] Changed: Added supply drops used by CISS to the GM entity catalog
+
+[Fixed] Fixed: Supply box smoke would continue to emit particles even after box was destroyed
+
+[Other] Changed: Reworked prefab structure of supply drops used by CISS
+
+[Other] Changed: Added icons and proper localized texts to supply boxes
+
+
+
 [12/1/2024 7:49:08 PM UTC | Revision 3819 | da12thMonkey]
 
 [Improved] Added Tan and OD Green MBUS sights in ION Arsenal
