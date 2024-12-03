@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/3/2024 10:18:11 PM UTC | Revision 3828 | Soul_Assassin]
+
+[Other] Added rangefinder key bind into the options menu; fixes #1017
+
+
+
 [12/3/2024 9:37:47 PM UTC | Revision 3827 | Soul_Assassin]
 
 [Fixed] Some TOR helmets had wrong description string.
