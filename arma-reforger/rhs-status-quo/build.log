@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/4/2024 10:07:52 PM UTC | Revision 3832 | da12thMonkey]
+
+[Other] Rotated PGS-64 by 23deg in .xob import settings
+
+[Other] Applied rotation to muzzle slot of AKS-74UN and AK-102/AK-105
+
+[Other] Muzzle attachments now index correctly with the stud on the front sight across all AKs
+
+
+
 [12/4/2024 9:05:51 PM UTC | Revision 3831 | Soul_Assassin]
 
 [Other] Fixed broken sharp edges on some VKPO uniforms after skeleton updates.
