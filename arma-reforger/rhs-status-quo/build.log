@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/5/2024 8:11:41 PM UTC | Revision 3840 | Tactical_Toxic]
+
+[Other] Refactor of cinematic stuff
+
+[Other] All cinematic and trailer stuff now lives in its own folder "CINEMATIC_TRAILER"
+
+[Other] This folder has "not present" flag, so it should be ignored when publishing mod
+
+[Other] Export profiles moved to "Internal" folder
+
+
+
 [12/5/2024 7:36:25 PM UTC | Revision 3839 | Tactical_Toxic]
 
 [Other] Smaw prone inspection anims
