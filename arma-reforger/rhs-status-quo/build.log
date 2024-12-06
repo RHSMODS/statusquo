@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/6/2024 10:57:35 PM UTC | Revision 3853 | Soul_Assassin]
+
+[Other] Fixed new balaclava visibility in FPV. Mats now inherit each other.
+
+
+
 [12/6/2024 6:19:20 PM UTC | Revision 3852 | da12thMonkey]
 
 [Improved] Moved helmet covers to be next to their relevant helmet set in REDFOR Arsenal
