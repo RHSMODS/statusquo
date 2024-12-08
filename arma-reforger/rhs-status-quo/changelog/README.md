@@ -9,6 +9,75 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3862
+
+<!-- revision 3862 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3862
+
+_<mark style="color:red;">Date:</mark>_ Sunday, December 8, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 51 (3811)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 7 improvements, 4 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Radio Recon teams and characters for both USAF and AFRF
+
+[Added] Muscle shirts and sleeveless VDV telnyashka
+
+[Added] T-Shirts
+
+
+##### Improved
+
+
+[Improved] M4A1 Block II rifles in ION faction replaced with non-US military, 'Daniel Offence' rollmarked rifles
+
+[Improved] Tan Spectre now has a tan MRDS
+
+[Improved] Added Tan and OD Green MBUS sights in ION Arsenal
+
+[Improved] Changed: Added supply drops used by CISS to the GM entity catalog
+
+[Improved] Changed  impact particle effects on armored plates
+
+[Improved] Updated surefire textures
+
+[Improved] Moved helmet covers to be next to their relevant helmet set in REDFOR Arsenal
+
+
+##### Fixed
+
+
+[Fixed] Fixed: Supply box smoke would continue to emit particles even after box was destroyed
+
+[Fixed] Fixed wrong dovetail attachment position on AKS74UN (B18)
+
+[Fixed] Some TOR helmets had wrong description string.
+
+[Fixed] Fixed arm patch for flora uniform
+
+
+##### Deleted
+
+
+[Removed] Removed Infratech TWS T1 combo as it was not working
+
+
+
 ## 0.10.3811
 
 <!-- revision 3811 -->
