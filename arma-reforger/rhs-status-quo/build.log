@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/8/2024 1:08:02 PM UTC | Revision 3863 | Tactical_Toxic]
+
+[Fixed] Fixed Most of weapons with custom sounds were missing interior reverb shader
+
+[Other] Second scene for trailer
+
+
+
 [12/8/2024 11:34:56 AM UTC | Revision 3862 | Tactical_Toxic]
 
 [Other] Fake light for M4A1/M4A1_ion_mk16_peq_turned_on.et
