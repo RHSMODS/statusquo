@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/9/2024 5:27:16 PM UTC | Revision 3887 | odkupiciel375]
+
+[Other] Fixed: Attaching N times previously removed NVG would cause it keybinds to be activated N number of times
+
+
+
 [12/9/2024 4:34:34 PM UTC | Revision 3886 | da12thMonkey]
 
 [Added] L8A Tactical Rear Sight
