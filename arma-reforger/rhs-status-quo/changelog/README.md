@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3893
+
+<!-- revision 3893 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3893
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, December 10, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 31 (3862)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] L8A Tactical Rear Sight
+
+
+##### Improved
+
+
+[Improved] Improvements to NVG overlays and effects
+
+[Improved] Tweaked some source glows of IR lights; fixes [#964](https://github.com/RHSMODS/statusquo/issues/964)
+
+
+##### Fixed
+
+
+[Fixed] Fixed Most of weapons with custom sounds were missing interior reverb shader
+
+[Fixed] Fixed: Putting NVG in the backpack would break its animation; fixes [#905](https://github.com/RHSMODS/statusquo/issues/905)
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3862
 
 <!-- revision 3862 -->
