@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/10/2024 6:54:01 PM UTC | Revision 3893 | odkupiciel375]
+
+[Fixed] Fixed: Putting NVG in the backpack would break its animation; fixes #905
+
+
+
 [12/10/2024 11:19:36 AM UTC | Revision 3892 | Ram]
 
 [Other] Add Rpl State Override to some attachments
