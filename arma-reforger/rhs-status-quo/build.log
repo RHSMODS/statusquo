@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/11/2024 8:58:47 PM UTC | Revision 3902 | Ram]
+
+[Other] K4386 driver screen disable due too unfinished state.
+
+[Other] Fix for K4386 gunner screen.
+
+[Other] Temporally disable DAGR unfinished marker creation screen.
+
+
+
 [12/11/2024 7:33:17 PM UTC | Revision 3901 | Tactical_Toxic, Tactical_Toxic]
 
 [Other] Forgot to delete .meta
