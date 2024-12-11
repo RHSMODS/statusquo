@@ -9,6 +9,47 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3904
+
+<!-- revision 3904 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3904
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, December 11, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 11 (3893)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 0 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] DD Barrels without decals 10.3 11.5 14.5
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
+
 ## 0.10.3893
 
 <!-- revision 3893 -->
