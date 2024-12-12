@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/12/2024 10:43:18 AM UTC | Revision 3907 | da12thMonkey]
+
+[Other] Removed placeholder M4 barrels
+
+[Other] Slightly adjusted position of URG-I gasblock for the new midlength barrel model
+
+[Other] Resolved workbench collider material error messages from new barrel .xobs
+
+
+
 [12/12/2024 2:02:48 AM UTC | Revision 3906 | gurdy]
 
 [Other] Added DOMK18 lower markings
