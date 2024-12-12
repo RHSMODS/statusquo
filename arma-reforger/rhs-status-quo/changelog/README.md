@@ -9,6 +9,292 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3906
+
+<!-- revision 3906 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3906
+
+_<mark style="color:red;">Date:</mark>_ Thursday, December 12, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 507 (3399)
+
+_<mark style="color:red;">Changes:</mark>_ 46 additions, 42 improvements, 34 fixes and 4 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added gray, green and coyote variants of MICH2000 helmet
+
+[Added] Muzzle attachment slots for weapons that accept suppressors
+
+[Added] Made and unsuppressed M4A1 CQBR prefab, and modified the existing suppressed one to inherit from it
+
+[Added] K-4386 Typhoon-VDV
+
+[Added] K-4386 Typhoon-VDV (unarmed)
+
+[Added] Added K-4386 Green
+
+[Added] Added K-4386 Tan
+
+[Added] Added K-4386 Green (Armed)
+
+[Added] Added K-4386 Tan (Armed)
+
+[Added] Added OPSCORE FAST SF Helmet
+
+[Added] AK-101
+
+[Added] AK-102
+
+[Added] Added sliding rail system for the top sight rail of the M4 and M27 rifles; for now compatible only with collimator sights
+
+[Added] Added TBH-3A Helmet
+
+[Added] Added RGR JPC
+
+[Added] Suppressor slot to SVD
+
+[Added] TGP-V 2 suppressor for SVD
+
+[Added] Added USMC M67, M18 and UBGL pouches
+
+[Added] Added USMC Bandolier
+
+[Added] Added GL presets to all coyote vests
+
+[Added] Added new PC G2 pouch presets
+
+[Added] Added Night Desert Parka
+
+[Added] Added CADPAT Multi-Terrain Parka
+
+[Added] Attachment version of KAC M4 folding front sight
+
+[Added] Added SU-233/PVS weapon light
+
+[Added] Added Rosgvardiya variant of K4386
+
+[Added] M16A2 with weaver rail
+
+[Added] M16A2 carbine with weaver rail
+
+[Added] Added black AVS
+
+[Added] Added Surefire M300C tactical light
+
+[Added] ION branded parkas
+
+[Added] Civilian-style parkas
+
+[Added] Added WML tactical light
+
+[Added] Added SU-57 fly-by
+
+[Added] Added F-22 fly-by
+
+[Added] Added AN/PSQ-23 Storm rangefinder
+
+[Added] Added Klesh-2 flashlight; fixes [#1003](https://github.com/RHSMODS/statusquo/issues/1003)
+
+[Added] Casual T-Shirt
+
+[Added] ION M1025
+
+[Added] M4A1 URG-I ("SOPMOD Block 3"). With with 10.3, 11.5, and 14.5 inch barrels
+
+[Added] Added range based zeroing to vehicle optics
+
+[Added] Added Radio Recon teams and characters for both USAF and AFRF
+
+[Added] Muscle shirts and sleeveless VDV telnyashka
+
+[Added] T-Shirts
+
+[Added] L8A Tactical Rear Sight
+
+[Added] DD Barrels without decals 10.3 11.5 14.5
+
+
+##### Improved
+
+
+[Improved] Updated weapon animation graphs
+
+[Improved] Hid weapons in Arsenal that were pre-equipped with suppressors by marking them as WEAPON_VARIANT, now that suppressors can be added as attachments
+
+[Improved] Tweaked M4 LOD transitions to stop switching too soon
+
+[Improved] Added visual damage to turrets when destroyed
+
+[Improved] Added visual damage to tires
+
+[Improved] LSHZ helmet now can be used without cover
+
+[Improved] Corrected AK-105 rate of fire (now 600 rnd/min)
+
+[Improved] Tweaked strobe vis and IR light configurations;
+
+[Improved] Improved driver and gunner displays for K4386
+
+[Improved] Camo/Color strings in displaynames for MICH and CVC helmets
+
+[Improved] LBH helmets with liberator headsets now use shorter version of displayname string
+
+[Improved] Replaced chinstrap for green and gray miches to MSA one
+
+[Improved] Renamed grey MICH 2000 as "ACH" now it has correct MSA straps
+
+[Improved] Enables rail sliding on all compatible scopes and weapons
+
+[Improved] Moved NT4 models slightly forward in .fbx so they are positioned more correctly w/r/t rifle muzzle
+
+[Improved] Reworked M27 attachment slots. Lasers can be side mounted now.
+
+[Improved] M27 rail cover kits only compatible with M27 now.
+
+[Improved] Lasers use new rail sliding system.
+
+[Improved] Reduced melee damage of M4s and M27s in line with current values on vanilla weapons
+
+[Improved] Reworked M4 attachment slots. Lasers can be side mounted now. ERGO and FSP have front mounting points. Fixes [#778](https://github.com/RHSMODS/statusquo/issues/778)
+
+[Improved] M4 carry handle sight inventory volume now calculated the same as other similarly sized attachments
+
+[Improved] Some VKPO pants were missing LODs
+
+[Improved] All applicable skeletons have been reconfigured to be compatible with Reforger 1.2.1
+
+[Improved] NVG toggle now 2xDUp on new controller scheme.
+
+[Improved] Added hints for turret stabilization, rangefinder and target following mode
+
+[Improved] K-17 and T-14 were missing raindrop sounds
+
+[Improved] Important keybinding hints don't fade away into nothing anymore
+
+[Improved] Tweaked some of the laser and illuminator light sources
+
+[Improved] Shortened name of Perst Classic Gen.4 in radial menu
+
+[Improved] Updated tan surefire textures
+
+[Improved] Mounted lights can have strobe functionality
+
+[Improved] Separated M4A1 charging handle mesh as its own prefab part (to facilitate customization through Workbench)
+
+[Improved] SOPMOD Block II M4s now have a gas block under the rail
+
+[Improved] M4A1 Block II rifles in ION faction replaced with non-US military, 'Daniel Offence' rollmarked rifles
+
+[Improved] Tan Spectre now has a tan MRDS
+
+[Improved] Added Tan and OD Green MBUS sights in ION Arsenal
+
+[Improved] Changed: Added supply drops used by CISS to the GM entity catalog
+
+[Improved] Changed  impact particle effects on armored plates
+
+[Improved] Updated surefire textures
+
+[Improved] Moved helmet covers to be next to their relevant helmet set in REDFOR Arsenal
+
+[Improved] Improvements to NVG overlays and effects
+
+[Improved] Tweaked some source glows of IR lights; fixes [#964](https://github.com/RHSMODS/statusquo/issues/964)
+
+
+##### Fixed
+
+
+[Fixed] Syntax fix for 1.21 update ("Ternimate()"->"Terminate()")
+
+[Fixed] Fixed duplicated AK105 case ejection component which was causing CTD in game
+
+[Fixed] Fixed SR3 animation graph
+
+[Fixed] M4 with black DD rails now in USMC and ION arsenals; fixes [#813](https://github.com/RHSMODS/statusquo/issues/813)
+
+[Fixed] Fixed Log Console errors related to Button_Operation.acp - removed no longer existing links in txt editor
+
+[Fixed] Fixed K-17 rear door wasnt closing properly (For some reason, vehicle animations and their blending is driven by events on player animations. BI plz fix)
+
+[Fixed] Fixed Tucha smoke launcher was using AGS magwell
+
+[Fixed] Fixed max elevation on T-14
+
+[Fixed] M4 Carryhandle was missing from arsenal, leading to fault when saving
+
+[Fixed] Fixed bolt action & fire anim selector animations - https://github.com/RHSMODS/statusquo/issues/992
+
+[Fixed] 6L26 (45rnd RPK-74M) tracer magazine didn't have the correct ammo flag icon
+
+[Fixed] Helstar green light was on by default
+
+[Fixed] Fixed normal issues with FAST SF helmet
+
+[Fixed] Velcro slots on MG pouch preset for PC Gen III, weren't displaying patches
+
+[Fixed] Fixed weird glass window collider behaviour on K4386
+
+[Fixed] VGM-93 projectile had missing texture
+
+[Fixed] Lasers were missing attach action.
+
+[Fixed] Laser attachments couldn't be put in pockets and vests
+
+[Fixed] Added idle finger anims to GM94 - fixes GM94 lowered pose
+
+[Fixed] Fixed: NVG effect would persist after users death; fixed [#1008](https://github.com/RHSMODS/statusquo/issues/1008)
+
+[Fixed] Not being able to adjust the gain of the PAS13 mounted on M2
+
+[Fixed] Fixed missing vehicles in build mode - close [#988](https://github.com/RHSMODS/statusquo/issues/988)
+
+[Fixed] Removed variants from Conflict players + fixed missing weapon on AFRF character
+
+[Fixed] Controller key binding of NVG and IR fixed for vehicle optics; fixes [#1006](https://github.com/RHSMODS/statusquo/issues/1006)
+
+[Fixed] Updated skeleton on Xmas lights
+
+[Fixed] Fixed: Scabbards were flaky; fixes [#1014](https://github.com/RHSMODS/statusquo/issues/1014)
+
+[Fixed] Fixed K-17 "missing  bone" log spam
+
+[Fixed] TA648MDO + RMR should work in MP now; fixes [#977](https://github.com/RHSMODS/statusquo/issues/977)
+
+[Fixed] Fixed: Supply box smoke would continue to emit particles even after box was destroyed
+
+[Fixed] Fixed wrong dovetail attachment position on AKS74UN (B18)
+
+[Fixed] Some TOR helmets had wrong description string.
+
+[Fixed] Fixed arm patch for flora uniform
+
+[Fixed] Fixed Most of weapons with custom sounds were missing interior reverb shader
+
+[Fixed] Fixed: Putting NVG in the backpack would break its animation; fixes [#905](https://github.com/RHSMODS/statusquo/issues/905)
+
+
+##### Deleted
+
+
+[Removed] Removed now unused flashhider prefab from Showcase
+
+[Removed] Removed Open hatch action on k-17
+
+[Removed] Removed Open hatch action on t-14
+
+[Removed] Removed Infratech TWS T1 combo as it was not working
+
+
+
 ## 0.10.3904
 
 <!-- revision 3904 -->
