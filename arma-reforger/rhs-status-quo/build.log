@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/15/2024 7:51:10 PM UTC | Revision 3930 | Soul_Assassin]
+
+[Fixed] Some lights were causing gras and clutter to be flattened in front of player when on; fixes issue #1023
+
+[Improved] Tweaked light attenuation parameters for PEQ-16 visible illuminator
+
+
+
 [12/15/2024 6:44:47 PM UTC | Revision 3929 | bell]
 
 [Other] Updated blend file with adjusted ik pose for m4 with rail extension and afg
