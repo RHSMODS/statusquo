@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/15/2024 10:35:57 PM UTC | Revision 3932 | Tactical_Toxic, da12thMonkey]
+
+[Other] Added lt706 bipod mesh and anims
+
+[Other] Strings for Harris bipod
+
+
+
 [12/15/2024 7:51:10 PM UTC | Revision 3930 | Soul_Assassin]
 
 [Fixed] Some lights were causing gras and clutter to be flattened in front of player when on; fixes issue #1023
