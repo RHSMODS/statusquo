@@ -9,6 +9,58 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.3948
+
+<!-- revision 3948 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 3948
+
+_<mark style="color:red;">Date:</mark>_ Monday, December 16, 2024
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 42 (3906)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 2 improvements, 2 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added tan version of ural4320
+
+[Added] Added front grip prototype
+
+[Added] Added USMC MEF AT Teams
+
+[Added] Added MK153 SMAW MOD.2
+
+
+##### Improved
+
+
+[Improved] Tweaked light attenuation parameters for PEQ-16 visible illuminator
+
+[Improved] Fixed supply drop mislabeling in GM. Fixes [#1021](https://github.com/RHSMODS/statusquo/issues/1021)
+
+
+##### Fixed
+
+
+[Fixed] Fixed floating pouch loadouts on custom loadout respawn; Fixes [#1022](https://github.com/RHSMODS/statusquo/issues/1022)
+
+[Fixed] Some lights were causing gras and clutter to be flattened in front of player when on; fixes issue [#1023](https://github.com/RHSMODS/statusquo/issues/1023)
+
+
+##### Deleted
+
+
+[Removed] Dummy flash hider prefabs that were slotted in 5.56mm suppressors. The flash hider meshes are now part of the suppressor model to avoid potential crashes
+
+
+
 ## 0.10.3906
 
 <!-- revision 3906 -->
