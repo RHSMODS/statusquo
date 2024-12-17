@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/17/2024 10:07:56 PM UTC | Revision 3951 | odkupiciel375]
+
+[Other] Fixed: HACK! Crash when extracting ballistic data for distance that is lower than first entry in ballistic table for that projectile
+
+
+
 [12/17/2024 7:05:26 PM UTC | Revision 3950 | Tactical_Toxic]
 
 [Other] Actual anim and not corrupted bullshit
