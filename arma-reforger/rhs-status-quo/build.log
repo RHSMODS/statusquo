@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/18/2024 10:36:04 PM UTC | Revision 3957 | Soul_Assassin]
+
+[Fixed] Black screen when in a vehicle crash as passenger; fixes #1031
+
+[Other] NPE protection in modded class. Didn't test but should work.
+
+
+
 [12/18/2024 9:31:02 PM UTC | Revision 3956 | odkupiciel375]
 
 [Other] Changed: replacement of the content of the turret action contexts was changed to extension of that array
