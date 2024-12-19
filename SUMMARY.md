@@ -56,6 +56,7 @@
       * [AN/PVS-14](arma-reforger/rhs-status-quo/blufor/gadgets/an-pvs-14.md)
       * [Vector 21](arma-reforger/rhs-status-quo/blufor/gadgets/vector-21.md)
     * [Weapons](arma-reforger/rhs-status-quo/blufor/weapons/README.md)
+      * [MK153 SMAW Mod 2](arma-reforger/rhs-status-quo/blufor/weapons/mk153-smaw-mod-2.md)
       * [M4](arma-reforger/rhs-status-quo/blufor/weapons/m4.md)
       * [M27 IAR](arma-reforger/rhs-status-quo/blufor/weapons/m27-iar.md)
       * [M17 / M18](arma-reforger/rhs-status-quo/blufor/weapons/m17-m18.md)
