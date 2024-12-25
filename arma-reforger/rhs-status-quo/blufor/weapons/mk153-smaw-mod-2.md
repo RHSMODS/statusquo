@@ -2,6 +2,8 @@
 description: >-
   Mk153 Mod 2 is a modernised version of the Shoulder-Launched Multipurpose
   Assault Weapon (SMAW).
+cover: ../../../../.gitbook/assets/smaw1.png
+coverY: 299
 ---
 
 # MK153 SMAW Mod 2
@@ -10,7 +12,7 @@ description: >-
 
 Mk153 Mod 2 replaces the integrated 9mm spotting rifle that assisted aiming the legacy Mod 0 SMAW, with an electro-optical system known as the Modular Ballistic Sight (MBS)
 
-<figure><img src="../../../../.gitbook/assets/image (232).png" alt=""><figcaption><p>SMAW Mod 2</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/smaw1.png" alt=""><figcaption><p>SMAW Mod 2</p></figcaption></figure>
 
 The Mk 153 Shoulder-Launched Multipurpose Assault Weapon (SMAW) is a smoothbore shoulder-fired rocket launcher. It is a portable assault weapon (i.e., bunker buster) and has a secondary anti-armor ability.
 
