@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/28/2024 11:24:27 PM UTC | Revision 3993 | Soul_Assassin]
+
+[Other] WIP working bipod on M38 and M27. Needs final help. In peer view, the clients crash if client try to attach or if the server tries to attach the bipod to the M38 that does not have one yet. Server keeps working. Client seems to also not sync properly stances when deployed on a weapon that has it pre-attached. Server sees it fine.
+
+
+
 [12/28/2024 2:34:35 PM UTC | Revision 3992 | Tactical_Toxic]
 
 [Other] New bipod bone for m27
