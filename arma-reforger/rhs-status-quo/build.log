@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/29/2024 2:40:37 PM UTC | Revision 3995 | Soul_Assassin]
+
+[Added] Harris detachable bipod now fully functional with M27 and M38
+
+[Other] MP client issues resolved and it should sync properly for now. We can proceed to add bone to other rifles.
+
+
+
 [12/29/2024 11:29:26 AM UTC | Revision 3994 | Soul_Assassin]
 
 [Fixed] Fixed colliders of some of the helmet ground models
