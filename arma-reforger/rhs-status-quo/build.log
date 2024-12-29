@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[12/29/2024 7:56:34 PM UTC | Revision 3996 | Soul_Assassin]
+
+[Fixed] Helstar strobe has swapped mode descriptions in radial for IR modes
+
+[Fixed] 1PN138 had wrong name in radial
+
+
+
 [12/29/2024 2:40:37 PM UTC | Revision 3995 | Soul_Assassin]
 
 [Added] Harris detachable bipod now fully functional with M27 and M38
