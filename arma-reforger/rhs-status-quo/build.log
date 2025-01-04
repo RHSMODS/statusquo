@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[1/4/2025 6:09:20 PM UTC | Revision 4023 | odkupiciel375]
+
+[Fixed] Fixed: Supply drop would be stuck mid air for proxy clients; fixes #1027
+
+[Fixed] Fixed: Supply drop wouldn't spawn its impact sounds and particles
+
+[Fixed] Fixed: USAF supply crate wasn't be marked for GM as a faction object
+
+
+
 [1/4/2025 6:08:46 PM UTC | Revision 4022 | gurdy]
 
 [Other] Fixed M4 lower markings
