@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[1/4/2025 2:00:09 PM UTC | Revision 4020 | Tactical_Toxic]
+
+[Fixed] Fixed wrong position of mag detach action on SMAW
+
+[Fixed] Fixed broken safety animation on smaw
+
+[Other] Bipod pos for ak74m ak105 and m4_lower
+
+[Other] Also reimported all anims related to mentioned guns to reset bone id cache
+
+
+
 [1/4/2025 12:33:01 PM UTC | Revision 4019 | Soul_Assassin]
 
 [Fixed] LBH ground model was missing collider; fixes issue #1044
