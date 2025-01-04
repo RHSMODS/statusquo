@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/4/2025 6:36:23 PM UTC | Revision 4024 | gurdy]
+
+[Fixed] Fixed M4 lower markings
+
+
+
 [1/4/2025 6:09:20 PM UTC | Revision 4023 | odkupiciel375]
 
 [Fixed] Fixed: Supply drop would be stuck mid air for proxy clients; fixes #1027
