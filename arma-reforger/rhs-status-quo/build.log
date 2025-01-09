@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/9/2025 10:53:07 PM UTC | Revision 4043 | odkupiciel375]
+
+[Fixed] Fixed: Ducked taped the warheads of GBU/KH/UMPK to conform to the AR bug that hinders the performance of large explosives - their AOE is somewhat reduced but because of that their damage should work (around 20m radius)
+
+
+
 [1/8/2025 9:53:21 PM UTC | Revision 4042 | da12thMonkey]
 
 [Other] Updated Canadian irr flag textures
