@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/10/2025 10:21:49 AM UTC | Revision 4044 | reyhard]
+
+[Fixed] Added unique numbers to Order parameter in faction config - this should prevent spawning problems connected with random order on server & client
+
+
+
 [1/9/2025 10:53:07 PM UTC | Revision 4043 | odkupiciel375]
 
 [Fixed] Fixed: Ducked taped the warheads of GBU/KH/UMPK to conform to the AR bug that hinders the performance of large explosives - their AOE is somewhat reduced but because of that their damage should work (around 20m radius)
