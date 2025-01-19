@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/19/2025 5:33:30 PM UTC | Revision 4068 | da12thMonkey]
+
+[Fixed] AN-94 did not allow reattaching bayonets once removed (added an invisible, non-removable attachment with the required ObstructionAttributes class)
+
+
+
 [1/19/2025 4:50:46 PM UTC | Revision 4067 | da12thMonkey]
 
 [Other] Reverted Altama Maritime shoes
