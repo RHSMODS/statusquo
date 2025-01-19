@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/19/2025 8:38:18 PM UTC | Revision 4069 | Vergy]
+
+[Other] Texture tweaks for BCT boots
+
+
+
 [1/19/2025 5:33:30 PM UTC | Revision 4068 | da12thMonkey]
 
 [Fixed] AN-94 did not allow reattaching bayonets once removed (added an invisible, non-removable attachment with the required ObstructionAttributes class)
