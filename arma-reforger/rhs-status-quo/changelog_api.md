@@ -9,6 +9,138 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.4070
+
+<!-- revision 4070 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4070
+
+_<mark style="color:red;">Date:</mark>_ Monday, January 20, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 122 (3948)
+
+_<mark style="color:red;">Changes:</mark>_ 20 additions, 9 improvements, 19 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Zip on panel 2.0 initial injection with 4 patterns(so far)
+
+[Added] LODs to Zip on panel 2.0 models
+
+[Added] CADPAT MT for crye rolled and crye pants
+
+[Added] New military trousers for ION. Prefab made and added to arsenal but not completed
+
+[Added] Added Wartech patch
+
+[Added] Multicam black texture for new military trousers
+
+[Added] Harris detachable bipod now fully functional with M27 and M38
+
+[Added] Added new AA CPC pouch presets
+
+[Added] Added Bagari vest
+
+[Added] CADPAT Temperate to ion
+
+[Added] Canadian flag patch
+
+[Added] M4 carbine with M203
+
+[Added] CAF_CCUE_Trousers
+
+[Added] Added pouch presets without belt for Coyote AVS and JPC
+
+[Added] Added Team Wendy Exfil Helmet
+
+[Added] Added ECH covers in all CADPAT pattern to ion arsenal
+
+[Added] Added ECH LC bare bones helmet to ION arsenal so covers can be used
+
+[Added] Added Spartan-3 Helmet
+
+[Added] Added 6b47 with OpsCore chinstrap
+
+[Added] BCT_Boots
+
+
+##### Improved
+
+
+[Improved] Slightly improved K4386 Gearbox and Engine
+
+[Improved] PEQ-16 visible illuminator was too aggressive
+
+[Improved] Tweaked illuminator (lights and lasers) light volume settings to make it more realistic
+
+[Improved] Added a little bit of glow to G45/G17 and M18/M17 tritium sights
+
+[Improved] Adjusted morph/shape-key for MSOB insignia patch, to conform with curvature of other patches
+
+[Improved] Slightly improved K4386 armored glass
+
+[Improved] Added new Reload Empty animation for both M4 platform, and M27 IAR
+
+[Improved] ION radio frequency encryption key is now "baguette"
+
+[Improved] Work on standardizing displayname strings for AFRF helmets
+
+
+##### Fixed
+
+
+[Fixed] Black screen when in a vehicle crash as passenger; fixes [#1031](https://github.com/RHSMODS/statusquo/issues/1031)
+
+[Fixed] Fixed colliders of some of the helmet ground models
+
+[Fixed] Helstar strobe has swapped mode descriptions in radial for IR modes
+
+[Fixed] 1PN138 had wrong name in radial
+
+[Fixed] Possible fix for scope misalignment on k17/k4386
+
+[Fixed] LBH ground model was missing collider; fixes issue [#1044](https://github.com/RHSMODS/statusquo/issues/1044)
+
+[Fixed] Fixed wrong position of mag detach action on SMAW
+
+[Fixed] Fixed broken safety animation on smaw
+
+[Fixed] Fixed: Supply drop would be stuck mid air for proxy clients; fixes [#1027](https://github.com/RHSMODS/statusquo/issues/1027)
+
+[Fixed] Fixed: Supply drop wouldn't spawn its impact sounds and particles
+
+[Fixed] Fixed: USAF supply crate wasn't be marked for GM as a faction object
+
+[Fixed] Fixed M4 lower markings
+
+[Fixed] Description strings for some M4A1s with M203, referred to M320 instead of M203
+
+[Fixed] Some TV110 pouch presets were blocking backpack slot when they shouldn't
+
+[Fixed] Some AACPC/AAAVS pouch presets with GMR packs were not blocking backpack slot
+
+[Fixed] Fixed: Ducked taped the warheads of GBU/KH/UMPK to conform to the AR bug that hinders the performance of large explosives - their AOE is somewhat reduced but because of that their damage should work (around 20m radius)
+
+[Fixed] Added unique numbers to Order parameter in faction config - this should prevent spawning problems connected with random order on server & client
+
+[Fixed] Fixed, wrong rotation of fire selector on M27
+
+[Fixed] AN-94 did not allow reattaching bayonets once removed (added an invisible, non-removable attachment with the required ObstructionAttributes class)
+
+
+##### Deleted
+
+
+[Removed] Removed vertical grip prototype
+
+
+
 ## 0.10.3948
 
 <!-- revision 3948 -->
