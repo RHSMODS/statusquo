@@ -9,6 +9,50 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.10.4075
+
+<!-- revision 4075 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4075
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, January 21, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 5 (4070)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Adjusted position and FOV of inventory preview for Bagariy vest
+
+
+##### Fixed
+
+
+[Fixed] Cleaned up camo1 M27 prefab
+
+[Fixed] Wrong color string in Bagariy pouch presets displayname
+
+[Fixed] Disabled grip test slot in M27IAR_base to prevent log spam
+
+[Fixed] Fixed more log
+
+
+##### Deleted
+
+
+
+
 ## 0.10.4070
 
 <!-- revision 4070 -->
