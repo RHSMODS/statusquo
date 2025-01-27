@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/27/2025 10:47:32 PM UTC | Revision 4085 | odkupiciel375]
+
+[Fixed] Fixed: Switch brightness action on garmim watches doesn't work; fixes #1071
+
+
+
 [1/27/2025 9:34:10 PM UTC | Revision 4084 | odkupiciel375]
 
 [Other] Changed: Cleanup of broken warheads data - this will surely affect damage output
