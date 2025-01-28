@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/28/2025 11:33:38 PM UTC | Revision 4087 | Soul_Assassin]
+
+[Other] 1.3: Fixed tank weapon shot sounds (had to redo them, they are not great, but at least they work); fixes #1077
+
+[Other] 1.3: Fixed 2S1 turret hanging out in mid air; fixes #1076
+
+
+
 [1/28/2025 8:36:33 PM UTC | Revision 4086 | Soul_Assassin]
 
 [Other] Cleanup of some log errors
