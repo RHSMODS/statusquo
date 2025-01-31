@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[1/31/2025 11:01:23 PM UTC | Revision 4090 | Soul_Assassin]
+
+[Added] M4 series can now mount bipods; fixes #1063
+
+[Other] Tweaked AK mounting and deployment points
+
+
+
 [1/31/2025 2:38:34 PM UTC | Revision 4089 | Soul_Assassin]
 
 [Added] AK74M and AK105 with Zenitco handguard rails can now mount bipods; work on #1063
