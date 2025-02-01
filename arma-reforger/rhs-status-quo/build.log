@@ -1,5 +1,35 @@
 <!-- buildlog insert -->
 
+[2/1/2025 12:18:29 AM UTC | Revision 4091 | Tactical_Toxic]
+
+[Fixed] Fixed SpectrumDevice animation log spam
+
+[Fixed] Fixed M4A1 BLOCK 2 was missing hierarchy component
+
+[Fixed] Fixed M4A1 URGI was missing hierarchy component
+
+[Fixed] Fixed 2A82 Sound was broken after 1.3 update
+
+[Fixed] Fixed 2A18 Sound was broken after 1.3 update
+
+[Fixed] Fixed 9M113 Sound was broken after 1.3 update
+
+[Improved] Added ability to reload K17 Epoch 2A42 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok 2A42 from outside on support stations
+
+[Improved] Added ability to reload K17 Epoch 9M113 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok 9M113 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok AGS from outside on support stations
+
+[Other] Part 1 of unholy shitpost
+
+[Other] Part 2 tomorrow, but only after i empty half of the bottle of jagermeister, im not touching this piece of tested code sober ever again
+
+
+
 [1/31/2025 11:01:23 PM UTC | Revision 4090 | Soul_Assassin]
 
 [Added] M4 series can now mount bipods; fixes #1063
