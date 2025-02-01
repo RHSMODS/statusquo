@@ -1,5 +1,33 @@
 <!-- buildlog insert -->
 
+[2/1/2025 12:50:19 PM UTC | Revision 4092 | Tactical_Toxic]
+
+[Improved] Added ability to reload K17 Epoch Tucha from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok Tucha from outside on support stations
+
+[Improved] Added ability to reload T-14 2A82 from outside on support stations
+
+[Improved] Added ability to reload T-14 Tucha from outside on support stations
+
+[Improved] Added ability to reload K4386 2A42 AP from outside on support stations
+
+[Improved] Added ability to reload K4386 2A42 HE from outside on support stations
+
+[Improved] Added ability to reload K4386 Tucha from outside on support stations
+
+[Added] Added new versions of Spectrum device for ION and RU
+
+[Improved] Improved all vest presets with backpack have shoulder offset now
+
+[Fixed] Fixed Pouch_Filbe_bandolier had no ground model
+
+[Fixed] Fixed debug worn model was turned on on several vests and vest presets
+
+[Other] Part 2 of unholy shitpost
+
+
+
 [2/1/2025 12:18:29 AM UTC | Revision 4091 | Tactical_Toxic]
 
 [Fixed] Fixed SpectrumDevice animation log spam
