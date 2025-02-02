@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/2/2025 8:21:03 PM UTC | Revision 4094 | Soul_Assassin]
+
+[Fixed] Vehicle turret zoom was broken after 1.3; fixes #1058
+
+
+
 [2/1/2025 1:02:30 PM UTC | Revision 4093 | Tactical_Toxic]
 
 [Fixed] Fixed wrong left hand position when m240 is deployed while standing or crouching
