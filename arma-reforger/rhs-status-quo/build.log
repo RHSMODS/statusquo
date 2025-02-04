@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/4/2025 7:51:54 PM UTC | Revision 4100 | Soul_Assassin]
+
+[Fixed] Fixed Vector and PDU ADS overlay delay; fixes #1051
+
+
+
 [2/4/2025 7:07:13 PM UTC | Revision 4099 | da12thMonkey]
 
 [Other] More string stuff for bebra
