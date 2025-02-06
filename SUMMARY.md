@@ -15,6 +15,7 @@
   * [Installation](arma-reforger/rhs-status-quo/installation.md)
   * [Server Setup](arma-reforger/rhs-status-quo/server-setup.md)
   * [Changelog](arma-reforger/rhs-status-quo/changelog/README.md)
+    * [0.10](arma-reforger/rhs-status-quo/changelog/0.10.md)
     * [0.9](arma-reforger/rhs-status-quo/changelog/0.9.md)
     * [0.8](arma-reforger/rhs-status-quo/changelog/0.8.md)
     * [0.7](arma-reforger/rhs-status-quo/changelog/0.7.md)
