@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/12/2025 11:22:42 PM UTC | Revision 4110 | Soul_Assassin]
+
+[Fixed] Fixed supply drop system spawning extra parachute that hangs in the air; fixes #1085
+
+
+
 [2/12/2025 10:32:41 PM UTC | Revision 4109 | Soul_Assassin]
 
 [Fixed] Possible fix for people having problem exiting vehicle triplex, thanks to scobaka; fixes #1084
