@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/12/2025 10:32:41 PM UTC | Revision 4109 | Soul_Assassin]
+
+[Fixed] Possible fix for people having problem exiting vehicle triplex, thanks to scobaka; fixes #1084
+
+[Fixed] Fixed several ActionContexts were being overwritten instead of being extended; fixes #1089
+
+
+
 [2/10/2025 4:34:29 PM UTC | Revision 4108 | MacroBebra]
 
 [Other] Added exfil cover to ai
