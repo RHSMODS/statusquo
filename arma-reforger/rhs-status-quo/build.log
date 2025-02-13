@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/13/2025 1:21:37 PM UTC | Revision 4112 | Soul_Assassin]
+
+[Fixed] Removed buggy NVG anim that was causing CTD; fixes #1081
+
+
+
 [2/13/2025 10:44:09 AM UTC | Revision 4111 | Soul_Assassin]
 
 [Fixed] 1.3: Fixed touch screen buttons not reacting to clicks; fixes #1080
