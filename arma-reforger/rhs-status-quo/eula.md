@@ -20,11 +20,13 @@ It is forbidden to distribute the content of this package by itself, or as part 
 
 You may NOT use the material for commercial purposes. This includes running this package on server instances that employ any monetization schemes, including, but not limited to, donate-reward systems. Approval of your monetization scheme by Bohemia Interactive (whether server-side or addon) does not exempt you from this EULA clause.
 
-&#x20;This add-on is provided exclusively for Arma Reforger and is not to be used for the purpose of military training.
+The only method of distribution allowed is the official[ Bohemia Interactive Arma Platform Workshop](https://reforger.armaplatform.com/workshop). Any and all other methods of distribution are prohibited.
 
-&#x20;There will be no individual permissions outside of our EULA.
+This add-on is provided exclusively for Arma Reforger and is not to be used for the purpose of military training.
 
-&#x20;Please note that the above-mentioned agreement gives Red Hammer Studios the right to waive any of the conditions at our discretion.
+There will be no individual permissions outside of our EULA.
+
+Please note that the above-mentioned agreement gives Red Hammer Studios the right to waive any of the conditions at our discretion.
 
 ### Derivative content&#x20;
 
@@ -59,7 +61,7 @@ This includes but is not limited to, any use of Russian war markings (Z, O, V, e
 
 ### No Monetization
 
-We have a strict NO monetization policy for our Status Quo for Arma Reforger
+We have a strict NO monetization policy for our Status Quo mod for Arma Reforger
 
 We consider any sale--money paid in exchange for any direct in-game return--to be a breach of the above non-commercial clause of the EULA.
 
@@ -78,6 +80,7 @@ Due to repeated infringements of the existing Red Hammer Studios EULA and/or Boh
 * Dark Raider Group / DarkGRU server(s) and its modgroup
 * Sierra Golf and / or any affiliated persons
 * Joint Task Force Miller and / or any affiliated persons
+* Liberty Interactive and / or any affiliated persons
 
 This list will be constantly updated
 
