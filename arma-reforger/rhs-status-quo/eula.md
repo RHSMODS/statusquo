@@ -26,13 +26,13 @@ This add-on is provided exclusively for Arma Reforger and is not to be used for 
 
 There will be no individual permissions outside of our EULA.
 
-Please note that the above-mentioned agreement gives Red Hammer Studios the right to waive any of the conditions at our discretion.
+By accepting this agreement you also grant Red Hammer Studios the right to waive any of the conditions at our discretion.
 
 ### Derivative content&#x20;
 
 Derivative content refers to any and all modifications based on RHS content. It includes any dependency mods that make use of, or make changes to, our existing files, including re-textures.
 
-&#x20;In general, we choose to tolerate derivative mods based on our original content, as long as these mods do not negatively impact the image of RHS, promote terrorism, extremism, pornography, nudity, or any other immoral acts or behaviors.
+In general, we choose to tolerate derivative mods based on our original content, as long as these mods do not negatively impact the image of RHS, promote terrorism, extremism, pornography, nudity, or any other immoral acts or behaviors.
 
 However, under the RHS Non-Derivatives End User Agreement, we reserve the right to enforce our non-derivatives clause to protect our intellectual property, without prior notice or explanations, at our discretion, in accordance with but not limited to, the present EULA and/or individual RHS members/author's requests.
 
@@ -43,7 +43,7 @@ For any derivative content to be **tolerated**, a set of rules needs to be follo
 * All derivative content must be published under a similar non-derivative license (BI's _APL-ND, for instance_).
 * All derivative content must have a link in its description to this [EULA page](https://docs.rhsmods.org/rhs-status-quo-user-documentation/arma-reforger/rhs-status-quo/eula)
 
-Any breach of the above rules will automatically lead to enforcement of our non-derivative clause in our license and removal of the derivative mod from Bohemia's Interactive Workbench.
+Any breach of the above rules will automatically lead to enforcement of our non-derivative clause in our license and removal of the derivative mod from Bohemias Interactive's Workshop.
 
 ### No depiction of ongoing wars
 
@@ -53,17 +53,15 @@ Any depiction of the ongoing invasion of Russian forces in Ukraine using any der
 
 This includes but is not limited to, any use of Russian war markings (Z, O, V, etc) and/or Ukrainian war markings on any existing or future RHS assets.
 
-&#x20;Any depiction of the ongoing conflict between Israeli forces and Palestine using any derivative content based of RHS assets is strictly PROHIBITED.
+Any depiction of the ongoing conflict between Israeli forces and Palestine using any derivative content based of RHS assets is strictly PROHIBITED. **There will be no exceptions**.
 
-&#x20;There will be no exceptions.
-
-&#x20;Per our non-derivative license, we will take all the required legal steps to protect our image, our content, and our users from such depictions, including takedowns, C\&D, and asking for infringements/requesting Workshop/Workbench removal from the Game's developers, Bohemia Interactive.
+Per our non-derivative license, we will take all the required legal steps to protect our image, our content, and our users from such depictions, including takedowns, C\&D, and asking for infringements/requesting Workshop/Workbench removal from the Game's developers, Bohemia Interactive.
 
 ### No Monetization
 
-We have a strict NO monetization policy for our Status Quo mod for Arma Reforger
+We have a strict NO monetization policy for 3rd parties using RHS: Status Quo mod for Arma Reforger.
 
-We consider any sale--money paid in exchange for any direct in-game return--to be a breach of the above non-commercial clause of the EULA.
+We consider any sale (money paid in exchange for any direct in-game return) to be a breach of the above non-commercial clause of the EULA.
 
 &#x20;Here are a few of the most common offenses (this is by no means an exhaustive list):
 
@@ -75,14 +73,14 @@ We consider any sale--money paid in exchange for any direct in-game return--to b
 
 ### Limitations
 
-Due to repeated infringements of the existing Red Hammer Studios EULA and/or Bohemia's Interactive Terms of Service and/or other reasons, the following groups/persons are STRICTLY PROHIBITED from using RHS mods and creating any derivative content based on RHS Status Quo or any other past, present, or future RHS mods:
+Due to repeated infringements of the existing Red Hammer Studios EULA and/or Bohemia's Interactive Terms of Service and/or other reasons, the following groups/persons are STRICTLY PROHIBITED from using RHS mods and creating any derivative content based on RHS: Status Quo or any other past, present, or future RHS mods:
 
 * Dark Raider Group / DarkGRU server(s) and its modgroup
 * Sierra Golf and / or any affiliated persons
 * Joint Task Force Miller and / or any affiliated persons
 * Liberty Interactive and / or any affiliated persons
 
-This list will be constantly updated
+This list will be constantly updated.
 
 #### InstaLOD
 
