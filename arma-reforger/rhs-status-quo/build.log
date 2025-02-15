@@ -1,5 +1,51 @@
 <!-- buildlog insert -->
 
+[2/15/2025 12:05:11 PM UTC | Revision 4113 | Tactical_Toxic]
+
+[Improved] Added modeled soft armor to AVS
+
+[Improved] Added modeled soft armor to AVS cummerbund 649
+
+[Improved] Added modeled soft armor to AVS cummerbund radio
+
+[Improved] Added modeled soft armor to AVS neck protection
+
+[Improved] Added modeled soft armor to Bagariy
+
+[Improved] Added modeled soft armor to AA CPC
+
+[Improved] Added modeled soft armor to AA CPC neck protection
+
+[Improved] Added modeled soft armor to ARS groin protection
+
+[Improved] Added modeled soft armor to ARS triple groin protection
+
+[Improved] Added modeled soft armor to NCPC
+
+[Improved] Added modeled soft armor to PC GEN 2
+
+[Improved] Added modeled soft armor to PC GEN 3
+
+[Improved] Added modeled soft armor to PC GEN 3 light
+
+[Improved] Added modeled soft armor to 6B45
+
+[Improved] Added modeled soft armor to 6B48
+
+[Improved] Added modeled soft armor to 6B45 Neck protection
+
+[Improved] Added modeled soft armor to Taktika
+
+[Improved] Added modeled soft armor to Taktika groin protection
+
+[Improved] Added modeled soft armor to Taktika shoulder protection
+
+[Improved] Added modeled soft armor to TV-102 neck protection
+
+[Other] Cleanup of testworld scene
+
+
+
 [2/13/2025 1:21:37 PM UTC | Revision 4112 | Soul_Assassin]
 
 [Fixed] Removed buggy NVG anim that was causing CTD; fixes #1081
