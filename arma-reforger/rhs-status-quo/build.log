@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/16/2025 12:08:50 AM UTC | Revision 4116 | Soul_Assassin]
+
+[Fixed] 1.3: 2S1 no longer crashes on destruction
+
+[Other] T-14 is still to fix
+
+
+
 [2/15/2025 2:35:14 PM UTC | Revision 4115 | Soul_Assassin]
 
 [Fixed] 1.3: Fixed K-17 crashing to desktop when moving AI into driver's seat; fixes #1087
