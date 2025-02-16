@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/16/2025 9:19:46 PM UTC | Revision 4117 | Soul_Assassin]
+
+[Fixed] Added a workaround for crashes happening when tracked vehicles are destroyed.
+
+[Other] Potentially needs to be reverted when BI investigates internally
+
+
+
 [2/16/2025 12:08:50 AM UTC | Revision 4116 | Soul_Assassin]
 
 [Fixed] 1.3: 2S1 no longer crashes on destruction
