@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/17/2025 8:09:25 AM UTC | Revision 4118 | reyhard]
+
+[Improved] Added collider history component to RHS Vest base + SCR_ArmorDamageManagerComponent so it is possible to knock out people with pistols even if bullet doesn't penetrate soft armor
+
+
+
 [2/16/2025 9:19:46 PM UTC | Revision 4117 | Soul_Assassin]
 
 [Fixed] Added a workaround for crashes happening when tracked vehicles are destroyed.
