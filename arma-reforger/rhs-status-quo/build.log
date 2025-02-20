@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/20/2025 7:29:08 PM UTC | Revision 4125 | Soul_Assassin]
+
+[Other] Replaced old HitZoneContainerComponents in all vehicle parts; destruction now at least not crashing anything; fixes #1095
+
+
+
 [2/20/2025 6:04:37 PM UTC | Revision 4124 | Tactical_Toxic]
 
 [Improved] Added probe volumes to K-17 and T-14
