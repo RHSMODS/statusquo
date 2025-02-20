@@ -9,6 +9,111 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4123
+
+<!-- revision 4123 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4123
+
+_<mark style="color:red;">Date:</mark>_ Thursday, February 20, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 21 (4102)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 24 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added modeled soft armor to AVS
+
+[Improved] Added modeled soft armor to AVS cummerbund 649
+
+[Improved] Added modeled soft armor to AVS cummerbund radio
+
+[Improved] Added modeled soft armor to AVS neck protection
+
+[Improved] Added modeled soft armor to Bagariy
+
+[Improved] Added modeled soft armor to AA CPC
+
+[Improved] Added modeled soft armor to AA CPC neck protection
+
+[Improved] Added modeled soft armor to ARS groin protection
+
+[Improved] Added modeled soft armor to ARS triple groin protection
+
+[Improved] Added modeled soft armor to NCPC
+
+[Improved] Added modeled soft armor to PC GEN 2
+
+[Improved] Added modeled soft armor to PC GEN 3
+
+[Improved] Added modeled soft armor to PC GEN 3 light
+
+[Improved] Added modeled soft armor to 6B45
+
+[Improved] Added modeled soft armor to 6B48
+
+[Improved] Added modeled soft armor to 6B45 Neck protection
+
+[Improved] Added modeled soft armor to Taktika
+
+[Improved] Added modeled soft armor to Taktika groin protection
+
+[Improved] Added modeled soft armor to Taktika shoulder protection
+
+[Improved] Added modeled soft armor to TV-102 neck protection
+
+[Improved] Added railcovers with grip for m27 back to arsenal
+
+[Improved] Added collider history component to RHS Vest base + SCR_ArmorDamageManagerComponent so it is possible to knock out people with pistols even if bullet doesn't penetrate soft armor
+
+[Improved] Made helmet attachment masses more realistic; fixes [#1050](https://github.com/RHSMODS/statusquo/issues/1050)
+
+[Improved] Orion GPS device brightness reduced so it no longer burns your retinas off at night; fixed [#1055](https://github.com/RHSMODS/statusquo/issues/1055)
+
+
+##### Fixed
+
+
+[Fixed] Possible fix for people having problem exiting vehicle triplex, thanks to scobaka; fixes [#1084](https://github.com/RHSMODS/statusquo/issues/1084)
+
+[Fixed] Fixed several ActionContexts were being overwritten instead of being extended; fixes [#1089](https://github.com/RHSMODS/statusquo/issues/1089)
+
+[Fixed] Fixed supply drop system spawning extra parachute that hangs in the air; fixes [#1085](https://github.com/RHSMODS/statusquo/issues/1085)
+
+[Fixed] 1.3: Fixed touch screen buttons not reacting to clicks; fixes [#1080](https://github.com/RHSMODS/statusquo/issues/1080)
+
+[Fixed] Removed buggy NVG anim that was causing CTD; fixes [#1081](https://github.com/RHSMODS/statusquo/issues/1081)
+
+[Fixed] 1.3: Fixed K-17 crashing to desktop when moving AI into driver's seat; fixes [#1087](https://github.com/RHSMODS/statusquo/issues/1087)
+
+[Fixed] 1.3: 2S1 no longer crashes on destruction
+
+[Fixed] Added a workaround for crashes happening when tracked vehicles are destroyed.
+
+[Fixed] Fixed AOR2 FROG shit missing blood texture; fixes [#1092](https://github.com/RHSMODS/statusquo/issues/1092)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4102
 
 <!-- revision 4102 -->
