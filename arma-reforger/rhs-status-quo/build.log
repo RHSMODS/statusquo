@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/20/2025 9:45:56 PM UTC | Revision 4126 | Tactical_Toxic]
+
+[Other] Fixed broken weights on 6b45neckarmro
+
+
+
 [2/20/2025 7:29:08 PM UTC | Revision 4125 | Soul_Assassin]
 
 [Other] Replaced old HitZoneContainerComponents in all vehicle parts; destruction now at least not crashing anything; fixes #1095
