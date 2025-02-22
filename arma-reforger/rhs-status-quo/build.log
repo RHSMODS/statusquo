@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/22/2025 11:41:21 PM UTC | Revision 4129 | Soul_Assassin]
+
+[Fixed] PlaySound causing workbench crash when loading player with PEQs in default loadout; fixes #1096
+
+
+
 [2/22/2025 12:37:23 PM UTC | Revision 4128 | Tactical_Toxic]
 
 [Other] Probably fixed log spam and probably fixed some sound issues. Or just broke something
