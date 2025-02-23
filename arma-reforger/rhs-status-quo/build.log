@@ -1,5 +1,25 @@
 <!-- buildlog insert -->
 
+[2/23/2025 1:22:10 PM UTC | Revision 4131 | Tactical_Toxic]
+
+[Other] A bit of cleanup here and there
+
+[Other] Fixed duplicated balclava_v1
+
+[Other] Added colliderhistory component to groin protections and neck protections
+
+[Other] Fixed DebugWorn model on some avs parts
+
+[Other] Updated mi8 pylons
+
+[Other] Updated t14 and 2s1 shells to be somehow mortarlike, needs to be tested in MP
+
+[Other] Added backblast to smaw (but it wasn't working for me, as well as vanilla rpg one)
+
+[Other] Unsuccessfull attempt to revive exps mounted on m2
+
+
+
 [2/23/2025 1:42:47 AM UTC | Revision 4130 | gurdy]
 
 [Other] Initial matech BUIS commit
