@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4136
+
+<!-- revision 4136 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4136
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, February 25, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 13 (4123)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added probe volumes to K-17 and T-14
+
+[Improved] Added new left hand poses for different m4 handguards
+
+
+##### Fixed
+
+
+[Fixed] PMF screens were not operatable by when you were possessing an AI; fixes [#980](https://github.com/RHSMODS/statusquo/issues/980)
+
+[Fixed] PlaySound causing workbench crash when loading player with PEQs in default loadout; fixes [#1096](https://github.com/RHSMODS/statusquo/issues/1096)
+
+[Fixed] Fixed Kac rear iron sight was using old model
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4123
 
 <!-- revision 4123 -->
