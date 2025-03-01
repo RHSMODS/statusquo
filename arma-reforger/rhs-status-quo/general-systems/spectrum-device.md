@@ -24,7 +24,7 @@ layout:
 
 ## Part 1: Introduction
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
 
 The Spectrum Device was developed thanks to advances in radio reconnaissance. It utilizes advanced processing technologies to detect and process signals in 3D space using a single receiver.
 

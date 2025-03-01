@@ -44,6 +44,7 @@
       * [USMC](arma-reforger/rhs-status-quo/blufor/what-is-blufor/usmc.md)
     * [Uniforms](arma-reforger/rhs-status-quo/blufor/uniforms/README.md)
       * [Vests](arma-reforger/rhs-status-quo/blufor/uniforms/vests/README.md)
+        * [APC Vest](arma-reforger/rhs-status-quo/blufor/uniforms/vests/apc-vest.md)
         * [PC Gen III](arma-reforger/rhs-status-quo/blufor/uniforms/vests/pc-gen-iii.md)
       * [Helmets](arma-reforger/rhs-status-quo/blufor/uniforms/helmets/README.md)
         * [3M™ PELTOR™ ComTac™ VI](arma-reforger/rhs-status-quo/blufor/uniforms/helmets/3m-tm-peltor-tm-comtac-tm-vi.md)

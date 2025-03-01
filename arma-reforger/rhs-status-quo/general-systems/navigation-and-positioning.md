@@ -12,7 +12,7 @@ This includes things like DAGR (BLUFOR) and Orion (REDFOR). They can be equipped
 
 Go to the device dedicated documentation page to discover modes of operation.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>DAGR in OFF mode</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>DAGR in OFF mode</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>DAGR displaying position and elevation</p></figcaption></figure>
 
