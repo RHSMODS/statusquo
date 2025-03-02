@@ -117,6 +117,7 @@
       * [AK-74M](arma-reforger/rhs-status-quo/redfor/weapons/ak-74m.md)
       * [AKS-74UN](arma-reforger/rhs-status-quo/redfor/weapons/aks-74un.md)
       * [RPK-74M](arma-reforger/rhs-status-quo/redfor/weapons/rpk-74m.md)
+      * [AK-105](arma-reforger/rhs-status-quo/redfor/weapons/ak-105.md)
       * [AN-94](arma-reforger/rhs-status-quo/redfor/weapons/an-94.md)
     * [Vehicles](arma-reforger/rhs-status-quo/redfor/vehicles/README.md)
       * [K-17 Boomerang](arma-reforger/rhs-status-quo/redfor/vehicles/k-17-boomerang.md)
