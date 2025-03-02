@@ -12,5 +12,5 @@ The M4A1 Block II is primarily used by special operations forces, who require a 
 
 
 
-<table><thead><tr><th width="203"></th><th></th></tr></thead><tbody><tr><td>Weapon Type:</td><td>Assault Rifle</td></tr><tr><td>Calibre:</td><td></td></tr><tr><td>Length:</td><td></td></tr><tr><td>Barrel:</td><td></td></tr><tr><td>Sights:</td><td></td></tr><tr><td>Optics:</td><td></td></tr><tr><td>Rail System:</td><td></td></tr><tr><td>Buttstock:</td><td></td></tr><tr><td>Selector:</td><td></td></tr><tr><td>Magazine:</td><td></td></tr><tr><td>Muzzle Velocity:</td><td></td></tr><tr><td>Variants (RHS):</td><td></td></tr><tr><td>Factions Arsenal:</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="203"></th><th></th></tr></thead><tbody><tr><td>Weapon Type:</td><td>Assault Rifle</td></tr><tr><td>Calibre:</td><td></td></tr><tr><td>Length:</td><td></td></tr><tr><td>Barrel:</td><td></td></tr><tr><td>Sights:</td><td></td></tr><tr><td>Optics:</td><td></td></tr><tr><td>Rail System:</td><td></td></tr><tr><td>Buttstock:</td><td></td></tr><tr><td>Selector:</td><td></td></tr><tr><td>Magazine:</td><td></td></tr><tr><td>Muzzle Velocity:</td><td></td></tr><tr><td>Variants (RHS):</td><td></td></tr><tr><td>Factions Arsenal:</td><td>v</td></tr></tbody></table>
 

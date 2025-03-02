@@ -12,5 +12,5 @@ The Glock 45 is widely adopted by law enforcement agencies and military units, p
 
 
 
-<table><thead><tr><th width="203"></th><th></th></tr></thead><tbody><tr><td>Weapon Type:</td><td>Pistol</td></tr><tr><td>Calibre:</td><td></td></tr><tr><td>Length:</td><td></td></tr><tr><td>Barrel:</td><td></td></tr><tr><td>Sights:</td><td></td></tr><tr><td>Optics:</td><td></td></tr><tr><td>Rail System:</td><td></td></tr><tr><td>Buttstock:</td><td></td></tr><tr><td>Selector:</td><td></td></tr><tr><td>Magazine:</td><td></td></tr><tr><td>Muzzle Velocity:</td><td></td></tr><tr><td>Variants (RHS):</td><td></td></tr><tr><td>Factions Arsenal:</td><td>RHS USMS, RHS ION</td></tr></tbody></table>
+<table><thead><tr><th width="203"></th><th></th></tr></thead><tbody><tr><td>Weapon Type:</td><td>Pistol</td></tr><tr><td>Calibre:</td><td></td></tr><tr><td>Length:</td><td></td></tr><tr><td>Barrel:</td><td></td></tr><tr><td>Sights:</td><td></td></tr><tr><td>Optics:</td><td></td></tr><tr><td>Rail System:</td><td></td></tr><tr><td>Buttstock:</td><td></td></tr><tr><td>Selector:</td><td></td></tr><tr><td>Magazine:</td><td></td></tr><tr><td>Muzzle Velocity:</td><td></td></tr><tr><td>Variants (RHS):</td><td></td></tr><tr><td>Factions Arsenal:</td><td>RHS USMC, RHS ION</td></tr></tbody></table>
 
