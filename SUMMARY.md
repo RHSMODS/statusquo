@@ -60,6 +60,7 @@
       * [Vector 21](arma-reforger/rhs-status-quo/blufor/gadgets/vector-21.md)
     * [Weapons](arma-reforger/rhs-status-quo/blufor/weapons/README.md)
       * [M17 / M18](arma-reforger/rhs-status-quo/blufor/weapons/m17-m18.md)
+      * [M27](arma-reforger/rhs-status-quo/blufor/weapons/m27.md)
       * [M27 IAR](arma-reforger/rhs-status-quo/blufor/weapons/m27-iar.md)
       * [M4](arma-reforger/rhs-status-quo/blufor/weapons/m4.md)
       * [M4A1](arma-reforger/rhs-status-quo/indfor/weapons/m4a1.md)

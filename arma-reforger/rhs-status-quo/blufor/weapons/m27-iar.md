@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # M27 IAR
 
 The M27 Infantry Automatic Rifle (IAR) is a lightweight, magazine-fed 5.56mm weapon used by the United States Marine Corps. It is intended to enhance an automatic rifleman's maneuverability and displacement speed, and it is used by the USMC to provide automatic, suppressive fire for infantry squads. The M27 is a variant of the Heckler & Koch HK416, and it was selected in 2010 to replace the M249 Squad Automatic Weapon (SAW) in Infantry and Light Armored Reconnaissance Battalions.
