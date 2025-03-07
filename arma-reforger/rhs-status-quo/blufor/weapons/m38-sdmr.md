@@ -3,6 +3,8 @@
 **Overview:**\
 The M38 SDMR is a designated marksman rifle utilized by the United States Marine Corps (USMC), designed to enhance the precision engagement capabilities of infantry squads. Essentially an M27 Infantry Automatic Rifle (IAR) configured for the designated marksman role, the M38 provides accurate fire at extended ranges, bridging the gap between standard service rifles and sniper platforms.
 
+<figure><img src="../../../../.gitbook/assets/M38.jpg" alt=""><figcaption></figcaption></figure>
+
 **Development & Background:**\
 The M38 SDMR was developed to address the need for a squad-level marksman rifle capable of engaging targets beyond the effective range of standard-issue rifles. Building upon the reliable M27 IAR platform, the M38 incorporates enhancements tailored for precision shooting. A key modification is the integration of the Leupold TS-30A2 Mark 4 MR/T 2.5-8×36mm variable power scope, offering greater magnification compared to optics previously used on the M27. The designation "M38" follows the naming convention similar to the M27, honoring the 3rd Battalion, 8th Marines, the unit that tested the rifle.
 

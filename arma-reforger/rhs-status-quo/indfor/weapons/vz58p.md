@@ -3,6 +3,8 @@
 **Overview:**\
 The Vz. 58P is a Czech-designed assault rifle chambered in 7.62x39mm, developed as a lightweight and ergonomic alternative to the AK-47. Despite sharing the same caliber and external resemblance to the AK platform, the Vz. 58P features a completely different internal mechanism, utilizing a short-stroke gas piston system for improved handling and reduced recoil. The "P" designation signifies the fixed stock variant, designed for standard infantry use.
 
+<figure><img src="../../../../.gitbook/assets/SA58P.jpg" alt=""><figcaption></figcaption></figure>
+
 **Development & Background:**\
 The Vz. 58 (Vzor 58, meaning "Model 58") was developed in Czechoslovakia in the late 1950s to replace older bolt-action rifles and submachine guns in service. Unlike many Warsaw Pact nations that adopted the AK-47 and later AKM, Czechoslovakia opted to develop its own indigenous rifle, incorporating a milled steel receiver, a tilting bolt locking system, and a short-stroke gas piston. The Vz. 58P variant features a solid wooden stock, differentiating it from the Vz. 58V, which has a folding metal stock designed for airborne troops.
 
