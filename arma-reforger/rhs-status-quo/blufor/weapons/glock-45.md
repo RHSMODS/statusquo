@@ -3,6 +3,8 @@
 **Overview:**\
 The Glock 45 is a semi-automatic pistol chambered in 9x19mm, designed as a crossover pistol combining the full-size frame of the Glock 17 with the compact slide of the Glock 19. Featuring Gen5 upgrades, such as an ambidextrous slide release, flared magazine well, and improved trigger system, the Glock 45 is optimized for duty use and tactical applications.
 
+<figure><img src="../../../../.gitbook/assets/G45.jpg" alt=""><figcaption></figcaption></figure>
+
 **Development & Background:**\
 The Glock 45 was developed as an evolution of the Glock 19X, originally designed for a U.S. military contract. Unlike the 19X, which features a coyote-coloured finish, the Glock 45 comes in an all-black design, tailored for law enforcement and tactical users. The crossover design allows for a larger grip surface for better control while retaining the shorter slide for improved maneuverability. With Gen5 enhancements, including the removal of finger grooves and a precision barrel, the Glock 45 provides an optimized balance between accuracy, capacity, and handling.
 
