@@ -3,6 +3,7 @@ description: >-
   HARRIS Falcon systems are integrated systems designed to work in harsh
   environments (Battlefields, Disasters). They are able to provide communication
   and connectivity in various spectra.
+hidden: true
 cover: ../../../../.gitbook/assets/222805.jpg
 coverY: 0
 ---
