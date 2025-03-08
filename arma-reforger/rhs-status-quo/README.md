@@ -16,6 +16,8 @@ So what is it going to be about? Well after quite some internal discussions and 
 
 {% embed url="https://youtu.be/DmWAHs1G6Y8" %}
 
+{% embed url="https://www.youtube.com/watch?v=6N7-trOFPFk" %}
+
 {% hint style="warning" %}
 This documentation is constantly under construction. Please be patient with us!
 {% endhint %}
