@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/9/2025 11:50:24 AM UTC | Revision 4162 | Tactical_Toxic]
+
+[Other] Fix for log spam for m40 and gm84 handling sounds
+
+[Other] One day we will have notes about changes in sounds system, so we don't have to discover them by ourselves and wonder how to fit them.
+
+
+
 [3/9/2025 11:18:23 AM UTC | Revision 4161 | Cyborgmatt]
 
 [Fixed] Fixed the PSQ-23A's collider material on the MBS
