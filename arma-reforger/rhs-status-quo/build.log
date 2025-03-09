@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/9/2025 10:11:04 PM UTC | Revision 4173 | Cyborgmatt]
+
+[Fixed] Cleaned up mission config files by removing outdated attributes
+
+
+
 [3/9/2025 8:52:38 PM UTC | Revision 4172 | Tactical_Toxic]
 
 [Other] Basic implementation of placeable radio beacon that will show up on spectrum device
