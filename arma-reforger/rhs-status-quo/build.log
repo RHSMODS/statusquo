@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/9/2025 4:51:07 PM UTC | Revision 4170 | Soul_Assassin]
+
+[Fixed] Turret stabilization controls refactored into own context, should not show up on vehicles where they are not supposed to; fixes #1109
+
+
+
 [3/9/2025 2:49:16 PM UTC | Revision 4169 | Tactical_Toxic]
 
 [Other] Another work around for a fucking cas, can we just stop modding this game please
