@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # AN/PEQ-15
 
 The AN/PEQ-15, also known as the PEQ-15, is a military laser aiming device used by the U.S. Army and Navy. It incorporates visible and infrared lasers along with an infrared illuminator to enhance firearm accuracy, particularly in low-light and nighttime conditions. The visible laser aids daytime aiming, while the infrared components are utilized with night vision gear for precise targeting in complete darkness. The AN/PEQ-15 is commonly mounted on firearms for military and law enforcement applications, where accuracy and low-light performance are critical.
