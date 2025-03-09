@@ -33,6 +33,7 @@
     * [Close Air Support](arma-reforger/rhs-status-quo/general-systems/close-air-support.md)
     * [Navigation and Positioning](arma-reforger/rhs-status-quo/general-systems/navigation-and-positioning.md)
     * [EARHS](arma-reforger/rhs-status-quo/general-systems/earhs.md)
+    * [GPS Radio Beacon](arma-reforger/rhs-status-quo/general-systems/gps-radio-beacon.md)
     * [Default Key Bindings](arma-reforger/rhs-status-quo/general-systems/default-key-binds.md)
   * [For Developers](arma-reforger/rhs-status-quo/for-developers/README.md)
     * [Sliding Attachments](arma-reforger/rhs-status-quo/for-developers/sliding-attachments.md)
