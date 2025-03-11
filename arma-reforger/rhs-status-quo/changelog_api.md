@@ -9,6 +9,65 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4175
+
+<!-- revision 4175 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4175
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 11, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 39 (4136)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 7 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Testing Matech alpha test - will probably switch to some custom function controlling alpha mul instead
+
+[Improved] Added countermeasure flares to F/A-18 CAS
+
+[Improved] Added faction affiliation to wearable items; fixes [#1099](https://github.com/RHSMODS/statusquo/issues/1099)
+
+
+##### Fixed
+
+
+[Fixed] Fixed equip and pickup sounds for the MK153 container
+
+[Fixed] Fixed the PSQ-23A's collider material on the MBS
+
+[Fixed] Fixed hand slot issues in the inventory; fixes [#1100](https://github.com/RHSMODS/statusquo/issues/1100)
+
+[Fixed] Turret stabilization controls refactored into own context, should not show up on vehicles where they are not supposed to; fixes [#1109](https://github.com/RHSMODS/statusquo/issues/1109)
+
+[Fixed] Cleaned up mission config files by removing outdated attributes
+
+[Fixed] Fixed CAS sounds spawning in wrong location in MP; fixes [#1102](https://github.com/RHSMODS/statusquo/issues/1102)
+
+[Fixed] Fixed supply drop boxes disappearing on landing; fixes [#1112](https://github.com/RHSMODS/statusquo/issues/1112)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4136
 
 <!-- revision 4136 -->
