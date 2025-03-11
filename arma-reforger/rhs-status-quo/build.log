@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/11/2025 10:42:33 PM UTC | Revision 4175 | Cyborgmatt]
+
+[Fixed] Fixed SR3M projectile spawn position
+
+
+
 [3/11/2025 9:10:18 PM UTC | Revision 4174 | Soul_Assassin]
 
 [Fixed] Fixed CAS sounds spawning in wrong location in MP; fixes #1102
