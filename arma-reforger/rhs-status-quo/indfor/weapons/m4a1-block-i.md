@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # M4A1 Block I
 
 **Overview:**\
