@@ -8,6 +8,8 @@ The Glock 17 is a semi-automatic pistol chambered in 9x19mm, known for its relia
 **Development & Background:**\
 Designed in the 1980s, the Glock 17 was developed to meet military and police requirements for a modern, high-capacity sidearm. Unlike traditional metal-framed pistols, the Glock 17 utilizes a polymer frame, making it lighter and more durable while maintaining a corrosion-resistant design. Its striker-fired action and safe-action trigger system simplify operation by eliminating external safeties, allowing for a faster response in high-pressure situations. The Glock 17’s 17+1 round capacity was a significant improvement over many pistols of its era, providing increased firepower for duty use.
 
+<figure><img src="../../../../.gitbook/assets/G17-2.jpg" alt=""><figcaption></figcaption></figure>
+
 **Service & Usage:**\
 The Glock 17 has been widely adopted by military, law enforcement, and special operations units worldwide, valued for its ease of maintenance, consistent performance, and adaptability. It remains a popular choice for self-defense, duty carry, and competitive shooting, with its modular design allowing for customization with optics, suppressors, and tactical lights. The pistol’s combination of accuracy, reliability, and simplicity ensures its continued relevance in modern armed forces and law enforcement agencies.
 
