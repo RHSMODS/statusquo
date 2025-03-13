@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/13/2025 11:29:55 PM UTC | Revision 4179 | Soul_Assassin]
+
+[Fixed] K17 various crew positions would cause crash if open door action was activated; fixes #1115
+
+
+
 [3/13/2025 8:51:29 PM UTC | Revision 4178 | Tactical_Toxic]
 
 [Other] Audio volume tweaks for CAS  engine sounds
