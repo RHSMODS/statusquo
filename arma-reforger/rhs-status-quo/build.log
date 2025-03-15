@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/15/2025 8:27:03 PM UTC | Revision 4180 | Tactical_Toxic]
+
+[Other] Minor k17 interior fixes
+
+
+
 [3/13/2025 11:29:55 PM UTC | Revision 4179 | Soul_Assassin]
 
 [Fixed] K17 various crew positions would cause crash if open door action was activated; fixes #1115
