@@ -9,6 +9,59 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4191
+
+<!-- revision 4191 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4191
+
+_<mark style="color:red;">Date:</mark>_ Friday, March 21, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 16 (4175)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added GPS RadioBeacon
+
+
+##### Improved
+
+
+[Improved] Replaced AN/PEQ-15 with AN/PSQ-23B on M1025 with AN/PAS-13G
+
+[Improved] Added rangefinder with auto zeroing to M1025 with AN/PAS-13G
+
+[Improved] Added Tucha smokes to K17 Epoch driver
+
+
+##### Fixed
+
+
+[Fixed] Fixed minor offset of faradey 906 boots
+
+[Fixed] K17 various crew positions would cause crash if open door action was activated; fixes [#1115](https://github.com/RHSMODS/statusquo/issues/1115)
+
+[Fixed] 1.3: Fixed broken optic PIP material references; fixes [#1118](https://github.com/RHSMODS/statusquo/issues/1118)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4175
 
 <!-- revision 4175 -->
