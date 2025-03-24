@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/24/2025 9:24:02 PM UTC | Revision 4205 | Soul_Assassin]
+
+[Other] VCOGs with no lens caps do not show the action any more. Added RHS_AdjustSignalAction.c class that can be disabled in downstream prefabs.
+
+
+
 [3/23/2025 10:15:56 PM UTC | Revision 4204 | Tactical_Toxic]
 
 [Other] Fix for m4 lefthandpose when deployed
