@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[3/24/2025 11:18:21 PM UTC | Revision 4206 | Tactical_Toxic]
+
+[Improved] Improved Added lods to K17 seats
+
+[Fixed] Fixed all destroyed k4386 turrets used default green paint
+
+[Other] Fuckery with portals. Now we have them on k17. but they do nothing :pepethumbsup:
+
+
+
 [3/24/2025 9:24:02 PM UTC | Revision 4205 | Soul_Assassin]
 
 [Other] VCOGs with no lens caps do not show the action any more. Added RHS_AdjustSignalAction.c class that can be disabled in downstream prefabs.
