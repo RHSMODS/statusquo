@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/24/2025 11:47:49 PM UTC | Revision 4207 | da12thMonkey]
+
+[Other] Fixed SCO reticle in PiP (no more extruded crosshair)
+
+[Other] Adjusted VCOG optic settings so FOV and magnification is consistent between PiP and 1x peripheral view, and 2D version
+
+
+
 [3/24/2025 11:18:21 PM UTC | Revision 4206 | Tactical_Toxic]
 
 [Improved] Improved Added lods to K17 seats
