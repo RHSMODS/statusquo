@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/25/2025 9:13:13 PM UTC | Revision 4210 | Soul_Assassin]
+
+[Fixed] Fixed invalid hitboxes on some vehicle parts causing crashes; fixes #1121
+
+[Other] Playing around with T14 ammorack damage causing fast death
+
+
+
 [3/25/2025 4:26:25 PM UTC | Revision 4209 | Sesk]
 
 [Other] Personal Belongings for all factions
