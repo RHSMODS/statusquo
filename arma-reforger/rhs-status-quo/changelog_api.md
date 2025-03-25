@@ -9,6 +9,55 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4207
+
+<!-- revision 4207 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4207
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 25, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 16 (4191)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 2 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added VCOG
+
+[Added] Added VCOG + RMR
+
+
+##### Improved
+
+
+[Improved] Small improvements to 1p87 glass
+
+[Improved] Improved Added lods to K17 seats
+
+
+##### Fixed
+
+
+[Fixed] Fixed all destroyed k4386 turrets used default green paint
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4191
 
 <!-- revision 4191 -->
