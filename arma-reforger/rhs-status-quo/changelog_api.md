@@ -9,6 +9,49 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4213
+
+<!-- revision 4213 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4213
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, March 25, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 6 (4207)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 1 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Replaced M2 ammo in all RHS HMVVWS with 4-AP/1-APIT
+
+
+##### Fixed
+
+
+[Fixed] Fixed invalid hitboxes on some vehicle parts causing crashes; fixes [#1121](https://github.com/RHSMODS/statusquo/issues/1121)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4207
 
 <!-- revision 4207 -->
