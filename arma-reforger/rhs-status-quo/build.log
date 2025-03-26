@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/26/2025 6:37:48 PM UTC | Revision 4216 | Ram]
+
+[Other] Turret destruction NULL model check
+
+
+
 [3/26/2025 7:18:29 AM UTC | Revision 4215 | Soul_Assassin]
 
 [Other] Fixed NPE in T14 turret repair function.
