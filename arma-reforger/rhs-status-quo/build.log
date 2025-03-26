@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/26/2025 7:23:36 PM UTC | Revision 4217 | Sesk]
+
+[Other] Replaced M2 ammo in all RHS HMVVWS with 4-AP/1-APIT
+
+[Other] LAV25_RHS: Added NVG sight, stabilization (wip), breakable turret
+
+
+
 [3/26/2025 6:37:48 PM UTC | Revision 4216 | Ram]
 
 [Other] Turret destruction NULL model check
