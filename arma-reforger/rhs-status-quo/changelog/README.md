@@ -9,6 +9,262 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4238
+
+<!-- revision 4238 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4238
+
+_<mark style="color:red;">Date:</mark>_ Thursday, March 27, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 163 (4075)
+
+_<mark style="color:red;">Changes:</mark>_ 15 additions, 54 improvements, 42 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Coyote JPC and couple of pouch presets to ION box
+
+[Added] Added Garmim watches with green strap
+
+[Added] Added Garmim watches with blue strap
+
+[Added] Added Garmim watches with red strap
+
+[Added] Added Garmim watches with black strap
+
+[Added] AK74M and AK105 with Zenitco handguard rails can now mount bipods; work on [#1063](https://github.com/RHSMODS/statusquo/issues/1063)
+
+[Added] M4 series can now mount bipods; fixes [#1063](https://github.com/RHSMODS/statusquo/issues/1063)
+
+[Added] Added new versions of Spectrum device for ION and RU
+
+[Added] Added Triada TKO helmet
+
+[Added] Added Caiman Helmet
+
+[Added] Added TV119 vest
+
+[Added] Added Exfil cover and battery pouch
+
+[Added] Added GPS RadioBeacon
+
+[Added] Added VCOG
+
+[Added] Added VCOG + RMR
+
+
+##### Improved
+
+
+[Improved] Added glass to Garmim watches
+
+[Improved] Improved Garmim watches textures
+
+[Improved] Added ability to reload K17 Epoch 2A42 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok 2A42 from outside on support stations
+
+[Improved] Added ability to reload K17 Epoch 9M113 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok 9M113 from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok AGS from outside on support stations
+
+[Improved] Added ability to reload K17 Epoch Tucha from outside on support stations
+
+[Improved] Added ability to reload K17 Berezhok Tucha from outside on support stations
+
+[Improved] Added ability to reload T-14 2A82 from outside on support stations
+
+[Improved] Added ability to reload T-14 Tucha from outside on support stations
+
+[Improved] Added ability to reload K4386 2A42 AP from outside on support stations
+
+[Improved] Added ability to reload K4386 2A42 HE from outside on support stations
+
+[Improved] Added ability to reload K4386 Tucha from outside on support stations
+
+[Improved] Improved all vest presets with backpack have shoulder offset now
+
+[Improved] Added Harris bipod to ION arsenal
+
+[Improved] Radial menu now has access to gadgets attached to vests; fixes [#958](https://github.com/RHSMODS/statusquo/issues/958)
+
+[Improved] Added modeled soft armor to AVS
+
+[Improved] Added modeled soft armor to AVS cummerbund 649
+
+[Improved] Added modeled soft armor to AVS cummerbund radio
+
+[Improved] Added modeled soft armor to AVS neck protection
+
+[Improved] Added modeled soft armor to Bagariy
+
+[Improved] Added modeled soft armor to AA CPC
+
+[Improved] Added modeled soft armor to AA CPC neck protection
+
+[Improved] Added modeled soft armor to ARS groin protection
+
+[Improved] Added modeled soft armor to ARS triple groin protection
+
+[Improved] Added modeled soft armor to NCPC
+
+[Improved] Added modeled soft armor to PC GEN 2
+
+[Improved] Added modeled soft armor to PC GEN 3
+
+[Improved] Added modeled soft armor to PC GEN 3 light
+
+[Improved] Added modeled soft armor to 6B45
+
+[Improved] Added modeled soft armor to 6B48
+
+[Improved] Added modeled soft armor to 6B45 Neck protection
+
+[Improved] Added modeled soft armor to Taktika
+
+[Improved] Added modeled soft armor to Taktika groin protection
+
+[Improved] Added modeled soft armor to Taktika shoulder protection
+
+[Improved] Added modeled soft armor to TV-102 neck protection
+
+[Improved] Added railcovers with grip for m27 back to arsenal
+
+[Improved] Added collider history component to RHS Vest base + SCR_ArmorDamageManagerComponent so it is possible to knock out people with pistols even if bullet doesn't penetrate soft armor
+
+[Improved] Made helmet attachment masses more realistic; fixes [#1050](https://github.com/RHSMODS/statusquo/issues/1050)
+
+[Improved] Orion GPS device brightness reduced so it no longer burns your retinas off at night; fixed [#1055](https://github.com/RHSMODS/statusquo/issues/1055)
+
+[Improved] Added probe volumes to K-17 and T-14
+
+[Improved] Added new left hand poses for different m4 handguards
+
+[Improved] Testing Matech alpha test - will probably switch to some custom function controlling alpha mul instead
+
+[Improved] Added countermeasure flares to F/A-18 CAS
+
+[Improved] Added faction affiliation to wearable items; fixes [#1099](https://github.com/RHSMODS/statusquo/issues/1099)
+
+[Improved] Replaced AN/PEQ-15 with AN/PSQ-23B on M1025 with AN/PAS-13G
+
+[Improved] Added rangefinder with auto zeroing to M1025 with AN/PAS-13G
+
+[Improved] Added Tucha smokes to K17 Epoch driver
+
+[Improved] Small improvements to 1p87 glass
+
+[Improved] Improved Added lods to K17 seats
+
+[Improved] Replaced M2 ammo in all RHS HMVVWS with 4-AP/1-APIT
+
+[Improved] Added env probe to K4386
+
+[Improved] Added missing thumbnails for various characters. Began initial trait updates.
+
+
+##### Fixed
+
+
+[Fixed] Script API compatibility with AR 1.3
+
+[Fixed] Fixed headphones slot had incorrect position on Exfil helmets
+
+[Fixed] Fixed headset position on Spartan3 / AirFrame helmet
+
+[Fixed] Fixed: Switch brightness action on garmim watches doesn't work; fixes [#1071](https://github.com/RHSMODS/statusquo/issues/1071)
+
+[Fixed] Fixed SpectrumDevice animation log spam
+
+[Fixed] Fixed M4A1 BLOCK 2 was missing hierarchy component
+
+[Fixed] Fixed M4A1 URGI was missing hierarchy component
+
+[Fixed] Fixed 2A82 Sound was broken after 1.3 update
+
+[Fixed] Fixed 2A18 Sound was broken after 1.3 update
+
+[Fixed] Fixed 9M113 Sound was broken after 1.3 update
+
+[Fixed] Fixed Pouch_Filbe_bandolier had no ground model
+
+[Fixed] Fixed debug worn model was turned on on several vests and vest presets
+
+[Fixed] Fixed wrong left hand position when m240 is deployed while standing or crouching
+
+[Fixed] Vehicle turret zoom was broken after 1.3; fixes [#1058](https://github.com/RHSMODS/statusquo/issues/1058)
+
+[Fixed] Fixed Vector and PDU ADS overlay delay; fixes [#1051](https://github.com/RHSMODS/statusquo/issues/1051)
+
+[Fixed] Possible fix for people having problem exiting vehicle triplex, thanks to scobaka; fixes [#1084](https://github.com/RHSMODS/statusquo/issues/1084)
+
+[Fixed] Fixed several ActionContexts were being overwritten instead of being extended; fixes [#1089](https://github.com/RHSMODS/statusquo/issues/1089)
+
+[Fixed] Fixed supply drop system spawning extra parachute that hangs in the air; fixes [#1085](https://github.com/RHSMODS/statusquo/issues/1085)
+
+[Fixed] 1.3: Fixed touch screen buttons not reacting to clicks; fixes [#1080](https://github.com/RHSMODS/statusquo/issues/1080)
+
+[Fixed] Removed buggy NVG anim that was causing CTD; fixes [#1081](https://github.com/RHSMODS/statusquo/issues/1081)
+
+[Fixed] 1.3: Fixed K-17 crashing to desktop when moving AI into driver's seat; fixes [#1087](https://github.com/RHSMODS/statusquo/issues/1087)
+
+[Fixed] 1.3: 2S1 no longer crashes on destruction
+
+[Fixed] Added a workaround for crashes happening when tracked vehicles are destroyed.
+
+[Fixed] Fixed AOR2 FROG shit missing blood texture; fixes [#1092](https://github.com/RHSMODS/statusquo/issues/1092)
+
+[Fixed] PMF screens were not operatable by when you were possessing an AI; fixes [#980](https://github.com/RHSMODS/statusquo/issues/980)
+
+[Fixed] PlaySound causing workbench crash when loading player with PEQs in default loadout; fixes [#1096](https://github.com/RHSMODS/statusquo/issues/1096)
+
+[Fixed] Fixed Kac rear iron sight was using old model
+
+[Fixed] Fixed equip and pickup sounds for the MK153 container
+
+[Fixed] Fixed the PSQ-23A's collider material on the MBS
+
+[Fixed] Fixed hand slot issues in the inventory; fixes [#1100](https://github.com/RHSMODS/statusquo/issues/1100)
+
+[Fixed] Turret stabilization controls refactored into own context, should not show up on vehicles where they are not supposed to; fixes [#1109](https://github.com/RHSMODS/statusquo/issues/1109)
+
+[Fixed] Cleaned up mission config files by removing outdated attributes
+
+[Fixed] Fixed CAS sounds spawning in wrong location in MP; fixes [#1102](https://github.com/RHSMODS/statusquo/issues/1102)
+
+[Fixed] Fixed supply drop boxes disappearing on landing; fixes [#1112](https://github.com/RHSMODS/statusquo/issues/1112)
+
+[Fixed] Fixed SR3M projectile spawn position
+
+[Fixed] Fixed minor offset of faradey 906 boots
+
+[Fixed] K17 various crew positions would cause crash if open door action was activated; fixes [#1115](https://github.com/RHSMODS/statusquo/issues/1115)
+
+[Fixed] 1.3: Fixed broken optic PIP material references; fixes [#1118](https://github.com/RHSMODS/statusquo/issues/1118)
+
+[Fixed] Fixed all destroyed k4386 turrets used default green paint
+
+[Fixed] Fixed invalid hitboxes on some vehicle parts causing crashes; fixes [#1121](https://github.com/RHSMODS/statusquo/issues/1121)
+
+[Fixed] PSO-1M2-1 reticle blurry when on low gfx settings; fixes [#1123](https://github.com/RHSMODS/statusquo/issues/1123)
+
+[Fixed] Fixed some RU balaclava clipping issues; fixes [#1097](https://github.com/RHSMODS/statusquo/issues/1097)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4213
 
 <!-- revision 4213 -->
