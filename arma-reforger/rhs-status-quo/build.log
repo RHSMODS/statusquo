@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/28/2025 8:45:34 PM UTC | Revision 4243 | zguba]
+
+[Fixed] Fixed Russians unable to call UMPK via Vector21
+
+[Improved] PDU4 and Vector21 inherit from Rangefinder_Base
+
+
+
 [3/28/2025 8:29:30 PM UTC | Revision 4242 | zguba]
 
 [Added] Added: Rangefinder_Base prefab for further use
