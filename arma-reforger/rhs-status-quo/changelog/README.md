@@ -9,6 +9,53 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4239
+
+<!-- revision 4239 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4239
+
+_<mark style="color:red;">Date:</mark>_ Friday, March 28, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 26 (4213)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added env probe to K4386
+
+[Improved] Added missing thumbnails for various characters. Began initial trait updates.
+
+
+##### Fixed
+
+
+[Fixed] PSO-1M2-1 reticle blurry when on low gfx settings; fixes [#1123](https://github.com/RHSMODS/statusquo/issues/1123)
+
+[Fixed] Fixed some RU balaclava clipping issues; fixes [#1097](https://github.com/RHSMODS/statusquo/issues/1097)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4238
 
 <!-- revision 4238 -->
