@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/28/2025 11:13:20 PM UTC | Revision 4246 | Soul_Assassin]
+
+[Fixed] Fix for K17 ramp crashing on probe update when vehicle killed
+
+
+
 [3/28/2025 9:57:16 PM UTC | Revision 4245 | zguba]
 
 [Improved] Improved rangefinder prefab generalization
