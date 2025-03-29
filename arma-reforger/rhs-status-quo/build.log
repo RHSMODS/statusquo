@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/29/2025 4:10:04 PM UTC | Revision 4252 | da12thMonkey]
+
+[Fixed] Cleaned out obsolete "name" parameter that was producing error spam from some weapon attachment slots
+
+
+
 [3/29/2025 1:42:52 PM UTC | Revision 4251 | Cyborgmatt]
 
 [Other] Debug character prefab cleanup
