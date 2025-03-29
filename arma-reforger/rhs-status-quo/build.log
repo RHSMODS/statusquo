@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/29/2025 4:26:22 PM UTC | Revision 4253 | da12thMonkey]
+
+[Other] More cleanup of "Name" in weapon slots, hopefully final
+
+
+
 [3/29/2025 4:10:04 PM UTC | Revision 4252 | da12thMonkey]
 
 [Fixed] Cleaned out obsolete "name" parameter that was producing error spam from some weapon attachment slots
