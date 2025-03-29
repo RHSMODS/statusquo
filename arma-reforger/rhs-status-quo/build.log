@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[3/29/2025 11:42:50 AM UTC | Revision 4247 | Tactical_Toxic]
+
+[Fixed] Changed explosion sound of t14 era from vehicle explosion to more appropriate one
+
+[Fixed] Changed era explosion particle to more appropriate one
+
+[Fixed] Fixed k17 HE projectiles were missing explosion sound
+
+[Other] Minor tweaks to t14 interior materials
+
+[Other] Disabled 1 debug checkbox on t14 BSP
+
+
+
 [3/28/2025 11:13:20 PM UTC | Revision 4246 | Soul_Assassin]
 
 [Fixed] Fix for K17 ramp crashing on probe update when vehicle killed
