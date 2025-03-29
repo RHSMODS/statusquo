@@ -9,6 +9,64 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4250
+
+<!-- revision 4250 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4250
+
+_<mark style="color:red;">Date:</mark>_ Saturday, March 29, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 12 (4238)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 2 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added: Rangefinder_Base prefab for further use
+
+
+##### Improved
+
+
+[Improved] PDU4 and Vector21 inherit from Rangefinder_Base
+
+[Improved] Improved rangefinder prefab generalization
+
+
+##### Fixed
+
+
+[Fixed] Colored strap variants of GPS watches weren't allocated to faction Arsenals
+
+[Fixed] Fixed Russians unable to call UMPK via Vector21
+
+[Fixed] Fixed T14 commander optic zoom
+
+[Fixed] Fix for K17 ramp crashing on probe update when vehicle killed
+
+[Fixed] Changed explosion sound of t14 era from vehicle explosion to more appropriate one
+
+[Fixed] Changed era explosion particle to more appropriate one
+
+[Fixed] Fixed k17 HE projectiles were missing explosion sound
+
+[Fixed] Green hmvvw with pas13g was missing rangefinder and optic zoom
+
+[Fixed] Fixed triplex getting stuck on exit in vehicles; fixes [#1128](https://github.com/RHSMODS/statusquo/issues/1128)
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4239
 
 <!-- revision 4239 -->
