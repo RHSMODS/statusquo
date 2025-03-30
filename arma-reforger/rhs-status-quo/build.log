@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/30/2025 10:25:26 AM UTC | Revision 4254 | da12thMonkey]
+
+[Fixed] Coyote Brown UBGL loadout set for JPC wasn't blocking backpack slot like it should
+
+[Improved] UBGL loadout set for JPC with mixed pouches and Ranger Green zip-on panel, has been renamed with RG color tag and grouped with the RG JPC sets in Arsenal
+
+
+
 [3/29/2025 4:26:22 PM UTC | Revision 4253 | da12thMonkey]
 
 [Other] More cleanup of "Name" in weapon slots, hopefully final
