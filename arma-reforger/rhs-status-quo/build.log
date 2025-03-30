@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/30/2025 10:55:08 AM UTC | Revision 4255 | da12thMonkey]
+
+[Improved] Added ID/ref numbers to displaynames for Black MCam JPC pouch presets
+
+[Fixed] Black MCam JPC pouch presets with zip-on panels, didn't block backpack slots
+
+
+
 [3/30/2025 10:25:26 AM UTC | Revision 4254 | da12thMonkey]
 
 [Fixed] Coyote Brown UBGL loadout set for JPC wasn't blocking backpack slot like it should
