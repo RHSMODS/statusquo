@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/1/2025 10:17:59 AM UTC | Revision 4264 | Sesk]
+
+[Other] LAV25_RHS.et magazines in inventory changed to 855A1
+
+[Other] BTR70_AFRF.et now is inherited from btr70 (not from btr70_base)
+
+[Other] BTR70_AFRF new emat, EditorPreview images added
+
+
+
 [3/31/2025 9:29:51 PM UTC | Revision 4263 | Sesk]
 
 [Other] More transparent TriplexView.png
