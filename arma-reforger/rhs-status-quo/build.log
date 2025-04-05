@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/5/2025 6:08:55 PM UTC | Revision 4271 | Tactical_Toxic]
+
+[Fixed] Fixed t-14 side racks were causing overpenetration of t-14 hull
+
+[Fixed] Fixed, gpsradiobeacon lasted for 1.5 minutes instead of 15
+
+
+
 [4/5/2025 2:38:20 PM UTC | Revision 4270 | Tactical_Toxic]
 
 [Other] Backups of RPO (only blender files)
