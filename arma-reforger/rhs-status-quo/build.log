@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/14/2025 8:06:23 PM UTC | Revision 4306 | Soul_Assassin]
+
+[Improved] Corrected base AVS weight to be 1.3kg; fixes #1144
+
+
+
 [4/14/2025 7:53:03 PM UTC | Revision 4305 | Soul_Assassin]
 
 [Fixed] Fixed PO4x24 PiP not working; fixes #1146
