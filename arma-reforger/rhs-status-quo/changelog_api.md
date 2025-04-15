@@ -9,6 +9,80 @@ description: >-
 <!-- reset point -->
 <!-- changelog insert -->
 
+## 0.11.4316
+
+<!-- revision 4316 -->
+  
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4316
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, April 15, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 66 (4250)
+
+_<mark style="color:red;">Changes:</mark>_ 4 additions, 4 improvements, 12 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] USMC MEF Crewman prefabs
+
+[Added] Added RPO-A
+
+[Added] Added RPO-D
+
+[Added] AFRF BRDM2
+
+
+##### Improved
+
+
+[Improved] UBGL loadout set for JPC with mixed pouches and Ranger Green zip-on panel, has been renamed with RG color tag and grouped with the RG JPC sets in Arsenal
+
+[Improved] Added ID/ref numbers to displaynames for Black MCam JPC pouch presets
+
+[Improved] Corrected base AVS weight to be 1.3kg; fixes [#1144](https://github.com/RHSMODS/statusquo/issues/1144)
+
+[Improved] Additional error handling for the vehicle screens
+
+
+##### Fixed
+
+
+[Fixed] Cleaned out obsolete "name" parameter that was producing error spam from some weapon attachment slots
+
+[Fixed] Coyote Brown UBGL loadout set for JPC wasn't blocking backpack slot like it should
+
+[Fixed] Black MCam JPC pouch presets with zip-on panels, didn't block backpack slots
+
+[Fixed] Fixed T-14 had no reload context
+
+[Fixed] Fixed an issue that allowed the ranked arsenal lock to be bypassed
+
+[Fixed] Mk 4 reticle blurry when on low gfx settings
+
+[Fixed] Fixed M4 Block II deployed left hand position
+
+[Fixed] Fixed t-14 side racks were causing overpenetration of t-14 hull
+
+[Fixed] Fixed, gpsradiobeacon lasted for 1.5 minutes instead of 15
+
+[Fixed] Fixed PO4x24 PiP not working; fixes [#1146](https://github.com/RHSMODS/statusquo/issues/1146)
+
+[Fixed] Fixed supply drop crashing servers
+
+[Fixed] Fixed supply box callin sound file errors
+
+
+##### Deleted
+
+
+
+
 ## 0.11.4250
 
 <!-- revision 4250 -->
