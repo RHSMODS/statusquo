@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[4/16/2025 1:19:07 PM UTC | Revision 4322 | Cyborgmatt, Cyborgmatt, reyhard, reyhard]
+
+[Fixed] Fixed PASGT base helmet prefab errors caused by removed keywords
+
+[Other] Missed one name tag
+
+[Other] Added .rdb to ignore list
+
+[Other] Changed mod structure
+
+
+
 [4/15/2025 9:32:34 PM UTC | Revision 4318 | Cyborgmatt, Cyborgmatt]
 
 [Fixed] Fixed various prefab errors caused by removed keywords
