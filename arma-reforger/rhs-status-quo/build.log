@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/24/2025 6:59:53 PM UTC | Revision 4338 | Soul_Assassin]
+
+[Other] Fix on animation play of SMAW reload while using Attach function in inspect. The cap does not fall off though.
+
+
+
 [4/24/2025 11:07:02 AM UTC | Revision 4337 | Cyborgmatt]
 
 [Fixed] Fixed backblast on the MK153 SMAW
