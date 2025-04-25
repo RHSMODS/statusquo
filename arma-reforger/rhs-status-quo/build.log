@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/25/2025 11:03:52 AM UTC | Revision 4340 | reyhard]
+
+[Other] Fixed guids - they were not hex16
+
+
+
 [4/25/2025 7:51:19 AM UTC | Revision 4339 | reyhard]
 
 [Other] Added configs for GUID for stable/dev
