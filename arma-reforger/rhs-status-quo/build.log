@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/25/2025 7:51:19 AM UTC | Revision 4339 | reyhard]
+
+[Other] Added configs for GUID for stable/dev
+
+
+
 [4/24/2025 6:59:53 PM UTC | Revision 4338 | Soul_Assassin]
 
 [Other] Fix on animation play of SMAW reload while using Attach function in inspect. The cap does not fall off though.
