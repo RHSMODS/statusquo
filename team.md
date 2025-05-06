@@ -318,7 +318,7 @@ uralaz
 
 Scout
 
-**Vergy**
+Vergy
 
 Ram
 
