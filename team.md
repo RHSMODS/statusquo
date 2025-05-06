@@ -88,8 +88,6 @@ In order of appearance...
 
 **SatisfactioN**
 
-**Vergy**
-
 **SpaceStrider**
 
 **Ashyl**
@@ -113,8 +111,6 @@ In order of appearance...
 **Bebra4**
 
 **Sesk**
-
-**Ram**
 
 **Xiaoxiao**
 
@@ -321,6 +317,10 @@ Paquito
 uralaz
 
 Scout
+
+**Vergy**
+
+Ram
 
 And many many more. Sadly, too much time has passed to remember everyone who has contributed to this project.
 
