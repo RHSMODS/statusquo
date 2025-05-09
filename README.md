@@ -31,7 +31,3 @@ Welcome to this new website, where will will try to share most uptodate informat
 <figure><img src=".gitbook/assets/1874880_20240516232527_1.webp" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/1874880_20240329024623_1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/1874880_20240318135552_1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/20240516215052_1.jpg" alt=""><figcaption></figcaption></figure>

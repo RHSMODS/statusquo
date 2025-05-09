@@ -43,7 +43,7 @@ You will then be able to control the morph in the xob editor, but you can leave 
 
 While you are making your own mod with RHS: Status Quo as dependency, find **Patch\_Base.et** in SQ and right click on it. Select "Inherit in 'MyNewPatchMod'". This should prompt you to create a new inherited prefab in your own mod. Edit this prefab.
 
-In the **InventoryItemComponent** change the **Name** and **Description** values.&#x20;
+In the **InventoryItemComponent** change the **Name** and **Description** values.
 
 <figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ Your patch is now ready to be accepted on RHS patch system compliant cloth items
 
 ## Receiving Objects
 
-If you are setting up cloth items that should receive patches there are a few steps that are different for objects like Helmets, Jackets and Vests, because they interact with the AR inventory system differently.&#x20;
+If you are setting up cloth items that should receive patches there are a few steps that are different for objects like Helmets, Jackets and Vests, because they interact with the AR inventory system differently.
 
 {% hint style="warning" %}
 The simplest approach for any item type is to **inherit** from a pre-existing RHS object that most closely resembles your new object.
@@ -104,8 +104,6 @@ Set the Name and Area Type settings appropriate for your patch attachment (name 
 ### Vests
 
 For armored vests the setup is exactly the same as for helmets but the name of the slot should be **ChestVelcro**.
-
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 ### Jackets
 
