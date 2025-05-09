@@ -1,2 +1,0 @@
-# Military Pants
-

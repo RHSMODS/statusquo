@@ -1,2 +1,0 @@
-# Tactical Pants
-
