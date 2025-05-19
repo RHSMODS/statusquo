@@ -7,7 +7,45 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-<!-- changelog insert -->
+﻿<!-- changelog insert -->
+
+## 0.12.4414
+
+<!-- revision 4414 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4414
+
+_<mark style="color:red;">Date:</mark>_ Monday, May 19, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4414)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Test public update
+
+[Improved] Public update 2
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4405
 
