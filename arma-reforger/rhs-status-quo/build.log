@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/23/2025 7:23:56 AM UTC | Revision 4419 | reyhard]
+
+[Other] Added ammo config for 7N23
+
+
+
 [5/22/2025 8:19:19 PM UTC | Revision 4418 | reyhard]
 
 [Added] Added few new round types like 9x19 - M1152, M1153, 7N21, 7N31, 9x18 - 7N25, 7.62x51 - M118 SB LR, M118 SB LR Mk316 Mod 0, M852, M993 AP, 7.62x39 - 57N231U (subsonic), 57BZ231, 57N231 (1989), 7N23, 5.56x45 - Mk262, Mk318, 5.45x49 - 7N24M, 7N39. There are no magazines to use those bullets yet!
