@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/23/2025 10:16:08 PM UTC | Revision 4420 | Soul_Assassin]
+
+[Fixed] Fixes T14 being stuck in forward driver triplex; fixes issue #1165
+
+
+
 [5/23/2025 7:23:56 AM UTC | Revision 4419 | reyhard]
 
 [Other] Added ammo config for 7N23
