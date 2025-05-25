@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/25/2025 1:20:58 AM UTC | Revision 4422 | Cyborgmatt]
+
+[Fixed] Fixed: Camera no longer snaps abruptly when entering vehicle turrets in first-person view; fixes #1175
+
+
+
 [5/24/2025 7:33:56 AM UTC | Revision 4421 | reyhard]
 
 [Other] Cleaned up atol scenarios
