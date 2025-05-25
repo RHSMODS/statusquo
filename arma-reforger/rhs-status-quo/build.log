@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/25/2025 10:07:28 AM UTC | Revision 4423 | MacroBebra]
+
+[Added] Added various ammo types for AK-103
+
+[Other] Thanks to reyhard
+
+
+
 [5/25/2025 1:20:58 AM UTC | Revision 4422 | Cyborgmatt]
 
 [Fixed] Fixed: Camera no longer snaps abruptly when entering vehicle turrets in first-person view; fixes #1175
