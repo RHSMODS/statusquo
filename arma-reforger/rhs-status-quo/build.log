@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/25/2025 4:24:49 PM UTC | Revision 4428 | Soul_Assassin]
+
+[Fixed] Fixed PC Gen 3 weight, now 23% lighter than Gen 2 as stated in description; fixes #1156
+
+[Other] Fixes crash related to trying to open T14 hatch; fixes #1164
+
+
+
 [5/25/2025 3:59:10 PM UTC | Revision 4427 | ]
 
 
