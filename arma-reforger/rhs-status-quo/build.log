@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/26/2025 8:33:27 AM UTC | Revision 4432 | reyhard]
+
+[Other] First part of updating combat ops
+
+
+
 [5/25/2025 7:32:23 PM UTC | Revision 4431 | reyhard]
 
 [Other] Some work in progress on new version of conflict - added new overridden prefabs so AFRF & USMC can build them in Conflict. Those overridden prefabs can be built by both vanilla factions and respective RHS ones
