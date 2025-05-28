@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/28/2025 8:27:18 PM UTC | Revision 4454 | reyhard]
+
+[Improved] Added RHS helicopters to helipad whitelist in order to be able to place helicopters on top of helipad...
+
+
+
 [5/28/2025 7:41:17 PM UTC | Revision 4453 | reyhard]
 
 [Fixed] Fixed Mi-8MT with pylons was not able to fire its rockets
