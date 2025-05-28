@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[5/28/2025 7:41:17 PM UTC | Revision 4453 | reyhard]
+
+[Fixed] Fixed Mi-8MT with pylons was not able to fire its rockets
+
+[Fixed] Fixed USMC groups not being buildable in living quarters
+
+[Improved] Configured USMC vehicle pool in Conflict
+
+[Improved] Updated Conflict scenarios
+
+
+
 [5/28/2025 5:29:51 PM UTC | Revision 4452 | MacroBebra]
 
 [Other] Added PC G3 lods
