@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/29/2025 6:05:12 PM UTC | Revision 4464 | reyhard, Cyborgmatt, reyhard]
+
+[Removed] Removed HDR override
+
+[Fixed] AK103/105 collider errors.
+
+[Improved] Testing workshop changelogs when there is change in 2nd addon
+
+
+
 [5/29/2025 5:46:51 PM UTC | Revision 4461 | reyhard]
 
 [Fixed] Fixed Mi-8 static decal prefab had extra damage manager which was not necessary
