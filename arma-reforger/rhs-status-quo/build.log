@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/29/2025 5:46:51 PM UTC | Revision 4461 | reyhard]
+
+[Fixed] Fixed Mi-8 static decal prefab had extra damage manager which was not necessary
+
+
+
 [5/29/2025 3:14:22 PM UTC | Revision 4460 | ]
 
 
