@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿<!-- changelog insert -->
+﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4481
+
+<!-- revision 4481 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4481
+
+_<mark style="color:red;">Date:</mark>_ Monday, June 2, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4481)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed test penetration values of 7N6
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4479
 
