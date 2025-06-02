@@ -1,5 +1,281 @@
 <!-- buildlog insert -->
 
+[6/2/2025 3:16:38 PM UTC | Revision 4480 | bell, Cyborgmatt, MacroBebra, Mihail, Ram, reyhard, Sesk, Soul_Assassin, Tactical_Toxic]
+
+[Fixed] Fixed test penetration values of 7N6
+
+[Added] Added new ECH lowcut cover; closes #1188
+
+[Added] Added cat eye band for ECH helmets
+
+[Improved] Test public commit
+
+[Removed] Removed HDR override
+
+[Fixed] Fixed Mi-8 static decal prefab had extra damage manager which was not necessary
+
+[Improved] Added RHS helicopters to helipad whitelist in order to be able to place helicopters on top of helipad...
+
+[Fixed] Fixed Mi-8MT with pylons was not able to fire its rockets
+
+[Fixed] Fixed USMC groups not being buildable in living quarters
+
+[Improved] Configured USMC vehicle pool in Conflict
+
+[Improved] Updated Conflict scenarios
+
+[Improved] Added and unified asset browser pictures for groups
+
+[Improved] Added preview images for VKPO groups
+
+[Improved] Updated USMC vs MSV Combat Ops scenario
+
+[Improved] Updated MSV vs FIA Combat Ops scenario
+
+[Fixed] Fixed PC Gen 3 weight, now 23% lighter than Gen 2 as stated in description; fixes #1156
+
+[Fixed] Fixes crash related to trying to open T14 hatch; fixes #1164
+
+[Added] Added various ammo types for AK-103
+
+[Fixed] Fixed: Camera no longer snaps abruptly when entering vehicle turrets in first-person view; fixes #1175
+
+[Fixed] Fixes T14 being stuck in forward driver triplex; fixes issue #1165
+
+[Added] Added few new round types like 9x19 - M1152, M1153, 7N21, 7N31, 9x18 - 7N25, 7.62x51 - M118 SB LR, M118 SB LR Mk316 Mod 0, M852, M993 AP, 7.62x39 - 57N231U (subsonic), 57BZ231, 57N231 (1989), 7N23, 5.56x45 - Mk262, Mk318, 5.45x49 - 7N24M, 7N39. There are no magazines to use those bullets yet!
+
+[Improved] Tweaked dispersion across all bullet types so new bullets make sense - i.e. 7.62x51 OTM bullets are more accurate compared to M80 ball
+
+[Improved] Updated Conflict scenario layers
+
+[Fixed] Fixed back velcro point on helmets no longer working; fixes #1171
+
+[Fixed] Fixed weir AI turret behavior for vehicles, thanks to Blue and folks at GC
+
+[Removed] Temporarily removed FROG Combat Shirt
+
+[Removed] Temporarily removed FROG Combat Pants
+
+[Removed] Temporarily removed USMC Boonie
+
+[Removed] Temporarily removed PC Gen III
+
+[Removed] Temporarily removed FILBE Hydration pack
+
+[Removed] Temporarily removed G3 Shirt
+
+[Removed] Temporarily removed G3 Pants
+
+[Removed] Removed Tactical Pants
+
+[Removed] Removed Velocity Shirt
+
+[Removed] Temporarily removed BDU Pants
+
+[Removed] Removed Hoodie
+
+[Removed] Temporarily removed Jeans
+
+[Removed] Removed Hiking Pants
+
+[Removed] Temporarily removed Flannel Shirts
+
+[Removed] Removed Muscle Shirt
+
+[Removed] Removed T-Shirt v2
+
+[Removed] Temporarily removed ZipOnPanel
+
+[Removed] Removed Military Pants
+
+[Removed] Removed CAF CCUE Pants
+
+[Removed] Temporarily removed Ballcap
+
+[Removed] Temporarily removed Beanie
+
+[Removed] Removed Shemagh
+
+[Removed] Temporarily removed Balaclava v1
+
+[Removed] Removed Santa Hat
+
+[Removed] Temporarily removed FILBE Backpack
+
+[Removed] Temporarily removed PC Gen II admin Pouch
+
+[Removed] Temporarily removed PC Gen II PMAG Pouch
+
+[Removed] Temporarily removed ECH highcut and lowcut covers
+
+[Added] Added AK-104
+
+[Fixed] Hidden vanilla body mesh for vkpo pants
+
+[Fixed] Fixed K4386 Engine sound had broken spatiality
+
+[Fixed] Fixed missing strings on clothing & patch prefabs
+
+[Fixed] Corrected class references in entity catalogs
+
+[Fixed] Fixed backblast on the MK153 SMAW
+
+[Fixed] Eyewear items weight
+
+[Fixed] Fixed PASGT base helmet prefab errors caused by removed keywords
+
+[Other] Multi addon message #1
+
+[Other] Multi addon message #2
+
+[Other] Multi addon message #42
+
+[Other] Testing removal of duplicates from changelogs
+
+[Other] Added large generic ground item model, added mats for AOR2, ATACS and EMR
+
+[Other] Added generic cloth ground small and medium models for various camos.
+
+[Other] Test3
+
+[Other] Test commit 2
+
+[Other] Test commit
+
+[Other] T14 full set of anims for driver
+
+[Other] Changed temp filbe backpack and hydration pack models from BB102 to Rush-12
+
+[Other] Pc g3 light prefab
+
+[Other] Cleanup PC Gen III vest prefabs
+
+[Other] Add missing hips prefab to KBS Strelok vest
+
+[Other] Kbs prefabs
+
+[Other] More wip work on updating Conflict scenarios
+
+[Other] Regenerated USAF group configs
+
+[Other] Overwrote some image generator scripts to fix some bugs there...
+
+[Other] Removed test units
+
+[Other] Added faction manager to asset image generator (no black squad only pics)
+
+[Other] Unified lighting conditions for all pics of groups (rest may come later)
+
+[Other] Moved all dev worlds to separate folder
+
+[Other] Bit more of Conflict configuration
+
+[Other] More work on Conflict scenario rework
+
+[Other] Removed obsolete layers
+
+[Other] Added python script to update Combat Ops scenario to RHS variant
+
+[Other] Update CP part 1
+
+[Other] First part of updating combat ops
+
+[Other] Some work in progress on new version of conflict - added new overridden prefabs so AFRF & USMC can build them in Conflict. Those overridden prefabs can be built by both vanilla factions and respective RHS ones
+
+[Other] Removed ammo duplicates
+
+[Other] Removed ammo duplicates
+
+[Other] Fixes crash related to trying to open T14 hatch; fixes #1164
+
+[Other] Pouch presets updated to fit new pc g3 model
+
+[Other] Thanks to reyhard
+
+[Other] Cleaned up atol scenarios
+
+[Other] Added Conflict debug scenario
+
+[Other] Added ammo config for 7N23
+
+[Other] Updated layers again
+
+[Other] Added AK-103 and AK-104 with zenitco parts/npz rail
+
+[Other] Ak104 recoil Fix
+
+[Other] Added new AKs to arsenal
+
+[Other] Fixed wrong guid for dev version of core
+
+[Other] Added some files required for publishing
+
+[Other] Added temp AOR textures
+
+[Other] Cleaned up some svn boo boo
+
+[Other] Fixed some broken texture refs
+
+[Other] Added M81, and Marpat textures for VKPO3 for temp representations
+
+[Other] Removed obsolete txt files
+
+[Other] Added new configs for setting mod data
+
+[Other] Ak103 prefabs
+
+[Other] Changed description on pso 1m2-1, still needs to be localized, check #stringtable
+
+[Other] Proper attachment classes for various 1pn93s
+
+[Other] Another potential fix for PMF stuck
+
+[Other] USAF MEF TL wrong mags fixed
+
+[Other] Added license per addon
+
+[Other] Fixed guids - they were not hex16
+
+[Other] Added configs for GUID for stable/dev
+
+[Other] Cleaned up some more unknown keyword & class errors
+
+[Other] Vkpo 3.0 editable tags fixed
+
+[Other] Vkpo3 officer unit and vest
+
+[Other] VKPO 3.0 more inventory tweaks
+
+[Other] VKPO3.0 inventory tweaks
+
+[Other] M4a1 urgi base ik fix
+
+[Other] USMC_D inventory remade
+
+[Other] AFRF VV atacs taktika vests tweaks
+
+[Other] M27, m4, m4_ergo_afg IK fix
+
+[Other] Enabled interior probe and disabled priority probe on k4386 material. I love undocumented changes in base game.
+
+[Other] M27 and m4 2d scopes misalignments should be fixed
+
+[Other] AFRF vkpo _S and _DS inventory remake
+
+[Other] GPS global path from config
+
+[Other] GPS core path fix
+
+[Other] Fix script errors after file restructure
+
+[Other] Missed one name tag
+
+[Other] Added .rdb to ignore list
+
+[Other] Changed mod structure
+
+
+
 [6/1/2025 5:04:24 PM UTC | Revision 30 | ]
 
 
