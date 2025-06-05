@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4482
+
+<!-- revision 4482 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4482
+
+_<mark style="color:red;">Date:</mark>_ Thursday, June 5, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4482)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed MSV arsenal boxes in CP MSV vs FIA - fixes [#1206](https://github.com/RHSMODS/statusquo/issues/1206)
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4481
 
