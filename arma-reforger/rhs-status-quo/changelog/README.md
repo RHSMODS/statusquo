@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4483
+
+<!-- revision 4483 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4483
+
+_<mark style="color:red;">Date:</mark>_ Thursday, June 5, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4483)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Missing antennas in RHS conflict
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4482
 
