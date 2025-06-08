@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/8/2025 9:37:14 AM UTC | Revision 4486 | odkupiciel375]
+
+[Other] Changed: Adjusted NVG illuminator attenuation to make it throw the light further at the same LV value
+
+
+
 [6/8/2025 8:40:31 AM UTC | Revision 4485 | odkupiciel375]
 
 [Improved] Changed: Configured NVG action hints fade in and fade out after a little bit of delay
