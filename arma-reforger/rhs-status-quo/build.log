@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[6/8/2025 1:06:25 PM UTC | Revision 4487 | odkupiciel375]
+
+[Fixed] Fixed: Instance where server would have seen different cooldown time than users when call-in was canceled.
+
+[Fixed] Fixed: Potential fix to the issue where call-in timer doesnt count down; fixes #1207
+
+[Improved] Changed: Description of the call-in will now mark failed requirements with red text.
+
+[Improved] Changed: Cannot perform reason shown for requesting call-in actions will now be red to stand out from the action title.
+
+[Other] Changed: Increased amount of space for description of radial entry, and allowed the font to shrink if it needs to fit its content.
+
+[Other] Changed: Allowed the title of the entry in radial menu to use smaller text size if it needs to.
+
+
+
 [6/8/2025 9:37:14 AM UTC | Revision 4486 | odkupiciel375]
 
 [Other] Changed: Adjusted NVG illuminator attenuation to make it throw the light further at the same LV value
