@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/8/2025 8:40:31 AM UTC | Revision 4485 | odkupiciel375]
+
+[Improved] Changed: Configured NVG action hints fade in and fade out after a little bit of delay
+
+[Other] Changed: Cached NVG information used by action hints
+
+
+
 [6/8/2025 8:15:54 AM UTC | Revision 4484 | odkupiciel375]
 
 [Fixed] Fixed: functionality of adding blems to the NV effect
