@@ -7,7 +7,55 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4487
+
+<!-- revision 4487 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4487
+
+_<mark style="color:red;">Date:</mark>_ Thursday, June 12, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4487)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 3 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added: On screen indicator for NVG illuminator being turned ON (red dot on the right side)
+
+
+##### Improved
+
+
+[Improved] Changed: Configured NVG action hints fade in and fade out after a little bit of delay
+
+[Improved] Changed: Description of the call-in will now mark failed requirements with red text.
+
+[Improved] Changed: Cannot perform reason shown for requesting call-in actions will now be red to stand out from the action title.
+
+
+##### Fixed
+
+
+[Fixed] Fixed: functionality of adding blems to the NV effect
+
+[Fixed] Fixed: Instance where server would have seen different cooldown time than users when call-in was canceled.
+
+[Fixed] Fixed: Potential fix to the issue where call-in timer doesnt count down; fixes [#1207](https://github.com/RHSMODS/statusquo/issues/1207)
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4483
 
