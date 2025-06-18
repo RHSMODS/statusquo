@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/18/2025 4:29:47 PM UTC | Revision 4492 | odkupiciel375]
+
+[Other] Changed: Removed a lot of obsolete inventory code and updated one that needed a little touchup
+
+[Other] Fixed: Removed code that was reintroducing rank exploit
+
+[Other] Added: Temporary fix for not being able to exit the inventory when cursor is not pointing at any slot (vanilla bug)
+
+
+
 [6/15/2025 8:00:58 AM UTC | Revision 4491 | Cyborgmatt]
 
 [Fixed] GPS2 grip prefab errors
