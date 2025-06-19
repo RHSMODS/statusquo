@@ -7,7 +7,47 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4494
+
+<!-- revision 4494 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4494
+
+_<mark style="color:red;">Date:</mark>_ Thursday, June 19, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4494)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 1 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added new FILBE Hydration Pack model; fixes issue [#1185](https://github.com/RHSMODS/statusquo/issues/1185)
+
+
+##### Improved
+
+
+[Improved] Color correction of PC G3 and some pouches
+
+
+##### Fixed
+
+
+[Fixed] GPS2 grip prefab errors
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4487
 
