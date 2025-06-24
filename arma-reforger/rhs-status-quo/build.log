@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/24/2025 9:11:47 PM UTC | Revision 4495 | Cyborgmatt]
+
+[Fixed] RMR optic prefab RplComponent errors
+
+
+
 [6/18/2025 7:24:54 PM UTC | Revision 4494 | odkupiciel375]
 
 [Other] Changed: Small refactor of modded methods in RHS_M_InventoryGearInspectionSlotUI.c, and in the process fixing attachment type issues
