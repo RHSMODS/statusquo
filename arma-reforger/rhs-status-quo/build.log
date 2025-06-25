@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/25/2025 3:46:54 PM UTC | Revision 4496 | Cyborgmatt]
+
+[Fixed] PCGen III Light was using the wrong preview model
+
+
+
 [6/24/2025 9:11:47 PM UTC | Revision 4495 | Cyborgmatt]
 
 [Fixed] RMR optic prefab RplComponent errors
