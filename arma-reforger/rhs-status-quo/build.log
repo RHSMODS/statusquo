@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/25/2025 8:52:28 PM UTC | Revision 4501 | odkupiciel375]
+
+[Other] Reimported blueforce triple PCGen_III pouch to stretched it by 2% on X axis using scale import param, as it didnt fit stanag mags
+
+
+
 [6/25/2025 8:49:08 PM UTC | Revision 4500 | odkupiciel375]
 
 [Improved] Changed: NCPC (AOR1, AOR2, MC) will now block vest slot when worn
