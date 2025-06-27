@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/27/2025 12:57:53 PM UTC | Revision 4502 | reyhard]
+
+[Other] Added new script for created inherited prefabs - it was mainly needed for creating Conflict related prefabs
+
+
+
 [6/25/2025 8:52:28 PM UTC | Revision 4501 | odkupiciel375]
 
 [Other] Reimported blueforce triple PCGen_III pouch to stretched it by 2% on X axis using scale import param, as it didnt fit stanag mags
