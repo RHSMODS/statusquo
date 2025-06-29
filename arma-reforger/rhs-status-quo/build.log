@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[6/29/2025 12:38:28 PM UTC | Revision 4504 | bell]
+
+[Fixed] Fixed 1p87(new) had wrong reticle position
+
+[Other] Reverted:
+
+[Other] Explosion_VGM.ptc - Broken, engine cant read it
+
+[Other] Turret_K17_Epoch.et - Undocumented changes. No reason to change recoil, we didn't test system behaviour with custom offsets rather than a bone snap.
+
+[Other] Ammo_125mm_HE_FRAG_3OF26.et - Please dont change warheads as we learned that they tend to cause crashes in live environment with nearly no way to test or debug it. Also broken tracer model.
+
+[Other] Ammo_30mm_APT_3UBR6.et - Same, we removed spall effects on purpose, they were causing CTD.
+
+[Other] Ammo_Grenade_VGM93_100.et - New particle doesn't work.
+
+[Other] Rifle_AN94_base.et - Please ask before making changes to weapon recoil or at least add a note in changelog. Change from 4503 turns it into a literal laser gun, while in real life an94 tends to have heavier recoil because of movable barrel and higher firerate.
+
+[Other] Warhead_3OF26_HE.et - Requires extensive testing in mp, no point in changing it if we can use vanilla TM62 and rely on  BI devs, rather than on our testing. Entire warhead system is exteremely sensetive in reforger, and any misconfiguration will cause it to not work at all in MP.
+
+
+
 [6/28/2025 11:23:14 PM UTC | Revision 4503 | Ashyl]
 
 [Improved] 3of36 Explosion particles
