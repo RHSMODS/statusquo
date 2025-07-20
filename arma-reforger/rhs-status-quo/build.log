@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[7/20/2025 10:30:28 AM UTC | Revision 4521 | odkupiciel375]
+
+[Fixed] Fixed: Exploit for using thermals with NVG when using fullscreen toggle keybinds
+
+[Other] Improved: Moved a bunch of NVG attributes to the shared component memory
+
+[Other] Improved: Better blem randomization functionality
+
+[Other] Added: Better controls for configuring blems for NVGs
+
+
+
 [7/13/2025 4:19:39 PM UTC | Revision 4520 | MacroBebra]
 
 [Other] Neko ears prefabs
