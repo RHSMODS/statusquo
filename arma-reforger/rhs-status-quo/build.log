@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/20/2025 10:43:42 AM UTC | Revision 4522 | odkupiciel375]
+
+[Fixed] Fixed: AN-94 showed a 3 round burst icon despite the fact that the rifle has a 2 round burst; fixes #1226
+
+
+
 [7/20/2025 10:30:28 AM UTC | Revision 4521 | odkupiciel375]
 
 [Fixed] Fixed: Exploit for using thermals with NVG when using fullscreen toggle keybinds
