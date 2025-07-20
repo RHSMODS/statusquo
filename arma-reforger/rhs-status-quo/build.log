@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/20/2025 11:13:49 AM UTC | Revision 4523 | odkupiciel375]
+
+[Fixed] Fixed: Wrong range shown when adjusting the AN-94 sights to 500 and 600m
+
+[Other] They aint pointing at correct distance as it seems like the hole is in the wrong place but at least you can see through them
+
+
+
 [7/20/2025 10:43:42 AM UTC | Revision 4522 | odkupiciel375]
 
 [Fixed] Fixed: AN-94 showed a 3 round burst icon despite the fact that the rifle has a 2 round burst; fixes #1226
