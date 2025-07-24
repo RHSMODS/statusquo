@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/24/2025 7:18:08 AM UTC | Revision 4528 | odkupiciel375]
+
+[Fixed] Fixed: NVG grain effect wouldnt be visible with lower texture quality
+
+
+
 [7/23/2025 11:34:58 PM UTC | Revision 4527 | Cyborgmatt]
 
 [Other] Fix GUID errors in conf files
