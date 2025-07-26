@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[7/26/2025 10:01:38 AM UTC | Revision 4530 | odkupiciel375]
+
+[Improved] Changed: Increased 2S1 Projectile range from 6.2km to ~9.2km (60% or irl capability)
+
+[Added] Added: Ballistic table gadget for 2S1 SPH to the MSV arsenal
+
+[Other] Added: Temporary 'indirect' variant of a 3OF56 projectile for the purpose of using it in ballistic table gadget until game code issue will be resolved
+
+
+
 [7/26/2025 7:42:10 AM UTC | Revision 4529 | odkupiciel375]
 
 [Other] Fixed: Vehicle optics would show incorrect azimuth
