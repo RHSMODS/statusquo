@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/26/2025 7:42:10 AM UTC | Revision 4529 | odkupiciel375]
+
+[Other] Fixed: Vehicle optics would show incorrect azimuth
+
+[Other] Fixed: Random VME caused by NPE in RHS_VehicleTargetScreenComponent
+
+
+
 [7/24/2025 7:18:08 AM UTC | Revision 4528 | odkupiciel375]
 
 [Fixed] Fixed: NVG grain effect wouldnt be visible with lower texture quality
