@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/27/2025 11:30:12 AM UTC | Revision 4534 | odkupiciel375]
+
+[Other] Fixed: Updated russian loadouts to make them have the correct map (so they have correct protractor)
+
+
+
 [7/27/2025 10:54:09 AM UTC | Revision 4533 | odkupiciel375]
 
 [Other] Removed old hack that was prevent a crash when ranging a SMAW at a range below 7m as the issue is fixed in base game
