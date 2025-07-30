@@ -7,7 +7,89 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4545
+
+<!-- revision 4545 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4545
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, July 30, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4545)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 5 improvements, 14 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added few more magazines for M17 loaded with different rounds (M1152, M1153)
+
+[Added] Added Shaw Concepts ARC V2 with groin protection and few new pouches
+
+[Added] Added Cat Ears
+
+[Added] Added: Field manual entry for CISS (in commanding category); fixes [#1213](https://github.com/RHSMODS/statusquo/issues/1213)
+
+[Added] Added: Ballistic table gadget for 2S1 SPH to the MSV arsenal
+
+
+##### Improved
+
+
+[Improved] Changed: NCPC (AOR1, AOR2, MC) will now block vest slot when worn
+
+[Improved] 3of36 Explosion particles
+
+[Improved] Turret sounds for K17 and T14
+
+[Improved] Changed: Increased 2S1 Projectile range from 6.2km to ~9.2km (60% or irl capability)
+
+[Improved] Improved: Upgraded ION Neko Ears to C.A.T.S.
+
+
+##### Fixed
+
+
+[Fixed] RMR optic prefab RplComponent errors
+
+[Fixed] PCGen III Light was using the wrong preview model
+
+[Fixed] Fixed: PC Gen. III triple mag pouch had wrong position for its mags
+
+[Fixed] Fixed 1p87(new) had wrong reticle position
+
+[Fixed] Resolved GUID errors with Spartan3 helmet's ground models
+
+[Fixed] Fixed missing interaction points on M17 for magazine and safety in inspection mode
+
+[Fixed] Fixed: Exploit for using thermals with NVG when using fullscreen toggle keybinds
+
+[Fixed] Fixed: AN-94 showed a 3 round burst icon despite the fact that the rifle has a 2 round burst; fixes [#1226](https://github.com/RHSMODS/statusquo/issues/1226)
+
+[Fixed] Fixed: Wrong range shown when adjusting the AN-94 sights to 500 and 600m
+
+[Fixed] Fixed: NVG grain effect wouldnt be visible with lower texture quality
+
+[Fixed] Various helmet collider issues
+
+[Fixed] Proc anim error on klesh2 light prefab
+
+[Fixed] Camera position for the prefab preview of the 6B45 vests
+
+[Fixed] Fixed: Not being able to reload the 2S1 - user action same as on the LAV is present on the back of the 2S1
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4494
 
