@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4548
+
+<!-- revision 4548 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4548
+
+_<mark style="color:red;">Date:</mark>_ Friday, August 1, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4548)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Restored old GUID for Optic_PSO1M2-1_HDR.emat
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4545
 
