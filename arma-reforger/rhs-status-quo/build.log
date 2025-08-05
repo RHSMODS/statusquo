@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/5/2025 8:09:38 PM UTC | Revision 4549 | Cyborgmatt]
+
+[Fixed] TV-119 vest ground model collider; fixes #1244
+
+
+
 [8/1/2025 6:43:08 AM UTC | Revision 4548 | reyhard]
 
 [Fixed] Restored old GUID for Optic_PSO1M2-1_HDR.emat
