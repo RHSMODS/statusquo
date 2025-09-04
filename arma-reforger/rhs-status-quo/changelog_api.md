@@ -7,7 +7,73 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4573
+
+<!-- revision 4573 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4573
+
+_<mark style="color:red;">Date:</mark>_ Thursday, September 4, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4573)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 7 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Custom explosion effect for the GM-94 thermobaric projectile
+
+[Added] Added new FILBE Assault backpack models (light and heavy variants); closes [#1186](https://github.com/RHSMODS/statusquo/issues/1186)
+
+[Added] Replaced USMC Boonie hat textures
+
+[Added] Added AK-200
+
+[Added] Added AK-205
+
+
+##### Improved
+
+
+[Improved] RPO-A Effects and sounds
+
+[Improved] Shot sounds for GM94, recoil
+
+[Improved] Replaced AK-74M/105 with AK-200/205 for ATACS RG units
+
+[Improved] Replaced RPG-7 with RPO-A for ATACS RG units
+
+[Improved] Vkpo3.0 atacs var
+
+[Improved] Added some AK103/104 to RG Olive units
+
+[Improved] Removed US/USSR labels from AFRF/USMC structure prefabs
+
+
+##### Fixed
+
+
+[Fixed] TV-119 vest ground model collider; fixes [#1244](https://github.com/RHSMODS/statusquo/issues/1244)
+
+[Fixed] Fixed KBS Strelok wrong colliders
+
+[Fixed] Fixed ARC V2 groin protection being not weighted
+
+[Fixed] Equip strings on the AK200 and AK205
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4548
 
