@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/7/2025 8:31:04 PM UTC | Revision 4584 | Ashyl]
+
+[Improved] 30mm HE explosion effects (and 30mm HE and HEI has a little bit different explosion effects)
+
+[Improved] And optimized 9m133 explosion and trail effects
+
+[Fixed] 30mm HE wasnt had light on explosion
+
+[Fixed] 2a42 muzzle flash didnt had light
+
+
+
 [9/6/2025 9:29:08 PM UTC | Revision 4583 | Cyborgmatt]
 
 [Fixed] GP106 RGD pouch wrong volume
