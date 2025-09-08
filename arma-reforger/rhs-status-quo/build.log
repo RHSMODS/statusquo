@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/8/2025 8:45:51 PM UTC | Revision 4586 | Soul_Assassin]
+
+[Fixed] Fix disappearing RU pants at distance; fixes #1250
+
+
+
 [9/8/2025 3:50:37 PM UTC | Revision 4585 | Soul_Assassin]
 
 [Fixed] PC Gen 3 Collider was interacting wrong with plates; fixes #1246
