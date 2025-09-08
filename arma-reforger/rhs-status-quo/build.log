@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/8/2025 10:52:56 PM UTC | Revision 4588 | Cyborgmatt]
+
+[Fixed] Required rank settings on binoculars for RHS factions; fixes #1247
+
+
+
 [9/8/2025 9:42:15 PM UTC | Revision 4587 | Cyborgmatt]
 
 [Fixed] PixelSizeScale inheritance on various clothing prefabs; fixes #1250
