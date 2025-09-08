@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/8/2025 9:42:15 PM UTC | Revision 4587 | Cyborgmatt]
+
+[Fixed] PixelSizeScale inheritance on various clothing prefabs; fixes #1250
+
+
+
 [9/8/2025 8:45:51 PM UTC | Revision 4586 | Soul_Assassin]
 
 [Fixed] Fix disappearing RU pants at distance; fixes #1250
