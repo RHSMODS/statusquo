@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/8/2025 3:50:37 PM UTC | Revision 4585 | Soul_Assassin]
+
+[Fixed] PC Gen 3 Collider was interacting wrong with plates; fixes #1246
+
+[Fixed] USMC Boonie collider was wrong
+
+[Fixed] Bad CPC ArsArma collider import settings
+
+
+
 [9/7/2025 8:31:04 PM UTC | Revision 4584 | Ashyl]
 
 [Improved] 30mm HE explosion effects (and 30mm HE and HEI has a little bit different explosion effects)
