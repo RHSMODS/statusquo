@@ -7,7 +7,125 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.12.4622
+
+<!-- revision 4622 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4622
+
+_<mark style="color:red;">Date:</mark>_ Sunday, October 5, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4622)
+
+_<mark style="color:red;">Changes:</mark>_ 20 additions, 8 improvements, 14 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Zenitco PT-1 stock
+
+[Added] Added Zenitco B-33 dust cover
+
+[Added] Added Zenitco RK-3 pistol grip
+
+[Added] Added Zenitco B-9M mount
+
+[Added] Added Zenitco DTK-2 muzzle brake
+
+[Added] Added Zenitco AKs to Olive RG Units
+
+[Added] Added Zenitco B33 (FDE)
+
+[Added] Added Zenitco PT-1 (FDE)
+
+[Added] Added FDE Zenitco AKs to SSO units
+
+[Added] Added Zenit B30 handguard
+
+[Added] Added Zenit B31 gastube cover
+
+[Added] Added Zenit B31S gastube cover
+
+[Added] Added Zenit DTK-1 muzzle device
+
+[Added] Added Zenitco RK-0 foregrip
+
+[Added] Added Zenitco RK-1 foregrip
+
+[Added] Added Zenitco RK-2 foregrip
+
+[Added] Added Zenitco RK-6 foregrip
+
+[Added] Added Zenitco B25U mount
+
+[Added] Added Initial Set of RK Foregrip Animations
+
+[Added] Added new ECH Highcut cover models; fixes [#1187](https://github.com/RHSMODS/statusquo/issues/1187)
+
+
+##### Improved
+
+
+[Improved] 30mm HE explosion effects (and 30mm HE and HEI has a little bit different explosion effects)
+
+[Improved] And optimized 9m133 explosion and trail effects
+
+[Improved] Replaced AK-74M mesh with new one
+
+[Improved] Each AK from 100 series now have different texture
+
+[Improved] Slightly adjusted Zenitco FDE handguards to match other Zenitco parts
+
+[Improved] Reduced radius of Fold stock action on AK-74M that was blocking other actions; fixes [#1159](https://github.com/RHSMODS/statusquo/issues/1159)
+
+[Improved] Added keybindings for binocular range and azimuth finding to control menu; fixes [#1163](https://github.com/RHSMODS/statusquo/issues/1163)
+
+[Improved] Some string updates
+
+
+##### Fixed
+
+
+[Fixed] GP106 RGD pouch wrong volume
+
+[Fixed] TV-102 EMR vest prefab numbering strings
+
+[Fixed] 30mm HE wasnt had light on explosion
+
+[Fixed] 2a42 muzzle flash didnt had light
+
+[Fixed] PC Gen 3 Collider was interacting wrong with plates; fixes [#1246](https://github.com/RHSMODS/statusquo/issues/1246)
+
+[Fixed] USMC Boonie collider was wrong
+
+[Fixed] Bad CPC ArsArma collider import settings
+
+[Fixed] Fix disappearing RU pants at distance; fixes [#1250](https://github.com/RHSMODS/statusquo/issues/1250)
+
+[Fixed] PixelSizeScale inheritance on various clothing prefabs; fixes [#1250](https://github.com/RHSMODS/statusquo/issues/1250)
+
+[Fixed] Required rank settings on binoculars for RHS factions; fixes [#1247](https://github.com/RHSMODS/statusquo/issues/1247)
+
+[Fixed] Attachment positions on the EXFIL Ballistic helmet when wearing a cover
+
+[Fixed] Various helmet and helmet cover strings being incorrect
+
+[Fixed] Removed unintended first-person rendering of various helmet attachments
+
+[Fixed] Strings & prefab fixes for the ARC V2 Plate Carrier
+
+
+##### Deleted
+
+
+
 
 ## 0.12.4573
 
