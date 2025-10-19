@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/19/2025 9:00:09 AM UTC | Revision 4682 | odkupiciel375]
+
+[Other] Made RHS compile on 1.6 - still needs more work
+
+
+
 [10/15/2025 7:35:59 PM UTC | Revision 4681 | Keller]
 
 [Fixed] SU-253 Reticle Mip Generation; fixes #1261
