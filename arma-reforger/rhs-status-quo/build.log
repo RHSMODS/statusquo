@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/19/2025 9:22:32 PM UTC | Revision 4683 | Soul_Assassin]
+
+[Fixed] 1.6: Fixed buggy NVG HDR mats; fixes #1263
+
+[Other] Work on Tank class GUIDs and 2S1, it loads now but crashes if you try to enter
+
+
+
 [10/19/2025 9:00:09 AM UTC | Revision 4682 | odkupiciel375]
 
 [Other] Made RHS compile on 1.6 - still needs more work
