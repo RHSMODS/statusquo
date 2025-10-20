@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/20/2025 7:59:42 PM UTC | Revision 4684 | Soul_Assassin]
+
+[Other] T14 and 2S1 can spawn in now but need help sorting out anim crashes on getting into the vehicles.
+
+[Other] Work on FCS layouts for gunners, completely broken now but at least not throwing errors.
+
+
+
 [10/19/2025 9:22:32 PM UTC | Revision 4683 | Soul_Assassin]
 
 [Fixed] 1.6: Fixed buggy NVG HDR mats; fixes #1263
