@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/22/2025 10:08:05 PM UTC | Revision 4685 | Soul_Assassin]
+
+[Fixed] 1.6: Fixed broken FCS layout inheritance; fixes #1268
+
+
+
 [10/20/2025 7:59:42 PM UTC | Revision 4684 | Soul_Assassin]
 
 [Other] T14 and 2S1 can spawn in now but need help sorting out anim crashes on getting into the vehicles.
