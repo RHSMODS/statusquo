@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[10/25/2025 4:20:59 PM UTC | Revision 4691 | Keller]
+
+[Fixed] Animation Issues with M40A5
+
+[Fixed] 1.6 Backblast Damage on MK153
+
+[Fixed] M27 Handling audio issues
+
+[Fixed] Open Top M27 Pouch Incorrect index
+
+
+
 [10/25/2025 3:50:17 PM UTC | Revision 4690 | Soul_Assassin]
 
 [Fixed] 1.6: Getting in tracked vehicles was causing crash; fixes #1270
