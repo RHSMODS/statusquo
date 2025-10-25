@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/25/2025 3:50:17 PM UTC | Revision 4690 | Soul_Assassin]
+
+[Fixed] 1.6: Getting in tracked vehicles was causing crash; fixes #1270
+
+
+
 [10/25/2025 2:57:53 PM UTC | Revision 4689 | Soul_Assassin]
 
 [Fixed] 1.6: Headgear component GUIDs in line with 1.6 unification; fixes #1266
