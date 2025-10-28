@@ -25,6 +25,9 @@ _<mark style="color:red;">Revisions Since Last:</mark>_ 0 (4695)
 _<mark style="color:red;">Changes:</mark>_ 47 additions, 47 improvements, 111 fixes and 29 deletions.
 {% endhint %}
 
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
 
 ##### Added
 
@@ -508,5 +511,6 @@ _<mark style="color:red;">Changes:</mark>_ 47 additions, 47 improvements, 111 fi
 [Removed] Temporarily removed ECH highcut and lowcut covers
 
 [Removed] Removed HDR override
+
 
 
