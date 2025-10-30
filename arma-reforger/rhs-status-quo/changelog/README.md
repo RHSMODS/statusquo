@@ -7,7 +7,73 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿<!-- changelog insert -->
+﻿﻿<!-- changelog insert -->
+
+## 0.14.4696
+
+<!-- revision 4696 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4696
+
+_<mark style="color:red;">Date:</mark>_ Thursday, October 30, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 17 (4679)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 16 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] SU-253 Reticle Mip Generation; fixes [#1261](https://github.com/RHSMODS/statusquo/issues/1261)
+
+[Fixed] 1.6: Fixed buggy NVG HDR mats; fixes [#1263](https://github.com/RHSMODS/statusquo/issues/1263)
+
+[Fixed] 1.6: Fixed broken FCS layout inheritance; fixes [#1268](https://github.com/RHSMODS/statusquo/issues/1268)
+
+[Fixed] 1.6: Fixed broken arsenal and resave capability with attachment sliding; fixes [#1265](https://github.com/RHSMODS/statusquo/issues/1265)
+
+[Fixed] 1.6: Arsenal saving missing items added for both MSV and USMC
+
+[Fixed] 1.6: Script errors in inventory UI connected to armor plates
+
+[Fixed] 1.6: Headgear component GUIDs in line with 1.6 unification; fixes [#1266](https://github.com/RHSMODS/statusquo/issues/1266)
+
+[Fixed] 1.6: Getting in tracked vehicles was causing crash; fixes [#1270](https://github.com/RHSMODS/statusquo/issues/1270)
+
+[Fixed] Animation Issues with M40A5
+
+[Fixed] 1.6 Backblast Damage on MK153
+
+[Fixed] M27 Handling audio issues
+
+[Fixed] Open Top M27 Pouch Incorrect index
+
+[Fixed] 1.6 T14 3BM60 Incorrect Ammo Mapping
+
+[Fixed] 1.6 K17 9M133/AGS-30 Incorrect Ammo Mapping
+
+[Fixed] 1.6: Fix 122 and 125mm vehicle shells not working
+
+[Fixed] Fixed Tucha smoke life and magazine setup
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4695
 
@@ -511,5 +577,6 @@ This release is only available on **Arma: Reforger Experimental**
 [Removed] Temporarily removed ECH highcut and lowcut covers
 
 [Removed] Removed HDR override
+
 
 
