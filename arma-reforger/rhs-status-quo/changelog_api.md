@@ -7,7 +7,45 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿<!-- changelog insert -->
+﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4699
+
+<!-- revision 4699 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4699
+
+_<mark style="color:red;">Date:</mark>_ Friday, October 31, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (4696)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Broken PIP Material on TA31
+
+[Fixed] Fixed bug preventing items being taken from Arsenal
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4696
 
