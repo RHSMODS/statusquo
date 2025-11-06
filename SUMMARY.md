@@ -101,6 +101,7 @@
       * [M4A1](arma-reforger/rhs-status-quo/indfor/weapons/m4a1.md)
       * [M4A1 Block I](arma-reforger/rhs-status-quo/indfor/weapons/m4a1-block-i.md)
       * [M4A1 Block II](arma-reforger/rhs-status-quo/indfor/weapons/m4a1-block-ii.md)
+      * [M16A4](arma-reforger/rhs-status-quo/blufor/weapons/m16a4.md)
       * [M38 SDMR](arma-reforger/rhs-status-quo/blufor/weapons/m38-sdmr.md)
       * [M40A5](arma-reforger/rhs-status-quo/blufor/weapons/m40a5.md)
       * [MK153 SMAW Mod 2](arma-reforger/rhs-status-quo/blufor/weapons/mk153-smaw-mod-2.md)

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Red Hammer Studios
 
 <figure><img src=".gitbook/assets/rhs_logo_lead.png" alt=""><figcaption></figcaption></figure>

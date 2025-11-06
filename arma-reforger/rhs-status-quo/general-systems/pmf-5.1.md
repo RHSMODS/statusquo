@@ -4,20 +4,6 @@ description: >-
   T-15, K-17, K-16, Typhoon-K
 cover: ../../../.gitbook/assets/image (215).png
 coverY: 173.78653229500685
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # PMF-5.1

@@ -4,20 +4,6 @@ description: >-
   electromagnetic spectrum analyzer.
 cover: ../../../.gitbook/assets/image (3).png
 coverY: 4.198350893266148
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Spectrum Device
