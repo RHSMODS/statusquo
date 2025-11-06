@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/6/2025 6:32:41 PM UTC | Revision 4701 | odkupiciel375]
+
+[Fixed] Fixed: Equipment in pouches and attached to the helmets or other clothing items were not saved with loadout; fixes #1279 #1277
+
+
+
 [11/1/2025 10:58:27 PM UTC | Revision 4700 | Keller]
 
 [Fixed] Leupold MK4 Broken PIP Material
