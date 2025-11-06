@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/6/2025 8:29:05 PM UTC | Revision 4702 | Soul_Assassin]
+
+[Fixed] Fixed 6B47 colliders; fixes #1276
+
+
+
 [11/6/2025 6:32:41 PM UTC | Revision 4701 | odkupiciel375]
 
 [Fixed] Fixed: Equipment in pouches and attached to the helmets or other clothing items were not saved with loadout; fixes #1279 #1277
