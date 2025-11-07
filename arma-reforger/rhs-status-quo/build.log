@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/7/2025 5:29:04 PM UTC | Revision 4705 | odkupiciel375]
+
+[Fixed] Fixed: CISS airstrikes werent propagating the author information to the warheads; fixes #1259
+
+
+
 [11/7/2025 2:56:44 PM UTC | Revision 4704 | Soul_Assassin]
 
 [Fixed] Fixed some reticle PIP errors across all scopes
