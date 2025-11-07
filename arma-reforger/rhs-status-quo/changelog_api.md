@@ -7,7 +7,63 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4709
+
+<!-- revision 4709 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4709
+
+_<mark style="color:red;">Date:</mark>_ Friday, November 7, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 10 (4699)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 2 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Changed: Enlarged many item previews to be easier to identify (rail covers, patches, helmet covers, helmets, headphones, gloves)
+
+[Improved] Added some USMC helmet variants to arsenal
+
+
+##### Fixed
+
+
+[Fixed] Leupold MK4 Broken PIP Material
+
+[Fixed] Fixed: Equipment in pouches and attached to the helmets or other clothing items were not saved with loadout; fixes [#1279](https://github.com/RHSMODS/statusquo/issues/1279) [#1277](https://github.com/RHSMODS/statusquo/issues/1277)
+
+[Fixed] Fixed 6B47 colliders; fixes [#1276](https://github.com/RHSMODS/statusquo/issues/1276)
+
+[Fixed] Fixed: Replaced duplicate M4 tan rail cover with tan M16 rail cover
+
+[Fixed] Fixed: Item preview of 6in rail covers with forward grips which were previously invisible
+
+[Fixed] Fixed: ECH cat eye helmet attachment preview was showing same generic cloth model as helmet covers
+
+[Fixed] Fixed: 6M2-1 headphones preview didnt show the mic making it look like 6M2
+
+[Fixed] Fixed some reticle PIP errors across all scopes
+
+[Fixed] Fixed: CISS airstrikes werent propagating the author information to the warheads; fixes [#1259](https://github.com/RHSMODS/statusquo/issues/1259)
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4699
 
