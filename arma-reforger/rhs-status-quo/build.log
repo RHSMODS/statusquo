@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/7/2025 5:56:06 PM UTC | Revision 4706 | odkupiciel375]
+
+[Other] Changed: Adjusted MSOB patch preview
+
+[Other] Improved: Setting the instigator when GM spawns call in airstrikes
+
+
+
 [11/7/2025 5:29:04 PM UTC | Revision 4705 | odkupiciel375]
 
 [Fixed] Fixed: CISS airstrikes werent propagating the author information to the warheads; fixes #1259
