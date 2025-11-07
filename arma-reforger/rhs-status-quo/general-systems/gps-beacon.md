@@ -20,4 +20,4 @@ The GPS Radio Beacon is widely used in military reconnaissance, law enforcement 
 | Frequency    | 101 - 225kHz                |
 | Range        | 4km                         |
 | Battery Life | 15 minutes                  |
-| Faction      | RHS USMS, RHS AFRF, RHS ION |
+| Faction      | RHS USMC, RHS AFRF, RHS ION |
