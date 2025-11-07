@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/7/2025 8:12:56 AM UTC | Revision 4703 | odkupiciel375]
+
+[Fixed] Fixed: Replaced duplicate M4 tan rail cover with tan M16 rail cover
+
+[Fixed] Fixed: Item preview of 6in rail covers with forward grips which were previously invisible
+
+[Fixed] Fixed: ECH cat eye helmet attachment preview was showing same generic cloth model as helmet covers
+
+[Fixed] Fixed: 6M2-1 headphones preview didnt show the mic making it look like 6M2
+
+[Improved] Changed: Enlarged many item previews to be easier to identify (rail covers, patches, helmet covers, helmets, headphones, gloves)
+
+
+
 [11/6/2025 8:29:05 PM UTC | Revision 4702 | Soul_Assassin]
 
 [Fixed] Fixed 6B47 colliders; fixes #1276
