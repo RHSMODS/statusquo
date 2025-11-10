@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/10/2025 11:25:23 PM UTC | Revision 4711 | Soul_Assassin]
+
+[Fixed] STANAG 30rnd mag was not working; fixes #1278
+
+
+
 [11/10/2025 10:59:06 PM UTC | Revision 4710 | Soul_Assassin]
 
 [Improved] Added protection for zero division for some scripts
