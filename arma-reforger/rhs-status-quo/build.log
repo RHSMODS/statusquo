@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/11/2025 1:02:33 AM UTC | Revision 4712 | Cyborgmatt]
+
+[Fixed] ION faction not working in GameMaster
+
+
+
 [11/10/2025 11:25:23 PM UTC | Revision 4711 | Soul_Assassin]
 
 [Fixed] STANAG 30rnd mag was not working; fixes #1278
