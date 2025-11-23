@@ -28,9 +28,9 @@ This bone is critical and the system will not work without it.
 
 ### 2. Prefab
 
-In the weapon prefab (or parent thereof) you need to make some changes. First we will add a new  `AttachmentSlotComponent` as a child to the `WeaponComponent` to prepare a slot where the bipod can attach to:
+In the weapon prefab (or parent thereof) you need to make some changes. First we will add a new `AttachmentSlotComponent` as a child to the `WeaponComponent` to prepare a slot where the bipod can attach to:
 
-<figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (237) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Finally edit the `SCR_WeaponAttachmentsStorageComponent` section of `AimingModif
 
 The most important part being that there is 1 stabilization point that is tied to the `bipod_pos` bone. When a bipod is attached, the system will recognise it and animate this bone, moving the stabilization point up and down. When bipod is not there it will be ignored. Normal bipod deployment actions and key bindings should work with it and it should propagate through multiplayer.
 
-The final and most complex step is modifying the animation graphs of the weapon to inject the trigger variable that will animate the point. For this you will have to edit or create the signals and the ProcAnimParams for the weapon. If your weapon already has a `ProcAnimComponent` with a `.pap` file assigned we will need to edit it, otherwise you will need to create a new one.&#x20;
+The final and most complex step is modifying the animation graphs of the weapon to inject the trigger variable that will animate the point. For this you will have to edit or create the signals and the ProcAnimParams for the weapon. If your weapon already has a `ProcAnimComponent` with a `.pap` file assigned we will need to edit it, otherwise you will need to create a new one.
 
 <figure><img src="../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ Only the **Bone** node needs editing, and there make sure to set the Bone name p
 {% hint style="info" %}
 Important: if you alreasy use a siga file for your weapon, paste the nodes from the bipod\_signal.siga into your siga and hook up the nodes in the pap using the existing signal node:
 
-![](<../../../.gitbook/assets/image (246).png>)
+<img src="../../../.gitbook/assets/image (246).png" alt="" data-size="original">
 {% endhint %}
 
 Now if you attach the bipod you will be able to see the bone animating when bipod is extended:
