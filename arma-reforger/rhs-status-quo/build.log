@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/24/2025 9:16:30 PM UTC | Revision 4723 | Soul_Assassin]
+
+[Fixed] Fixed bad if logic in PlayerController that could cause null reference exception
+
+
+
 [11/21/2025 5:36:08 AM UTC | Revision 4722 | gurdy]
 
 [Other] ERGO rail cover initial commit
