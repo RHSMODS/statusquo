@@ -1,97 +1,133 @@
 ---
-description: This guide is about making custom pouch presets using Enfusion tools.
+description: >-
+  This guide will show you how to create your own custom pouch presets using the
+  RHS mod within the Enfusion Tools for Arma Reforger.  Alternatively, you can
+  watch the below video by TPM Tactical.
 cover: ../../../.gitbook/assets/image (188).png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Custom pouch presets
+# Creating Custom Pouch Presets
 
 {% hint style="danger" %}
 Keep in mind that our systems tend to change without instant changes in documentation. So this guide may be outdated at some point.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Please. Read this guide from start to end BEFORE making your own prefab.
 {% endhint %}
 
 {% hint style="info" %}
-Last thing before this guide starts. When unsure about anything, check how it's done in existing RHS prefabs.
+This guide assumes you know how to open Enfusion Tools and add RHS as a dependency to your project.
+{% endhint %}
+
+{% hint style="info" %}
+Last thing, please make sure you check existing RHS prefabs to see exactly what components and settings have been used.
 {% endhint %}
 
 {% embed url="https://youtu.be/LH7rc0Dsf9Y" %}
 
-## Step 1: Prefab
+## Step 1: Creating Prefab
 
-Lets start with inheriting our custom pouch preset from [Vest\_Base](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHSStatusQuo:Prefabs/Characters/Core/RHS_Vest_Base.et)\
-After that we can open it. If you want to use inflatable pouches on your preset, you need to add a SignalsManagerComponent
+* The first step is to locate [Vest\_Base.et](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~ArmaReforger:Prefabs/Characters/Core/Vest_Base.et).  At the top left in the resource browser, search for Vest\_Base.  It will be located within the ArmaReforger directory.
+* Once located, right click Vest\_Base.et and select 'Inherit in \<yourprojectname>' and give your prefab a name.
 
-![](<../../../.gitbook/assets/image (189).png>)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-and SCR\_UniversalInventoryStorageComponent.
+* Located your newly created prefab, right click and select 'Edit Prefab' and the World Editor window will open.
 
-![](<../../../.gitbook/assets/image (197).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-I'm not gonna go into details about configuring SCR\_UniversalInventoryStorageComponent, just use existing RHS prefabs as reference. F.e Vest\_PCGen\_III\_Loadout\_base
+* If you want to utilise the inflatable pouch system you will need to add the 'SignalsManagerComponent', by click '+Add Component' located down the bottom right of your screen and searching 'SignalsManagerComponent' and selecting the component.
 
-## Step 2: Mesh
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Start with putting mesh of the vest you want to make pouch preset for in MeshObject and BaseLoadoutCloth component. In our case we will use NCPC as example.
+* Add 'RHS\_ClothNodeStorageComponent' following the same steps as adding the 'SignalsManagerComponent' from above.
 
-{% hint style="warning" %}
-We gonna need it only temporary, just to be able to parent our pouches to bones on character.
-{% endhint %}
+## Step 2: Configure RHS\_ClothNodeStorageComponent'
 
-<figure><img src="../../../.gitbook/assets/image (190) (1).png" alt=""><figcaption></figcaption></figure>
+* In your Object Properties window of your prefab, select 'RHS\_ClothNodeStorageComponet' and then click 'Set Class' in the Attributes section, followed by selecting 'SCR\_ItemAttributeCollection'.
 
-You need to put worn model not \_ground one.
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+* You will now need to configr your 'RHS\_ClothNodeStorageComponent' as per the below screenshot or your own settings.
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Keep in mind that we will remove model from pouch preset later. Once again, we need it only temporary, just to be able to parent our pouches to bones on character.
-{% endhint %}
+## Step 3: Mesh
 
-## Part 3: Configuration
-
-Now you can go to BaseLoadoutClothComponent and create a new slot. It should be LoadoutSlotInfo.
-
-Then you can put a pouch you want to attach in prefab slot.\
-Pouches can be found in these folders:
-
-1. Vest\_PCGen\_III\_Pouches
-2. Vest\_CPC\_NCPC\_pouches
-3. Vest\_AACPC\_Pouches
-4. Vest\_Taktika\_Pouches
-5. Vest\_TV110\_Pouches
-
-And after that parent it to bone[^1]
-
-<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption><p>Make sure to have exactly same checkboxes checked as on this screenshot</p></figcaption></figure>
-
-## Step 4: Final touches
-
-After you done with all steps mentioned above, it's time to replace temp meshes with invisible ones.
-
-put **rhs\_equipment\_empty\_item.xob** in **meshobject**
-
-<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
-
-put **rhs\_equipment\_empty\_item.xob** in Item Model\
-put **rhs\_equipment\_empty.xob** in Worn model
-
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+* In your prefabs Object Properties, select 'MeshObject' and then locate the .xob file of the vest you want to attach your pouches and insert into the 'Object' section as seen below.  The .xob files will be located within either RHS\_Content\_01 or 02.  [JPC example location](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_JPC/JPC.xob).
 
 {% hint style="info" %}
-You may want to ask, "What if i want to have a belt as well?
+This .xob file will be used temporarily to allows us to set the pouches in the correct position and parent them to the bones of the character.
 {% endhint %}
 
-It is as simple as it sounds, instead of **rhs\_equipment\_empty\_item.xob** and **rhs\_equipment\_empty.xob** put corresponding meshes of belt.
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Once again, instead of guessing how it should look like, just check how it's done in our prefabs.\
-![](<../../../.gitbook/assets/image (201).png>)
+* In your Object Properties window, select 'BaseLoadoutClothComponent' and ensure 'LoadoutVestArea' is selected in the Area Type section.
 
-[^1]: if you dont know what are you doing, always use spine5 for pouches on platecarrier and spine1 for pouches on belt
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+* In your Object Properties window, select 'BaseLoadoutClothComponent' and ensure 'LoadoutVestArea' is selected in the Area Type section.
+* Within the same area, insert the same .xob file which was used above into the Worn Model and Item Model sections.
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+* Click the '+' symbole to add element within the slots section and select 'LoadoutSlotInfo' and give the slot a name. Eg RadioPouch
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+* In the Pivot ID section, select 'Spine5' and now locate the prefab of the pouch you want to use and drag it into the Prefab section.  Prefabs are located within 'RHS\_Core'
+* Click in the Offset/Angles sections to then move the prefab around to the desired location.  Repeat these steps to add further pouches into new slots.
+
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+* Once you have finished adding and adjusting your pouches, we need to replace the the .xob files of the vest we are using with an empty xob.  For example [rhs\_equipment\_empty.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty.xob) and [rhs\_equipment\_empty\_item.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty_item.xob)
+* Locate the above 2 empty xob files and drag them into the 'BaseLoadoutClothComponent' and 'MeshObject' as seen below.
+
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+* You have now completed your pouch preset, please ensure you save your prefab before closing the window.
+* To test, add it to one of your faction items entity catalogue.
+
+## Step 4: Adding a Belt
+
+* If you want to add a belt with pouches, drag a belt .xob file (worn not ground .xob file) into the MeshObjects and BaseLoadoutClothComponent model sections where the empty .xob files are located and follow the steps above for adding slots/pouches.
+
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+* Once you have placed the pouches to the desired location on the belt, replace the Item Model .xob file with the ground .xob file and save.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you are unsure on a particular setting, check on of the RHS prefabs.
+{% endhint %}
+
+{% hint style="warning" %}
+When publishing your mode, make sure to read the RHS EULA
+{% endhint %}
+

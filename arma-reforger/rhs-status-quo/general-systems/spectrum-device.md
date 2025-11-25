@@ -2,7 +2,7 @@
 description: >-
   The Spectrum Device is a handheld transceiver that can act as an
   electromagnetic spectrum analyzer.
-cover: ../../../.gitbook/assets/image (3).png
+cover: ../../../.gitbook/assets/image (3) (1).png
 coverY: 4.198350893266148
 ---
 
@@ -38,7 +38,7 @@ Spectrum Devices utilize software processing and a single receiver to detect sig
 
 Radio signals can be obstructed by terrain, buildings, vehicles, or artificial interruptions, such as jammers. Additionally, radio signals are prone to reflection, which can create false noise—a significant concern in signal detection.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example of piled signals</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Example of piled signals</p></figcaption></figure>
 
 Because of these factors, signals can be classified into three types:
 
@@ -74,11 +74,11 @@ To interact with a signal, hover the cursor over it and press "F."
 
 The first thing you see is the boot screen, which takes about 2 seconds to start up.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the boot sequence is complete, you will be directed to the main menu, known as the signal map.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 To start detecting signals, you need to level the spectrum device with the horizon. Once the device is properly leveled, the direction arrow will disappear.
 
@@ -86,7 +86,7 @@ To start detecting signals, you need to level the spectrum device with the horiz
 You can reduce processing time by directly focusing on signals, which helps bypass some of the distortion calculations.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Understanding the Display Information
 

@@ -4,4 +4,4 @@ The Modular Integrated Communications Helmet (MICH) is a specialized combat helm
 
 One of the key features of the MICH is its focus on modularity and customization. The helmet can be outfitted with a range of accessories, including NVG mounts, rails for attaching additional equipment, and various forms of camouflage covers. This modularity allows it to be adapted to a wide range of combat scenarios and personal preferences. Additionally, the MICH offers improved comfort features compared to its predecessors. It comes with advanced padding systems, which not only increase comfort but also add to the helmet's protective capabilities by improving shock absorption. The design and features of the MICH have significantly influenced the development of later helmets like the ACH, underscoring its pivotal role in modern military gear.
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>

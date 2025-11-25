@@ -42,7 +42,7 @@
   * [For Developers](arma-reforger/rhs-status-quo/for-developers/README.md)
     * [Sliding Attachments](arma-reforger/rhs-status-quo/for-developers/sliding-attachments.md)
     * [Detacheable Bipods](arma-reforger/rhs-status-quo/for-developers/detacheable-bipods.md)
-    * [Custom pouch presets](arma-reforger/rhs-status-quo/for-developers/custom-pouch-presets.md)
+    * [Creating Custom Pouch Presets](arma-reforger/rhs-status-quo/for-developers/custom-pouch-presets.md)
     * [Patches](arma-reforger/rhs-status-quo/for-developers/patches.md)
   * [BLUFOR](arma-reforger/rhs-status-quo/blufor/README.md)
     * [What is BLUFOR?](arma-reforger/rhs-status-quo/blufor/what-is-blufor/README.md)
