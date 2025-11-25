@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/25/2025 8:45:22 PM UTC | Revision 4724 | Soul_Assassin]
+
+[Fixed] Fixed faction radio encryption keys; fixes #1289
+
+
+
 [11/24/2025 9:16:30 PM UTC | Revision 4723 | Soul_Assassin]
 
 [Fixed] Fixed bad if logic in PlayerController that could cause null reference exception
