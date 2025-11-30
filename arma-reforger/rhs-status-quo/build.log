@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/30/2025 5:34:29 PM UTC | Revision 4728 | odkupiciel375]
+
+[Improved] Changed: Increased the power of the fake volumetric effect of the flashlights to make them more visible from the front; fixes #1293
+
+
+
 [11/30/2025 3:46:45 PM UTC | Revision 4727 | odkupiciel375]
 
 [Fixed] Fixed: Clothing attachments did not supporting new persistence system
