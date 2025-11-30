@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/30/2025 3:46:45 PM UTC | Revision 4727 | odkupiciel375]
+
+[Fixed] Fixed: Clothing attachments did not supporting new persistence system
+
+[Other] Changed: Deleted PersistenceComponent in NVG_Base.et prefab, and instead added it to the ClothAttachment_Base.et, so it is present on patches and other attachments
+
+
+
 [11/30/2025 2:09:19 PM UTC | Revision 4726 | odkupiciel375]
 
 [Removed] Disabled all EARHS code to prevent unwanted side effects, until it will be fully rewritten
