@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/30/2025 2:09:19 PM UTC | Revision 4726 | odkupiciel375]
+
+[Removed] Disabled all EARHS code to prevent unwanted side effects, until it will be fully rewritten
+
+[Other] Removed: Deleted SoundComponent from Radio_ANPRC152A_OLD.et as it was unnecessary
+
+
+
 [11/28/2025 6:25:08 PM UTC | Revision 4725 | Keller]
 
 [Fixed] ARC V2 Plate Carrier floating magazine slot
