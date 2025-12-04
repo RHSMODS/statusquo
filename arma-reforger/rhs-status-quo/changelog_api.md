@@ -7,7 +7,71 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4729
+
+<!-- revision 4729 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4729
+
+_<mark style="color:red;">Date:</mark>_ Thursday, December 4, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 20 (4709)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 5 improvements, 9 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Added protection for zero division for some scripts
+
+[Improved] Fixed some spelling mistakes in Call-in menu
+
+[Improved] Added some more null checks in scripts
+
+[Improved] Fixed script warnings and hints
+
+[Improved] Changed: Increased the power of the fake volumetric effect of the flashlights to make them more visible from the front; fixes [#1293](https://github.com/RHSMODS/statusquo/issues/1293)
+
+
+##### Fixed
+
+
+[Fixed] STANAG 30rnd mag was not working; fixes [#1278](https://github.com/RHSMODS/statusquo/issues/1278)
+
+[Fixed] ION faction not working in GameMaster
+
+[Fixed] USMC Boonie Hat texture error
+
+[Fixed] Headphones missing inventory item hint string
+
+[Fixed] Add missing Persistence component to NVG base prefab
+
+[Fixed] Fixed bad if logic in PlayerController that could cause null reference exception
+
+[Fixed] Fixed faction radio encryption keys; fixes [#1289](https://github.com/RHSMODS/statusquo/issues/1289)
+
+[Fixed] ARC V2 Plate Carrier floating magazine slot
+
+[Fixed] Fixed: Clothing attachments did not supporting new persistence system
+
+
+##### Deleted
+
+
+[Removed] Disabled all EARHS code to prevent unwanted side effects, until it will be fully rewritten
+
+
 
 ## 0.14.4709
 
