@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/11/2025 5:39:18 PM UTC | Revision 4736 | odkupiciel375]
+
+[Fixed] Fixed: Weapon lights were not reacting to their keybinds
+
+
+
 [12/10/2025 9:49:59 PM UTC | Revision 4735 | odkupiciel375]
 
 [Other] Changed: Moved all ACP files from CP1 to CORE
