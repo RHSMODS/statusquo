@@ -7,7 +7,49 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4737
+
+<!-- revision 4737 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4737
+
+_<mark style="color:red;">Date:</mark>_ Thursday, December 11, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (4729)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Duplicate ColliderHistoryComponent on ARS ARMA vest
+
+[Fixed] Mk-153 animation graph workaround fix for crash
+
+[Fixed] Fixed: Weapon lights were not reacting to their keybinds
+
+[Fixed] Fixed: Balaclavas had wrong volume setup making it not fit in most storages
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4729
 
