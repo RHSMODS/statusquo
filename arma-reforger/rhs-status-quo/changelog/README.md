@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4738
+
+<!-- revision 4738 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4738
+
+_<mark style="color:red;">Date:</mark>_ Friday, December 12, 2025
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (4737)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed: Round two of fixing (this time) all weapon lights, so they listen to keybinds
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4737
 
