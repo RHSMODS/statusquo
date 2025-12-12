@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[12/12/2025 9:49:58 AM UTC | Revision 4738 | odkupiciel375]
+
+[Fixed] Fixed: Round two of fixing (this time) all weapon lights, so they listen to keybinds
+
+[Other] Removed: Deleted visible light (flashlight) from AN/PSQ-23
+
+[Other] Changed: AN/PSQ-23 is now turned off by default like all other weapon lights
+
+
+
 [12/11/2025 5:44:20 PM UTC | Revision 4737 | odkupiciel375]
 
 [Fixed] Fixed: Balaclavas had wrong volume setup making it not fit in most storages
