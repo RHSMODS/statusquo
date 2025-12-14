@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/14/2025 10:00:00 AM UTC | Revision 4743 | odkupiciel375]
+
+[Fixed] Fixed: VMEs with weapon lights
+
+[Fixed] Fixed: Spotlight cone adjustment was not working for su233, klesh2, m300c and wml
+
+[Fixed] Fixed: su233 and klesh2 were unable to switch back from IR mode with cycle modes keybind
+
+[Improved] Changed: Removed from m300 and wml option to cycle modes, as they have only one mode
+
+
+
 [12/14/2025 1:25:25 AM UTC | Revision 4742 | gurdy]
 
 [Added] Added M4A1 and M4A1 CQBR with USGI stock. Closes #1292.
