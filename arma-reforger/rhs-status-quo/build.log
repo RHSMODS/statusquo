@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[12/19/2025 5:21:05 PM UTC | Revision 4745 | Keller]
+
+[Fixed] ANPRC152A animation graph invalid source id; fixes #1299
+
+
+
 [12/17/2025 5:40:12 AM UTC | Revision 4744 | gurdy]
 
 [Other] ERGO ladder rail cover work (strings, lods, collision, UV fixes and texture improvements)
