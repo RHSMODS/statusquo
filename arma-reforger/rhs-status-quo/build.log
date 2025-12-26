@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[12/26/2025 5:04:49 AM UTC | Revision 4748 | tpm]
+
+[Added] Added ION Groups - Close Protection Team, Mobile Security Team and Quick Reaction Force.
+
+[Fixed] Fixed ION Characters that were spawning in naked or half clothed.
+
+[Other] Updated Stringtable.
+
+[Other] Updated ION_Groups.config with new ION groups.
+
+
+
 [12/21/2025 11:38:16 PM UTC | Revision 4747 | gurdy]
 
 [Added] Ergo Low Profile Ladder rail covers + presets for (M27, M4, M4 ERGO, M4 Block II, M16A4 and AK rifles with the B30/B31 rail combo.) Closes #952
