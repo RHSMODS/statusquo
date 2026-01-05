@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[1/5/2026 1:28:00 PM UTC | Revision 4756 | tpm]
+
+[Added] ION M1025 Armed and Armed MDO variants in both standard and desert colours
+
+[Added] Added ION M1025 variants to ION Configs/EntityCatalog/ION/ION_Vehicles.conf
+
+[Other] Added ION_logo_alt.emat and transferred from RHS_Content_01 to RHS_Content_02
+
+[Other] Added ION M1025_armed_ION_base.et to RHS_Core
+
+[Other] Replaced ION Mobile Security Team Group vehicle (temp until skin is fixed)
+
+
+
 [1/3/2026 12:18:14 AM UTC | Revision 4755 | Keller]
 
 [Other] M40 Anims pt2
