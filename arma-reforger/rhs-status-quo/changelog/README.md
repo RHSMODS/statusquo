@@ -7,7 +7,95 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4761
+
+<!-- revision 4761 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4761
+
+_<mark style="color:red;">Date:</mark>_ Friday, January 16, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 23 (4738)
+
+_<mark style="color:red;">Changes:</mark>_ 12 additions, 2 improvements, 13 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added two ARS Arma patches
+
+[Added] Added M4A1 and M4A1 CQBR with USGI stock. Closes [#1292](https://github.com/RHSMODS/statusquo/issues/1292).
+
+[Added] Ergo Low Profile Ladder rail covers + presets for (M27, M4, M4 ERGO, M4 Block II, M16A4 and AK rifles with the B30/B31 rail combo.) Closes [#952](https://github.com/RHSMODS/statusquo/issues/952)
+
+[Added] Added ION Groups - Close Protection Team, Mobile Security Team and Quick Reaction Force.
+
+[Added] ION Groups - Static Security and Special Projects Team
+
+[Added] ION M1025 Armed and Armed MDO variants in both standard and desert colours
+
+[Added] Added ION M1025 variants to ION Configs/EntityCatalog/ION/ION_Vehicles.conf
+
+[Added] Added new FROG pants
+
+[Added] FROG Pants MC to ION_InventoryItems.conf
+
+[Added] FROG Pants MC to RHS ION and RHS ION Coy Characters
+
+[Added] FROG PANTS to USAF FORECON Characters
+
+[Added] FROG PANTS MC to USAG MARSOC MC Characters
+
+
+##### Improved
+
+
+[Improved] Changed: Removed from m300 and wml option to cycle modes, as they have only one mode
+
+[Improved] M40A5 Animations
+
+
+##### Fixed
+
+
+[Fixed] Fixed: VMEs with weapon lights
+
+[Fixed] Fixed: Spotlight cone adjustment was not working for su233, klesh2, m300c and wml
+
+[Fixed] Fixed: su233 and klesh2 were unable to switch back from IR mode with cycle modes keybind
+
+[Fixed] ANPRC152A animation graph invalid source id; fixes [#1299](https://github.com/RHSMODS/statusquo/issues/1299)
+
+[Fixed] Fixed ION Characters that were spawning in naked or half clothed.
+
+[Fixed] Radio frequency resolution to match Reforger v1.6
+
+[Fixed] Mission config errors & missing SystemsConfig settings
+
+[Fixed] Fixed potential zero division in RHS_TouchScreenPMFGPSMarkerIconSelector; fixes [#1314](https://github.com/RHSMODS/statusquo/issues/1314)
+
+[Fixed] Added additional null pointer check in SCR_CallInSupportContainer; fixes [#1309](https://github.com/RHSMODS/statusquo/issues/1309)
+
+[Fixed] Fixed vehicle fuel warning sounds going off even if fuel was full; fixes [#1311](https://github.com/RHSMODS/statusquo/issues/1311)
+
+[Fixed] Radio beacons can be stuck to objects again; fixes [#1308](https://github.com/RHSMODS/statusquo/issues/1308)
+
+[Fixed] Fixed refuel action point for T14; fixes [#1312](https://github.com/RHSMODS/statusquo/issues/1312)
+
+[Fixed] Changed: Disabled RplComponent on the projectiles used by Mk153 and GM94 to maybe make them work in MP
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4738
 
