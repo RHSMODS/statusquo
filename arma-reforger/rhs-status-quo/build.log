@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[1/16/2026 5:46:14 PM UTC | Revision 4761 | odkupiciel375]
+
+[Fixed] Changed: Disabled RplComponent on the projectiles used by Mk153 and GM94 to maybe make them work in MP
+
+
+
 [1/15/2026 4:17:29 PM UTC | Revision 4760 | Soul_Assassin]
 
 [Fixed] Fixed potential zero division in RHS_TouchScreenPMFGPSMarkerIconSelector; fixes #1314
