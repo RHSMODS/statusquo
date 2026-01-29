@@ -7,7 +7,47 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4776
+
+<!-- revision 4776 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4776
+
+_<mark style="color:red;">Date:</mark>_ Thursday, January 29, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 15 (4761)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] MEF woodland now uses woodland boonie
+
+[Fixed] M998 Int Desert material fix
+
+[Fixed] Fixed: Compilation errors due to the changes in the AR component members structure
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4761
 
