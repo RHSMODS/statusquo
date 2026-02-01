@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/1/2026 5:08:50 AM UTC | Revision 4777 | tpm]
+
+[Added] Equipment/gear to all RHS_ION and RHS_ION_Coy Characters
+
+[Other] Updated the RHS_ION and RHS_ION_Coy characters to use the new inventory targeting system.
+
+
+
 [1/29/2026 5:52:47 PM UTC | Revision 4776 | odkupiciel375]
 
 [Fixed] Fixed: Compilation errors due to the changes in the AR component members structure
