@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/2/2026 8:46:28 PM UTC | Revision 4786 | odkupiciel375]
+
+[Other] Fixed: added prevention for sus division by zero; fixes #1320
+
+
+
 [2/2/2026 8:28:48 PM UTC | Revision 4785 | odkupiciel375]
 
 [Other] Fixed: VME when applying frequency change when user has not typed any text on T14 touchscreen
