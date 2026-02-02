@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/2/2026 10:08:57 PM UTC | Revision 4787 | odkupiciel375]
+
+[Other] Changed: Transferred (hopefully) all NVG and hacky thermal HDR emats from CP1 to the CORE
+
+[Other] Fixed: Unknown keyword/data in few HDR emats
+
+
+
 [2/2/2026 8:46:28 PM UTC | Revision 4786 | odkupiciel375]
 
 [Other] Fixed: added prevention for sus division by zero; fixes #1320
