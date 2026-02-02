@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/2/2026 7:56:45 PM UTC | Revision 4784 | odkupiciel375]
+
+[Other] Removed: Deleted debug print from RHS_NVMaskScreenEffect.c
+
+[Other] Changed: Switched non nvg hdr to use the actual vanilla hdr material as previous was causing odd color changes - to be tested in normal client
+
+
+
 [2/2/2026 5:01:24 AM UTC | Revision 4783 | SpaceStrider]
 
 [Fixed] Resaved files for stability
