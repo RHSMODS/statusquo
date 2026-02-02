@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/2/2026 5:01:24 AM UTC | Revision 4783 | SpaceStrider]
+
+[Fixed] Resaved files for stability
+
+[Improved] K4386 simulation configuration
+
+[Improved] K4386 Vehicle Simple collider to ease collisions with ground clutter
+
+[Fixed] K17 turrets swap seats and unload casualty actions
+
+
+
 [2/1/2026 9:12:00 PM UTC | Revision 4782 | blackburn]
 
 [Other] Added Garmin Foretrex prefab
