@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/2/2026 8:28:48 PM UTC | Revision 4785 | odkupiciel375]
+
+[Other] Fixed: VME when applying frequency change when user has not typed any text on T14 touchscreen
+
+
+
 [2/2/2026 7:56:45 PM UTC | Revision 4784 | odkupiciel375]
 
 [Other] Removed: Deleted debug print from RHS_NVMaskScreenEffect.c
