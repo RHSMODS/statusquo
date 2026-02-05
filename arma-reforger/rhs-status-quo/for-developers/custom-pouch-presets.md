@@ -46,7 +46,7 @@ Last thing, please make sure you check existing RHS prefabs to see exactly what 
 
 ## Step 1: Creating Prefab
 
-* The first step is to locate [Vest\_Base.et](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~ArmaReforger:Prefabs/Characters/Core/Vest_Base.et).  At the top left in the resource browser, search for Vest\_Base.  It will be located within the ArmaReforger directory.
+* The first step is to locate [Vest\_Base.et](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~ArmaReforger:Prefabs/Characters/Core/Vest_Base.et). At the top left in the resource browser, search for Vest\_Base. It will be located within the ArmaReforger directory.
 * Once located, right click Vest\_Base.et and select 'Inherit in \<yourprojectname>' and give your prefab a name.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -65,7 +65,7 @@ Last thing, please make sure you check existing RHS prefabs to see exactly what 
 
 * In your Object Properties window of your prefab, select 'RHS\_ClothNodeStorageComponet' and then click 'Set Class' in the Attributes section, followed by selecting 'SCR\_ItemAttributeCollection'.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 * You will now need to configr your 'RHS\_ClothNodeStorageComponent' as per the below screenshot or your own settings.
 
@@ -75,7 +75,7 @@ Last thing, please make sure you check existing RHS prefabs to see exactly what 
 
 ## Step 3: Mesh
 
-* In your prefabs Object Properties, select 'MeshObject' and then locate the .xob file of the vest you want to attach your pouches and insert into the 'Object' section as seen below.  The .xob files will be located within either RHS\_Content\_01 or 02.  [JPC example location](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_JPC/JPC.xob).
+* In your prefabs Object Properties, select 'MeshObject' and then locate the .xob file of the vest you want to attach your pouches and insert into the 'Object' section as seen below. The .xob files will be located within either RHS\_Content\_01 or 02. [JPC example location](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_JPC/JPC.xob).
 
 {% hint style="info" %}
 This .xob file will be used temporarily to allows us to set the pouches in the correct position and parent them to the bones of the character.
@@ -96,12 +96,12 @@ This .xob file will be used temporarily to allows us to set the pouches in the c
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-* In the Pivot ID section, select 'Spine5' and now locate the prefab of the pouch you want to use and drag it into the Prefab section.  Prefabs are located within 'RHS\_Core'
-* Click in the Offset/Angles sections to then move the prefab around to the desired location.  Repeat these steps to add further pouches into new slots.
+* In the Pivot ID section, select 'Spine5' and now locate the prefab of the pouch you want to use and drag it into the Prefab section. Prefabs are located within 'RHS\_Core'
+* Click in the Offset/Angles sections to then move the prefab around to the desired location. Repeat these steps to add further pouches into new slots.
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-* Once you have finished adding and adjusting your pouches, we need to replace the the .xob files of the vest we are using with an empty xob.  For example [rhs\_equipment\_empty.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty.xob) and [rhs\_equipment\_empty\_item.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty_item.xob)
+* Once you have finished adding and adjusting your pouches, we need to replace the the .xob files of the vest we are using with an empty xob. For example [rhs\_equipment\_empty.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty.xob) and [rhs\_equipment\_empty\_item.xob](https://enfusionengine.com/api/redirect?to=enfusion://ResourceManager/~RHS_Content_01:Assets/Characters/Vests/Vest_Common/rhs_equipment_empty_item.xob)
 * Locate the above 2 empty xob files and drag them into the 'BaseLoadoutClothComponent' and 'MeshObject' as seen below.
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
@@ -119,7 +119,7 @@ This .xob file will be used temporarily to allows us to set the pouches in the c
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-* Once you have placed the pouches to the desired location on the belt, replace the Item Model .xob file with the ground .xob file and save.&#x20;
+* Once you have placed the pouches to the desired location on the belt, replace the Item Model .xob file with the ground .xob file and save.
 
 <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
@@ -130,4 +130,3 @@ If you are unsure on a particular setting, check on of the RHS prefabs.
 {% hint style="warning" %}
 When publishing your mode, make sure to read the RHS EULA
 {% endhint %}
-

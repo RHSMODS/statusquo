@@ -10,7 +10,7 @@ coverY: 4.198350893266148
 
 ## Part 1: Introduction
 
-<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>The Spectrum Device</p></figcaption></figure>
 
 The Spectrum Device was developed thanks to advances in radio reconnaissance. It utilizes advanced processing technologies to detect and process signals in 3D space using a single receiver.
 

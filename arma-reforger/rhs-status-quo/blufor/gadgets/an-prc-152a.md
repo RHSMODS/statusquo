@@ -9,8 +9,6 @@ The AN/PRC-152A is an enhanced version of the AN/PRC-152, developed to meet the 
 **Service & Usage:**\
 The AN/PRC-152A is widely used by military forces, special operations teams, and emergency response units, valued for its rugged construction, extended range, and multiple encryption standards. It is compatible with legacy and next-generation communication systems, allowing seamless integration with manpack radios, vehicle-mounted systems, and command networks. Its flexible waveform support makes it an essential tool for secure battlefield coordination, reconnaissance, and real-time intelligence sharing in modern warfare.
 
-
-
 | Category                    | Data                  |
 | --------------------------- | --------------------- |
 | Number of Transceivers      | 2                     |
@@ -18,4 +16,4 @@ The AN/PRC-152A is widely used by military forces, special operations teams, and
 | Transmitting Range          | 2200 m                |
 | Min Tuneable Frequency      | 32000 kHz             |
 | Max Tuneable Frequency      | 68000 kHz             |
-| Frequency Resolution        | 500 kHz               |
+| Frequency Resolution        | 200 kHz               |
