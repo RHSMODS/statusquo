@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/6/2026 9:21:29 PM UTC | Revision 4795 | odkupiciel375]
+
+[Fixed] Changed: Reverted the usage of pure vanilla HDR material when NVG is turned off
+
+
+
 [2/6/2026 6:06:12 AM UTC | Revision 4794 | Keller]
 
 [Other] Fix my silly mistake
