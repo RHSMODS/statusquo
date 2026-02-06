@@ -7,7 +7,61 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4794
+
+<!-- revision 4794 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4794
+
+_<mark style="color:red;">Date:</mark>_ Friday, February 6, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 18 (4776)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 2 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Equipment/gear to all RHS_ION and RHS_ION_Coy Characters
+
+[Added] Equipment/Gear to all RHS_ION_Urban and RHS_ION_Urban_Demi Characters.
+
+[Added] RHS_ION Armed M1025 Camo Variants
+
+[Added] RHS_ION Black Static Group
+
+[Added] RHS_ION Black Static and Control the Noise Patches
+
+
+##### Improved
+
+
+[Improved] K4386 simulation configuration
+
+[Improved] K4386 Vehicle Simple collider to ease collisions with ground clutter
+
+
+##### Fixed
+
+
+[Fixed] Resaved files for stability
+
+[Fixed] K17 turrets swap seats and unload casualty actions
+
+[Fixed] SR-3M invalid animation graph logic
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4776
 
