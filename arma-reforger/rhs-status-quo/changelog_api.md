@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4795
+
+<!-- revision 4795 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4795
+
+_<mark style="color:red;">Date:</mark>_ Friday, February 6, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (4794)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Changed: Reverted the usage of pure vanilla HDR material when NVG is turned off
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4794
 
