@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[2/6/2026 4:22:31 AM UTC | Revision 4793 | tpm]
+
+[Added] RHS_ION Black Static Group
+
+[Added] RHS_ION Black Static and Control the Noise Patches
+
+[Other] Added rhs_core/Prefabs/Weapons/Rifles/M4A1/Variants/ION/Rifle_M4A1_BLOCK_1_ION_V2.et
+
+[Other] Added rhs_core/Prefabs/Characters/Vests/Vest_JPC/Vest_JPC_MCBlk_IONBS.et
+
+
+
 [2/5/2026 7:11:51 PM UTC | Revision 4792 | blackburn]
 
 [Other] Added basic compass page to Garmin Foretrex
