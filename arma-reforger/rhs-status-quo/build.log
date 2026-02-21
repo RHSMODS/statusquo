@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/21/2026 4:56:08 PM UTC | Revision 4806 | Keller]
+
+[Other] Disable rigid body on k4386 interior lights to fix error spam
+
+
+
 [2/21/2026 10:05:26 AM UTC | Revision 4805 | Sesk]
 
 [Other] M1025_armed_M2HB_MDO_USAF.et fixed
