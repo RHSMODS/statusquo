@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/22/2026 5:44:54 PM UTC | Revision 4808 | Keller]
+
+[Fixed] Use of MaterialCube.xob outside of workbench causing errors; fixes #1334
+
+[Fixed] Rigid Body simulation errors on K17
+
+
+
 [2/22/2026 12:00:03 PM UTC | Revision 4807 | blackburn]
 
 [Added] Added LCD Screen subsystem
