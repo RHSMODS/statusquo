@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[2/22/2026 9:32:55 PM UTC | Revision 4811 | Keller]
+
+[Fixed] Use of defaultPrefab.et outside of workbench causing errors; fixes #1335
+
+
+
 [2/22/2026 7:14:40 PM UTC | Revision 4810 | SpaceStrider]
 
 [Other] Tweaked: K17 action positions
