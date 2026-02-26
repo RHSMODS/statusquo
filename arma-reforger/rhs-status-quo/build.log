@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[2/26/2026 7:52:45 PM UTC | Revision 4813 | tpm]
+
+[Fixed] ION M1025_armed_ION_base.et (Humvee) Vehicle Animation Component, fixes #1336
+
+[Added] 4 x Box 127x99 M2 to ION M1025s
+
+
+
 [2/23/2026 2:32:02 PM UTC | Revision 4812 | Keller]
 
 [Other] Fix rigid body errors on T14
