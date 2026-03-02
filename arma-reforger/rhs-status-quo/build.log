@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[3/2/2026 8:38:24 PM UTC | Revision 4816 | Cyborgmatt]
+
+[Fixed] Collider material errors on K4386's hull and turret wreckage models
+
+
+
 [3/2/2026 1:40:34 PM UTC | Revision 4815 | Soul_Assassin]
 
 [Other] Fix for null ref exception in wristwatch component.
