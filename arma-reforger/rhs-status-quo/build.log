@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[3/25/2026 5:30:26 AM UTC | Revision 4831 | Mihail]
+
+[Added] Khaki texture for kneepads
+
+[Added] BLK MC with G3 kneepads prefab
+
+[Improved] Replacing tan texture with khaki for MC_camo prefabs like more accurate and popular color
+
+[Improved] All kneepad LOD0 models (fix shadows)
+
+[Improved] Kneepads textures
+
+[Fixed] Some problems with kneepads rig
+
+
+
 [3/24/2026 7:00:46 PM UTC | Revision 4830 | odkupiciel375]
 
 [Fixed] Fixed: Replaced _base.et variants of prefabs (mags, smokes, and frags) being used by ION characters
