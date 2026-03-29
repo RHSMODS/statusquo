@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[3/29/2026 9:07:54 PM UTC | Revision 4835 | Soul_Assassin]
+
+[Improved] Improved gain control in NVGs when you start adjusting for the first time; fixes #1329
+
+[Improved] Added two additional high gain levels to NVG for particularly dark nights
+
+
+
 [3/27/2026 8:30:27 PM UTC | Revision 4834 | MacroBebra]
 
 [Other] All new stuff prefabs
