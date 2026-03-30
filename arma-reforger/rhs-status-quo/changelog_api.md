@@ -7,7 +7,121 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4835
+
+<!-- revision 4835 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4835
+
+_<mark style="color:red;">Date:</mark>_ Monday, March 30, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 40 (4795)
+
+_<mark style="color:red;">Changes:</mark>_ 11 additions, 8 improvements, 21 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] K17_KaZ Colliders
+
+[Added] Added LCD Screen subsystem
+
+[Added] 4 x Box 127x99 M2 to ION M1025s
+
+[Added] Added new FROG shirt
+
+[Added] Khaki texture for kneepads
+
+[Added] BLK MC with G3 kneepads prefab
+
+[Added] Added Ars Arma A18 (In Coyote and MC colors)
+
+[Added] Added FAB PDC Dustcover
+
+[Added] Added FAB AGR47 Pistolgrip
+
+[Added] Added FAB GL Core Stock
+
+[Added] Added AK-74M, AK-105, AK-104 and AK-103 with FAB mods
+
+
+##### Improved
+
+
+[Improved] Toned down FROG pants belt
+
+[Improved] New ECH cover textures to match the uniforms
+
+[Improved] Tweaked FILBE Assault straps to fit better with new uniform
+
+[Improved] Replacing tan texture with khaki for MC_camo prefabs like more accurate and popular color
+
+[Improved] All kneepad LOD0 models (fix shadows)
+
+[Improved] Kneepads textures
+
+[Improved] Improved gain control in NVGs when you start adjusting for the first time; fixes [#1329](https://github.com/RHSMODS/statusquo/issues/1329)
+
+[Improved] Added two additional high gain levels to NVG for particularly dark nights
+
+
+##### Fixed
+
+
+[Fixed] K4386 Missing interaction sounds
+
+[Fixed] K4386 animation graph errors; fixes [#1324](https://github.com/RHSMODS/statusquo/issues/1324)
+
+[Fixed] Incorrect fuel tank colliders materials and refuel prompt location
+
+[Fixed] Use of MaterialCube.xob outside of workbench causing errors; fixes [#1334](https://github.com/RHSMODS/statusquo/issues/1334)
+
+[Fixed] Rigid Body simulation errors on K17
+
+[Fixed] Use of defaultPrefab.et outside of workbench causing errors; fixes [#1335](https://github.com/RHSMODS/statusquo/issues/1335)
+
+[Fixed] ION M1025_armed_ION_base.et (Humvee) Vehicle Animation Component, fixes [#1336](https://github.com/RHSMODS/statusquo/issues/1336)
+
+[Fixed] Collider material errors on K4386's hull and turret wreckage models
+
+[Fixed] Fixed K17 Epoch turret default material
+
+[Fixed] Texture error on inversed US flag patch
+
+[Fixed] Fixed default material on K17 driver smokes, IL76_base
+
+[Fixed] Unrequired SaveFileName keyword from mission configs
+
+[Fixed] Missing GUID for the PSO1M2-1.edds file
+
+[Fixed] Added null checks in RHS_M_PlayerController. Thanks to @mkungen89 for heads up; fixes [#1340](https://github.com/RHSMODS/statusquo/issues/1340)
+
+[Fixed] Cleaned up and inserted null checks in RHS_WeaponAnimationComponent. Thanks to @mkungen89 for heads up; fixes [#1341](https://github.com/RHSMODS/statusquo/issues/1341)
+
+[Fixed] Added null checks in RHS_RadialMenuDisplay. Thanks to @mkungen89 for heads up; fixes [#1342](https://github.com/RHSMODS/statusquo/issues/1342)
+
+[Fixed] Removed redundant cache nullification in RHS_RadialMenu. Thanks to @mkungen89 for heads up; fixes [#1343](https://github.com/RHSMODS/statusquo/issues/1343)
+
+[Fixed] Added null check in Init of RHS_GPSDataLinkComponent. Thanks to @mkungen89 for heads up; fixes [#1339](https://github.com/RHSMODS/statusquo/issues/1339)
+
+[Fixed] G3 Pants
+
+[Fixed] Fixed: Replaced _base.et variants of prefabs (mags, smokes, and frags) being used by ION characters
+
+[Fixed] Some problems with kneepads rig
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4795
 
