@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/6/2026 11:35:44 PM UTC | Revision 4848 | Soul_Assassin]
+
+[Added] Added kneepads to arsenal.
+
+[Improved] Crye Uniform kneepad inserts are now handled like patches, can be swapped out. Inventory sometimes has trouble displaying them correctly, but works after dropping and reequipping the pants.
+
+[Other] Reworked kneepad inheritance
+
+
+
 [4/6/2026 2:30:03 PM UTC | Revision 4847 | Keller]
 
 [Other] More M27 anim fixes
