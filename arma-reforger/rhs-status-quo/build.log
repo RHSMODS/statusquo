@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[4/14/2026 6:32:55 PM UTC | Revision 4869 | Cyborgmatt]
+
+[Fixed] Optic issues with a small handful of AK104 variants
+
+[Fixed] AK104 prefab that allowed scopes to be attached on wrong slot
+
+[Fixed] Incorrect Coyote strings on various prefabs
+
+[Fixed] Meshobject errors on ECH helmet covers
+
+[Fixed] 6B7 EnvReflMap material error
+
+[Other] Cleanup a few vest prefabs
+
+
+
 [4/14/2026 12:10:43 PM UTC | Revision 4863 | Soul_Assassin]
 
 [Other] Removed kneepads as a separate entity, cleaned up the prefabs
