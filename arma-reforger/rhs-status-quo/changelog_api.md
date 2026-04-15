@@ -7,7 +7,99 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4875
+
+<!-- revision 4875 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4875
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, April 15, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 40 (4835)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 10 improvements, 13 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added TV150 vest
+
+[Added] Added ATACS FG variant of A18 Scanda
+
+[Added] Added placard for TV119 pouch presets
+
+[Added] Added kneepads to arsenal.
+
+[Added] Added Zenitco Vzor-3 collimator sight
+
+
+##### Improved
+
+
+[Improved] Multicam G3 pants and khaki kpads texture
+
+[Improved] Multicam textures desaturated for all vests and pouches
+
+[Improved] Color correction for MC HC ECH cover
+
+[Improved] Tweaked color balance for all FROG camos
+
+[Improved] Multicam textures desaturated for FROG uniforms
+
+[Improved] Crye Uniform kneepad inserts are now handled like patches, can be swapped out. Inventory sometimes has trouble displaying them correctly, but works after dropping and reequipping the pants.
+
+[Improved] Updated ANPRC152A textures; fixes [#1326](https://github.com/RHSMODS/statusquo/issues/1326)
+
+[Improved] Added LODs to pouches that were missing them; fixes [#1321](https://github.com/RHSMODS/statusquo/issues/1321)
+
+[Improved] Improved visual of ION parkas
+
+[Improved] Remade USMC RAT Boots
+
+
+##### Fixed
+
+
+[Fixed] Character legs disappear in arsenal inventory after removing G3 pants
+
+[Fixed] Collider material errors on the new FAB attachment models
+
+[Fixed] Fixed up FROG shirt normal map issues; fixes [#1349](https://github.com/RHSMODS/statusquo/issues/1349)
+
+[Fixed] Fixed T14 Players getting stuck when switching seats
+
+[Fixed] Optic issues with a small handful of AK104 variants
+
+[Fixed] AK104 prefab that allowed scopes to be attached on wrong slot
+
+[Fixed] Incorrect Coyote strings on various prefabs
+
+[Fixed] Meshobject errors on ECH helmet covers
+
+[Fixed] 6B7 EnvReflMap material error
+
+[Fixed] Additional missing strings on A18 vest pouch presets
+
+[Fixed] Missing ground collider for TV150 vest
+
+[Fixed] Ground collider issues for Lshz LC helmet & TOR cover
+
+[Fixed] Missing strings on TV150 vests
+
+
+##### Deleted
+
+
+[Removed] Removed all remaining assets co-authored by Vergy
+
+
 
 ## 0.14.4835
 
