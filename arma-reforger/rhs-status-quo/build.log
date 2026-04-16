@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/16/2026 3:20:13 PM UTC | Revision 4885 | Cyborgmatt]
+
+[Fixed] Missing ground colliders for the Sordin headsets
+
+
+
 [4/16/2026 1:39:08 PM UTC | Revision 4884 | Cyborgmatt]
 
 [Added] Map generator plugin preset config files
