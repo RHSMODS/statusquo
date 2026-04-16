@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[4/16/2026 5:10:49 AM UTC | Revision 4882 | Mihail]
+
+[Improved] Kneepads are merged with G3 pants
+
+[Improved] Added prefabs for all multicam camos
+
+[Improved] Old G3 pants have been removed from arsenal. Added to USMC crate: MC pants. Added to ION crate: MC TRP, ALP, ARID, BLK pants
+
+[Improved] Multicam and mc tropic camo textures
+
+[Removed] All single kneepads assets and prefabs
+
+
+
 [4/15/2026 9:57:25 PM UTC | Revision 4881 | Cyborgmatt]
 
 [Other] Initial work to restore functionality to the map generator plugin
