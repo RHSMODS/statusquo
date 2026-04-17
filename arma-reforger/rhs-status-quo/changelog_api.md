@@ -7,7 +7,65 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4886
+
+<!-- revision 4886 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4886
+
+_<mark style="color:red;">Date:</mark>_ Friday, April 17, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 11 (4875)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 4 improvements, 6 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Map generator plugin preset config files
+
+
+##### Improved
+
+
+[Improved] Kneepads are merged with G3 pants
+
+[Improved] Added prefabs for all multicam camos
+
+[Improved] Old G3 pants have been removed from arsenal. Added to USMC crate: MC pants. Added to ION crate: MC TRP, ALP, ARID, BLK pants
+
+[Improved] Multicam and mc tropic camo textures
+
+
+##### Fixed
+
+
+[Fixed] Remade button operation sound acp for latest Enfusion spec
+
+[Fixed] Material errors on FROG pants
+
+[Fixed] USMC RAT Boots prefab preview
+
+[Fixed] Missing item collider on the X Ultra Pioneer shoes
+
+[Fixed] Map generator plugin for Workbench
+
+[Fixed] Missing ground colliders for the Sordin headsets
+
+
+##### Deleted
+
+
+[Removed] All single kneepads assets and prefabs
+
+
 
 ## 0.14.4875
 
