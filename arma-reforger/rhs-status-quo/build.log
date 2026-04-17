@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/17/2026 2:12:20 PM UTC | Revision 4887 | Cyborgmatt]
+
+[Fixed] PMFGPSMapWidgetComponent VME errors
+
+
+
 [4/16/2026 7:30:15 PM UTC | Revision 4886 | Cyborgmatt]
 
 [Other] Some more tweaks to how vector files are loaded
