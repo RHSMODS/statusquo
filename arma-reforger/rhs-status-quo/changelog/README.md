@@ -7,7 +7,49 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4899
+
+<!-- revision 4899 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4899
+
+_<mark style="color:red;">Date:</mark>_ Monday, April 20, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 13 (4886)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 1 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] SC ARC V2 Coy to US arsenal
+
+[Added] Added PKP
+
+
+##### Improved
+
+
+[Improved] Remade Altama Maritime boot
+
+
+##### Fixed
+
+
+[Fixed] PMFGPSMapWidgetComponent VME errors
+
+
+##### Deleted
+
+
+
 
 ## 0.14.4886
 
