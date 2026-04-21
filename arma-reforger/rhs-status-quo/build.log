@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[4/21/2026 10:19:30 AM UTC | Revision 4902 | odkupiciel375]
+
+[Fixed] Fixed: Glocks were ejecting empty casings from the grip
+
+[Other] Fixed: Transferred fire damage multipliers from scripted variable which was removed to GC variable
+
+[Other] Fixed: Removed overrides of faction rank definitions to work with new structure
+
+[Other] Fixed: Misconfigured material overrides with more slots used than there were material slots on the model
+
+[Other] Fixed: No (longer) existing projectile model was used by Ammo_762x54r_Ball_57N323S.et
+
+[Other] Fixed: T14 turret acp files were referencing no longer exiting sig files
+
+[Other] Improved: Buffed NVG HDR materials cuz i couldnt see shit at night with them
+
+
+
 [4/21/2026 10:06:27 AM UTC | Revision 4901 | odkupiciel375]
 
 [Fixed] Fixed: Ported scripts to AR version 1.7
