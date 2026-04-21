@@ -7,7 +7,368 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.14.4905
+
+<!-- revision 4905 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4905
+
+_<mark style="color:red;">Date:</mark>_ Tuesday, April 21, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 210 (4695)
+
+_<mark style="color:red;">Changes:</mark>_ 36 additions, 34 improvements, 88 fixes and 3 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added two ARS Arma patches
+
+[Added] Added M4A1 and M4A1 CQBR with USGI stock. Closes [#1292](https://github.com/RHSMODS/statusquo/issues/1292).
+
+[Added] Ergo Low Profile Ladder rail covers + presets for (M27, M4, M4 ERGO, M4 Block II, M16A4 and AK rifles with the B30/B31 rail combo.) Closes [#952](https://github.com/RHSMODS/statusquo/issues/952)
+
+[Added] Added ION Groups - Close Protection Team, Mobile Security Team and Quick Reaction Force.
+
+[Added] ION Groups - Static Security and Special Projects Team
+
+[Added] ION M1025 Armed and Armed MDO variants in both standard and desert colours
+
+[Added] Added ION M1025 variants to ION Configs/EntityCatalog/ION/ION_Vehicles.conf
+
+[Added] Added new FROG pants
+
+[Added] FROG Pants MC to ION_InventoryItems.conf
+
+[Added] FROG Pants MC to RHS ION and RHS ION Coy Characters
+
+[Added] FROG PANTS to USAF FORECON Characters
+
+[Added] FROG PANTS MC to USAG MARSOC MC Characters
+
+[Added] Equipment/gear to all RHS_ION and RHS_ION_Coy Characters
+
+[Added] Equipment/Gear to all RHS_ION_Urban and RHS_ION_Urban_Demi Characters.
+
+[Added] RHS_ION Armed M1025 Camo Variants
+
+[Added] RHS_ION Black Static Group
+
+[Added] RHS_ION Black Static and Control the Noise Patches
+
+[Added] K17_KaZ Colliders
+
+[Added] Added LCD Screen subsystem
+
+[Added] 4 x Box 127x99 M2 to ION M1025s
+
+[Added] Added new FROG shirt
+
+[Added] Khaki texture for kneepads
+
+[Added] BLK MC with G3 kneepads prefab
+
+[Added] Added Ars Arma A18 (In Coyote and MC colors)
+
+[Added] Added FAB PDC Dustcover
+
+[Added] Added FAB AGR47 Pistolgrip
+
+[Added] Added FAB GL Core Stock
+
+[Added] Added AK-74M, AK-105, AK-104 and AK-103 with FAB mods
+
+[Added] Added TV150 vest
+
+[Added] Added ATACS FG variant of A18 Scanda
+
+[Added] Added placard for TV119 pouch presets
+
+[Added] Added kneepads to arsenal.
+
+[Added] Added Zenitco Vzor-3 collimator sight
+
+[Added] Map generator plugin preset config files
+
+[Added] SC ARC V2 Coy to US arsenal
+
+[Added] Added PKP
+
+
+##### Improved
+
+
+[Improved] Changed: Enlarged many item previews to be easier to identify (rail covers, patches, helmet covers, helmets, headphones, gloves)
+
+[Improved] Added some USMC helmet variants to arsenal
+
+[Improved] Added protection for zero division for some scripts
+
+[Improved] Fixed some spelling mistakes in Call-in menu
+
+[Improved] Added some more null checks in scripts
+
+[Improved] Fixed script warnings and hints
+
+[Improved] Changed: Increased the power of the fake volumetric effect of the flashlights to make them more visible from the front; fixes [#1293](https://github.com/RHSMODS/statusquo/issues/1293)
+
+[Improved] Changed: Removed from m300 and wml option to cycle modes, as they have only one mode
+
+[Improved] M40A5 Animations
+
+[Improved] K4386 simulation configuration
+
+[Improved] K4386 Vehicle Simple collider to ease collisions with ground clutter
+
+[Improved] Toned down FROG pants belt
+
+[Improved] New ECH cover textures to match the uniforms
+
+[Improved] Tweaked FILBE Assault straps to fit better with new uniform
+
+[Improved] Replacing tan texture with khaki for MC_camo prefabs like more accurate and popular color
+
+[Improved] All kneepad LOD0 models (fix shadows)
+
+[Improved] Kneepads textures
+
+[Improved] Improved gain control in NVGs when you start adjusting for the first time; fixes [#1329](https://github.com/RHSMODS/statusquo/issues/1329)
+
+[Improved] Added two additional high gain levels to NVG for particularly dark nights
+
+[Improved] Multicam G3 pants and khaki kpads texture
+
+[Improved] Multicam textures desaturated for all vests and pouches
+
+[Improved] Color correction for MC HC ECH cover
+
+[Improved] Tweaked color balance for all FROG camos
+
+[Improved] Multicam textures desaturated for FROG uniforms
+
+[Improved] Crye Uniform kneepad inserts are now handled like patches, can be swapped out. Inventory sometimes has trouble displaying them correctly, but works after dropping and reequipping the pants.
+
+[Improved] Updated ANPRC152A textures; fixes [#1326](https://github.com/RHSMODS/statusquo/issues/1326)
+
+[Improved] Added LODs to pouches that were missing them; fixes [#1321](https://github.com/RHSMODS/statusquo/issues/1321)
+
+[Improved] Improved visual of ION parkas
+
+[Improved] Remade USMC RAT Boots
+
+[Improved] Kneepads are merged with G3 pants
+
+[Improved] Added prefabs for all multicam camos
+
+[Improved] Old G3 pants have been removed from arsenal. Added to USMC crate: MC pants. Added to ION crate: MC TRP, ALP, ARID, BLK pants
+
+[Improved] Multicam and mc tropic camo textures
+
+[Improved] Remade Altama Maritime boot
+
+
+##### Fixed
+
+
+[Fixed] Broken PIP Material on TA31
+
+[Fixed] Fixed bug preventing items being taken from Arsenal
+
+[Fixed] Leupold MK4 Broken PIP Material
+
+[Fixed] Fixed: Equipment in pouches and attached to the helmets or other clothing items were not saved with loadout; fixes [#1279](https://github.com/RHSMODS/statusquo/issues/1279) [#1277](https://github.com/RHSMODS/statusquo/issues/1277)
+
+[Fixed] Fixed 6B47 colliders; fixes [#1276](https://github.com/RHSMODS/statusquo/issues/1276)
+
+[Fixed] Fixed: Replaced duplicate M4 tan rail cover with tan M16 rail cover
+
+[Fixed] Fixed: Item preview of 6in rail covers with forward grips which were previously invisible
+
+[Fixed] Fixed: ECH cat eye helmet attachment preview was showing same generic cloth model as helmet covers
+
+[Fixed] Fixed: 6M2-1 headphones preview didnt show the mic making it look like 6M2
+
+[Fixed] Fixed some reticle PIP errors across all scopes
+
+[Fixed] Fixed: CISS airstrikes werent propagating the author information to the warheads; fixes [#1259](https://github.com/RHSMODS/statusquo/issues/1259)
+
+[Fixed] STANAG 30rnd mag was not working; fixes [#1278](https://github.com/RHSMODS/statusquo/issues/1278)
+
+[Fixed] ION faction not working in GameMaster
+
+[Fixed] USMC Boonie Hat texture error
+
+[Fixed] Headphones missing inventory item hint string
+
+[Fixed] Add missing Persistence component to NVG base prefab
+
+[Fixed] Fixed bad if logic in PlayerController that could cause null reference exception
+
+[Fixed] Fixed faction radio encryption keys; fixes [#1289](https://github.com/RHSMODS/statusquo/issues/1289)
+
+[Fixed] ARC V2 Plate Carrier floating magazine slot
+
+[Fixed] Fixed: Clothing attachments did not supporting new persistence system
+
+[Fixed] Duplicate ColliderHistoryComponent on ARS ARMA vest
+
+[Fixed] Mk-153 animation graph workaround fix for crash
+
+[Fixed] Fixed: Weapon lights were not reacting to their keybinds
+
+[Fixed] Fixed: Balaclavas had wrong volume setup making it not fit in most storages
+
+[Fixed] Fixed: Round two of fixing (this time) all weapon lights, so they listen to keybinds
+
+[Fixed] Fixed: VMEs with weapon lights
+
+[Fixed] Fixed: Spotlight cone adjustment was not working for su233, klesh2, m300c and wml
+
+[Fixed] Fixed: su233 and klesh2 were unable to switch back from IR mode with cycle modes keybind
+
+[Fixed] ANPRC152A animation graph invalid source id; fixes [#1299](https://github.com/RHSMODS/statusquo/issues/1299)
+
+[Fixed] Fixed ION Characters that were spawning in naked or half clothed.
+
+[Fixed] Radio frequency resolution to match Reforger v1.6
+
+[Fixed] Mission config errors & missing SystemsConfig settings
+
+[Fixed] Fixed potential zero division in RHS_TouchScreenPMFGPSMarkerIconSelector; fixes [#1314](https://github.com/RHSMODS/statusquo/issues/1314)
+
+[Fixed] Added additional null pointer check in SCR_CallInSupportContainer; fixes [#1309](https://github.com/RHSMODS/statusquo/issues/1309)
+
+[Fixed] Fixed vehicle fuel warning sounds going off even if fuel was full; fixes [#1311](https://github.com/RHSMODS/statusquo/issues/1311)
+
+[Fixed] Radio beacons can be stuck to objects again; fixes [#1308](https://github.com/RHSMODS/statusquo/issues/1308)
+
+[Fixed] Fixed refuel action point for T14; fixes [#1312](https://github.com/RHSMODS/statusquo/issues/1312)
+
+[Fixed] Changed: Disabled RplComponent on the projectiles used by Mk153 and GM94 to maybe make them work in MP
+
+[Fixed] MEF woodland now uses woodland boonie
+
+[Fixed] M998 Int Desert material fix
+
+[Fixed] Fixed: Compilation errors due to the changes in the AR component members structure
+
+[Fixed] Resaved files for stability
+
+[Fixed] K17 turrets swap seats and unload casualty actions
+
+[Fixed] SR-3M invalid animation graph logic
+
+[Fixed] Changed: Reverted the usage of pure vanilla HDR material when NVG is turned off
+
+[Fixed] K4386 Missing interaction sounds
+
+[Fixed] K4386 animation graph errors; fixes [#1324](https://github.com/RHSMODS/statusquo/issues/1324)
+
+[Fixed] Incorrect fuel tank colliders materials and refuel prompt location
+
+[Fixed] Use of MaterialCube.xob outside of workbench causing errors; fixes [#1334](https://github.com/RHSMODS/statusquo/issues/1334)
+
+[Fixed] Rigid Body simulation errors on K17
+
+[Fixed] Use of defaultPrefab.et outside of workbench causing errors; fixes [#1335](https://github.com/RHSMODS/statusquo/issues/1335)
+
+[Fixed] ION M1025_armed_ION_base.et (Humvee) Vehicle Animation Component, fixes [#1336](https://github.com/RHSMODS/statusquo/issues/1336)
+
+[Fixed] Collider material errors on K4386's hull and turret wreckage models
+
+[Fixed] Fixed K17 Epoch turret default material
+
+[Fixed] Texture error on inversed US flag patch
+
+[Fixed] Fixed default material on K17 driver smokes, IL76_base
+
+[Fixed] Unrequired SaveFileName keyword from mission configs
+
+[Fixed] Missing GUID for the PSO1M2-1.edds file
+
+[Fixed] Added null checks in RHS_M_PlayerController. Thanks to @mkungen89 for heads up; fixes [#1340](https://github.com/RHSMODS/statusquo/issues/1340)
+
+[Fixed] Cleaned up and inserted null checks in RHS_WeaponAnimationComponent. Thanks to @mkungen89 for heads up; fixes [#1341](https://github.com/RHSMODS/statusquo/issues/1341)
+
+[Fixed] Added null checks in RHS_RadialMenuDisplay. Thanks to @mkungen89 for heads up; fixes [#1342](https://github.com/RHSMODS/statusquo/issues/1342)
+
+[Fixed] Removed redundant cache nullification in RHS_RadialMenu. Thanks to @mkungen89 for heads up; fixes [#1343](https://github.com/RHSMODS/statusquo/issues/1343)
+
+[Fixed] Added null check in Init of RHS_GPSDataLinkComponent. Thanks to @mkungen89 for heads up; fixes [#1339](https://github.com/RHSMODS/statusquo/issues/1339)
+
+[Fixed] G3 Pants
+
+[Fixed] Fixed: Replaced _base.et variants of prefabs (mags, smokes, and frags) being used by ION characters
+
+[Fixed] Some problems with kneepads rig
+
+[Fixed] Character legs disappear in arsenal inventory after removing G3 pants
+
+[Fixed] Collider material errors on the new FAB attachment models
+
+[Fixed] Fixed up FROG shirt normal map issues; fixes [#1349](https://github.com/RHSMODS/statusquo/issues/1349)
+
+[Fixed] Fixed T14 Players getting stuck when switching seats
+
+[Fixed] Optic issues with a small handful of AK104 variants
+
+[Fixed] AK104 prefab that allowed scopes to be attached on wrong slot
+
+[Fixed] Incorrect Coyote strings on various prefabs
+
+[Fixed] Meshobject errors on ECH helmet covers
+
+[Fixed] 6B7 EnvReflMap material error
+
+[Fixed] Additional missing strings on A18 vest pouch presets
+
+[Fixed] Missing ground collider for TV150 vest
+
+[Fixed] Ground collider issues for Lshz LC helmet & TOR cover
+
+[Fixed] Missing strings on TV150 vests
+
+[Fixed] Remade button operation sound acp for latest Enfusion spec
+
+[Fixed] Material errors on FROG pants
+
+[Fixed] USMC RAT Boots prefab preview
+
+[Fixed] Missing item collider on the X Ultra Pioneer shoes
+
+[Fixed] Map generator plugin for Workbench
+
+[Fixed] Missing ground colliders for the Sordin headsets
+
+[Fixed] PMFGPSMapWidgetComponent VME errors
+
+[Fixed] Fixed: Ported scripts to AR version 1.7
+
+[Fixed] Fixed: Glocks were ejecting empty casings from the grip
+
+
+##### Deleted
+
+
+[Removed] Disabled all EARHS code to prevent unwanted side effects, until it will be fully rewritten
+
+[Removed] Removed all remaining assets co-authored by Vergy
+
+[Removed] All single kneepads assets and prefabs
+
+
 
 ## 0.14.4899
 
