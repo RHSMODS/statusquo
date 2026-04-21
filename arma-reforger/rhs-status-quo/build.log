@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[4/21/2026 10:24:45 AM UTC | Revision 4903 | odkupiciel375]
+
+[Other] Reimported all pouches and vlite model without mesh morphing to avoid 1.7 crash cause by Enfusion
+
+[Other] This should be reverted when BI will ship the fix for boneless models causing a crash when they are used by a prefab with any slot (light, equipment or just a PointInfo)
+
+[Other] Part 3
+
+
+
 [4/21/2026 10:19:30 AM UTC | Revision 4902 | odkupiciel375]
 
 [Fixed] Fixed: Glocks were ejecting empty casings from the grip
