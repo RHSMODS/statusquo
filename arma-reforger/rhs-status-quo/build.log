@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[4/22/2026 11:27:34 AM UTC | Revision 4909 | Cyborgmatt]
+
+[Fixed] Incorrect placard pouch texture on a couple of vest presets
+
+
+
 [4/22/2026 7:56:02 AM UTC | Revision 4908 | odkupiciel375]
 
 [Fixed] Fixed: Supply crates werent added into the garbage collection system - now they will be deleted after 30min unless there is a player within 50m radius
