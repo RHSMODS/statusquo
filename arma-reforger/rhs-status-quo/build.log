@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[4/22/2026 7:56:02 AM UTC | Revision 4908 | odkupiciel375]
+
+[Fixed] Fixed: Supply crates werent added into the garbage collection system - now they will be deleted after 30min unless there is a player within 50m radius
+
+[Other] Fixed: Supply crates wouldnt delete camo netting when destroyed
+
+
+
 [4/22/2026 6:57:20 AM UTC | Revision 4907 | odkupiciel375]
 
 [Other] Fixed: Updated CISS init info
