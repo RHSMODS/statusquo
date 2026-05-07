@@ -7,7 +7,62 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿<!-- changelog insert -->
+﻿﻿<!-- changelog insert -->
+
+## 0.15.4925
+
+<!-- revision 4925 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4925
+
+_<mark style="color:red;">Date:</mark>_ Thursday, May 7, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 14 (4911)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 4 improvements, 4 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] K17 and T14 interior probes
+
+[Improved] K17 and T14 action positions
+
+[Improved] Vehicle interior lights
+
+[Improved] Updated AVS EMR texture
+
+
+##### Fixed
+
+
+[Fixed] Not being able to turn of voice announcer
+
+[Fixed] Altama Maritime Boots prefab preview
+
+[Fixed] K4386 animation workspace errors
+
+[Fixed] RHS_M_ArsenalManagerComponent.c - сompilation error fixed
+
+
+##### Deleted
+
+
+
 
 ## 0.15.4911
 
