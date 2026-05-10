@@ -7,7 +7,46 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿<!-- changelog insert -->
+﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.4927
+
+<!-- revision 4927 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4927
+
+_<mark style="color:red;">Date:</mark>_ Sunday, May 10, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2 (4925)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
 
 ## 0.15.4925
 
