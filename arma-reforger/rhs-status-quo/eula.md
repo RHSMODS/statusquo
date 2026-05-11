@@ -14,7 +14,7 @@ By downloading and using the RHS: Status Quo mod for Bohemia Studio's[ Arma Refo
 
 #### Creative Commons
 
-All work contained in this distribution is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)&#x20;
+All work contained in this distribution is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
 It is forbidden to distribute the content of this package by itself, or as part of another distribution, using the Arma Reforger Workshop by anyone other than Red Hammer Studios (RHS).
 
@@ -28,7 +28,9 @@ There will be no individual permissions outside of our EULA.
 
 By accepting this agreement you also grant Red Hammer Studios the right to waive any of the conditions at our discretion.
 
-### Derivative content&#x20;
+Some works contained in this mod are themselves derived from (for instance 3D scans from Polycam) work licensed by [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) without modification to the original artwork.
+
+### Derivative Content
 
 Derivative content refers to any and all modifications based on RHS content. It includes any dependency mods that make use of, or make changes to, our existing files, including re-textures.
 
@@ -63,7 +65,7 @@ We have a strict NO monetization policy for 3rd parties using RHS: Status Quo mo
 
 We consider any sale (money paid in exchange for any direct in-game return) to be a breach of the above non-commercial clause of the EULA.
 
-&#x20;Here are a few of the most common offenses (this is by no means an exhaustive list):
+Here are a few of the most common offenses (this is by no means an exhaustive list):
 
 * charging players specific amounts to access to or have priority while connecting to a server
 * charging players for specific in-game perks (cosmetic or otherwise)
