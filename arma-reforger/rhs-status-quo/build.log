@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/13/2026 10:23:34 PM UTC | Revision 4931 | Soul_Assassin]
+
+[Fixed] Solved duplicate and missing GUIDs; fixes #1363
+
+[Improved] MARSOC MC units use the new G3 shirts
+
+
+
 [5/12/2026 1:07:38 AM UTC | Revision 4930 | gurdy]
 
 [Other] Added 6b50 strings
