@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[5/15/2026 10:03:22 AM UTC | Revision 4933 | AkiraSeki]
+
+[Fixed] Fixed T14 gunner animation graph errors; fixes #1352
+
+
+
 [5/14/2026 8:41:01 PM UTC | Revision 4932 | Soul_Assassin]
 
 [Fixed] Solved various T14 texture and shading problems; fixes #1353
