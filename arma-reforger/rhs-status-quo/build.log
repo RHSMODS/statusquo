@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[5/18/2026 2:29:59 AM UTC | Revision 4936 | gurdy]
+
+[Other] Added m856a1 ammo config
+
+[Other] Updated existing PMAG prefabs, added necessary new ones -- model animation still needs fix
+
+[Other] Distributed new pmags to US and ION, temporarily disabled prefabs without model
+
+
+
 [5/17/2026 12:47:20 AM UTC | Revision 4935 | stoker]
 
 [Other] Update Kurganets25_base prefab
