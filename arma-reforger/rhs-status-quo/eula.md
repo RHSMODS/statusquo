@@ -81,6 +81,7 @@ Due to repeated infringements of the existing Red Hammer Studios EULA and/or Boh
 * Sierra Golf and / or any affiliated persons
 * Joint Task Force Miller and / or any affiliated persons
 * Liberty Interactive and / or any affiliated persons
+* Dad's Army / DADS and / or any affiliated persons
 
 This list will be constantly updated.
 
