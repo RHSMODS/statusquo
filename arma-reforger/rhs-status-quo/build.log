@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/21/2026 4:03:12 PM UTC | Revision 4937 | odkupiciel375]
+
+[Other] Fixed: Grain and HDR materials being applied to the wrong layers
+
+[Other] Changed: Switched to using true vanilla AR HDR material when NVG is turned off
+
+
+
 [5/18/2026 2:29:59 AM UTC | Revision 4936 | gurdy]
 
 [Other] Added m856a1 ammo config
