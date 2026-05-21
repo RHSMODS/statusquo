@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/21/2026 6:53:02 PM UTC | Revision 4939 | odkupiciel375]
+
+[Other] Fixed: It was possible to use item inspection to remove items which werent meant to be visible nor movable
+
+[Other] Changed: Configured inventory item component attachments (like pouches) to be invisible in inventory, as well as to not be possible to be dragged
+
+
+
 [5/21/2026 6:18:00 PM UTC | Revision 4938 | stoker]
 
 [Other] Update Kurganets-25
