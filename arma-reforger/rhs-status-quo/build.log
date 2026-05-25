@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[5/25/2026 8:43:31 PM UTC | Revision 4949 | stoker]
+
+[Added] Universal guided missile platform (WIP)
+
+[Added] IR homing missile system (WIP)
+
+[Added] Laser-guided missile system (WIP)
+
+[Added] APS Softkill system (WIP)
+
+[Improved] Kurganets-25 HUD updated with universal missile platform integration
+
+[Improved] Kornet and Bulat on Kurganets-25 updated for new missile system testing
+
+[Improved] Collision on Kurganets-25 updated
+
+
+
 [5/25/2026 1:07:26 AM UTC | Revision 4948 | Cyborgmatt]
 
 [Improved] Removed placeholder prefab definitions from various particle effects
