@@ -7,7 +7,74 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.4947
+
+<!-- revision 4947 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4947
+
+_<mark style="color:red;">Date:</mark>_ Monday, May 25, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 20 (4927)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 8 improvements, 3 fixes and 1 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] G3 Shirts in 6 variations (WIP)
+
+[Added] HK416A5 Initial Release WIP
+
+
+##### Improved
+
+
+[Improved] G3 Pants model and textures
+
+[Improved] Added G3 Shirts in USMC arsenal
+
+[Improved] Correct display of G3 name
+
+[Improved] MARSOC MC units use the new G3 shirts
+
+[Improved] HK416A5 prefab, skeleton for rails and Firegeo & Colliders
+
+[Improved] HK416A5 LODs, Textures, Animations (Still WIP)
+
+[Improved] HK416A5 Improvements, Base prefab config
+
+[Improved] HK416A5 colliders update
+
+
+##### Fixed
+
+
+[Fixed] Solved duplicate and missing GUIDs; fixes [#1363](https://github.com/RHSMODS/statusquo/issues/1363)
+
+[Fixed] Solved various T14 texture and shading problems; fixes [#1353](https://github.com/RHSMODS/statusquo/issues/1353)
+
+[Fixed] Fixed T14 gunner animation graph errors; fixes [#1352](https://github.com/RHSMODS/statusquo/issues/1352)
+
+
+##### Deleted
+
+
+[Removed] Old G3 Pants assets
+
+
 
 ## 0.15.4927
 
