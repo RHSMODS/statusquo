@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[5/27/2026 10:10:37 PM UTC | Revision 4954 | stoker]
+
+[Added] New APSV2 Softkill (WIP)
+
+[Added] Examples of IR and Laser-Guided launchers
+
+[Improved] Severe fix for the Universal Guided Missile (Now working in MP)
+
+[Improved] Kurganets-25 HUD updated with APS indicators
+
+[Improved] Fixed T-90M main cannon
+
+[Improved] Updated K-17 with the new missile system
+
+[Improved] Updated K-17 HUD with the compatible missile system and APS
+
+
+
 [5/27/2026 8:31:08 PM UTC | Revision 4953 | Soul_Assassin]
 
 [Improved] Toned down IR NVG lights and strobe brightness; fixes #1360
