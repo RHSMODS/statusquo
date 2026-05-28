@@ -7,7 +7,82 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.4955
+
+<!-- revision 4955 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4955
+
+_<mark style="color:red;">Date:</mark>_ Thursday, May 28, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 8 (4947)
+
+_<mark style="color:red;">Changes:</mark>_ 6 additions, 12 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Universal guided missile platform (WIP)
+
+[Added] IR homing missile system (WIP)
+
+[Added] Laser-guided missile system (WIP)
+
+[Added] APS Softkill system (WIP)
+
+[Added] New APSV2 Softkill (WIP)
+
+[Added] Examples of IR and Laser-Guided launchers
+
+
+##### Improved
+
+
+[Improved] Removed placeholder prefab definitions from various particle effects
+
+[Improved] Kurganets-25 HUD updated with universal missile platform integration
+
+[Improved] Kornet and Bulat on Kurganets-25 updated for new missile system testing
+
+[Improved] Collision on Kurganets-25 updated
+
+[Improved] Toned down IR NVG lights and strobe brightness; fixes [#1360](https://github.com/RHSMODS/statusquo/issues/1360)
+
+[Improved] Severe fix for the Universal Guided Missile (Now working in MP)
+
+[Improved] Kurganets-25 HUD updated with APS indicators
+
+[Improved] Fixed T-90M main cannon
+
+[Improved] Updated K-17 with the new missile system
+
+[Improved] Updated K-17 HUD with the compatible missile system and APS
+
+[Improved] Texture size adjustments for the T-90M and Kurganets-25.
+
+[Improved] Adjusted the log level for the guided missile system on the K-17.
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
 
 ## 0.15.4947
 
