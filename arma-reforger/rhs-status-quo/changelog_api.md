@@ -7,7 +7,133 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.4955
+
+<!-- revision 4955 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 4955
+
+_<mark style="color:red;">Date:</mark>_ Thursday, May 28, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 56 (4899)
+
+_<mark style="color:red;">Changes:</mark>_ 8 additions, 25 improvements, 12 fixes and 1 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] G3 Shirts in 6 variations (WIP)
+
+[Added] HK416A5 Initial Release WIP
+
+[Added] Universal guided missile platform (WIP)
+
+[Added] IR homing missile system (WIP)
+
+[Added] Laser-guided missile system (WIP)
+
+[Added] APS Softkill system (WIP)
+
+[Added] New APSV2 Softkill (WIP)
+
+[Added] Examples of IR and Laser-Guided launchers
+
+
+##### Improved
+
+
+[Improved] Remade Rocky boot
+
+[Improved] K17 and T14 interior probes
+
+[Improved] K17 and T14 action positions
+
+[Improved] Vehicle interior lights
+
+[Improved] Updated AVS EMR texture
+
+[Improved] G3 Pants model and textures
+
+[Improved] Added G3 Shirts in USMC arsenal
+
+[Improved] Correct display of G3 name
+
+[Improved] MARSOC MC units use the new G3 shirts
+
+[Improved] HK416A5 prefab, skeleton for rails and Firegeo & Colliders
+
+[Improved] HK416A5 LODs, Textures, Animations (Still WIP)
+
+[Improved] HK416A5 Improvements, Base prefab config
+
+[Improved] HK416A5 colliders update
+
+[Improved] Removed placeholder prefab definitions from various particle effects
+
+[Improved] Kurganets-25 HUD updated with universal missile platform integration
+
+[Improved] Kornet and Bulat on Kurganets-25 updated for new missile system testing
+
+[Improved] Collision on Kurganets-25 updated
+
+[Improved] Toned down IR NVG lights and strobe brightness; fixes [#1360](https://github.com/RHSMODS/statusquo/issues/1360)
+
+[Improved] Severe fix for the Universal Guided Missile (Now working in MP)
+
+[Improved] Kurganets-25 HUD updated with APS indicators
+
+[Improved] Fixed T-90M main cannon
+
+[Improved] Updated K-17 with the new missile system
+
+[Improved] Updated K-17 HUD with the compatible missile system and APS
+
+[Improved] Texture size adjustments for the T-90M and Kurganets-25.
+
+[Improved] Adjusted the log level for the guided missile system on the K-17.
+
+
+##### Fixed
+
+
+[Fixed] Fixed: Ported scripts to AR version 1.7
+
+[Fixed] Fixed: Glocks were ejecting empty casings from the grip
+
+[Fixed] Fixed: Supply crates werent added into the garbage collection system - now they will be deleted after 30min unless there is a player within 50m radius
+
+[Fixed] Incorrect placard pouch texture on a couple of vest presets
+
+[Fixed] AA-CPC Marksman vest preset to use ATACS-FG Minimap Backpack
+
+[Fixed] Not being able to turn of voice announcer
+
+[Fixed] Altama Maritime Boots prefab preview
+
+[Fixed] K4386 animation workspace errors
+
+[Fixed] RHS_M_ArsenalManagerComponent.c - сompilation error fixed
+
+[Fixed] Solved duplicate and missing GUIDs; fixes [#1363](https://github.com/RHSMODS/statusquo/issues/1363)
+
+[Fixed] Solved various T14 texture and shading problems; fixes [#1353](https://github.com/RHSMODS/statusquo/issues/1353)
+
+[Fixed] Fixed T14 gunner animation graph errors; fixes [#1352](https://github.com/RHSMODS/statusquo/issues/1352)
+
+
+##### Deleted
+
+
+[Removed] Old G3 Pants assets
+
+
 
 ## 0.15.4955
 
