@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/29/2026 2:46:50 PM UTC | Revision 4957 | Soul_Assassin]
+
+[Fixed] Potential fix for hanging WorldEditor when loading RHS
+
+[Other] Removed all empty folders on advice of BI
+
+
+
 [5/28/2026 5:44:49 PM UTC | Revision 4956 | AkiraSeki]
 
 [Fixed] Fixed K17 hull tan had disable interior probe disabled
