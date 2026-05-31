@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/31/2026 6:56:47 PM UTC | Revision 4961 | Soul_Assassin]
+
+[Fixed] Fixed various PKP bugs; casings were clipping, sights were misaligned; fixes #1358
+
+[Fixed] HK416 had bad collider material assigned
+
+
+
 [5/31/2026 4:27:54 AM UTC | Revision 4960 | odkupiciel375]
 
 [Fixed] Fixed: reverted changes from revision 4903 which removed mesh morphing as they no longer crash the engine; fixes #1370
