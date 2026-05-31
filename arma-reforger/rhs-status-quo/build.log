@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[5/31/2026 4:27:54 AM UTC | Revision 4960 | odkupiciel375]
+
+[Fixed] Fixed: reverted changes from revision 4903 which removed mesh morphing as they no longer crash the engine; fixes #1370
+
+[Other] CP1 update
+
+
+
 [5/31/2026 1:41:21 AM UTC | Revision 4959 | Keller]
 
 [Other] Fix broken colliders on new 416
