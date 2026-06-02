@@ -1,5 +1,27 @@
 <!-- buildlog insert -->
 
+[6/2/2026 7:32:10 AM UTC | Revision 4965 | stoker]
+
+[Other] Improved Softkill APS system by quadrant
+
+[Other] Mproved lock detection and IR Missile trajectory
+
+[Other] Improved ESS system
+
+[Other] Improved vehicle fire suppression
+
+[Other] Added TV Missile
+
+[Other] Added Hardkill APS System
+
+[Other] Added Laser Designator@ Fixed jamming in guided missiles against Softkill APS
+
+[Other] Fixed U-Turn on Guided Laser Riding Missile (speed forces going straight on erratic markings)
+
+[Other] Fixed inconsistency with LWR and IWR (now correctly warns of IR and Laser threats)
+
+
+
 [6/1/2026 1:09:31 AM UTC | Revision 4964 | gurdy]
 
 [Other] Stringtable update
