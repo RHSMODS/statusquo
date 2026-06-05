@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[6/5/2026 5:40:39 AM UTC | Revision 4973 | AkiraSeki]
+
+[Fixed] Fixed K17 Textures Disabled Interior Probe on exterior textures
+
+[Fixed] Fixed K17 separate Ramp Mesh
+
+[Fixed] Fixed K17 ramp action
+
+[Improved] Improved K17 rear ramp action can now be operated from the outside when opened
+
+
+
 [6/5/2026 12:34:30 AM UTC | Revision 4972 | gurdy]
 
 [Other] Stringtable update
