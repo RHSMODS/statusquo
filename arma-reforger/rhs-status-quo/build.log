@@ -1,5 +1,35 @@
 <!-- buildlog insert -->
 
+[6/7/2026 4:07:15 AM UTC | Revision 4980 | stoker]
+
+[Added] TV Missile (WIP)
+
+[Added] APS Hardkill System
+
+[Added] Sound when deploying APS Softkill smokes
+
+[Added] APS Hardkill/Softkill on T-14 for testing
+
+[Improved] APS Softkill/Hardkill system by quadrant
+
+[Improved] IR Missile lock detection and trajectory
+
+[Improved] ESS system
+
+[Improved] Vehicle fire suppression
+
+[Improved] Binoculars function as laser designator
+
+[Improved] IR/TV/Laser Missiles can now be reloaded
+
+[Fixed] Jamming on guided missiles against APS Softkill
+
+[Fixed] UTurn on Guided Laser Riding Missile (velocity forces straight flight on erratic locks)
+
+[Fixed] Inconsistency with LWR and IWR (now correctly warns of IR and Laser threats)
+
+
+
 [6/6/2026 9:08:50 PM UTC | Revision 4979 | Soul_Assassin]
 
 [Fixed] Fixed windowed PMAGS animations
