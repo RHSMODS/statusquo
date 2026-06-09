@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[6/9/2026 4:29:48 PM UTC | Revision 4989 | stoker]
+
+[Added] Ballistic computer (lead indicator)
+
+[Added] Vehicle Radial Menu
+
+[Added] HunterKiller V2 (WIP)
+
+[Added] Reload for APS
+
+[Improved] Multiple vehicle functionalities can be accessed via radial menu
+
+[Improved] RHS_2DSightComponent to V3 providing thermal vision support
+
+
+
 [6/9/2026 2:57:51 PM UTC | Revision 4988 | Mihail]
 
 [Improved] G3 shirt camo
