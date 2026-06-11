@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/11/2026 6:18:47 AM UTC | Revision 5001 | AkiraSeki]
+
+[Other] Fixed 125mm warhead and 120mm case guid
+
+
+
 [6/11/2026 3:33:58 AM UTC | Revision 5000 | Cyborgmatt]
 
 [Fixed] Add class to the config selection on the MapGeneratorPlugin
