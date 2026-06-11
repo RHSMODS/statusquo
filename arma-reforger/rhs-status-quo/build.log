@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/11/2026 7:29:09 PM UTC | Revision 5003 | Cyborgmatt]
+
+[Removed] Dead/deprecated ProjectileSoundsManager.et prefab
+
+[Added] New GPS map config for Kolguyev and updated Arland + Everon
+
+
+
 [6/11/2026 6:18:47 AM UTC | Revision 5001 | AkiraSeki]
 
 [Other] Fixed 125mm warhead and 120mm case guid
