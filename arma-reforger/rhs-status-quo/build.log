@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[6/19/2026 5:11:17 AM UTC | Revision 5024 | gurdy]
+
+[Added] M856 and M856A1 Tracer PMAG Prefabs
+
+[Improved] Distributed PMAGs to MEF units
+
+
+
 [6/19/2026 1:47:40 AM UTC | Revision 5023 | ballistic09]
 
 [Fixed] USMC platoon leaders missing magazines because undefined target storage in InventoryStorageManagerComponent
