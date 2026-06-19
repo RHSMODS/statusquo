@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/19/2026 1:47:40 AM UTC | Revision 5023 | ballistic09]
+
+[Fixed] USMC platoon leaders missing magazines because undefined target storage in InventoryStorageManagerComponent
+
+
+
 [6/19/2026 1:38:34 AM UTC | Revision 5022 | ballistic09]
 
 [Other] Minor accuracy tweaks and fixes to USMC infantry and weapon loadouts (M27s now use VCOGs, M4A1s replaced with M4s, M4s use M7 RCOs instead of M150s, etc.)
