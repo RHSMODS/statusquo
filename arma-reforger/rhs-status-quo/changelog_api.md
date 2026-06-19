@@ -7,7 +7,173 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5025
+
+<!-- revision 5025 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5025
+
+_<mark style="color:red;">Date:</mark>_ Friday, June 19, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 70 (4955)
+
+_<mark style="color:red;">Changes:</mark>_ 16 additions, 20 improvements, 28 fixes and 2 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] EMR variant of A18 Scanda
+
+[Added] TV Missile (WIP)
+
+[Added] APS Hardkill System
+
+[Added] Sound when deploying APS Softkill smokes
+
+[Added] APS Hardkill/Softkill on T-14 for testing
+
+[Added] Added new PMAG models, closes [#1041](https://github.com/RHSMODS/statusquo/issues/1041)
+
+[Added] G3 black and tropic mc shirts
+
+[Added] Ballistic computer (lead indicator)
+
+[Added] Vehicle Radial Menu
+
+[Added] HunterKiller V2 (WIP)
+
+[Added] Reload for APS
+
+[Added] HK416A5 to ION arsenal + minor fixes
+
+[Added] USMC Raider/MARSOC URG-I Configurations
+
+[Added] New GPS map config for Kolguyev and updated Arland + Everon
+
+[Added] G3 for ion: black. for ru: atacs
+
+[Added] M856 and M856A1 Tracer PMAG Prefabs
+
+
+##### Improved
+
+
+[Improved] Improved K17 rear ramp action can now be operated from the outside when opened
+
+[Improved] Added G3 shirt LODs
+
+[Improved] APS Softkill/Hardkill system by quadrant
+
+[Improved] IR Missile lock detection and trajectory
+
+[Improved] ESS system
+
+[Improved] Vehicle fire suppression
+
+[Improved] Binoculars function as laser designator
+
+[Improved] IR/TV/Laser Missiles can now be reloaded
+
+[Improved] Reduced multicam saturation and brightness on all vests
+
+[Improved] Reduced EMR saturation and brightness on all vests
+
+[Improved] G3 shirt camo
+
+[Improved] Multiple vehicle functionalities can be accessed via radial menu
+
+[Improved] RHS_2DSightComponent to V3 providing thermal vision support
+
+[Improved] Improvement pass on URG-I M4A1s (Texture improvements, LODs, other fixes/refinements)
+
+[Improved] Commander turret sight stabilization
+
+[Improved] G3 textures
+
+[Improved] Added new g3 stuff in ion arsenal
+
+[Improved] Patch support for g3 shirts
+
+[Improved] Added black g3 for ru
+
+[Improved] Distributed PMAGs to MEF units
+
+
+##### Fixed
+
+
+[Fixed] Fixed K17 hull tan had disable interior probe disabled
+
+[Fixed] Potential fix for hanging WorldEditor when loading RHS
+
+[Fixed] Separate K17 doors mesh
+
+[Fixed] Fixed: reverted changes from revision 4903 which removed mesh morphing as they no longer crash the engine; fixes [#1370](https://github.com/RHSMODS/statusquo/issues/1370)
+
+[Fixed] Fixed various PKP bugs; casings were clipping, sights were misaligned; fixes [#1358](https://github.com/RHSMODS/statusquo/issues/1358)
+
+[Fixed] HK416 had bad collider material assigned
+
+[Fixed] Fixed missing plate from PKP bipod
+
+[Fixed] Fixed K17 Textures Disabled Interior Probe on exterior textures
+
+[Fixed] Fixed K17 separate Ramp Mesh
+
+[Fixed] Fixed K17 ramp action
+
+[Fixed] Fixed windowed PMAGS animations
+
+[Fixed] Fixed animated mags not animating when reloaded out of inventory; fixes [#1332](https://github.com/RHSMODS/statusquo/issues/1332)
+
+[Fixed] Jamming on guided missiles against APS Softkill
+
+[Fixed] UTurn on Guided Laser Riding Missile (velocity forces straight flight on erratic locks)
+
+[Fixed] Inconsistency with LWR and IWR (now correctly warns of IR and Laser threats)
+
+[Fixed] Unweighted g3 pants LOD
+
+[Fixed] Add class to the config selection on the MapGeneratorPlugin
+
+[Fixed] UpdateMapDescriptors VME errors on the RHS_OrionGPSMapWidgetComponent
+
+[Fixed] Black g3 roughness
+
+[Fixed] PMAG texture errors
+
+[Fixed] 2A42 magazine prefab errors
+
+[Fixed] Kord 127x108 magazine prefab errors
+
+[Fixed] Tucha smoke magazine prefab errors
+
+[Fixed] 6B50 Goggles showing up in first person
+
+[Fixed] Various prefabs having incorrect preview settings
+
+[Fixed] Fixed missing film grain on NVGs
+
+[Fixed] USMC platoon leaders missing magazines because undefined target storage in InventoryStorageManagerComponent
+
+[Fixed] Rearming the T-14 'Armata' when empty; fixes [#1367](https://github.com/RHSMODS/statusquo/issues/1367)
+
+
+##### Deleted
+
+
+[Removed] Dead/deprecated ProjectileSoundsManager.et prefab
+
+[Removed] Cleanup dead meta files
+
+
 
 ## 0.15.4955
 
