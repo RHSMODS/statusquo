@@ -7,7 +7,47 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5032
+
+<!-- revision 5032 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5032
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, June 24, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 7 (5025)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] New 6B47 helmet cover showing up in first person; fixes [#1380](https://github.com/RHSMODS/statusquo/issues/1380)
+
+[Fixed] Fixed T14, K17, K4386 salvage action position
+
+[Fixed] Radial menu scripts for Arma Reforger v1.7.0.54 update; fixes [#1387](https://github.com/RHSMODS/statusquo/issues/1387)
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5025
 
