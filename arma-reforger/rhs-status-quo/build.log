@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[6/24/2026 12:11:14 PM UTC | Revision 5032 | Cyborgmatt]
+
+[Other] Temporarily disabled RHS_STKVehicleMenuGameModeComponent on the PlayerController
+
+
+
 [6/24/2026 12:07:39 PM UTC | Revision 5031 | Cyborgmatt]
 
 [Fixed] Radial menu scripts for Arma Reforger v1.7.0.54 update; fixes #1387
