@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[6/28/2026 8:31:52 PM UTC | Revision 5036 | AkiraSeki]
+
+[Fixed] T14 not able to switch seats; fixes #1157
+
+[Fixed] T14 not able to pull out gunner when unconscious
+
+[Fixed] K17 not able to pull out gunner when unconscious
+
+[Fixed] K4386 not being able to pull out gunner when unconscious; fixes#1113
+
+[Improved] K17, K4386, T14 animation graph now updated for 1.7 update
+
+[Other] Removed K17, K4386, T14 old animation graphs and replaced with updated 1.7 versions
+
+
+
 [6/24/2026 4:33:33 PM UTC | Revision 5035 | MacroBebra]
 
 
