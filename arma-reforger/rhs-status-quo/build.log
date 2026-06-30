@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[6/30/2026 8:32:05 PM UTC | Revision 5042 | Soul_Assassin]
+
+[Fixed] A18 light pouch rig preset was blocking backpack slot wrongly; fixes #1385
+
+[Added] Heavy A18 pouch preset without backpack
+
+[Fixed] A18 pouch preset was holstering sidearm into wrong position; fixes #1391
+
+
+
 [6/29/2026 7:47:22 PM UTC | Revision 5041 | AkiraSeki]
 
 [Other] Cleanup T14 animation files naming
