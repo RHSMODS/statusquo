@@ -1,5 +1,29 @@
 <!-- buildlog insert -->
 
+[7/1/2026 9:20:52 PM UTC | Revision 5043 | stoker]
+
+[Added] FCS overlay
+
+[Added] Thermal for vehicle turrets
+
+[Added] Fire Suppression on T-14, Typhoon and K-17
+
+[Added] ESS on T-14, Typhoon and K-17
+
+[Added] HunterKiller on T-14
+
+[Improved] Lead Indicator
+
+[Improved] APS
+
+[Improved] Fire Suppression
+
+[Improved] HUD Icons
+
+[Fixed] Vehicle radial menu keybind
+
+
+
 [6/30/2026 8:32:05 PM UTC | Revision 5042 | Soul_Assassin]
 
 [Fixed] A18 light pouch rig preset was blocking backpack slot wrongly; fixes #1385
