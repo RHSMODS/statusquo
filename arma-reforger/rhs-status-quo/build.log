@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/7/2026 10:06:10 PM UTC | Revision 5054 | AkiraSeki]
+
+[Fixed] Fixed T14 Wreck model causing client crashes
+
+[Other] Lower fire suppression sounds
+
+
+
 [7/7/2026 8:56:45 PM UTC | Revision 5053 | Soul_Assassin]
 
 [Fixed] Fixed faction affiliation of ATACS G3 shirt and pants; fixes #1382
