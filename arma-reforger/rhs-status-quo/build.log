@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/9/2026 12:56:31 AM UTC | Revision 5059 | Cyborgmatt]
+
+[Fixed] Radio pouches not updating correctly when spawning with or equipping a radio
+
+
+
 [7/9/2026 12:34:26 AM UTC | Revision 5058 | Cyborgmatt]
 
 [Fixed] V-Lite collider material errors
