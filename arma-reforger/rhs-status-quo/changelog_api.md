@@ -7,7 +7,141 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5064
+
+<!-- revision 5064 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5064
+
+_<mark style="color:red;">Date:</mark>_ Friday, July 10, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 32 (5032)
+
+_<mark style="color:red;">Changes:</mark>_ 15 additions, 13 improvements, 22 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added 6B23 vest
+
+[Added] Added MSV GII vest
+
+[Added] Added 6SH117 rig
+
+[Added] Added zenitco B50 handguard
+
+[Added] Added zenitco PT-2 stock
+
+[Added] Added PKM and PKP with zenitco mods
+
+[Added] Heavy A18 pouch preset without backpack
+
+[Added] FCS overlay
+
+[Added] Thermal for vehicle turrets
+
+[Added] Fire Suppression on T-14, Typhoon and K-17
+
+[Added] ESS on T-14, Typhoon and K-17
+
+[Added] HunterKiller on T-14
+
+[Added] Towing Cable
+
+[Added] Radar
+
+[Added] HK416A5 VFG Variant
+
+
+##### Improved
+
+
+[Improved] K17, K4386, T14 animation graph now updated for 1.7 update
+
+[Improved] Lead Indicator
+
+[Improved] APS
+
+[Improved] Fire Suppression
+
+[Improved] HUD Icons
+
+[Improved] Made wristwatch component more robust against null ref exceptions; fixes [#1395](https://github.com/RHSMODS/statusquo/issues/1395)
+
+[Improved] HK416 was showing wrong name and description in Arsenal
+
+[Improved] Editable entity catalog filter ordering
+
+[Improved] HK416A5 Iron sight Fixed issue [#1379](https://github.com/RHSMODS/statusquo/issues/1379)
+
+[Improved] HK416A5 Bipod bone
+
+[Improved] Updated Combat Ops scenarios + added new script for maintaining the scenario
+
+[Improved] Corrected the BUIS front sight core prefab configuration
+
+[Improved] HK416A5 colliders
+
+
+##### Fixed
+
+
+[Fixed] T14 not able to switch seats; fixes [#1157](https://github.com/RHSMODS/statusquo/issues/1157)
+
+[Fixed] T14 not able to pull out gunner when unconscious
+
+[Fixed] K17 not able to pull out gunner when unconscious
+
+[Fixed] K4386 not being able to pull out gunner when unconscious; fixes[#1113](https://github.com/RHSMODS/statusquo/issues/1113)
+
+[Fixed] M4 ODG charging handle having the wrong material
+
+[Fixed] Missing T14 door prompts icons
+
+[Fixed] Missing T14 control repair point
+
+[Fixed] Missing K17 door prompts icons
+
+[Fixed] Missing K4386 door prompts icons
+
+[Fixed] A18 light pouch rig preset was blocking backpack slot wrongly; fixes [#1385](https://github.com/RHSMODS/statusquo/issues/1385)
+
+[Fixed] A18 pouch preset was holstering sidearm into wrong position; fixes [#1391](https://github.com/RHSMODS/statusquo/issues/1391)
+
+[Fixed] Vehicle radial menu keybind
+
+[Fixed] M4 BLK charging handle having the wrong material
+
+[Fixed] Stacking issue with Ratnik vests
+
+[Fixed] M40A1 weapon handling sound file errors
+
+[Fixed] Various collider material errors
+
+[Fixed] No plate 6B46 chest rig still came with plates; fixes [#1388](https://github.com/RHSMODS/statusquo/issues/1388)
+
+[Fixed] Fixed wrong ground model ref in 6B46 vests
+
+[Fixed] Fixed faction affiliation of ATACS G3 shirt and pants; fixes [#1382](https://github.com/RHSMODS/statusquo/issues/1382)
+
+[Fixed] Fixed T14 Wreck model causing client crashes
+
+[Fixed] V-Lite collider material errors
+
+[Fixed] Radio pouches not updating correctly when spawning with or equipping a radio
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5032
 
