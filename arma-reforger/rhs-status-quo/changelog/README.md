@@ -7,7 +7,47 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5069
+
+<!-- revision 5069 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5069
+
+_<mark style="color:red;">Date:</mark>_ Saturday, July 11, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 5 (5064)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added A18 with neck protection
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Ars arma shoulder protection rig
+
+[Fixed] Fixed playable factions in Combat Ops
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5064
 
