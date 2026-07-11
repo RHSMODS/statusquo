@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5071
+
+<!-- revision 5071 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5071
+
+_<mark style="color:red;">Date:</mark>_ Saturday, July 11, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 2 (5069)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed broken helicopter rockets
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5069
 
