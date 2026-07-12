@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5072
+
+<!-- revision 5072 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5072
+
+_<mark style="color:red;">Date:</mark>_ Sunday, July 12, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (5071)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] ActionContext issues with HelicopterContext & TurretContext
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5071
 
