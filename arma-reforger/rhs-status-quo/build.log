@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/15/2026 9:24:30 PM UTC | Revision 5076 | Soul_Assassin]
+
+[Fixed] Fixed 6Sh117 vest incorrectly spawning with plates inside; fixes #1383
+
+[Fixed] Fixed certain A18 pouch presets blocking backpack slot; fixes #1396
+
+
+
 [7/15/2026 6:36:02 PM UTC | Revision 5075 | AkiraSeki]
 
 [Fixed] Fixed T14 Hatch being able to be opened by enemy faction
