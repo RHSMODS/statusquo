@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/17/2026 11:49:50 AM UTC | Revision 5081 | Cyborgmatt]
+
+[Fixed] 6B23 vest using the wrong collider material
+
+[Improved] MSV Gen II vest collider now uses NIJ IIIA gamemat
+
+
+
 [7/17/2026 11:48:31 AM UTC | Revision 5079 | Cyborgmatt]
 
 [Added] NIJ IIIA armor gamemat material preset
