@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/17/2026 11:38:33 AM UTC | Revision 5078 | Cyborgmatt]
+
+[Fixed] Overlapping registration of the infantry and vehicle radial wheels; fixes #1404
+
+
+
 [7/16/2026 2:53:48 PM UTC | Revision 5077 | Keller]
 
 [Improved] AN-94 Animations
