@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/21/2026 7:40:06 PM UTC | Revision 5087 | Soul_Assassin]
+
+[Fixed] Fixed clipping of USMC RAT boot through leg; fixes #1406
+
+[Fixed] Fixed clipping of Rocky boot through leg; fixes #1381
+
+
+
 [7/21/2026 4:55:54 PM UTC | Revision 5086 | Soul_Assassin]
 
 [Fixed] Fixed duplicate GUIDs in multiple prefabs; fixes #1418
