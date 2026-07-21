@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/21/2026 8:15:44 PM UTC | Revision 5088 | Soul_Assassin]
+
+[Fixed] Fixed some 6B47 variants not being able to equip cover; fixes #1405
+
+
+
 [7/21/2026 7:40:06 PM UTC | Revision 5087 | Soul_Assassin]
 
 [Fixed] Fixed clipping of USMC RAT boot through leg; fixes #1406
