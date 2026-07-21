@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/21/2026 4:55:54 PM UTC | Revision 5086 | Soul_Assassin]
+
+[Fixed] Fixed duplicate GUIDs in multiple prefabs; fixes #1418
+
+
+
 [7/19/2026 1:13:43 AM UTC | Revision 5085 | Cyborgmatt]
 
 [Fixed] Collider errors in the Ratnik pouch prefabs
