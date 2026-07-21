@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/21/2026 8:25:49 PM UTC | Revision 5089 | Soul_Assassin]
+
+[Fixed] Fixed B-lite strobe visible in first person while on helmet; fixes #1403
+
+
+
 [7/21/2026 8:15:44 PM UTC | Revision 5088 | Soul_Assassin]
 
 [Fixed] Fixed some 6B47 variants not being able to equip cover; fixes #1405
