@@ -7,7 +7,75 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5089
+
+<!-- revision 5089 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5089
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, July 22, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 17 (5072)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 2 improvements, 12 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added AA CPC with Shoulder protection
+
+[Added] Added A18 with Shoulder protection
+
+[Added] NIJ IIIA armor gamemat material preset
+
+
+##### Improved
+
+
+[Improved] AN-94 Animations
+
+[Improved] MSV Gen II vest collider now uses NIJ IIIA gamemat
+
+
+##### Fixed
+
+
+[Fixed] Fixed T14 Hatch being able to be opened by enemy faction
+
+[Fixed] Fixed 6Sh117 vest incorrectly spawning with plates inside; fixes [#1383](https://github.com/RHSMODS/statusquo/issues/1383)
+
+[Fixed] Fixed certain A18 pouch presets blocking backpack slot; fixes [#1396](https://github.com/RHSMODS/statusquo/issues/1396)
+
+[Fixed] Overlapping registration of the infantry and vehicle radial wheels; fixes [#1404](https://github.com/RHSMODS/statusquo/issues/1404)
+
+[Fixed] 6B23 vest using the wrong collider material
+
+[Fixed] Ratnik Azart pouch GUID issue
+
+[Fixed] Collider errors in the Ratnik pouch prefabs
+
+[Fixed] Fixed duplicate GUIDs in multiple prefabs; fixes [#1418](https://github.com/RHSMODS/statusquo/issues/1418)
+
+[Fixed] Fixed clipping of USMC RAT boot through leg; fixes [#1406](https://github.com/RHSMODS/statusquo/issues/1406)
+
+[Fixed] Fixed clipping of Rocky boot through leg; fixes [#1381](https://github.com/RHSMODS/statusquo/issues/1381)
+
+[Fixed] Fixed some 6B47 variants not being able to equip cover; fixes [#1405](https://github.com/RHSMODS/statusquo/issues/1405)
+
+[Fixed] Fixed B-lite strobe visible in first person while on helmet; fixes [#1403](https://github.com/RHSMODS/statusquo/issues/1403)
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5072
 
