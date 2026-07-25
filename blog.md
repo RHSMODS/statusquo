@@ -1,10 +1,10 @@
 ---
-description: Some news from the te
+description: Some news from the team
 ---
 
 # Blog
 
-## REDFOR Vehicle Update
+## REDFOR Vehicle Update - 25/07/2026
 
 RHS is extremely excited to announce some of the development work StoKer has been up to recently! What started as a project to integrate new 3D assets has evolved far beyond the initial scope; StoKer is now aiming to add a range of new assets and frameworks that can be used across a number of vehicles in a modular fashion.
 
