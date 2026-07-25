@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/25/2026 3:16:37 PM UTC | Revision 5095 | Cyborgmatt]
+
+[Fixed] Armor damage manager component errors across all helmet prefabs
+
+
+
 [7/25/2026 3:15:10 PM UTC | Revision 5094 | Cyborgmatt]
 
 [Fixed] Missing colliders on FAST MT helmets
