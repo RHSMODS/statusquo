@@ -30,7 +30,7 @@ This bone is critical and the system will not work without it.
 
 In the weapon prefab (or parent thereof) you need to make some changes. First we will add a new `AttachmentSlotComponent` as a child to the `WeaponComponent` to prepare a slot where the bipod can attach to:
 
-<figure><img src="../../../.gitbook/assets/image (237) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 

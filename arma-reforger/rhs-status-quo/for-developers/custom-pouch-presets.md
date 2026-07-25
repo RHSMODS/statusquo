@@ -10,6 +10,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -21,6 +22,10 @@ layout:
   pagination:
     visible: true
   metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -65,7 +70,7 @@ Last thing, please make sure you check existing RHS prefabs to see exactly what 
 
 * In your Object Properties window of your prefab, select 'RHS\_ClothNodeStorageComponet' and then click 'Set Class' in the Attributes section, followed by selecting 'SCR\_ItemAttributeCollection'.
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * You will now need to configr your 'RHS\_ClothNodeStorageComponent' as per the below screenshot or your own settings.
 
