@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[7/27/2026 1:41:05 AM UTC | Revision 5100 | Cyborgmatt]
+
+[Fixed] Incorrect PC GEN III Light vest armor component settings
+
+[Fixed] Potential PMF script replication flooding, listener leaks, and unsafe snapshot codec
+
+
+
 [7/27/2026 1:36:29 AM UTC | Revision 5098 | Cyborgmatt]
 
 [Fixed] Inventory item data errors across multiple prefabs
