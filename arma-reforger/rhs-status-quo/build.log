@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[7/27/2026 1:45:06 AM UTC | Revision 5101 | Cyborgmatt]
+
+[Other] Temporarily remove GD_Ratnik_Holster and GD_Ratnik_PistolPouch slots due to missing prefabs
+
+
+
 [7/27/2026 1:41:05 AM UTC | Revision 5100 | Cyborgmatt]
 
 [Fixed] Incorrect PC GEN III Light vest armor component settings
