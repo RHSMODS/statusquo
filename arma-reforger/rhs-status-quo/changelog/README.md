@@ -7,7 +7,65 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.15.5104
+
+<!-- revision 5104 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5104
+
+_<mark style="color:red;">Date:</mark>_ Thursday, July 30, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 14 (5090)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 9 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Tweaked M16A4 deployment points for hopefully better stability
+
+[Improved] G3 pants - knee proportions, some geometry upd, rig
+
+[Improved] G3 shirt - rig
+
+
+##### Fixed
+
+
+[Fixed] 6Sh117 6B45 PKM vest variant GUID errors
+
+[Fixed] Vests with ColliderHistoryComponent errors
+
+[Fixed] Missing colliders on FAST MT helmets
+
+[Fixed] Dedal NV scope collider material issues
+
+[Fixed] Armor damage manager component errors across all helmet prefabs
+
+[Fixed] M4 AFG player asi GUID errors
+
+[Fixed] Inventory item data errors across multiple prefabs
+
+[Fixed] Incorrect PC GEN III Light vest armor component settings
+
+[Fixed] Potential PMF script replication flooding, listener leaks, and unsafe snapshot codec
+
+
+##### Deleted
+
+
+
 
 ## 0.15.5090
 
