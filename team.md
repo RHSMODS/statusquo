@@ -474,6 +474,8 @@ Kimi
 
 Zelik
 
+Ronnus
+
 ## Music
 
 Credits for the music that we have used in our trailers.
