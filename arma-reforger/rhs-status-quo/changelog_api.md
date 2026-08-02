@@ -7,7 +7,48 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿<!-- changelog insert -->
+﻿﻿<!-- changelog insert -->
+
+## 0.16.5109
+
+<!-- revision 5109 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5109
+
+_<mark style="color:red;">Date:</mark>_ Sunday, August 2, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (5106)
+
+_<mark style="color:red;">Changes:</mark>_ 1 additions, 0 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] VDV Telnyashka
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
 
 ## 0.16.5106
 
