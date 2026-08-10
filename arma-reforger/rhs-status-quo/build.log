@@ -1,5 +1,21 @@
 <!-- buildlog insert -->
 
+[8/10/2026 2:31:24 PM UTC | Revision 5115 | reyhard]
+
+[Fixed] Repaired stale resource GUIDs, material remaps, serialization fields, animation profiles, and weapon configurations.
+
+[Improved] Added ItemFireView collision geometry and correct FIREGEO materials for equipment, weapons, and CP-G3 pants.
+
+[Improved] Rebuilt current-format T14 damper/suspension audio and migrate broken vehicle, radio, horn, and engine ACP graphs.
+
+[Improved] Clean showcase-world layers, stale placements, identities, destruction data, and asset references.
+
+[Improved] Regenerated showcase navmesh data and validate Workbench resource/world loading.
+
+[Other] Tldr: trying to reduce amount of errors/warnings when running RHS
+
+
+
 [8/6/2026 7:48:18 PM UTC | Revision 5114 | stoker]
 
 [Other] Add Gauges from T-Series MBT
