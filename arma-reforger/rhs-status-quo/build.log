@@ -1,5 +1,29 @@
 <!-- buildlog insert -->
 
+[8/12/2026 12:51:05 PM UTC | Revision 5142 | reyhard]
+
+[Fixed] Fixed GUIDs for item variants of equipment
+
+[Fixed] Added some basic colliders to ground variants of items
+
+[Fixed] Fixed labels errors regarding to m_iOpacityMapID
+
+[Fixed] Assigned some correct game materials to T90M_Base and Kurganets25_base
+
+[Fixed] Fixed remaps errors on maaaaany items - please check if everything works afterwards
+
+[Fixed] Removed some obsolete (?) Kneepad prefabs
+
+[Fixed] Proc anims errors on many items
+
+[Fixed] Removed duplicated actions on 2S1
+
+[Fixed] Fixed old link in pap
+
+[Other] Disabled proc on matech (it doesn't have bones now)
+
+
+
 [8/12/2026 9:42:12 AM UTC | Revision 5140 | reyhard]
 
 [Other] Fix
