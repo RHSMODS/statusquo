@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/14/2026 3:46:45 PM UTC | Revision 5154 | Cyborgmatt]
+
+[Fixed] Removed clothing offset from the core radio prefab
+
+[Other] Revert a couple of prefabs that were accidently pushed
+
+
+
 [8/14/2026 1:03:29 PM UTC | Revision 5152 | ]
 
 
