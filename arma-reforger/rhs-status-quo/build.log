@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[8/14/2026 5:22:45 AM UTC | Revision 5150 | Cyborgmatt, Soul_Assassin]
+
+[Other] Cleanup of T90 prefabs
+
+[Other] Cleanup of old refs to WCS_ components that are not needed any more
+
+[Other] Remove dead emat files
+
+
+
 [8/13/2026 3:49:44 PM UTC | Revision 5148 | reyhard]
 
 [Other] Added support for providing list of resources to txt file
