@@ -7,7 +7,83 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.16.5150
+
+<!-- revision 5150 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5150
+
+_<mark style="color:red;">Date:</mark>_ Friday, August 14, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 46 (5104)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 5 improvements, 13 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] VDV Telnyashka
+
+[Added] Added LBT1961 rig
+
+[Added] Added Tasmanian tiger MK2 rig
+
+
+##### Improved
+
+
+[Improved] Added ItemFireView collision geometry and correct FIREGEO materials for equipment, weapons, and CP-G3 pants.
+
+[Improved] Rebuilt current-format T14 damper/suspension audio and migrate broken vehicle, radio, horn, and engine ACP graphs.
+
+[Improved] Clean showcase-world layers, stale placements, identities, destruction data, and asset references.
+
+[Improved] Regenerated showcase navmesh data and validate Workbench resource/world loading.
+
+[Improved] Added Far Hide inheritance for various materials
+
+
+##### Fixed
+
+
+[Fixed] MSV II vest prefab preview model
+
+[Fixed] Repaired stale resource GUIDs, material remaps, serialization fields, animation profiles, and weapon configurations.
+
+[Fixed] Fixed GUIDs for item variants of equipment
+
+[Fixed] Added some basic colliders to ground variants of items
+
+[Fixed] Fixed labels errors regarding to m_iOpacityMapID
+
+[Fixed] Assigned some correct game materials to T90M_Base and Kurganets25_base
+
+[Fixed] Fixed remaps errors on maaaaany items - please check if everything works afterwards
+
+[Fixed] Removed some obsolete (?) Kneepad prefabs
+
+[Fixed] Proc anims errors on many items
+
+[Fixed] Removed duplicated actions on 2S1
+
+[Fixed] Fixed old link in pap
+
+[Fixed] Incorrect meta data in HK416A5 base prefab
+
+[Fixed] Incorrect offset on the Garmin watches
+
+
+##### Deleted
+
+
+
 
 ## 0.16.5149
 
