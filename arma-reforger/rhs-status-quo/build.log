@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/14/2026 8:40:43 AM UTC | Revision 5151 | AkiraSeki]
+
+[Fixed] Fixed T14 Get out action showing when in driver triplex view; fixes #1430
+
+
+
 [8/14/2026 5:22:45 AM UTC | Revision 5150 | Cyborgmatt, Soul_Assassin]
 
 [Other] Cleanup of T90 prefabs
