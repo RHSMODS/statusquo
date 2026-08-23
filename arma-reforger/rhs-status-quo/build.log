@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[8/23/2026 9:56:09 PM UTC | Revision 5165 | Soul_Assassin]
+
+[Fixed] Russian AA-AVS vests now slot Granit plates instead of ESAPI; fixes #1429
+
+[Fixed] Removed default plates from LBT1961 and TT Mk2 rigs; fixes #1436
+
+
+
 [8/23/2026 9:55:09 PM UTC | Revision 5164 | reyhard]
 
 [Other] Remove invalid T-90M NERA prefab
