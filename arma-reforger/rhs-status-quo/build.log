@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[8/24/2026 10:23:41 PM UTC | Revision 5169 | Soul_Assassin]
+
+[Fixed] Fixed rangefinder loosing context after coming out of ADS; fixes #1437, #1444
+
+
+
 [8/24/2026 9:10:24 PM UTC | Revision 5168 | stoker]
 
 [Other] Removal of the Laser Designator component from the Vector 21/PDU 4.
