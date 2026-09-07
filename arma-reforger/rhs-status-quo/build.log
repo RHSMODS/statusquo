@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[9/7/2026 5:12:56 AM UTC | Revision 5184 | Soul_Assassin]
+
+[Improved] RHS_LoadoutSlotInfo improvements, thanks to Degman; fixes #1440
+
+[Improved] Expose ClothNode Slotted Items in Backpack Inventory UI, thanks to Degman; fixes #1441
+
+[Improved] RHS_MagazineAnimationComponent improvement, thanks to Degman; fixes #1442
+
+
+
 [9/6/2026 5:32:50 PM UTC | Revision 5183 | Soul_Assassin]
 
 [Added] Added Matech BUIS
