@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/7/2026 9:39:18 PM UTC | Revision 5187 | Soul_Assassin]
+
+[Fixed] Get Out and Open Door actions no longer appear when looking through driver triplex in T-14; fixes #1448
+
+
+
 [9/7/2026 1:57:06 PM UTC | Revision 5186 | AkiraSeki]
 
 [Other] Fix T14 commander turret prefab for new bones
