@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[9/14/2026 2:27:26 AM UTC | Revision 5202 | Cyborgmatt, Soul_Assassin]
+
+[Fixed] Some AA-CPC MC pouch presets had FG textures; fixes #1402
+
+[Fixed] AA-CPC could not load dropped Granit plates back; fixes #1428
+
+[Fixed] Fixed GM94 RplComponent problems; fixes #1420
+
+[Other] Add GrenadeRifle_Base.et to ignored verification list
+
+[Other] [broken, possible revert necessary] GM94 issue with muzzleinmag
+
+
+
 [9/11/2026 7:23:53 AM UTC | Revision 5198 | AkiraSeki]
 
 [Other] Add colliders, LODS and rename K17 Berezhok smoke launcher
