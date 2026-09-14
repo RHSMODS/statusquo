@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/14/2026 9:38:51 PM UTC | Revision 5203 | Soul_Assassin]
+
+[Improved] 6B23 with 6Sh117 now blocks vest loadouts so you can no longer double layer
+
+[Improved] Removed possibility to put armored plates into 6Sh117; fixes #1457
+
+
+
 [9/14/2026 2:27:26 AM UTC | Revision 5202 | Cyborgmatt, Soul_Assassin]
 
 [Fixed] Some AA-CPC MC pouch presets had FG textures; fixes #1402
