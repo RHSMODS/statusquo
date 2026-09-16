@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/16/2026 9:15:11 PM UTC | Revision 5206 | Soul_Assassin]
+
+[Fixed] Fixed unstable call to RandomInt() in APSV2 script, resolving a recurring crash
+
+
+
 [9/16/2026 1:24:33 AM UTC | Revision 5205 | gurdy]
 
 [Other] MaTech BUIS texture pass
