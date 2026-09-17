@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/17/2026 9:13:39 AM UTC | Revision 5208 | Cyborgmatt]
+
+[Fixed] Potential T14 turret crash related to destruction
+
+[Other] Add missing T14 gunner layout
+
+
+
 [9/16/2026 9:15:11 PM UTC | Revision 5206 | Soul_Assassin]
 
 [Fixed] Fixed unstable call to RandomInt() in APSV2 script, resolving a recurring crash
