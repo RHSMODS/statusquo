@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/20/2026 2:25:33 PM UTC | Revision 5210 | Cyborgmatt]
+
+[Fixed] Supply drop callins would get stuck in midair
+
+
+
 [9/18/2026 1:14:21 PM UTC | Revision 5209 | Punky]
 
 [Other] Measurements plane for UH1Y/UH1Y_TO_ENFUSION.blend
