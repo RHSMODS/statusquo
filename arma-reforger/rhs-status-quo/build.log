@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/21/2026 11:32:44 PM UTC | Revision 5214 | Cyborgmatt]
+
+[Fixed] Callins were blocked when the character was in a crouched or prone stance
+
+
+
 [9/21/2026 2:07:08 AM UTC | Revision 5213 | pgshka]
 
 [Added] Added Radio_ANPRC152A_DEV.et (WIP), frequency switching implemented so far
