@@ -1,5 +1,17 @@
 <!-- buildlog insert -->
 
+[9/22/2026 5:44:02 AM UTC | Revision 5215 | AkiraSeki]
+
+[Fixed] Fixed T14/K17 Commander seat rotating with Gunner turret; fixes #1464; fixes #1446
+
+[Fixed] Fixed T14 Gunner seat positions; fixes #1461
+
+[Fixed] Fixed K4386/K17 dual-feed cannon fire rate increase bug; fixes #1446
+
+[Added] Added T14 turret depression limiter when rotating the turret towards the rear
+
+
+
 [9/21/2026 11:32:44 PM UTC | Revision 5214 | Cyborgmatt]
 
 [Fixed] Callins were blocked when the character was in a crouched or prone stance
