@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[9/22/2026 10:31:11 PM UTC | Revision 5217 | pgshka]
+
+[Other] Validation error fix
+
+[Other] EARHS: Item attach/detach system. ANPRC152: Page system and minor changes to the touchscreen system for EARHS compatibility
+
+
+
 [9/22/2026 5:44:02 AM UTC | Revision 5215 | AkiraSeki]
 
 [Fixed] Fixed T14/K17 Commander seat rotating with Gunner turret; fixes #1464; fixes #1446
