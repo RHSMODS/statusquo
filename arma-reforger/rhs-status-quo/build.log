@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/24/2026 6:07:46 AM UTC | Revision 5220 | Cyborgmatt]
+
+[Fixed] OG-7V was spawning anti-tank spall projectiles
+
+
+
 [9/23/2026 8:01:59 AM UTC | Revision 5219 | Cyborgmatt]
 
 [Improved] Various weapon prefabs that inherited incorrect strings
