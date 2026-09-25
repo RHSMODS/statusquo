@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[9/25/2026 11:37:39 AM UTC | Revision 5223 | Cyborgmatt]
+
+[Fixed] TA31 reticle texture conflict between 3D materials and 2D sights
+
+
+
 [9/25/2026 8:42:54 AM UTC | Revision 5222 | Cyborgmatt]
 
 [Other] Add map generator dev scripts for vhcsurf file debugging
