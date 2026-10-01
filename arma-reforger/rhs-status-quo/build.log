@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/1/2026 2:57:02 PM UTC | Revision 5227 | Cyborgmatt]
+
+[Fixed] NVG device cleanup code
+
+[Removed] Obsolete turret zoom workaround
+
+
+
 [10/1/2026 1:33:33 PM UTC | Revision 5226 | Cyborgmatt]
 
 [Removed] VONMenuActiveActionCondition null reference workaround that now exists in vanilla Reforger
