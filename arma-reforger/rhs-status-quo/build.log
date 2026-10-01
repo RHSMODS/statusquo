@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/1/2026 6:17:16 AM UTC | Revision 5224 | Cyborgmatt]
+
+[Fixed] Arsenal restores no longer loop indefinitely and freeze the server
+
+[Fixed] Sliding attachment positions are now saved and restored for the correct weapon
+
+[Fixed] Saved loadouts are no longer deleted when RHS extra data is missing
+
+[Fixed] Camo headgear is now preserved when spawning Arsenal loadouts (restored missing Reforger v1.8.x code)
+
+[Fixed] Item insertion now correctly checks that both network storages exist (restored missing Reforger v1.8.x code)
+
+
+
 [9/25/2026 11:37:39 AM UTC | Revision 5223 | Cyborgmatt]
 
 [Fixed] TA31 reticle texture conflict between 3D materials and 2D sights
