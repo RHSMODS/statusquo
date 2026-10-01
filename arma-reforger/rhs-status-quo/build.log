@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/1/2026 1:30:56 PM UTC | Revision 5225 | Cyborgmatt]
+
+[Removed] EditorImageGenerator scripts that already exist in vanilla Reforger
+
+
+
 [10/1/2026 6:17:16 AM UTC | Revision 5224 | Cyborgmatt]
 
 [Fixed] Arsenal restores no longer loop indefinitely and freeze the server
