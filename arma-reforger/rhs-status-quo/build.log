@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/2/2026 3:33:58 AM UTC | Revision 5228 | Cyborgmatt]
+
+[Removed] Legacy reticle workaround on RHS_2DPIPSightsComponent
+
+
+
 [10/1/2026 2:57:02 PM UTC | Revision 5227 | Cyborgmatt]
 
 [Fixed] NVG device cleanup code
