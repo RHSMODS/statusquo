@@ -7,7 +7,43 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.16.5237
+
+<!-- revision 5237 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5237
+
+_<mark style="color:red;">Date:</mark>_ Monday, October 5, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (5236)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Watch component not working on dedicated servers
+
+
+##### Deleted
+
+
+
 
 ## 0.16.5236
 
