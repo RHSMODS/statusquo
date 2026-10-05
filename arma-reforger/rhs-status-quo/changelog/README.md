@@ -7,7 +7,115 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.16.5236
+
+<!-- revision 5236 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5236
+
+_<mark style="color:red;">Date:</mark>_ Monday, October 5, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 28 (5208)
+
+_<mark style="color:red;">Changes:</mark>_ 6 additions, 2 improvements, 25 fixes and 4 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added Radio_ANPRC152A_DEV.et (WIP), frequency switching implemented so far
+
+[Added] Added new diag menu for creating touch-screen-based items (display bounds visualization, button visualization)
+
+[Added] Added T14 turret depression limiter when rotating the turret towards the rear
+
+[Added] Physics observer support to RHS_HelmetNodeStorageComponent for helmet knockoff handling
+
+[Added] Knockoff support for RHS helmets with m_bIsDetachable enabled
+
+[Added] Asset image generator script overrides
+
+
+##### Improved
+
+
+[Improved] Redone all vest prefab inventory previews
+
+[Improved] Various weapon prefabs that inherited incorrect strings
+
+
+##### Fixed
+
+
+[Fixed] Supply drop callins would get stuck in midair
+
+[Fixed] Enemies could see markers for offensive callins
+
+[Fixed] Offensive callin markers displayed the wrong player name
+
+[Fixed] Offensive callin markers are now properly cleaned up when cancelled
+
+[Fixed] Callins were blocked when the character was in a crouched or prone stance
+
+[Fixed] Fixed T14/K17 Commander seat rotating with Gunner turret; fixes [#1464](https://github.com/RHSMODS/statusquo/issues/1464); fixes [#1446](https://github.com/RHSMODS/statusquo/issues/1446)
+
+[Fixed] Fixed T14 Gunner seat positions; fixes [#1461](https://github.com/RHSMODS/statusquo/issues/1461)
+
+[Fixed] Fixed K4386/K17 dual-feed cannon fire rate increase bug; fixes [#1446](https://github.com/RHSMODS/statusquo/issues/1446)
+
+[Fixed] OG-7V was spawning anti-tank spall projectiles
+
+[Fixed] Updated optic layers and material overrides to latest Reforger standards, resolving nighttime matte lens glow
+
+[Fixed] TA31 reticle texture conflict between 3D materials and 2D sights
+
+[Fixed] Arsenal restores no longer loop indefinitely and freeze the server
+
+[Fixed] Sliding attachment positions are now saved and restored for the correct weapon
+
+[Fixed] Saved loadouts are no longer deleted when RHS extra data is missing
+
+[Fixed] Camo headgear is now preserved when spawning Arsenal loadouts (restored missing Reforger v1.8.x code)
+
+[Fixed] Item insertion now correctly checks that both network storages exist (restored missing Reforger v1.8.x code)
+
+[Fixed] NVG device cleanup code
+
+[Fixed] Attachment swapping and restore inventory focus after replacements
+
+[Fixed] Clothing attachment validation on blocked slots
+
+[Fixed] Missing vanilla helmet knockoff handling in the armor damage override
+
+[Fixed] Corrected and simplified helmet item colliders to prevent knocked off helmets falling through terrain
+
+[Fixed] Garmin watch screens appearing grey when inactive or remaining blank until first inspection after spawning
+
+[Fixed] Corrected Garmin watch screen materials for night time rendering
+
+[Fixed] More fixes for various callin faction related issues and cleanup; fixes [#1471](https://github.com/RHSMODS/statusquo/issues/1471)
+
+[Fixed] Collider issues on Harris bipod
+
+
+##### Deleted
+
+
+[Removed] EditorImageGenerator scripts that already exist in vanilla Reforger
+
+[Removed] VONMenuActiveActionCondition null reference workaround that now exists in vanilla Reforger
+
+[Removed] Obsolete turret zoom workaround
+
+[Removed] Legacy reticle workaround on RHS_2DPIPSightsComponent
+
+
 
 ## 0.16.5208
 
