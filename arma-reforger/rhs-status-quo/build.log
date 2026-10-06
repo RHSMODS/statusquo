@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/6/2026 8:51:58 AM UTC | Revision 5239 | Soul_Assassin]
+
+[Other] Bump version to 0.17
+
+[Other] Fix compile issues for experimental
+
+
+
 [10/5/2026 6:33:01 PM UTC | Revision 5237 | Cyborgmatt]
 
 [Fixed] Watch component not working on dedicated servers
