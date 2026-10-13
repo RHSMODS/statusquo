@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[10/13/2026 11:44:24 AM UTC | Revision 5244 | Soul_Assassin]
+
+[Added] Helstar, MS2000 and VIP strobes can now also be thrown or placed on objects (equip into grenade slot, LMB to throw, RMB then LMB to place); fixes #403; fixes #775
+
+
+
 [10/11/2026 8:27:54 PM UTC | Revision 5243 | Soul_Assassin]
 
 [Fixed] LBT-1961 now blocks pouch slot; fixes #1470
