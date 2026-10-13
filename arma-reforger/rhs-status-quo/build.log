@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/13/2026 12:42:39 PM UTC | Revision 5246 | Soul_Assassin]
+
+[Improved] Moved K17 to new 1.9 wheeled setup
+
+[Improved] K17 wheels should be more on par with Typhoon with respect to absorbing bullets
+
+[Improved] Moved K4386 to new 1.9 wheeled setup
+
+[Other] Fixed some more log errors
+
+[Other] Fixed some log errors
+
+
+
 [10/13/2026 11:44:24 AM UTC | Revision 5244 | Soul_Assassin]
 
 [Added] Helstar, MS2000 and VIP strobes can now also be thrown or placed on objects (equip into grenade slot, LMB to throw, RMB then LMB to place); fixes #403; fixes #775
