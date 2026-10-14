@@ -7,7 +7,72 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿<!-- changelog insert -->
+﻿﻿<!-- changelog insert -->
+
+## 0.17.5248
+
+<!-- revision 5248 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5248
+
+_<mark style="color:red;">Date:</mark>_ Wednesday, October 14, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 9 (5239)
+
+_<mark style="color:red;">Changes:</mark>_ 2 additions, 8 improvements, 3 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added magazine repacking
+
+[Added] Helstar, MS2000 and VIP strobes can now also be thrown or placed on objects (equip into grenade slot, LMB to throw, RMB then LMB to place); fixes [#403](https://github.com/RHSMODS/statusquo/issues/403); fixes [#775](https://github.com/RHSMODS/statusquo/issues/775)
+
+
+##### Improved
+
+
+[Improved] Moved K17 to new 1.9 wheeled setup
+
+[Improved] K17 wheels should be more on par with Typhoon with respect to absorbing bullets
+
+[Improved] Moved K4386 to new 1.9 wheeled setup
+
+[Improved] Moved 2S1 to new 1.9 wheeled setup
+
+[Improved] Moved T14 to new 1.9 wheeled setup
+
+[Improved] Moved T90 to new 1.9 wheeled setup
+
+[Improved] Moved K25 to new 1.9 wheeled setup
+
+[Improved] Improved tracked vehicle handling
+
+
+##### Fixed
+
+
+[Fixed] Fixed various GM-94 related issues; fixes [#1467](https://github.com/RHSMODS/statusquo/issues/1467)
+
+[Fixed] Fixed some AK optic rail offsets; fixes [#1472](https://github.com/RHSMODS/statusquo/issues/1472)
+
+[Fixed] LBT-1961 now blocks pouch slot; fixes [#1470](https://github.com/RHSMODS/statusquo/issues/1470)
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5239
 
