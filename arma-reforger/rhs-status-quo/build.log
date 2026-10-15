@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/15/2026 8:54:40 AM UTC | Revision 5249 | Soul_Assassin]
+
+[Added] Ability to toggle light and laser devices on a weapon independently through own keybinds (= and - by default, doubletap for mode switch, switch between similar type with ]), with small UI indicators; fixes #1344
+
+[Added] Hearing protection system for active headphones, use H to toggle volume level. Unprotected will accelerate Tinnitus
+
+
+
 [10/14/2026 7:50:26 AM UTC | Revision 5248 | Soul_Assassin]
 
 [Improved] Moved 2S1 to new 1.9 wheeled setup
