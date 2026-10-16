@@ -1,5 +1,23 @@
 <!-- buildlog insert -->
 
+[10/16/2026 9:56:43 PM UTC | Revision 5251 | Soul_Assassin]
+
+[Improved] Marine RTOs now equipped with FILBE radio backpacks and Vector 21.
+
+[Fixed] Fixed missing fonts in Vector 21
+
+[Improved] RHS_RadioSourceComponents are now properly cleaned up between sessions; fixes #1475
+
+[Improved] Finalized DAGR navigation functionality, navigation to WPs and through Routes now possible
+
+[Added] You can now connect Vector 21 to DAGR and transfer target details
+
+[Other] Old M1151 config also moved to new wheels for now.
+
+[Other] Some fixes in the light device switching script to support GM possession.
+
+
+
 [10/15/2026 12:42:03 PM UTC | Revision 5250 | Soul_Assassin]
 
 [Other] Forgotten gamepad mappings
