@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/17/2026 8:00:05 PM UTC | Revision 5253 | Soul_Assassin]
+
+[Fixed] Fixed Garmin and AN PRC152 render to texture targets not working in 1.9
+
+[Fixed] Tinnutus no longer affects you if you are not in a living body
+
+
+
 [10/17/2026 2:39:20 PM UTC | Revision 5252 | Soul_Assassin]
 
 [Improved] Tweaked hearing protection with regard to distant shots, speed of sound taken into account
