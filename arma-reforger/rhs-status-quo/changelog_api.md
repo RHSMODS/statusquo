@@ -7,7 +7,60 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿<!-- changelog insert -->
+﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5251
+
+<!-- revision 5251 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5251
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 17, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (5248)
+
+_<mark style="color:red;">Changes:</mark>_ 3 additions, 3 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Ability to toggle light and laser devices on a weapon independently through own keybinds (= and - by default, doubletap for mode switch, switch between similar type with ]), with small UI indicators; fixes [#1344](https://github.com/RHSMODS/statusquo/issues/1344)
+
+[Added] Hearing protection system for active headphones, use H to toggle volume level. Unprotected will accelerate Tinnitus
+
+[Added] You can now connect Vector 21 to DAGR and transfer target details
+
+
+##### Improved
+
+
+[Improved] Marine RTOs now equipped with FILBE radio backpacks and Vector 21.
+
+[Improved] RHS_RadioSourceComponents are now properly cleaned up between sessions; fixes [#1475](https://github.com/RHSMODS/statusquo/issues/1475)
+
+[Improved] Finalized DAGR navigation functionality, navigation to WPs and through Routes now possible
+
+
+##### Fixed
+
+
+[Fixed] Fixed missing fonts in Vector 21
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5248
 
