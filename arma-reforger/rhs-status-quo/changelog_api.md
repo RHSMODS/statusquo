@@ -7,7 +7,52 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5252
+
+<!-- revision 5252 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5252
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 17, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (5251)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 3 improvements, 0 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Tweaked hearing protection with regard to distant shots, speed of sound taken into account
+
+[Improved] Tinnitus stepping a bit more smooth and more clear ringing
+
+[Improved] Finalize Orion functionality with regards to navigation. Can connect PDU-4 to it to get target information.
+
+
+##### Fixed
+
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5251
 
