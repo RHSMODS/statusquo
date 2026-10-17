@@ -7,7 +7,50 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5253
+
+<!-- revision 5253 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5253
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 17, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (5252)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Fixed Garmin and AN PRC152 render to texture targets not working in 1.9
+
+[Fixed] Tinnutus no longer affects you if you are not in a living body
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5252
 
