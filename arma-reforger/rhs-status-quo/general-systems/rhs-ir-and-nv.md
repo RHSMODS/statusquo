@@ -65,3 +65,7 @@ Thermal sights are commonly used in a variety of applications such as in militar
 Currently the base game does not offer any possibility to create realisticly functioning thermals. For the time being any "thermals" you see in the mod are white-colored NV sights with extremely high contrast as placeholders.
 
 <figure><img src="../../../.gitbook/assets/thermals.png" alt=""><figcaption></figcaption></figure>
+
+## Related pages
+
+* [Strobe Devices](strobe-devices.md)

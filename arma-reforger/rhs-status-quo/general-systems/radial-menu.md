@@ -34,3 +34,7 @@ Currently compatible devices with actions:
 | RPG7                          |
 
 As of version 0.3.951 item added to your inventory using the **RHS Extended Inventory System** can also show up in the menu and can be take off without going to the inventory.
+
+## Related pages
+
+* [Strobe Devices](strobe-devices.md)
