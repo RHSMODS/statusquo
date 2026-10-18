@@ -94,3 +94,4 @@ The watch keeps the selected mode when you remove it from the quick slot.
 * [Vector 21](../blufor/gadgets/vector-21.md)
 * [PDU-4](../redfor/gadgets/pdu-4.md)
 * [Garmin Tactix Bravo](garmin-tactix-bravo.md)
+* [GPS Devices and Rangefinder Link](../for-developers/gps-devices-and-rangefinder-link.md) (for mod makers)

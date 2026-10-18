@@ -140,6 +140,7 @@ Each throwable strobe has an `RHS_ThrowablePlaceableItemComponent`. Change these
 * [RHS Radial Menu](radial-menu.md)
 * [RHS IR, NV and "Thermals"](rhs-ir-and-nv.md)
 * [RHS Extended Inventory System](rhs-extended-inventory-system.md)
+* [Throwable and Placeable Items](../for-developers/throwable-and-placeable-items.md) (for mod makers)
 
 ## Prefabs
 

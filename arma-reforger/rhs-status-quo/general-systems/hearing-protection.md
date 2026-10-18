@@ -95,6 +95,7 @@ Each headset prefab has an `RHS_HearingProtectionComponent`. Change these attrib
 * [3M™ PELTOR™ ComTac™ VI](../blufor/uniforms/helmets/3m-tm-peltor-tm-comtac-tm-vi.md)
 * [RHS Radial Menu](radial-menu.md)
 * [Default Key Bindings](default-key-binds.md)
+* [Hearing Protection Headsets](../for-developers/hearing-protection-headsets.md) (for mod makers)
 
 ## Prefabs
 
