@@ -11,3 +11,7 @@ The 3M™ PELTOR™ ComTac™ VI is an integrated active hearing protection and 
 It can also be mounted onto helmets with a rail system or worn underneath them.
 
 <figure><img src="../../../../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Attached to a LShZ Helmet</p></figcaption></figure>
+
+## Related pages
+
+* [Hearing Protection](../../../general-systems/hearing-protection.md)

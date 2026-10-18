@@ -42,6 +42,7 @@
     * [EARHS](arma-reforger/rhs-status-quo/general-systems/earhs.md)
     * [GPS Radio Beacon](arma-reforger/rhs-status-quo/general-systems/gps-beacon.md)
     * [Garmin Tactix Bravo](arma-reforger/rhs-status-quo/general-systems/garmin-tactix-bravo.md)
+    * [Hearing Protection](arma-reforger/rhs-status-quo/general-systems/hearing-protection.md)
     * [Default Key Bindings](arma-reforger/rhs-status-quo/general-systems/default-key-binds.md)
   * [For Developers](arma-reforger/rhs-status-quo/for-developers/README.md)
     * [Sliding Attachments](arma-reforger/rhs-status-quo/for-developers/sliding-attachments.md)

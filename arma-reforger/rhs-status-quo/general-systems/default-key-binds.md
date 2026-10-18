@@ -19,3 +19,11 @@ Default key binds for RHS radial menu which is used to interact with equipment t
 Default key binds for all weapon mounted  light devices such as but not limited to AN/PEQ-16.
 
 <table><thead><tr><th width="186">Label</th><th width="154">Keyboard</th><th width="174">Gamepad</th><th>Description</th></tr></thead><tbody><tr><td>Toggle light device</td><td><img src="../../../.gitbook/assets/image (76).png" alt=""></td><td><img src="../../../.gitbook/assets/image (152).png" alt="" data-size="original"></td><td>Toggle currently used light devices on/off. If nothing happens, probably the mode is not set correctly.</td></tr><tr><td>Cycle through light device modes</td><td><img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (153).png" alt="" data-size="original"></td><td>Cycle through available modes of currently used light devices.</td></tr><tr><td>Hold to momentarily turn ON light device</td><td><img src="../../../.gitbook/assets/image (36).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (37).png" alt="" data-size="original"></td><td>Will turn ON light device when pressed and turn it OFF when released.</td></tr></tbody></table>
+
+### Hearing Protection
+
+Default key bind for active headsets. See [Hearing Protection](hearing-protection.md).
+
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Cycle hearing protection level | **`End`** | - | Sets the next level of the worn headset: Off, 1, 2, 3, 4. |
