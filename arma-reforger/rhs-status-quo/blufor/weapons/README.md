@@ -23,3 +23,5 @@ This section contains the weapons pages of the US forces (BLUFOR).
 | [MK153 SMAW Mod 2](mk153-smaw-mod-2.md) | Mk153 Mod 2 is a modernised version of the Shoulder-Launched Multipurpose Assault Weapon (SMAW). |
 | [MK17](mk17.md) | The Mk 17 is not in the mod at this time. |
 | [Attachments](attachments/README.md) | Pages: Other Attachments, Optics, Lasers. |
+| [HK416A5](hk416a5.md) | 5.56×45mm compact carbine. |
+| [M240B](m240b.md) | 7.62×51mm general purpose machine gun. |

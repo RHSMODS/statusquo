@@ -1,5 +1,9 @@
 # Crye Combat Pants
 
+Combat pants by Crye Precision. The mod has them in the camouflage patterns in the list below.
+
+<!-- TODO: the in-game name of these pants is not translated (key RHS-Uniform_CRYE_Combat_Pants_Name is missing from the string table) -->
+
 ## Specifications
 
 | Category | Data |
