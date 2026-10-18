@@ -16,4 +16,5 @@ This section contains the general systems pages.
 | [Garmin Tactix Bravo](garmin-tactix-bravo.md) | The Garmin Tactix Bravo is a rugged, multisport GPS tactical watch engineered for military professionals, law enforcement, and outdoor adventurers. |
 | [Hearing Protection](hearing-protection.md) | Active headsets protect your hearing from gunfire and explosions. |
 | [Strobe Devices](strobe-devices.md) | Strobe marker lights show the position of a soldier, a vehicle or a point at night. |
+| [Weapon Light and Laser Devices](weapon-light-and-laser-devices.md) | Weapon lights and laser devices have their own keys. |
 | [Default Key Bindings](default-key-binds.md) | RHS contains more than a few key binds and this pages is here to give generic description of what each of them do. |

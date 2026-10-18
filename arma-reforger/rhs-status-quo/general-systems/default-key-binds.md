@@ -14,11 +14,19 @@ Default key binds for all night vision elements like for example NVG such as PVS
 
 Default key binds for RHS radial menu which is used to interact with equipment that player currently has on him.
 
-### Light Devices
+### Weapon Light and Laser Devices
 
-Default key binds for all weapon mounted  light devices such as but not limited to AN/PEQ-16.
+Keys for the lights and lasers on the weapon in your hands. See [Weapon Light and Laser Devices](weapon-light-and-laser-devices.md).
 
-<table><thead><tr><th width="186">Label</th><th width="154">Keyboard</th><th width="174">Gamepad</th><th>Description</th></tr></thead><tbody><tr><td>Toggle light device</td><td><img src="../../../.gitbook/assets/image (76).png" alt=""></td><td><img src="../../../.gitbook/assets/image (152).png" alt="" data-size="original"></td><td>Toggle currently used light devices on/off. If nothing happens, probably the mode is not set correctly.</td></tr><tr><td>Cycle through light device modes</td><td><img src="../../../.gitbook/assets/image (34).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (153).png" alt="" data-size="original"></td><td>Cycle through available modes of currently used light devices.</td></tr><tr><td>Hold to momentarily turn ON light device</td><td><img src="../../../.gitbook/assets/image (36).png" alt="" data-size="original"></td><td><img src="../../../.gitbook/assets/image (37).png" alt="" data-size="original"></td><td>Will turn ON light device when pressed and turn it OFF when released.</td></tr></tbody></table>
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Toggle light device | **`=`** | Hold **`Y`** + D-pad left (two times) | Turns the light on or off. |
+| Cycle light device modes | **`=`** (two times) | Hold **`Y`** + D-pad right (two times) | Changes the light mode. |
+| Hold to turn on light device | Hold **`=`** | Hold D-pad left | The light is on while you hold the key. |
+| Toggle laser device | **`-`** | Hold **`Y`** + D-pad left | Turns the laser on or off. |
+| Cycle laser device modes | **`-`** (two times) | Hold **`Y`** + D-pad right | Changes the laser mode. |
+| Hold to turn on laser device | Hold **`-`** | Hold D-pad right | The laser is on while you hold the key. |
+| Select weapon device | **`]`** | Hold **`Y`** + D-pad up | Selects the next device when there are two devices of the same type. |
 
 ### Hearing Protection
 
@@ -27,3 +35,77 @@ Default key bind for active headsets. See [Hearing Protection](hearing-protectio
 | Label | Keyboard | Gamepad | Description |
 | --- | --- | --- | --- |
 | Cycle hearing protection level | **`End`** | - | Sets the next level of the worn headset: Off, 1, 2, 3, 4. |
+
+### Rangefinders
+
+Keys for the Vector 21 and PDU-4 binocular rangefinders. See [Vector 21](../blufor/gadgets/vector-21.md) for all measurement procedures.
+
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Lase range | Hold **`R`** | Hold **`X`** | Measures the distance to the target. |
+| Lase azimuth | Hold **`V`** | Hold **`Y`** | Measures the azimuth to the target. |
+| Lase range and azimuth | Hold **`R`** + **`V`** | - | Measures the distance and the azimuth. |
+| Capture lased point | **`C`** | - | Marks the first point for a measurement between two points. |
+| Measure distance (scope) | **`C`** | **`X`** | Measures the distance with a scope that has a rangefinder. |
+| Measure distance (attachment) | **`I`** | **`X`** | Measures the distance with a rangefinder attachment, for example the AN/PSQ-23. |
+
+### Strobe Placement
+
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Place mode | Hold **`RMB`** | Hold **`LT`** | Shows the placement preview for a strobe. Push **`LMB`** to place it. See [Strobe Devices](strobe-devices.md). |
+
+### Vehicles
+
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Toggle turret stabilization | **`Space`** | Hold **`RB`** + **`A`** | Turns the turret stabilization on or off. |
+| Capture target (stabilization) | Hold **`Space`** | Hold **`RB`** + hold **`A`** | Keeps the turret on the target. |
+
+### Device Screens
+
+These keys work while you inspect a device with a screen, for example a GPS receiver or a radio.
+
+| Label | Keyboard | Gamepad | Description |
+| --- | --- | --- | --- |
+| Touch the screen | **`LMB`** | **`RT`** | Pushes the button under the cursor. |
+| Free look | Hold **`Left Alt`** | - | Look around while you hold the device. |
+
+#### AN/PSN-13 DAGR
+
+| Key | Button |
+| --- | --- |
+| **`1`** / **`2`** / **`3`** | F1 (zoom in) / F2 (zoom out) / F3 |
+| **`W`** **`A`** **`S`** **`D`** | Arrows |
+| **`E`** | ENTER |
+| **`Q`** | QUIT |
+| **`C`** | POS |
+| **`F`** | MENU |
+
+See [AN/PSN-13 DAGR](../blufor/gadgets/dagr.md).
+
+#### 14Ts8009 Orion
+
+| Key | Button |
+| --- | --- |
+| **`Q`** | Menu |
+| **`E`** | Enter |
+| **`Z`** | Quit |
+| **`W`** **`A`** **`S`** **`D`** | Arrows |
+| **`1`** / **`2`** | Plus / Minus |
+| **`C`** | Arrow (centre on your position) |
+| **`X`** | Power |
+
+See [14Ts8009 Orion](../redfor/gadgets/orion.md).
+
+#### AN/PRC-152
+
+| Key | Button |
+| --- | --- |
+| **`1`** to **`0`** | Number keys |
+| **`A`** / **`D`** | Left / Right |
+| **`W`** / **`S`** | A+ / A- |
+| **`E`** | Enter |
+| **`Z`** | Clear |
+
+See [AN / PRC 152](../blufor/gadgets/an-prc-152.md).

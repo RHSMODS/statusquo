@@ -44,6 +44,7 @@
     * [Garmin Tactix Bravo](arma-reforger/rhs-status-quo/general-systems/garmin-tactix-bravo.md)
     * [Hearing Protection](arma-reforger/rhs-status-quo/general-systems/hearing-protection.md)
     * [Strobe Devices](arma-reforger/rhs-status-quo/general-systems/strobe-devices.md)
+    * [Weapon Light and Laser Devices](arma-reforger/rhs-status-quo/general-systems/weapon-light-and-laser-devices.md)
     * [Default Key Bindings](arma-reforger/rhs-status-quo/general-systems/default-key-binds.md)
   * [For Developers](arma-reforger/rhs-status-quo/for-developers/README.md)
     * [Sliding Attachments](arma-reforger/rhs-status-quo/for-developers/sliding-attachments.md)

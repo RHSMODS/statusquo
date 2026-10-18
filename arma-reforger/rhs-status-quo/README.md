@@ -21,6 +21,7 @@ RHS: Status Quo is a modification for Arma Reforger. It adds the forces of the U
 | [Navigation and Positioning](general-systems/navigation-and-positioning.md) | GPS receivers (DAGR, Orion) and GPS watches. |
 | [Hearing Protection](general-systems/hearing-protection.md) | Active headsets, tinnitus and muffled hearing. |
 | [Strobe Devices](general-systems/strobe-devices.md) | Wear, throw and place IR strobes. |
+| [Weapon Light and Laser Devices](general-systems/weapon-light-and-laser-devices.md) | Separate keys for weapon lights and lasers. |
 | [RHS IR, NV and "Thermals"](general-systems/rhs-ir-and-nv.md) | Night vision and infrared devices. |
 | [Close Air Support](general-systems/close-air-support.md) | Call air strikes in Game Master. |
 | [Spectrum Device](general-systems/spectrum-device.md) | Find radio sources. |

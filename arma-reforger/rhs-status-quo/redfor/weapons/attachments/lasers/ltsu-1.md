@@ -30,3 +30,7 @@ Use these prefabs in Workbench or in your own mission/mod.
 | Prefab | Description |
 | --- | --- |
 | `{D98FE847837E0709}Prefabs/Weapons/Attachments/Lasers/aksu_ltsu/Laser_LTSU_base.et` | LTsU-A Laser Designator |
+
+## Related pages
+
+* [Weapon Light and Laser Devices](../../../../general-systems/weapon-light-and-laser-devices.md)
