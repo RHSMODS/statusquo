@@ -19,4 +19,4 @@ This section contains the weapons pages of the ION (INDFOR).
 | [VZ58V](vz58v.md) | The Vz. |
 | [MG249](mg249.md) | Overview: The M249 SAW is a 5.56x45mm NATO light machine gun that provides infantry squads with a high rate of sustained fire. |
 | [M60](m60.md) | The M60 is a belt-fed, air-cooled, gas-operated machine gun chambered in 7.62x51mm NATO, designed to provide sustained suppressive fire for infantry squads, vehicles, and support units. |
-| [vz. 52](vz-52.md) |  |
+| [vz. 52](vz-52.md) | The vz. 52 is a Czechoslovakian self-loading rifle. |
