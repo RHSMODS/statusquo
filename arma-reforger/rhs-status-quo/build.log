@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/18/2026 10:07:02 AM UTC | Revision 5255 | Soul_Assassin]
+
+[Fixed] Boonie hats with Peltors were not engaging the hearing system
+
+[Other] Test for dampening the veh engine sounds in hearing system
+
+
+
 [10/17/2026 10:38:49 PM UTC | Revision 5254 | Soul_Assassin]
 
 [Other] Hearing protection default key bind changed to END
