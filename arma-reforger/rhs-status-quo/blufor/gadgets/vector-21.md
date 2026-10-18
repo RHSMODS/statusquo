@@ -29,3 +29,7 @@ While looking through the binocular view you can perform the following actions:
 
 
 {% embed url="https://youtu.be/BA-yZCkN32Q" %}
+
+## GPS link
+
+You can send the measured target to a linked GPS receiver. Link the rangefinder on the GPS receiver, then measure the range with **`R`**. The GPS receiver shows the target data. See [AN/PSN-13 DAGR](dagr.md) and [14Ts8009 Orion](../../redfor/gadgets/orion.md).
