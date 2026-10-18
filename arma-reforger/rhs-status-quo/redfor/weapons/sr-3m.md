@@ -4,6 +4,8 @@
 First listed in the **0.6** changelog.
 {% endhint %}
 
+<figure><img src="../../../../.gitbook/assets/sr-3m-side.webp" alt="SR-3M 'Vikhr', side view"><figcaption><p>SR-3M 'Vikhr', side view</p></figcaption></figure>
+
 9×39mm special-purpose carbine. The SR-3M is a modernization of the original SR-3 'Vikhr' ('Вихрь', Russian for 'Whirlwind'), used by various Russian special operations and security units.
 
 ## Specifications

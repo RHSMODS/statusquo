@@ -4,6 +4,8 @@
 First listed in the **0.6** changelog.
 {% endhint %}
 
+<figure><img src="../../../../.gitbook/assets/mi-8mt-front.webp" alt="Mi-8MT armed transport helicopter"><figcaption><p>Mi-8MT armed transport helicopter</p></figcaption></figure>
+
 The Mi-8MT is a Soviet and Russian medium transport helicopter. RHS adds gray versions of the transport and the armed transport helicopter, based on the Arma Reforger Mi-8MT.
 
 ## Specifications

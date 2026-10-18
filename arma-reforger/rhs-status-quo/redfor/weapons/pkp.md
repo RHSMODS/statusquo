@@ -4,6 +4,8 @@
 First listed in the **0.14** changelog.
 {% endhint %}
 
+<figure><img src="../../../../.gitbook/assets/pkp-side.webp" alt="PKP, side view"><figcaption><p>PKP, side view</p></figcaption></figure>
+
 7.62×54mmR general purpose machine gun. Adopted around 2001, the PKP is a further development of the PKM, featuring improved cooling, enhanced ergonomics, and a dovetail rail for optics in later variants.
 
 ## Specifications

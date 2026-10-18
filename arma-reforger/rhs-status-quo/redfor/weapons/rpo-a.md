@@ -4,6 +4,8 @@
 First listed in the **0.6** changelog.
 {% endhint %}
 
+<figure><img src="../../../../.gitbook/assets/rpo-a-side.webp" alt="RPO-A, side view"><figcaption><p>RPO-A, side view</p></figcaption></figure>
+
 Thermobaric munition. Utilizes enhanced-blast and heat effects to destroy targets.
 
 ## Specifications
