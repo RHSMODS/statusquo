@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[10/19/2026 8:59:32 AM UTC | Revision 5258 | Soul_Assassin]
+
+[Improved] Hearing protection keybind hint now disappears after some time
+
+[Improved] Throwable strobes now defaults to smoke grenade slot instead of grenade slot
+
+[Fixed] Fixed triplex overlay not appearing in MP
+
+[Improved] Tinnutus threshold now depletes faster, half-life of 20 seconds instead of 45
+
+[Improved] Orion compass refreshes more often now
+
+
+
 [10/18/2026 5:31:59 PM UTC | Revision 5257 | ]
 
 
