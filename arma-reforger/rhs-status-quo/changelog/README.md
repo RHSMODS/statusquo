@@ -7,7 +7,50 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5260
+
+<!-- revision 5260 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5260
+
+_<mark style="color:red;">Date:</mark>_ Monday, October 19, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 1 (5259)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 0 improvements, 2 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+
+##### Fixed
+
+
+[Fixed] Callin action names were not showing in the radial
+
+[Fixed] Fixed shimmering in the character hands due to thermal model shining through
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5259
 
