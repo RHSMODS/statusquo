@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/19/2026 12:36:21 PM UTC | Revision 5259 | Soul_Assassin]
+
+[Other] Attempt to fix 2S1 network desync
+
+[Other] Attempt to fix tracked vehicle rubberbanding while driving by disabling turret physics interaction (also for the Typhoon) and and tweaking steering allowance
+
+[Other] Attempt fix vehicles hanging in the air when spawned in MP, nudge physics immediately after spawn on authority
+
+
+
 [10/19/2026 8:59:32 AM UTC | Revision 5258 | Soul_Assassin]
 
 [Improved] Hearing protection keybind hint now disappears after some time
