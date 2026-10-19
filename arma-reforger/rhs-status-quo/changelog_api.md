@@ -7,7 +7,56 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5259
+
+<!-- revision 5259 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5259
+
+_<mark style="color:red;">Date:</mark>_ Monday, October 19, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 3 (5256)
+
+_<mark style="color:red;">Changes:</mark>_ 0 additions, 4 improvements, 1 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+
+##### Improved
+
+
+[Improved] Hearing protection keybind hint now disappears after some time
+
+[Improved] Throwable strobes now defaults to smoke grenade slot instead of grenade slot
+
+[Improved] Tinnutus threshold now depletes faster, half-life of 20 seconds instead of 45
+
+[Improved] Orion compass refreshes more often now
+
+
+##### Fixed
+
+
+[Fixed] Fixed triplex overlay not appearing in MP
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5256
 
