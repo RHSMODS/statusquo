@@ -1,5 +1,49 @@
 <!-- buildlog insert -->
 
+[10/20/2026 11:55:40 PM UTC | Revision 5264 | Soul_Assassin, stoker]
+
+[Added] APS Hardkill sensor destruction (disables system when destroyed)
+
+[Added] Individual launcher reload action for APS Hardkill
+
+[Added] APS Hardkill interceptor damage (proximity to interceptor explosion now causes damage)
+
+[Improved] APS system rework
+
+[Improved] APS Hardkill/Softkill turret rotation tracking
+
+[Improved] Reformulated APS Softkill system
+
+[Improved] APS Softkill smoke charges now consume vehicle ammunition
+
+[Improved] APS Softkill automatic turret alignment towards detected threats
+
+[Improved] FCS pitch angle adjustment without moving crosshair
+
+[Improved] T-90M2 animations (procedural to Anim Graph transition and general improvements)
+
+[Improved] T-90M2 commander stabilization component
+
+[Improved] K-25 animations (procedural to Anim Graph transition and general improvements)
+
+[Added] K-25 commander
+
+[Added] K-25 Bulat Animations
+
+[Other] Fixed resource validation errors
+
+[Other] Removed orphaned RHS_APSV2Component block from T-14 (r5263)
+
+[Other] APS sensor module: skip hit zone lookup in Workbench edit mode
+
+[Other] Removed unused Weld.emat and RHS_Weld.emat from T-90M2 data
+
+[Other] Remove Old APS Component from T-14
+
+[Other] Another attempt to fix tank steering in MP
+
+
+
 [10/19/2026 7:19:33 PM UTC | Revision 5260 | Soul_Assassin]
 
 [Fixed] Callin action names were not showing in the radial
