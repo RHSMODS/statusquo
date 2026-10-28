@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[10/28/2026 3:34:27 PM UTC | Revision 5269 | Soul_Assassin]
+
+[Fixed] Fixed reload of USMC LAV -? M923 spawned now has the correct faction set so the LAV ammo should be there; fixes #1287
+
+[Fixed] Fixed reload sound event flag on all turrets; fixes #1267
+
+
+
 [10/28/2026 2:23:28 PM UTC | Revision 5268 | Soul_Assassin]
 
 [Fixed] Some fixes for the spectrum monitoring device
