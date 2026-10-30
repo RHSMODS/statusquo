@@ -1,5 +1,15 @@
 <!-- buildlog insert -->
 
+[10/30/2026 1:29:31 PM UTC | Revision 5272 | Soul_Assassin]
+
+[Improved] Improved the weapon holster component to reflect better the usage of the sidearm; fixes #1066
+
+[Fixed] Fixed T-14 collider warnings in log; fixes #1456
+
+[Fixed] Fixed FORECON/MARSOC missing equipment; fixes #1386
+
+
+
 [10/30/2026 6:28:16 AM UTC | Revision 5271 | Soul_Assassin]
 
 [Fixed] Possible fix for vehicle gunner HUD staying on the screen after death; fixes #1330
