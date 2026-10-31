@@ -7,7 +7,102 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5273
+
+<!-- revision 5273 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5273
+
+_<mark style="color:red;">Date:</mark>_ Saturday, October 31, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 12 (5261)
+
+_<mark style="color:red;">Changes:</mark>_ 5 additions, 10 improvements, 13 fixes and 0 deletions.
+{% endhint %}
+
+
+{% hint style="danger" %}
+This release is only available on **Arma: Reforger Experimental**
+{% endhint %}
+
+
+##### Added
+
+
+[Added] APS Hardkill sensor destruction (disables system when destroyed)
+
+[Added] Individual launcher reload action for APS Hardkill
+
+[Added] APS Hardkill interceptor damage (proximity to interceptor explosion now causes damage)
+
+[Added] K-25 commander
+
+[Added] K-25 Bulat Animations
+
+
+##### Improved
+
+
+[Improved] APS system rework
+
+[Improved] APS Hardkill/Softkill turret rotation tracking
+
+[Improved] Reformulated APS Softkill system
+
+[Improved] APS Softkill smoke charges now consume vehicle ammunition
+
+[Improved] APS Softkill automatic turret alignment towards detected threats
+
+[Improved] FCS pitch angle adjustment without moving crosshair
+
+[Improved] T-90M2 animations (procedural to Anim Graph transition and general improvements)
+
+[Improved] T-90M2 commander stabilization component
+
+[Improved] K-25 animations (procedural to Anim Graph transition and general improvements)
+
+[Improved] Improved the weapon holster component to reflect better the usage of the sidearm; fixes [#1066](https://github.com/RHSMODS/statusquo/issues/1066)
+
+
+##### Fixed
+
+
+[Fixed] Missing SCR_EditableVehicleUIInfo on various vehicle prefabs
+
+[Fixed] Hardkill APS launcher selection incorrectly excluding the last available launcher
+
+[Fixed] Fixed error in K4386 sound files; fixes [#1333](https://github.com/RHSMODS/statusquo/issues/1333)
+
+[Fixed] Fixed Berezhok missiles; fixes [#1315](https://github.com/RHSMODS/statusquo/issues/1315)
+
+[Fixed] Some fixes for the spectrum monitoring device
+
+[Fixed] Fixed reload of USMC LAV -? M923 spawned now has the correct faction set so the LAV ammo should be there; fixes [#1287](https://github.com/RHSMODS/statusquo/issues/1287)
+
+[Fixed] Fixed reload sound event flag on all turrets; fixes [#1267](https://github.com/RHSMODS/statusquo/issues/1267)
+
+[Fixed] Bumped 3UBR6 init speed to try to get rid of the over spalling in tanks at short distances; temporary fix for [#1469](https://github.com/RHSMODS/statusquo/issues/1469)
+
+[Fixed] Possible fix for vehicle gunner HUD staying on the screen after death; fixes [#1330](https://github.com/RHSMODS/statusquo/issues/1330)
+
+[Fixed] Fixed possible crash with whip antenna script on vehicle destruction.
+
+[Fixed] Fixed T-14 collider warnings in log; fixes [#1456](https://github.com/RHSMODS/statusquo/issues/1456)
+
+[Fixed] Fixed FORECON/MARSOC missing equipment; fixes [#1386](https://github.com/RHSMODS/statusquo/issues/1386)
+
+[Fixed] Overlapping issues on Bagari and Taktika vest colliders
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5261
 
