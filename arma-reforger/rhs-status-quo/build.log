@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/3/2026 3:25:40 PM UTC | Revision 5276 | Soul_Assassin]
+
+[Fixed] RPO-A: rocket now hits the point of aim with the front post centred in the peep hole at all sight ranges; fixes #1148
+
+[Fixed] SMAW: R now unloads a loaded rocket; fixes #1154
+
+[Improved] Tweaks to 1P87 aiming; fixes #1158
+
+[Fixed] 1P87 with 1PN138: night vision no longer zooms, eyepiece size and brightness control corrected; fixes #819
+
+[Improved] AI aiming tables for 9x39 SP5 and SP6 regenerated from the engine ballistics
+
+
+
 [11/2/2026 12:38:36 PM UTC | Revision 5275 | Cyborgmatt]
 
 [Other] Revert r5273
