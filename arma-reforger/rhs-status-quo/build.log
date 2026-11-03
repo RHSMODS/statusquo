@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/3/2026 7:08:06 PM UTC | Revision 5277 | Soul_Assassin]
+
+[Added] Flip-up iron sights (M27/M38, RPG-7, HK416, MBUS, KAC, Matech) fold automatically when an optic is attached and unfold when it is removed; weapons spawned with an optic have them folded (not in preview); fixes #1377
+
+
+
 [11/3/2026 3:25:40 PM UTC | Revision 5276 | Soul_Assassin]
 
 [Fixed] RPO-A: rocket now hits the point of aim with the front post centred in the peep hole at all sight ranges; fixes #1148
