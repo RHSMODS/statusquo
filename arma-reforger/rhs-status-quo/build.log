@@ -1,5 +1,9 @@
 <!-- buildlog insert -->
 
+[11/4/2026 6:53:50 PM UTC | Revision 5278 | ]
+
+
+
 [11/3/2026 7:08:06 PM UTC | Revision 5277 | Soul_Assassin]
 
 [Added] Flip-up iron sights (M27/M38, RPG-7, HK416, MBUS, KAC, Matech) fold automatically when an optic is attached and unfold when it is removed; weapons spawned with an optic have them folded (not in preview); fixes #1377
