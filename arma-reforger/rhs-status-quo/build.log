@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/4/2026 6:58:39 PM UTC | Revision 5279 | Cyborgmatt]
+
+[Fixed] Null pointer in RHS_SwitchNearbyIRLights from deleted devices
+
+
+
 [11/4/2026 6:53:50 PM UTC | Revision 5278 | ]
 
 
