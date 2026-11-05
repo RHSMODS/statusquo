@@ -7,7 +7,181 @@ description: >-
 # Changelog
 
 <!-- reset point -->
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<!-- changelog insert -->
+
+## 0.17.5281
+
+<!-- revision 5281 -->
+
+{% hint style="info" %}
+### **Release Meta Information**
+
+_<mark style="color:red;">Built from Revision:</mark>_ 5281
+
+_<mark style="color:red;">Date:</mark>_ Thursday, November 5, 2026
+
+_<mark style="color:red;">Revisions Since Last:</mark>_ 44 (5237)
+
+_<mark style="color:red;">Changes:</mark>_ 11 additions, 31 improvements, 28 fixes and 0 deletions.
+{% endhint %}
+
+
+##### Added
+
+
+[Added] Added magazine repacking
+
+[Added] Helstar, MS2000 and VIP strobes can now also be thrown or placed on objects (equip into grenade slot, LMB to throw, RMB then LMB to place); fixes [#403](https://github.com/RHSMODS/statusquo/issues/403); fixes [#775](https://github.com/RHSMODS/statusquo/issues/775)
+
+[Added] Ability to toggle light and laser devices on a weapon independently through own keybinds (= and - by default, doubletap for mode switch, switch between similar type with ]), with small UI indicators; fixes [#1344](https://github.com/RHSMODS/statusquo/issues/1344)
+
+[Added] Hearing protection system for active headphones, use H to toggle volume level. Unprotected will accelerate Tinnitus
+
+[Added] You can now connect Vector 21 to DAGR and transfer target details
+
+[Added] APS Hardkill sensor destruction (disables system when destroyed)
+
+[Added] Individual launcher reload action for APS Hardkill
+
+[Added] APS Hardkill interceptor damage (proximity to interceptor explosion now causes damage)
+
+[Added] K-25 commander
+
+[Added] K-25 Bulat Animations
+
+[Added] Flip-up iron sights (M27/M38, RPG-7, HK416, MBUS, KAC, Matech) fold automatically when an optic is attached and unfold when it is removed; weapons spawned with an optic have them folded (not in preview); fixes [#1377](https://github.com/RHSMODS/statusquo/issues/1377)
+
+
+##### Improved
+
+
+[Improved] Moved K17 to new 1.9 wheeled setup
+
+[Improved] K17 wheels should be more on par with Typhoon with respect to absorbing bullets
+
+[Improved] Moved K4386 to new 1.9 wheeled setup
+
+[Improved] Moved 2S1 to new 1.9 wheeled setup
+
+[Improved] Moved T14 to new 1.9 wheeled setup
+
+[Improved] Moved T90 to new 1.9 wheeled setup
+
+[Improved] Moved K25 to new 1.9 wheeled setup
+
+[Improved] Improved tracked vehicle handling
+
+[Improved] Marine RTOs now equipped with FILBE radio backpacks and Vector 21.
+
+[Improved] RHS_RadioSourceComponents are now properly cleaned up between sessions; fixes [#1475](https://github.com/RHSMODS/statusquo/issues/1475)
+
+[Improved] Finalized DAGR navigation functionality, navigation to WPs and through Routes now possible
+
+[Improved] Tweaked hearing protection with regard to distant shots, speed of sound taken into account
+
+[Improved] Tinnitus stepping a bit more smooth and more clear ringing
+
+[Improved] Finalize Orion functionality with regards to navigation. Can connect PDU-4 to it to get target information.
+
+[Improved] Hearing protection keybind hint now disappears after some time
+
+[Improved] Throwable strobes now defaults to smoke grenade slot instead of grenade slot
+
+[Improved] Tinnutus threshold now depletes faster, half-life of 20 seconds instead of 45
+
+[Improved] Orion compass refreshes more often now
+
+[Improved] APS system rework
+
+[Improved] APS Hardkill/Softkill turret rotation tracking
+
+[Improved] Reformulated APS Softkill system
+
+[Improved] APS Softkill smoke charges now consume vehicle ammunition
+
+[Improved] APS Softkill automatic turret alignment towards detected threats
+
+[Improved] FCS pitch angle adjustment without moving crosshair
+
+[Improved] T-90M2 animations (procedural to Anim Graph transition and general improvements)
+
+[Improved] T-90M2 commander stabilization component
+
+[Improved] K-25 animations (procedural to Anim Graph transition and general improvements)
+
+[Improved] Improved the weapon holster component to reflect better the usage of the sidearm; fixes [#1066](https://github.com/RHSMODS/statusquo/issues/1066)
+
+[Improved] Tweaked SR-3M ammo and iron sights; fixes [#1151](https://github.com/RHSMODS/statusquo/issues/1151)
+
+[Improved] Tweaks to 1P87 aiming; fixes [#1158](https://github.com/RHSMODS/statusquo/issues/1158)
+
+[Improved] AI aiming tables for 9x39 SP5 and SP6 regenerated from the engine ballistics
+
+
+##### Fixed
+
+
+[Fixed] Fixed various GM-94 related issues; fixes [#1467](https://github.com/RHSMODS/statusquo/issues/1467)
+
+[Fixed] Fixed some AK optic rail offsets; fixes [#1472](https://github.com/RHSMODS/statusquo/issues/1472)
+
+[Fixed] LBT-1961 now blocks pouch slot; fixes [#1470](https://github.com/RHSMODS/statusquo/issues/1470)
+
+[Fixed] Fixed missing fonts in Vector 21
+
+[Fixed] Fixed Garmin and AN PRC152 render to texture targets not working in 1.9
+
+[Fixed] Tinnutus no longer affects you if you are not in a living body
+
+[Fixed] Boonie hats with Peltors were not engaging the hearing system
+
+[Fixed] Fixed triplex overlay not appearing in MP
+
+[Fixed] Callin action names were not showing in the radial
+
+[Fixed] Fixed shimmering in the character hands due to thermal model shining through
+
+[Fixed] Missing SCR_EditableVehicleUIInfo on various vehicle prefabs
+
+[Fixed] Hardkill APS launcher selection incorrectly excluding the last available launcher
+
+[Fixed] Fixed error in K4386 sound files; fixes [#1333](https://github.com/RHSMODS/statusquo/issues/1333)
+
+[Fixed] Fixed Berezhok missiles; fixes [#1315](https://github.com/RHSMODS/statusquo/issues/1315)
+
+[Fixed] Some fixes for the spectrum monitoring device
+
+[Fixed] Fixed reload of USMC LAV -? M923 spawned now has the correct faction set so the LAV ammo should be there; fixes [#1287](https://github.com/RHSMODS/statusquo/issues/1287)
+
+[Fixed] Fixed reload sound event flag on all turrets; fixes [#1267](https://github.com/RHSMODS/statusquo/issues/1267)
+
+[Fixed] Bumped 3UBR6 init speed to try to get rid of the over spalling in tanks at short distances; temporary fix for [#1469](https://github.com/RHSMODS/statusquo/issues/1469)
+
+[Fixed] Possible fix for vehicle gunner HUD staying on the screen after death; fixes [#1330](https://github.com/RHSMODS/statusquo/issues/1330)
+
+[Fixed] Fixed possible crash with whip antenna script on vehicle destruction.
+
+[Fixed] Fixed T-14 collider warnings in log; fixes [#1456](https://github.com/RHSMODS/statusquo/issues/1456)
+
+[Fixed] Fixed FORECON/MARSOC missing equipment; fixes [#1386](https://github.com/RHSMODS/statusquo/issues/1386)
+
+[Fixed] Overlapping issues on Bagari and Taktika vest colliders
+
+[Fixed] RPO-A: rocket now hits the point of aim with the front post centred in the peep hole at all sight ranges; fixes [#1148](https://github.com/RHSMODS/statusquo/issues/1148)
+
+[Fixed] SMAW: R now unloads a loaded rocket; fixes [#1154](https://github.com/RHSMODS/statusquo/issues/1154)
+
+[Fixed] 1P87 with 1PN138: night vision no longer zooms, eyepiece size and brightness control corrected; fixes [#819](https://github.com/RHSMODS/statusquo/issues/819)
+
+[Fixed] Null pointer in RHS_SwitchNearbyIRLights from deleted devices
+
+[Fixed] NVG illuminator null camera handler
+
+
+##### Deleted
+
+
+
 
 ## 0.17.5273
 
