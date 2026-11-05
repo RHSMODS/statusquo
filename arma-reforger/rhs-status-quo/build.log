@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/5/2026 11:58:34 AM UTC | Revision 5280 | Cyborgmatt]
+
+[Fixed] NVG illuminator null camera handler
+
+
+
 [11/4/2026 6:58:39 PM UTC | Revision 5279 | Cyborgmatt]
 
 [Fixed] Null pointer in RHS_SwitchNearbyIRLights from deleted devices
