@@ -1,5 +1,37 @@
 <!-- buildlog insert -->
 
+[11/9/2026 3:58:48 PM UTC | Revision 5290 | Soul_Assassin]
+
+[Added] AKM metal magazines with 57N231, 57N231 1989, 57N231U, 57T231P, 7N23 and 57BZ231 loads
+
+[Fixed] AKM metal magazine: own name and correct ammo type
+
+[Improved] AK-103 and AK-104: muzzle slot accepts only 7.62x39 devices
+
+[Added] 7.62x39 versions of the 6P20, 6P44, DTK-1 and DTK-2 muzzle brakes
+
+[Other] Try fix the xob mapping error on AKM dust cover
+
+[Other] AKM: correct name and magazine well, now loads 7.62x39 magazines
+
+[Other] AKM: removed fold stock action and animation
+
+[Other] AKM: uses the 7.62x39 firing sound
+
+[Other] AKM: muzzle slot accepts only 7.62x39 devices
+
+[Other] AKM B10 variants: side and top rails now slide with correct limits, PDC rail limits fixed
+
+[Other] Names and descriptions for AKMN and the AKM metal magazine
+
+[Other] AKM, AKMN and B10 variants added to the MSV arsenal
+
+[Other] PBS-1 (for now with standin model) suppressor for 7.62x39 rifles
+
+[Other] PBS-1 and 7.62x39 muzzle brakes added to the MSV arsenal
+
+
+
 [11/9/2026 6:24:53 AM UTC | Revision 5288 | Soul_Assassin]
 
 [Other] Fix some AKM colliders
