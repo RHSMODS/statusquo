@@ -9,6 +9,7 @@ This section contains the weapons pages of the Russian forces (REDFOR).
 | [Attachments](attachments/README.md) | Pages: Optics, Lasers. |
 | [SP-81](sp-81.md) | 26×75mm signal pistol. |
 | [APS](aps.md) | 9×18mm select-fire pistol. |
+| [AKM](akm.md) | 7.62×39mm assault rifle. |
 | [AK-74M](ak-74m.md) | 5.45×39mm assault rifle. |
 | [AKS-74UN](aks-74un.md) | 5.45×39mm compact carbine. |
 | [RPK-74M](rpk-74m.md) | The RPK-74M is a Russian-designed light machine gun (LMG) or squad automatic weapon (SAW) developed as an improved version of the RPK-74, itself derived from the AK-74 assault rifle. |
@@ -19,3 +20,4 @@ This section contains the weapons pages of the Russian forces (REDFOR).
 | [MP-443](mp-443.md) | 9×19mm semi-automatic pistol. |
 | [PKP](pkp.md) | 7.62×54mmR general purpose machine gun. |
 | [RPO-A](rpo-a.md) | Thermobaric munition. |
+| [SV-98](sv-98.md) | 7.62×54mmR bolt-action sniper rifle. |

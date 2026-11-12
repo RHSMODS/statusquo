@@ -26,6 +26,10 @@ The item is available in these versions:
 * AK-74M (B30U/B19N)
 * AK-74M (B30U/B31N)
 
+## Related pages
+
+* [AKM](akm.md)
+
 ## Prefabs
 
 {% hint style="info" %}
