@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/14/2026 3:13:03 PM UTC | Revision 5303 | stoker]
+
+[Other] Fix T-90M APS Sensor Prefab
+
+
+
 [11/14/2026 1:29:04 PM UTC | Revision 5302 | stoker]
 
 [Other] The autoloader now selects a random ammunition type once the current type runs out.
