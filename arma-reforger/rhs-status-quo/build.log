@@ -1,5 +1,75 @@
 <!-- buildlog insert -->
 
+[11/14/2026 8:22:14 AM UTC | Revision 5300 | stoker]
+
+[Added] T-90M added to vehicle catalog
+
+[Added] T-90M Autoloader
+
+[Added] T-90M Sosna-U / Kalina sights
+
+[Added] T-90M interactive PMF screens (PlaceHolder)
+
+[Added] RITA voice warning integration with APS, MWS, Hunter-Killer, and other T-90M systems
+
+[Added] New 125mm ammo models, cosmetic rounds and propellant charges ()
+
+[Improved] ASC target box
+
+[Improved] Thermal gain and pixelation filters now configurable with zoom level
+
+[Improved] Turret stabilization can now cancel hull motion from firing (opt-in per vehicle)
+
+[Improved] New Component to simulate fake vehicle motion physics
+
+[Fixed] Firing now detects APFSDS ammunition for sabot/fin particles
+
+[Fixed] Possible fix for player view getting stuck on MFD/PMF screens
+
+[Fixed] MFD/PMF screens now work on attached turrets
+
+[Fixed] T-90M ERA tiles were indestructible / side ERA stayed on the wreck
+
+[Fixed] Hunter-Killer marker leaking outside the Kalina lens / showing as a dot
+
+[Fixed] Crash with null muzzle in weapon recoil component
+
+[Other] Fix itens from commit r5299
+
+[Other] RHS_VehicleTouchScreenAction: Look action is now a toggle, prevents players getting stuck in PMF/MFD view.
+
+[Other] RHS_M_CharacterCameraHandlerComponent: optional delay in RHS_IsCanSwitch, used by the screen toggle fix.
+
+[Other] RHS_VehicleTurretScreensControllerComponent / RHS_VehicleScreensControllerComponent: screens on turrets now register, fixes black PMF screens and a null crash.
+
+[Other] RHS_TurretStabilizationComponent: optional hull motion rejection, fixes ADS sight lag after firing.
+
+[Other] RHS_WeaponRecoilComponent: fixes null muzzle crash, ignores autoloader ammo swap as a shot.
+
+[Other] RHS_FCSComponent: rangefinder paused during autoloader reload.
+
+[Other] RHS_MuzzleEffectComponent: optional APFSDS sabot fin particle.
+
+[Other] RHS_TurretGunLimitsComponent: added traverse speed / lag getters.
+
+[Other] RHS_VehicleThermalComponent / RHS_2DSightsComponentV3: thermal gain and zoom pixelation, fixes thermal staying on in 3rd person.
+
+[Other] RHS_SightDistanceInfo / RHS_SightStabilizationInfo / RHS_SightGunStateInfo: own rangefinder support, FCS lookup fix, ammo depleted voice line.
+
+[Other] RHS_APSHardkillComponent / RHS_APSSensorComponent / RHS_APSSensorModuleComponent: RITA voice lines and sensor failure warning.
+
+[Other] RHS_STKHardkillVehicleAction / RHS_STKSoftkillVehicleAction: find APS on the turret.
+
+[Other] RHS_GuidedWeaponStationComponent: optional required chambered ammo for guidance.
+
+[Other] RHS_HunterKillerV2_VehicleComponent / PlayerComponent: max marks setting, optional legacy overlay, RITA line.
+
+[Other] RHS_STKVehicleMenuItemsComponent / RHS_STKInvoicerVehicleAction / RHS_STKVisionActions: autoloader ammo category, RITA mute, thermal filter switch.
+
+[Other] RHS_T90MAnimationsComponent: driver controls use native graph variables, fixes crew get-in teleport.
+
+
+
 [11/14/2026 3:44:05 AM UTC | Revision 5298 | gurdy]
 
 [Other] Added PT_BR localization table
