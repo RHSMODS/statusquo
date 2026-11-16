@@ -1,5 +1,19 @@
 <!-- buildlog insert -->
 
+[11/16/2026 7:05:55 PM UTC | Revision 5307 | stoker]
+
+[Added] Added radial menu functionality for the commander to deploy smoke screens.
+
+[Other] Fixed the rotation of the probe on the T-90M turret.
+
+[Other] Added the PKPAN widget to the T-90M commander’s 2D sight.
+
+[Other] Fixed the rotation of the internal turret lighting on the T-90M.
+
+[Other] Reinstated smoke grenades on the T-90M turret.
+
+
+
 [11/16/2026 4:51:42 PM UTC | Revision 5306 | pgshka]
 
 [Other] Anprc152: frequency resolution step setting
