@@ -1,5 +1,13 @@
 <!-- buildlog insert -->
 
+[11/18/2026 9:26:21 PM UTC | Revision 5310 | Soul_Assassin]
+
+[Improved] Status indicators (hearing protection, weapon light/laser): new Insert / RB+D-pad right shortcut to hide and show them, with a brief hint; fixes #1479
+
+[Improved] Radial menu keybind hint now hides 10 seconds after it appears
+
+
+
 [11/18/2026 8:48:16 AM UTC | Revision 5309 | stoker]
 
 [Other] PkpPan update Boot Animation
