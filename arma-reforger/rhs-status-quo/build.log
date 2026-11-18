@@ -1,5 +1,11 @@
 <!-- buildlog insert -->
 
+[11/18/2026 10:14:06 PM UTC | Revision 5311 | Soul_Assassin]
+
+[Fixed] Weapon lights and lasers: switch click is now 3D for other players, about 20 dB quieter (matches the vanilla fire mode switch) and no longer plays when a player with a light comes into range; fixes #1480
+
+
+
 [11/18/2026 9:26:21 PM UTC | Revision 5310 | Soul_Assassin]
 
 [Improved] Status indicators (hearing protection, weapon light/laser): new Insert / RB+D-pad right shortcut to hide and show them, with a brief hint; fixes #1479
